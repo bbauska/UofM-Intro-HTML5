@@ -10,11 +10,12 @@ output:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of intro-html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./assets/images/image001.png" 
+  <img src="./images/images/image001.png" 
   alt="Introduction to HTML5."
   style="border: 2px solid #000000;" 
   width="50%" />
 </p>
+
 # Introduction to HTML5
 ###### (by Colleen van Lent, PhD - University of Michigan)
 
