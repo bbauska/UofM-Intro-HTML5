@@ -19,7 +19,7 @@ output:
 # Introduction to HTML5
 ###### (by Colleen van Lent, PhD - University of Michigan)
 
-# Week 1: Learning about the Web {#week-1-learning-about-the-web .unnumbered}
+# Week 1: Learning about the Web
 
 This week we will uncover the \"mystery\" behind the Internet. What
 happens when you type a URL into your browser so that a webpage
@@ -27,7 +27,7 @@ magically appears? What is HTML5 and what happened to HTML 1 - 4? We
 will also cover some practical concepts that you need to master before
 you begin coding your own pages.
 
-## Learning Objectives {#learning-objectives .unnumbered}
+## Learning Objectives
 
 -   Use a validator to evaluate their code.
 
@@ -43,7 +43,7 @@ you begin coding your own pages.
 
 -   Describe how and why HTML has changed.
 
-## Course Syllabus {#course-syllabus .unnumbered}
+## Course Syllabus
 
 Welcome to Introduction to HTML5. This course is an introduction to how
 web pages are created, sent across the Internet, and viewed on your
@@ -92,7 +92,7 @@ reference. However, upon completion of this course you will be ready to
 take the next course in this Web Design for Everybody Specialization,
 Introduction to CSS3.
 
-## **Participation Strategies** {#participation-strategies .unnumbered}
+## **Participation Strategies**
 
 Engaged learning looks different for everybody. In this course, we hope
 you will define your own measures of success and engage with the
@@ -104,7 +104,7 @@ your own goals. While the course provides time estimates for completion,
 you should feel empowered to engage in the material in whatever ways
 make sense to you.
 
-## **Community Engagement** {#community-engagement .unnumbered}
+## **Community Engagement**
 
 We expect everyone to be mindful of what they say and its potential
 impact on others. The goal is to have respectful discussions that do not
@@ -138,9 +138,9 @@ to an outside study group mentioning the course and claiming to have any
 official connection to U-M or individual instructors, please exercise
 caution as this may be an attempted scam.
 
-## **Assessments and Grading** {#assessments-and-grading .unnumbered}
+## **Assessments and Grading**
 
-## **Weekly Quizzes** {#weekly-quizzes .unnumbered}
+## **Weekly Quizzes**
 
 Each week will include a graded quiz. These quizzes are intended to
 reinforce your confidence in the material, not \"trick\" you. As often
@@ -149,7 +149,7 @@ reading. You can take the quizzes as many times as you like, but there
 is a limit on how many times you can take each quiz in a certain time
 period.
 
-### **Final Project: Peer Review Assignment** {#final-project-peer-review-assignment .unnumbered}
+### **Final Project: Peer Review Assignment**
 
 This course will culminate in the creation of an HTML document. You will
 be provided with an example document and asked to style it. This will
@@ -160,7 +160,7 @@ We will be peer grading this assignment which means that you will grade
 the code created by your fellow students and they will grade yours. But
 don\'t worry, we all want each other to succeed in my courses!
 
-## **Academic Honesty** {#academic-honesty .unnumbered}
+## **Academic Honesty**
 
 All submitted work should be your own and academic dishonesty is not
 allowed. Academic dishonesty can be defined as:
@@ -177,12 +177,12 @@ allowed. Academic dishonesty can be defined as:
     edit your work and submitting that work as your own, unless you were
     instructed to use AI as part of the assignment
 
-## **Tips for Success** {#tips-for-success .unnumbered}
+## **Tips for Success**
 
 This course assumes absolutely no previous knowledge. In each module you
 will be asked to do the following:
 
-### Watch video lectures {#watch-video-lectures .unnumbered}
+### Watch video lectures
 
 The information has been broken down into pieces to help you learn the
 material in the smallest chunks that still give you enough information
@@ -191,7 +191,7 @@ to these during any time you have. You will find that some of the videos
 have material that makes sense to you at once. Sometimes you may want to
 replay other videos to clarify the material. 
 
-## Code with video lectures {#code-with-video-lectures .unnumbered}
+## Code with video lectures
 
 Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
@@ -201,7 +201,7 @@ put these videos in so that you have something specific to practice. It
 is also a great way for you to see how often I mess up when I am
 coding!!
 
-## Change the video speed to one that works best for you {#change-the-video-speed-to-one-that-works-best-for-you .unnumbered}
+## Change the video speed to one that works best for you
 
 You may find that you can speed the videos up and still retain the
 information. On the other hand, my mom is always telling me I talk too
@@ -209,7 +209,7 @@ quickly so you may want to slow the videos down. The important thing is
 to find something that works well for you. Use the in-­video quizzes to
 help you gauge how your learning is going.
 
-## Readings & optional materials {#readings-optional-materials .unnumbered}
+## Readings & optional materials
 
 Each week will include reading material. It is impossible to learn
 everything you need to learn just by listening to the lectures. Some of
@@ -223,7 +223,7 @@ required for the quizzes, but rather provide additional ways for you to
 branch out and learn more about the history of the field or the emerging
 ideas.
 
-## **Course Support** {#course-support .unnumbered}
+## **Course Support**
 
 Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
@@ -236,7 +236,7 @@ course team members. For technical help please contact the [Coursera
 Learner Help Center](https://learner.coursera.help/hc/en-us) support
 forums.
 
-## **Accessibility ** {#accessibility .unnumbered}
+## **Accessibility **
 
 We are committed to developing accessible learning experiences for the
 widest possible audience. We recognize that learners with disabilities
@@ -258,7 +258,7 @@ ensure you are able to participate. In such cases, we may contact you
 for additional information as we investigate ways of removing
 accessibility barriers or to suggest accessible alternatives.
 
-## **Diversity, Equity, and Inclusion** {#diversity-equity-and-inclusion .unnumbered}
+## **Diversity, Equity, and Inclusion**
 
 **We welcome all learners to this course.** People like you are joining
 from all over the world and we value this diversity. We strive to create
@@ -270,7 +270,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you. 
 
-## **Technology ** {#technology .unnumbered}
+## **Technology **
 
 Below is a list of technologies that you will use to participate in this
 course. I recommend that you spend time reading the brief description of
@@ -278,7 +278,7 @@ each technology before jumping into the course. By doing this, you will
 have a better idea of what to expect and can create a plan for how you
 will approach taking this course. 
 
-## Coursera platform {#coursera-platform .unnumbered}
+## Coursera platform
 
 If you are new to Coursera and you want to familiarize yourself with the
 platform, read the [Help Articles in Coursera Help
@@ -287,7 +287,7 @@ This is a good resource where you can find answers to many basic
 questions such as how to adjust video settings, how to submit
 assignments, and how to gain a course certificate. 
 
-## Gamut Tools {#gamut-tools .unnumbered}
+## Gamut Tools
 
 This course uses a sharing tool called the Gamut Gallery. Throughout the
 course you will be asked by your instructor to create your own work
@@ -298,7 +298,7 @@ other learners about their work. It will appear as an item titled,
 our courses, please see the Center for Academic Innovation's [Software
 Terms of Service](https://ai.umich.edu/software-tos/).
 
-### Replit {#replit .unnumbered}
+### Replit
 
 In this course we will assume that students will use
 [Replit](https://replit.com/~) to host their code. Replit is an online
@@ -307,7 +307,7 @@ Once you get the hang of using Replit you will be able to easily share
 your code and your deployed website sites with your family and peers.
 However, students may choose other hosting options if they prefer.
 
-## Sublime & Visual Studio Code {#sublime-visual-studio-code .unnumbered}
+## Sublime & Visual Studio Code
 
 If students choose not to use Replit, they will want to have an editor
 to create their code.  Two common editors that you will see used in this
@@ -316,7 +316,7 @@ course and by others are [Sublime](https://www.sublimetext.com/3) and
 VSCode).  Both of these programs are free to download and use and there
 are also many online tutorials available to help learn the software.
 
-## Hosting {#hosting .unnumbered}
+## Hosting
 
 Replit has free [hosting](https://docs.replit.com/category/hosting)
 built-in -- they will often refer to it as \"sharing your repl.\"  There
@@ -324,7 +324,7 @@ are other free hosting services as well, including using [Github
 Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
 
-## 1.01 Introduction to HTML5 (9:23) {#introduction-to-html5-923 .unnumbered}
+## 1.01 Introduction to HTML5 (9:23)
 
 ![](./images/image003.png)
 
@@ -516,9 +516,9 @@ to go work with somebody else to help make their code more accessible, I
 would be thrilled with that. Welcome to the course and I hope you have a
 lot of fun as you learn more about HTML5.
 
-## Required Course Materials {#required-course-materials .unnumbered}
+## Required Course Materials
 
-### Textbooks {#textbooks .unnumbered}
+### Textbooks
 
 It is really difficult to find a textbook that focuses on just the
 basics. In the past I used a textbook that covered too many \"extras\".
@@ -546,7 +546,7 @@ existing HTML code and see (immediately) what it does. So if you would
 like the ability to write and test snippets of code, this is a good
 resource. Don\'t forget that you still need to validate your code.
 
-### Software {#software .unnumbered}
+### Software
 
 The **preferred** way to code in this class is editor software (Notepad,
 TextWrangler, Sublime, etc). Recently I have been using [Visual Studio
@@ -554,7 +554,7 @@ Code](https://code.visualstudio.com/download) and I really like it. The
 software is free and works on most types of computers. If you are a paid
 learner you will want to use [Replit](https://replit.com/).
 
-# Optional Course Resources {#optional-course-resources .unnumbered}
+# Optional Course Resources
 
 The textbook I link to throughout the course has nice, short chapters
 that go well with nice short lectures. These other (free) online
@@ -562,7 +562,7 @@ resources are just as good if not maybe even a little better in some
 cases. So feel free to read them now or at the end of the class to help
 reinforce what you learn over the next few weeks.
 
-### Codecademy - *Optional and more of a long-term prospect* {#codecademy---optional-and-more-of-a-long-term-prospect .unnumbered}
+### Codecademy - *Optional and more of a long-term prospect*
 
 If you are looking for even more hands-on practice many people use the
 [Codecademy](https://www.codecademy.com/) website. This site awards
@@ -571,7 +571,7 @@ required***. My advice is to make sure you are doing more than just
 trying to \"get through,\" and focusing on the concepts that you are
 practicing.
 
-### HTML files from lectures {#html-files-from-lectures .unnumbered}
+### HTML files from lectures
 
 At the site linked below, you will find html files discussed in the
 lecture videos.
@@ -582,7 +582,7 @@ Files with all the code and other text discussed in the videos are
 available in the resources section of the course. These are available in
 pdf and docx format.
 
-### Lecture Slides {#lecture-slides .unnumbered}
+### Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
@@ -591,21 +591,21 @@ from the videos since I like to update the slides when things change.
 For instance, when I first created this course Internet Explorer was a
 very popular browser. It has been replaced by Edge. 
 
-[Week 1 Lecture Slides.pdf]{.underline}
+[Week 1 Lecture Slides.pdf]
 
-[PDF File]{.underline}
+[PDF File]
 
-[Week 2 Lecture Slides.pdf]{.underline}
+[Week 2 Lecture Slides.pdf]
 
-[PDF File]{.underline}
+[PDF File]
 
-[Week 3 Lecture Slides.pdf]{.underline}
+[Week 3 Lecture Slides.pdf]
 
-[PDF File]{.underline}
+[PDF File]
 
-## Resources {#resources .unnumbered}
+## Resources
 
-### Lecture Slides {#lecture-slides-1 .unnumbered}
+### Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
@@ -614,13 +614,13 @@ from the videos since I like to update the slides when things change.
 
 ### 1.01-Week1-Lecture-Slides.pdf
 
-### [Week 1 Lecture Slides.pdf]{.underline} {#week-1-lecture-slides.pdf .unnumbered}
+### [Week 1 Lecture Slides.pdf]
 
-### [PDF File]{.underline} {#pdf-file .unnumbered}
+### [PDF File]
 
-###  {#section .unnumbered}
+###
 
-## Code {#code .unnumbered}
+## Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -631,7 +631,7 @@ Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week\'s lessons.
 
-## 1.02 The Evolution of HTML (9:36) {#the-evolution-of-html-936 .unnumbered}
+## 1.02 The Evolution of HTML (9:36)
 
 Hi. Today we\'re going to be talking about HTML5. Specifically what it
 is, and why we aren\'t learning HTML1 instead. So what is HTML? HTML
@@ -769,7 +769,7 @@ it. So, this is why we\'re developing new standards in HTML5 to handle
 these new requirements that people desire and push browsers to adopt the
 new standards.
 
-## 1.03 How it Works: The "Magic" of Page Requests (9:06) {#how-it-works-the-magic-of-page-requests-906 .unnumbered}
+## 1.03 How it Works: The "Magic" of Page Requests (9:06)
 
 Today, let\'s talk about the request-response cycle or basically what
 happens when you type something into the address bar of your browser.
@@ -885,7 +885,7 @@ communication between the client and the server. So, we\'re going to
 start off small. We\'re going to do one file at a time, but you can
 always look ahead to building bigger and bigger web applications.
 
-# Browsers {#browsers .unnumbered}
+# Browsers
 
 Browsers are constantly changing. Changing so much that it is difficult
 to keep up with all of the changes once you pick a favorite. Myself? I
@@ -906,7 +906,7 @@ Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
 
-## 1.04 Looking at Your Browser Options (5:25) {#looking-at-your-browser-options-525 .unnumbered}
+## 1.04 Looking at Your Browser Options (5:25)
 
 One of the things that you might notice is that there are a lot of
 different options for how you can view web pages, and these different
@@ -979,7 +979,7 @@ Chrome, as many different browsers as you can. Not only will it make
 your site better, but it will be a little bit interesting for you as you
 can look at the different ways that HTML5 is supported.
 
-## 1.05 Editors: How to Use an Editor to Create an HTML File (10:11) {#editors-how-to-use-an-editor-to-create-an-html-file-1011 .unnumbered}
+## 1.05 Editors: How to Use an Editor to Create an HTML File (10:11)
 
 One of the things that you\'re going to learn about making your web
 pages is that once in a while, you have to bite the bullet and stop
@@ -1108,7 +1108,7 @@ family all across the country and all across the world. But wherever you
 feel most comfortable, pick one, maybe two editors. And that\'s what
 you\'re going to want to focus on and really become a pro.
 
-## 1.06 Editors: How to Use VS Code (6:24) {#editors-how-to-use-vs-code-624 .unnumbered}
+## 1.06 Editors: How to Use VS Code (6:24)
 
 Let\'s talk about how to use Visual Studio code. Once you open up Visual
 Studio Code, it\'s not unusual to be overwhelmed at first as to what you
@@ -1185,7 +1185,7 @@ up and use proper naming conventions. If you would like, you can install
 multiple files, multiple images, and lots of things that is going to
 make your webpage look amazing.
 
-### Editors: How to use VS Code {#editors-how-to-use-vs-code .unnumbered}
+### Editors: How to use VS Code
 
 We highly recommend using [Replit](https://replit.com/) but Visual
 Studio Code (VSCode) is a popular editor that you may want to use as
@@ -1228,7 +1228,7 @@ encourage you to validate all of your code with the [The W3C Markup
 Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
 
-## 1.07 Editors: How to use Replit (5:55) {#editors-how-to-use-replit-555 .unnumbered}
+## 1.07 Editors: How to use Replit (5:55)
 
 Earlier I mentioned that one of the editors I would highly recommend you
 use in this course is called \"Replit,\" because I want to show you that
@@ -1301,7 +1301,7 @@ and some of them lower case? You\'ll create files, you\'ll edit your
 files. While you edit them, you\'ll be able to see what they look like.
 This is why I\'m recommending you use Replit.
 
-# Editors: How to use Replit {#editors-how-to-use-replit .unnumbered}
+# Editors: How to use Replit
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -1310,7 +1310,7 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-## Getting started {#getting-started .unnumbered}
+## Getting started
 
 1.  Go to <https://replit.com/>
 
@@ -1326,7 +1326,7 @@ Replit is free, and the first step is to make an account.
 
 ![The Create a Replit account screen.](./images/image011.png)
 
-## Creating a repl {#creating-a-repl .unnumbered}
+## Creating a repl
 
 ![The + Create button under the heading My Repls.](./images/image012.png)
 
@@ -1356,7 +1356,7 @@ section, the Coding Environment, and the View window.
 
 ![The files section](./images/image014.png)
 
-## File Section {#file-section .unnumbered}
+## File Section
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -1371,14 +1371,14 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-## Coding Environment {#coding-environment .unnumbered}
+## Coding Environment
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
 ![A code editor](./images/image015.png)
 
-## View Window {#view-window .unnumbered}
+## View Window
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -1392,7 +1392,7 @@ created your repl.
 
 ![The view window](./images/image016.png)
 
-## More information {#more-information .unnumbered}
+## More information
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit) for more
@@ -1404,12 +1404,12 @@ detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### Additional Resources {#additional-resources .unnumbered}
+### Additional Resources
 
 Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.
 
-### The origins of MOSAIC {#the-origins-of-mosaic .unnumbered}
+### The origins of MOSAIC
 
 [Interview with Joseph
 Hardin.](https://www.youtube.com/watch?v=-c8iWUh3Sv4&app=desktop) If you
@@ -1418,9 +1418,9 @@ here is an interview with Joseph Hardin. The material in this video is
 just meant as a supplemental resource and is not required for the
 quizzes or any other evaluation.
 
-### Resources {#resources-1 .unnumbered}
+### Resources
 
-### Readings {#readings .unnumbered}
+### Readings
 
 The readings come from [Learn to Code HTML & CSS: Develop & Style
 Websites](https://learn.shayhowe.com/html-css/) and the [W3Schools
@@ -1448,18 +1448,18 @@ covering in this course. (CSS is the next course in this series.)
 
 -   [HTML Images](https://www.w3schools.com/html/html_images.asp) 
 
-## Lecture Slides {#lecture-slides-2 .unnumbered}
+## Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
 video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
-[Week 2 Lecture Slides.pdf]{.underline}
+[Week 2 Lecture Slides.pdf]
 
-[PDF File]{.underline}
+[PDF File]
 
-## Code {#code-1 .unnumbered}
+## Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -1470,7 +1470,7 @@ Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week\'s lessons.
 
-## 2.01. The Document Object Model (DOM) (9:58) {#the-document-object-model-dom-958 .unnumbered}
+## 2.01. The Document Object Model (DOM) (9:58)
 
 Let\'s talk about writing clean code. When I\'m talking about clean code
 I\'m talking about learning how to write code that\'s going to work on
@@ -1590,7 +1590,7 @@ is that doesn\'t always work for everyone. So, just because your site
 looks good to you when you\'re looking at it on your browser, doesn\'t
 mean it\'s right. You have to use a validator to check your code.
 
-# HTML5 Tags and Syntax {#html5-tags-and-syntax .unnumbered}
+# HTML5 Tags and Syntax
 
 At first it will seem like the number of tags is overwhelming, but you
 can really start by focusing on the most common. These tags include:
@@ -1617,7 +1617,7 @@ code when you visit pages.
 Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 (optional, but recommended)
 
-## 2.02. HTML5 Tags and Syntax (12:10) {#html5-tags-and-syntax-1210 .unnumbered}
+## 2.02. HTML5 Tags and Syntax (12:10)
 
 This is it. Today\'s the day, I\'m finally going to teach you enough
 HTML that you can start making an interesting page to share with your
@@ -1797,7 +1797,7 @@ kind of things that can really mess up your code when you try to
 validate it later, and so being cognizant of these ideas in the
 beginning will really help you write much cleaner code.
 
-# Cheatsheets {#cheatsheets .unnumbered}
+# Cheatsheets
 
 There are many online \"cheat sheets\" for HTML. These files list all of
 the HTML5 tags, and also include information about tags that are common,
@@ -1823,7 +1823,7 @@ but here are links to three that I have recommended in the past.
     Accessibility Cheat
     Sheet](https://webaim.org/resources/htmlcheatsheet/)
 
-# Semantic Tags {#semantic-tags .unnumbered}
+# Semantic Tags
 
 One of the best ways to make sure that your page is accessible to as
 many people as possible is to use semantic tags. When writing HTML, it
@@ -1835,7 +1835,7 @@ HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-## 2.03. Semantic Tags (6:04) {#semantic-tags-604 .unnumbered}
+## 2.03. Semantic Tags (6:04)
 
 Hi everybody. Today we\'re gonna be talking about some of the newer
 HTML5 tags that I like to refer to as the semantic tags. This is going
@@ -1924,7 +1924,7 @@ Semantic guide tags are gonna help guide your users to the information
 in your page. And that\'s really what you want to do, you want to make
 your page the most accessible to as many people as possible.
 
-### Code Placement {#code-placement .unnumbered}
+### Code Placement
 
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -1937,8 +1937,7 @@ files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
 
 ![Folder with list of documents nested
-within.](./myMediaFolder/media/image17.png){width="4.0in"
-height="4.961111111111111in"}
+within.](./images/image017.png)
 
 In this image you can see the following structure:
 
@@ -1964,7 +1963,7 @@ It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
 
-## 2.04. Template Page in Visual Studio Code (8:13) {#template-page-in-visual-studio-code-813 .unnumbered}
+## 2.04. Template Page in Visual Studio Code (8:13)
 
 Earlier, I showed you how you can open the Visual Studio Code editor.
 Let\'s go ahead and go back and actually create something real that has
@@ -2057,7 +2056,7 @@ to see that it\'s really important to go slowly, save often, check
 often, and make sure that you\'re writing code that you can be proud of
 that\'s accessible.
 
-## 2.05. Template Page in Replit (8:04) {#template-page-in-replit-804 .unnumbered}
+## 2.05. Template Page in Replit (8:04)
 
 Earlier, we made a very simple web page using Replit, but now let\'s
 make something that\'s a little bit more involved using the tags that
@@ -2153,7 +2152,7 @@ main section, and the footer, because as we learn about more
 accessibility tools, you\'re going to realize that they are an important
 step to making your page accessible for everyone.
 
-# Starter Code for Template Page {#starter-code-for-template-page .unnumbered}
+# Starter Code for Template Page
 
 I just want to give you some sample template code. If need be, you can
 copy and paste this to get you started:
@@ -2178,7 +2177,7 @@ copy and paste this to get you started:
 
 \<html lang=\"en\"\>
 
-# Images and Icons {#images-and-icons .unnumbered}
+# Images and Icons
 
 It is difficult to believe that the internet used to be all text. 
 Knowing how to incorporate visual media (images, icons, videos, etc) is
@@ -2204,7 +2203,7 @@ guidelines while you watch the upcoming videos: 
 
 -   Use alt=\"\" if the image is only for decoration
 
-## Making All of Your Images Accessible Everywhere {#making-all-of-your-images-accessible-everywhere .unnumbered}
+## Making All of Your Images Accessible Everywhere
 
 Understanding how images work on other platforms is important too. For
 instance, when you make a presentation at work you can add alternative
@@ -2232,7 +2231,7 @@ end.
 Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
 
-## 2.06. Images (9:28) {#images-928 .unnumbered}
+## 2.06. Images (9:28)
 
 It may be hard to believe, but when you think about the early days of
 the Internet, there were actually no images at all. Now, it\'s hard to
@@ -2351,9 +2350,9 @@ width in the HTML code itself using the attribute. If you decide to
 learn more with us, you can later learn about how to use CSS to do even
 more with your images to make them pop. Good luck.
 
-### Copyright, Fair Use, and Inclusive Images {#copyright-fair-use-and-inclusive-images .unnumbered}
+### Copyright, Fair Use, and Inclusive Images
 
-### Where to get images? {#where-to-get-images .unnumbered}
+### Where to get images?
 
 Every time a product is created, that product is automatically protected
 by copyright. Copyright protection prevents others from using the work
@@ -2376,7 +2375,7 @@ Bank](https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yE
 It includes links to high-quality image banks that reflect diversity,
 equity, and inclusion.
 
-## 2.07. Accessible Images (7:43) {#accessible-images-743 .unnumbered}
+## 2.07. Accessible Images (7:43)
 
 I know we\'ve talked about images in the past, but I\'d really like to
 take a moment for us to stop and talk about them a little bit more. They
