@@ -1,11 +1,22 @@
-(by Colleen van Lent, PhD - University of Michigan)
+---
+title: "University of Michigan's Introduction to HTML5"
+author: "bbauska"
+date last editted: "12/30/2023 10+pm"
+output: 
+  markdown:
+    with_some_style
+---
 
-![](./myMediaFolder/media/image1.png){width="2.0in"
-height="2.8222998687664043in"}
-
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](./myMediaFolder/media/image2.png){width="2.0in"
-height="0.8481014873140857in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of intro-html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image001.png" 
+  alt="Introduction to HTML5."
+  style="border: 2px solid #000000;" 
+  width="50%" />
+</p>
+# Introduction to HTML5
+###### (by Colleen van Lent, PhD - University of Michigan)
 
 # Week 1: Learning about the Web {#week-1-learning-about-the-web .unnumbered}
 
@@ -314,8 +325,7 @@ take some time, but is a useful skill for advanced learners.
 
 ## 1.01 Introduction to HTML5 (9:23) {#introduction-to-html5-923 .unnumbered}
 
-![](./myMediaFolder/media/image3.png){width="4.0in"
-height="2.2448720472440944in"}
+![](./images/image003.png)
 
 Hi, I\'m Colleen van Lent and I\'m happy to welcome you to Introduction
 to HTML5. I am very excited to teach this course because I love the idea
@@ -329,8 +339,7 @@ In this course, we will be covering the basics. I really can\'t
 emphasize enough that we will be starting at the very basic building
 blocks.
 
-![](./myMediaFolder/media/image4.png){width="4.0in"
-height="2.2559831583552055in"}
+![](./images/image004.png)
 
 We\'ll start off talking about what\'s called syntax and semantics. What
 is the actual code that people write in order to make a webpage a
@@ -356,8 +365,7 @@ stops because they\'re not sure where to get started. I really want to
 be there for you to show you how to get started and get off on the right
 foot.
 
-![](./myMediaFolder/media/image5.png){width="4.0in"
-height="2.2559831583552055in"}
+![](./images/image005.png)
 
 Let\'s talk about what we\'ll cover in this course. In Week One the
 focus is on questions. It\'s not on coding, it\'s on questions. I want
@@ -375,8 +383,7 @@ idea of how the web works and why it\'s important for you to be able to
 interact with people and with code that\'s being used to create your
 sites.
 
-![](./myMediaFolder/media/image6.png){width="4.0in"
-height="2.262820428696413in"}
+![](./images/image006.png)
 
 Week Two, we\'re going to talk a little bit of theory, and then,
 unfortunately for some people, a lot of code. There\'s this idea of
@@ -391,8 +398,7 @@ We\'re going to talk about links, images, lists, tables, and also
 multimedia in case you would like to add any video or audio to your
 site.
 
-![](./myMediaFolder/media/image7.png){width="4.0in"
-height="2.262820428696413in"}
+![](./images/image007.png)
 
 Week Three, we\'re really going to put it all together. At this point,
 you should know just enough about HTML5 where you\'ll be dangerous.
@@ -410,8 +416,7 @@ hosting because it\'s a lot more fun to make websites if you can
 actually put it out there on the internet and let your friends and
 family see it, as well.
 
-![](./myMediaFolder/media/image8.png){width="4.0in"
-height="2.262820428696413in"}
+![](./images/image008.png)
 
 Finally, we\'ll work on a final project where you\'ll put together a lot
 of different things that you\'ve been learning. You are going to create
@@ -425,8 +430,7 @@ be talking about styling, we\'re not talking about different things. I
 really just want you to understand the HTML5 language and that\'s all
 about content.
 
-![](./myMediaFolder/media/image9.png){width="4.0in"
-height="2.262820428696413in"}
+![](./images/image009.png)
 
 Let\'s talk logistics. Let\'s talk about who this class is for. Who am I
 aiming for my star student? I\'m really looking forward to teaching the
@@ -443,8 +447,7 @@ of this class. Instead, it\'s about persistence. I\'d like you to just
 hang in there and learn enough that you can go off and help people build
 better technology.
 
-![](./myMediaFolder/media/image10.png){width="4.0in"
-height="2.262820428696413in"}
+![](./images/image010.png)
 
 A little bit about of who I am, I have a PhD in computer science which
 is really the least important part of my qualifications to teach this
@@ -1320,15 +1323,11 @@ Replit is free, and the first step is to make an account.
 5.  Go to the email inbox you created your account with and verify your
     email
 
-![The Create a Replit account
-screen.](./myMediaFolder/media/image11.png){width="4.0in"
-height="1.6423075240594927in"}
+![The Create a Replit account screen.](./images/image011.png)
 
 ## Creating a repl {#creating-a-repl .unnumbered}
 
-![The + Create button under the heading My
-Repls.](./myMediaFolder/media/image12.png){width="4.0in"
-height="1.7692311898512685in"}
+![The + Create button under the heading My Repls.](./images/image012.png)
 
 1.  If you search the page you should find a heading titled: My Repls.
     Under that is a blue box with the words + Create. Select \[+
@@ -1345,19 +1344,16 @@ height="1.7692311898512685in"}
 
 3.  Click \[+ Create Repl\]
 
-![Information to fill in on the create a repl screen: template, title,
-and public.](./myMediaFolder/media/image13.png){width="4.0in"
-height="2.308546587926509in"}
+![Information to fill in on the create a repl screen: template, title, and public.](./images/image013.png)
 
-## Congrats!  {#congrats .unnumbered}
+## Congrats!
 
 A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
 
-![The files section](./myMediaFolder/media/image14.png){width="4.0in"
-height="3.124359142607174in"}
+![The files section](./images/image014.png)
 
 ## File Section {#file-section .unnumbered}
 
@@ -1379,8 +1375,7 @@ is where you can:
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./myMediaFolder/media/image15.png){width="4.0in"
-height="2.3675218722659666in"}
+![A code editor](./images/image015.png)
 
 ## View Window {#view-window .unnumbered}
 
@@ -1394,8 +1389,7 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 
-![The view window](./myMediaFolder/media/image16.png){width="4.0in"
-height="3.9055555555555554in"}
+![The view window](./images/image016.png)
 
 ## More information {#more-information .unnumbered}
 
