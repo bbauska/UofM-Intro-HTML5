@@ -7,11 +7,13 @@ output:
     with some style
 ---
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 align="center">Introduction to HTML5</h1>
 
 <h6 align="center">(by Colleen van Lent, PhD - University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. html5 logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.png" 
   alt="HTML5 logo." 
@@ -19,10 +21,10 @@ output:
   width="20%" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.png" 
-  alt="logo." 
+  alt="University of Michigan and Coursera logo." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -68,9 +70,7 @@ output:
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
-<h2 name="ch1" style="margin:15px">01. Introduction to Intermediate Web &amp; Front-End Development</h2>
-
-# Week 1: Learning about the Web
+<h1 id="ch1">Week 1: Learning about the Web</h1>
 
 This week we will uncover the &quot;mystery&quot; behind the Internet. What
 happens when you type a URL into your browser so that a webpage
@@ -375,12 +375,12 @@ are other free hosting services as well, including using [Github
 Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
 
-<h1 name="ch1-01">1.01 Introduction to HTML5 (9:23)</h1>
+<h1 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
-  alt="logo." 
+  alt="Introduction to HTML5." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -396,12 +396,11 @@ building things that everyone can use.
 In this course, we will be covering the basics. I really can&apos;t
 emphasize enough that we will be starting at the very basic building
 blocks.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image004.png" 
-  alt="logo." 
+  alt="What this course will cover: The Basics." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -431,10 +430,11 @@ be there for you to show you how to get started and get off on the right
 foot.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image005.png" 
-  alt="logo." 
+  alt="Week 1: What happens when you type an address into a URL, what tools
+    you need to code, and what is HTML5?" 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -456,10 +456,10 @@ interact with people and with code that&apos;s being used to create your
 sites.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 06.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image006.png" 
-  alt="logo." 
+  alt="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -476,12 +476,11 @@ use to make our site have different meanings and different appearances.
 We&apos;re going to talk about links, images, lists, tables, and also
 multimedia in case you would like to add any video or audio to your
 site.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 3: putting it together (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image007.png" 
-  alt="logo." 
+  alt="Week 3: Putting it Together." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -501,12 +500,12 @@ we&apos;ll talk about what&apos;s called domain name registration and web
 hosting because it&apos;s a lot more fun to make websites if you can
 actually put it out there on the internet and let your friends and
 family see it, as well.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 08.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. final project (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.png" 
-  alt="logo." 
+  alt="Final Project: Create multipage website, pass W3C validation 
+    &amp; WAVE accessibility review." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -522,12 +521,11 @@ bit ugly, I&apos;m going to admit to right now because we&apos;re not going to
 be talking about styling, we&apos;re not talking about different things. I
 really just want you to understand the HTML5 language and that&apos;s all
 about content.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 09.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image009.png" 
-  alt="logo." 
+  alt="This class is for persistent, non-nerd beginners." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -547,8 +545,14 @@ of this class. Instead, it&apos;s about persistence. I&apos;d like you to just
 hang in there and learn enough that you can go off and help people build
 better technology.
 
-![](./images/image010.png){width="4.0in"
-height="2.262820428696413in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image010.png" 
+  alt="The educator is Colleen van Lent, PhD - University of Michigan."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 A little bit about of who I am, I have a PhD in computer science which
 is really the least important part of my qualifications to teach this
@@ -726,9 +730,16 @@ You can find the code at [HTML5 Course
 Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week&apos;s lessons.
-
-## 1.02 The Evolution of HTML (9:36)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch1-02">1.02. The Evolution of HTML (9:36)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image001.png" 
+  alt="1.02. The evolution of HTML." 
+  style="border: 2px solid #000000;" 
+  width="20%" />
+</p>
 ![](./images/image011.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -869,7 +880,16 @@ these new requirements that people desire and push browsers to adopt the
 new standards.
 
 ## 1.03 How it Works: The "Magic" of Page Requests (9:06)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image012.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -1009,7 +1029,16 @@ are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
 
 ## 1.04 Looking at Your Browser Options (5:25)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image013.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -1085,7 +1114,16 @@ your site better, but it will be a little bit interesting for you as you
 can look at the different ways that HTML5 is supported.
 
 ## 1.05 Editors: How to Use an Editor to Create an HTML File (10:11)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image014.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -1217,7 +1255,16 @@ feel most comfortable, pick one, maybe two editors. And that&apos;s what
 you&apos;re going to want to focus on and really become a pro.
 
 ## 1.06 Editors: How to Use VS Code (6:24)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image015.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -1340,7 +1387,16 @@ Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
 
 ## 1.07 Editors: How to use Replit (5:55)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image016.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -1437,13 +1493,31 @@ Replit is free, and the first step is to make an account.
 
 5.  Go to the email inbox you created your account with and verify your
     email
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The Create a Replit account
 screen.](./images/image017.png){width="4.0in"
 height="1.6423075240594927in"}
 
 ## Creating a repl
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The + Create button under the heading My
 Repls.](./images/image018.png){width="4.0in"
 height="1.7692311898512685in"}
@@ -2815,7 +2889,16 @@ everyone who is viewing your page can get the same content and the same
 experience as everyone else.
 
 ## 2.09. Useful Tags (x:xx)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image032.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3265,7 +3348,16 @@ provided for this week&apos;s lessons.  (Note, for Week 3 there isn&apos;t any
 starter code so you will be writing the code on your own!)
 
 ## 3.01. Accessibility (11:01)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image033.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3587,12 +3679,30 @@ The site [Html5accessibility](https://html5accessibility.com/)
 also tests which HTML5 features are supported by major browsers. This
 includes if they are keyboard accessible and if any accessibility
 related features are supported.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image034.png){width="5.0in"
 height="2.2467946194225723in"}
 
 ## 3.02. Validating Your Site (4:10)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image035.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3660,7 +3770,16 @@ plan on hosting your files on the web. You can always change your mind
 and host them later.
 
 ## 3.03. Hosting Your Site (4:19)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image036.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3733,7 +3852,16 @@ excited, and I hope you&apos;re going to take that next step and that you
 want to go and post your work out on the web. Good luck.
 
 ## 3.04a. Creating a GitHub Pages Account (5:29)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image037.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3817,7 +3945,16 @@ have too much problems. In the readings, I&apos;ll includes links to other
 places you can look for help in creating your GitHub Pages account.
 
 ## 3.04b. Uploading to GitHub Pages (8:25)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image038.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3917,7 +4054,16 @@ to host your code and share it with everyone who you think will be
 impressed with your incredible work.
 
 ## 3.05. Sharing Your Page from Replit (3:06)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image039.png){width="4.0in"
 height="2.2427351268591424in"}
 
@@ -3981,13 +4127,31 @@ Replit is free, and the first step is to make an account.
 
 5.  Go to the email inbox you created your account with and verify your
     email
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The Create a Replit account
 screen.](./images/image040.png){width="4.0in"
 height="1.6423075240594927in"}
 
 ### Creating a repl
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The + Create button under the heading My
 Repls.](./images/image018.png){width="4.0in"
 height="1.7692311898512685in"}
@@ -4006,7 +4170,16 @@ height="1.7692311898512685in"}
     3.  If you want to keep the project public: Yes
 
 3.  Click &lbrack;+ Create Repl&rbrack;
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![Information to fill in on the create a repl screen: template, title,
 and public.](./images/image019.png){width="4.0in"
 height="2.308546587926509in"}
@@ -4017,7 +4190,16 @@ A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The files section](./images/image020.png){width="4.0in"
 height="3.124359142607174in"}
 
@@ -4040,7 +4222,16 @@ is where you can:
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![A code editor](./images/image041.png){width="4.0in"
 height="2.3675218722659666in"}
 
@@ -4055,7 +4246,16 @@ when you created your repl.
 This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![The view window](./images/image042.png){width="3.0in"
 height="2.9291666666666667in"}
 
@@ -4131,7 +4331,16 @@ there. And don&apos;t forget to reach out for help if you need it.
 
 ## 3.06. Final Project (x:yz)
 
-![](./images/image043.png){width="4.0in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->![](./images/image043.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everyone. Welcome to the Final Project. One of the things I&apos;ve
@@ -4255,7 +4464,16 @@ handle the responsive aspects for you.
 
 ## 3.07. Closing (x:yz)
 
-![](./images/image044.png){width="4.0in"
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->![](./images/image044.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everybody. I&apos;m not sure if I should say welcome back or goodbye.
@@ -4320,3 +4538,13 @@ page in very simple steps. And I hope it&apos;s something you&apos;ll enjoy and
 help you to continue your journey into HTML 5.
 
 the end...1/1/2024 last updated &/or reviewed.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
