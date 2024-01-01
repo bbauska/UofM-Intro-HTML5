@@ -16,7 +16,7 @@ output:
   width="20%" />
 </p>
 
-(by Colleen van Lent, PhD - University of Michigan)
+<h6 align="center">(by Colleen van Lent, PhD - University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -63,7 +63,7 @@ output:
 
 <h1 name="ch1" style="margin:15px;">WEEK 1 - Learning About the Web</h1>
 
-<h2>01. Course Introduction</h2>
+<h2 name="ch1">01. Course Introduction</h2>
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
@@ -374,7 +374,7 @@ are other free hosting services as well, including using [Github
 Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
 
-## 1.01 Introduction to HTML5 (9:23)
+<h1 name="ch1-01">1.01 Introduction to HTML5 (9:23)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
