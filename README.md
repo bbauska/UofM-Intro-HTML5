@@ -7,6 +7,9 @@ output:
     with_some_style
 ---
 
+<h1 align="center">Introduction to HTML5</h1>
+
+<h6 align="center">(by Colleen van Lent, PhD - University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -15,8 +18,6 @@ output:
   style="border: 2px solid #000000;" 
   width="20%" />
 </p>
-
-<h6 align="center">(by Colleen van Lent, PhD - University of Michigan)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
