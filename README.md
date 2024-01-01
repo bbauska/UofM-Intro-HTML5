@@ -1,10 +1,10 @@
 ---
 title: "University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "1/1/2024 11+am"
+date last editted: "1/1/2024 3+pm"
 output: 
   markdown:
-    with_some_style
+    with some style
 ---
 
 <h1 align="center">Introduction to HTML5</h1>
