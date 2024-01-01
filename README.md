@@ -64,9 +64,7 @@ output:
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-<h1 name="ch1" style="margin:15px;">WEEK 1 - Learning About the Web</h1>
-
-<h2 name="ch1">01. Course Introduction</h2>
+<h2 name="ch1" style="margin:15px;">WEEK 1 - Learning About the Web</h2>
 
 https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
 
@@ -78,7 +76,7 @@ magically appears? What is HTML5 and what happened to HTML 1 - 4? We
 will also cover some practical concepts that you need to master before
 you begin coding your own pages.
 
-## Learning Objectives
+### Learning Objectives
 
 -   Use a validator to evaluate their code.
 
@@ -94,7 +92,7 @@ you begin coding your own pages.
 
 -   Describe how and why HTML has changed.
 
-## Course Syllabus
+### Course Syllabus
 
 Welcome to Introduction to HTML5. This course is an introduction to how
 web pages are created, sent across the Internet, and viewed on your
@@ -143,7 +141,7 @@ reference. However, upon completion of this course you will be ready to
 take the next course in this Web Design for Everybody Specialization,
 Introduction to CSS3.
 
-## **Participation Strategies**
+### **Participation Strategies**
 
 Engaged learning looks different for everybody. In this course, we hope
 you will define your own measures of success and engage with the
@@ -155,7 +153,7 @@ your own goals. While the course provides time estimates for completion,
 you should feel empowered to engage in the material in whatever ways
 make sense to you.
 
-## **Community Engagement**
+### **Community Engagement**
 
 We expect everyone to be mindful of what they say and its potential
 impact on others. The goal is to have respectful discussions that do not
@@ -189,17 +187,6 @@ to an outside study group mentioning the course and claiming to have any
 official connection to U-M or individual instructors, please exercise
 caution as this may be an attempted scam.
 
-## **Assessments and Grading**
-
-## **Weekly Quizzes**
-
-Each week will include a graded quiz. These quizzes are intended to
-reinforce your confidence in the material, not &quot;trick&quot; you. As often
-as possible each question will be linked to a specific lecture or
-reading. You can take the quizzes as many times as you like, but there
-is a limit on how many times you can take each quiz in a certain time
-period.
-
 ### **Final Project: Peer Review Assignment**
 
 This course will culminate in the creation of an HTML document. You will
@@ -228,7 +215,7 @@ allowed. Academic dishonesty can be defined as:
     edit your work and submitting that work as your own, unless you were
     instructed to use AI as part of the assignment
 
-## **Tips for Success**
+### **Tips for Success**
 
 This course assumes absolutely no previous knowledge. In each module you
 will be asked to do the following:
@@ -242,7 +229,7 @@ to these during any time you have. You will find that some of the videos
 have material that makes sense to you at once. Sometimes you may want to
 replay other videos to clarify the material. 
 
-## Code with video lectures
+### Code with video lectures
 
 Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
@@ -252,7 +239,7 @@ put these videos in so that you have something specific to practice. It
 is also a great way for you to see how often I mess up when I am
 coding!!
 
-## Change the video speed to one that works best for you 
+### Change the video speed to one that works best for you 
 
 You may find that you can speed the videos up and still retain the
 information. On the other hand, my mom is always telling me I talk too
@@ -260,7 +247,7 @@ quickly so you may want to slow the videos down. The important thing is
 to find something that works well for you. Use the in-­video quizzes to
 help you gauge how your learning is going.
 
-## Readings & optional materials
+### Readings & optional materials
 
 Each week will include reading material. It is impossible to learn
 everything you need to learn just by listening to the lectures. Some of
@@ -274,7 +261,7 @@ required for the quizzes, but rather provide additional ways for you to
 branch out and learn more about the history of the field or the emerging
 ideas.
 
-## **Course Support**
+### **Course Support**
 
 Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
@@ -287,7 +274,7 @@ course team members. For technical help please contact the [Coursera
 Learner Help Center](https://learner.coursera.help/hc/en-us) support
 forums.
 
-## **Accessibility **
+### **Accessibility **
 
 We are committed to developing accessible learning experiences for the
 widest possible audience. We recognize that learners with disabilities
@@ -309,7 +296,7 @@ ensure you are able to participate. In such cases, we may contact you
 for additional information as we investigate ways of removing
 accessibility barriers or to suggest accessible alternatives.
 
-## **Diversity, Equity, and Inclusion**
+### **Diversity, Equity, and Inclusion**
 
 **We welcome all learners to this course.** People like you are joining
 from all over the world and we value this diversity. We strive to create
@@ -321,7 +308,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you. 
 
-## **Technology **
+### **Technology **
 
 Below is a list of technologies that you will use to participate in this
 course. I recommend that you spend time reading the brief description of
@@ -329,7 +316,7 @@ each technology before jumping into the course. By doing this, you will
 have a better idea of what to expect and can create a plan for how you
 will approach taking this course. 
 
-## Coursera platform
+### Coursera platform
 
 If you are new to Coursera and you want to familiarize yourself with the
 platform, read the [Help Articles in Coursera Help
@@ -338,7 +325,7 @@ This is a good resource where you can find answers to many basic
 questions such as how to adjust video settings, how to submit
 assignments, and how to gain a course certificate. 
 
-## Gamut Tools
+### Gamut Tools
 
 This course uses a sharing tool called the Gamut Gallery. Throughout the
 course you will be asked by your instructor to create your own work
@@ -358,7 +345,7 @@ Once you get the hang of using Replit you will be able to easily share
 your code and your deployed website sites with your family and peers.
 However, students may choose other hosting options if they prefer.
 
-## Sublime & Visual Studio Code
+### Sublime & Visual Studio Code
 
 If students choose not to use Replit, they will want to have an editor
 to create their code.  Two common editors that you will see used in this
@@ -367,20 +354,20 @@ course and by others are [Sublime](https://www.sublimetext.com/3) and
 VSCode).  Both of these programs are free to download and use and there
 are also many online tutorials available to help learn the software.
 
-## Hosting
+<h3>Hosting</h3>
 
 Replit has free [hosting](https://docs.replit.com/category/hosting)
 built-in -- they will often refer to it as &quot;sharing your repl.&quot;  There
 are other free hosting services as well, including using [Github
 Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
-  alt="Introduction to HTML5." 
+  alt="1.01. Introduction to HTML5." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
@@ -544,7 +531,6 @@ about technology or passionate about computing to really get a lot out
 of this class. Instead, it&apos;s about persistence. I&apos;d like you to just
 hang in there and learn enough that you can go off and help people build
 better technology.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -620,7 +606,7 @@ to go work with somebody else to help make their code more accessible, I
 would be thrilled with that. Welcome to the course and I hope you have a
 lot of fun as you learn more about HTML5.
 
-## Required Course Materials
+### Required Course Materials
 
 ### Textbooks
 
@@ -720,7 +706,7 @@ from the videos since I like to update the slides when things change.
 
 ### [Week 1 Lecture Slides.pdf]
 
-## Code
+### Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -735,13 +721,11 @@ week&apos;s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image001.png" 
+  <img src="./images/image011.png" 
   alt="1.02. The evolution of HTML." 
   style="border: 2px solid #000000;" 
-  width="20%" />
+  width="40%" />
 </p>
-![](./images/image011.png){width="4.0in"
-height="2.2666666666666666in"}
 
 Hi. Today we&apos;re going to be talking about HTML5. Specifically what it
 is, and why we aren&apos;t learning HTML1 instead. So what is HTML? HTML
@@ -878,20 +862,16 @@ do something They tend to write nonstandard code to force browsers to do
 it. So, this is why we&apos;re developing new standards in HTML5 to handle
 these new requirements that people desire and push browsers to adopt the
 new standards.
-
-## 1.03 How it Works: The "Magic" of Page Requests (9:06)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch1-03">1.03 How it Works: The "Magic" of Page Requests (9:06)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 12. how it works: the magic of page requests (1.03) (xx) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image012.png" 
+  alt="1.03. How it Works: The 'Magic' of Page Requests." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image012.png){width="4.0in"
-height="2.2666666666666666in"}
 
 Today, let&apos;s talk about the request-response cycle or basically what
 happens when you type something into the address bar of your browser.
@@ -1007,7 +987,7 @@ communication between the client and the server. So, we&apos;re going to
 start off small. We&apos;re going to do one file at a time, but you can
 always look ahead to building bigger and bigger web applications.
 
-# Browsers
+### Browsers
 
 Browsers are constantly changing. Changing so much that it is difficult
 to keep up with all of the changes once you pick a favorite. Myself? I
@@ -1027,20 +1007,16 @@ an optional reading because I don&apos;t like the popups that accompany it.
 Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
-
-## 1.04 Looking at Your Browser Options (5:25)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch1-04">1.04 Looking at Your Browser Options (5:25)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 13. looking at your browser options (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image013.png" 
+  alt="1.04. Looking at Your Browser Options." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image013.png){width="4.0in"
-height="2.2666666666666666in"}
 
 One of the things that you might notice is that there are a lot of
 different options for how you can view web pages, and these different
@@ -1112,20 +1088,16 @@ is write your code, and then open it up in Safari, and Firefox, and
 Chrome, as many different browsers as you can. Not only will it make
 your site better, but it will be a little bit interesting for you as you
 can look at the different ways that HTML5 is supported.
-
-## 1.05 Editors: How to Use an Editor to Create an HTML File (10:11)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch1-05">1.05 Editors: How to Use an Editor to Create an HTML File (10:11)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~ 14. editors: how to use an editor to create an html file (1.05) (xx) ~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image014.png"
+  alt="1.05. Editors: How to Use an Editor to Create an HTML File." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image014.png){width="4.0in"
-height="2.2666666666666666in"}
 
 One of the things that you&apos;re going to learn about making your web
 pages is that once in a while, you have to bite the bullet and stop
@@ -1253,20 +1225,16 @@ code it&apos;s also going to let you share your code with your friends and
 family all across the country and all across the world. But wherever you
 feel most comfortable, pick one, maybe two editors. And that&apos;s what
 you&apos;re going to want to focus on and really become a pro.
-
-## 1.06 Editors: How to Use VS Code (6:24)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch1-06">1.06 Editors: How to Use VS Code (6:24)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 15. editors: how to use vs code (1.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image015.png" 
+  alt="1.06. Editors: How to Use Visual Studio Code."
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image015.png){width="4.0in"
-height="2.2666666666666666in"}
 
 Let&apos;s talk about how to use Visual Studio code. Once you open up Visual
 Studio Code, it&apos;s not unusual to be overwhelmed at first as to what you
@@ -1385,20 +1353,16 @@ confusing if VSCode fills in the code that you were expecting.  So I
 encourage you to validate all of your code with the [The W3C Markup
 Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
-
-## 1.07 Editors: How to use Replit (5:55)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch1-07">1.07 Editors: How to use Replit (5:55)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 16. editors: how to use replit (1.07) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image016.png"
+  alt="1.07. Editors: How to Use Replit."
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image016.png){width="4.0in"
-height="2.2666666666666666in"}
 
 Earlier I mentioned that one of the editors I would highly recommend you
 use in this course is called &quot;Replit,&quot; because I want to show you that
@@ -1480,7 +1444,7 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-## Getting started
+### Getting started
 
 1.  Go to <https://replit.com/>
 
@@ -1494,33 +1458,24 @@ Replit is free, and the first step is to make an account.
 5.  Go to the email inbox you created your account with and verify your
     email
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 17. the create a replit account screen (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--
 <p align="center">
   <img src="./images/imageXXX.png" 
-  alt="." 
+  alt="The Create a Replit account screen."
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![The Create a Replit account
-screen.](./images/image017.png){width="4.0in"
-height="1.6423075240594927in"}
 
-## Creating a repl
+### Creating a repl
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~ 18. the + cteate button under the heading 'My Repls.' (xx) ~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image018.png" 
+  alt="The + Create buton under the heading My Repls." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![The + Create button under the heading My
-Repls.](./images/image018.png){width="4.0in"
-height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
     Under that is a blue box with the words + Create. Select &lbrack;+
