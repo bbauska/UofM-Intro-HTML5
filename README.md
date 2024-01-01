@@ -1,11 +1,30 @@
+---
+title: "University of Michigan's Intro to HTML5"
+author: "bbauska"
+date last editted: "1/1/2024 11+am"
+output: 
+  markdown:
+    with_some_style
+---
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image001.png" 
+  alt="HTML5 logo." 
+  style="border: 2px solid #000000;" 
+  width="20%" />
+</p>
+
 (by Colleen van Lent, PhD - University of Michigan)
-
-![](./images/image001.png){width="2.0in"
-height="2.8222998687664043in"}
-
-![Advanced Styling with Responsive Design offered by University of
-Michigan.](./images/image002.png){width="2.0in"
-height="0.8481014873140857in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 02. university of michigan logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image002.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 # Week 1: Learning about the Web {#week-1-learning-about-the-web .unnumbered}
 
@@ -313,9 +332,14 @@ Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
 
 ## 1.01 Introduction to HTML5 (9:23) {#introduction-to-html5-923 .unnumbered}
-
-![](./images/image003.png){width="4.0in"
-height="2.2448720472440944in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 03.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image003.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Hi, I&apos;m Colleen van Lent and I&apos;m happy to welcome you to Introduction
 to HTML5. I am very excited to teach this course because I love the idea
@@ -329,8 +353,14 @@ In this course, we will be covering the basics. I really can&apos;t
 emphasize enough that we will be starting at the very basic building
 blocks.
 
-![](./images/image004.png){width="4.0in"
-height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image004.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 We&apos;ll start off talking about what&apos;s called syntax and semantics. What
 is the actual code that people write in order to make a webpage a
@@ -356,8 +386,14 @@ stops because they&apos;re not sure where to get started. I really want to
 be there for you to show you how to get started and get off on the right
 foot.
 
-![](./images/image005.png){width="4.0in"
-height="2.2559831583552055in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 05.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image005.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Let&apos;s talk about what we&apos;ll cover in this course. In Week One the
 focus is on questions. It&apos;s not on coding, it&apos;s on questions. I want
@@ -375,8 +411,14 @@ idea of how the web works and why it&apos;s important for you to be able to
 interact with people and with code that&apos;s being used to create your
 sites.
 
-![](./images/image006.png){width="4.0in"
-height="2.262820428696413in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 06.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image006.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Week Two, we&apos;re going to talk a little bit of theory, and then,
 unfortunately for some people, a lot of code. There&apos;s this idea of
@@ -391,8 +433,14 @@ We&apos;re going to talk about links, images, lists, tables, and also
 multimedia in case you would like to add any video or audio to your
 site.
 
-![](./images/image007.png){width="4.0in"
-height="2.262820428696413in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image007.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Week Three, we&apos;re really going to put it all together. At this point,
 you should know just enough about HTML5 where you&apos;ll be dangerous.
@@ -410,8 +458,14 @@ hosting because it&apos;s a lot more fun to make websites if you can
 actually put it out there on the internet and let your friends and
 family see it, as well.
 
-![](./images/image008.png){width="4.0in"
-height="2.262820428696413in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 08.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image008.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Finally, we&apos;ll work on a final project where you&apos;ll put together a lot
 of different things that you&apos;ve been learning. You are going to create
@@ -425,8 +479,14 @@ be talking about styling, we&apos;re not talking about different things. I
 really just want you to understand the HTML5 language and that&apos;s all
 about content.
 
-![](./images/image009.png){width="4.0in"
-height="2.262820428696413in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 09.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./assets/images/image009.png" 
+  alt="logo." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Let&apos;s talk logistics. Let&apos;s talk about who this class is for. Who am I
 aiming for my star student? I&apos;m really looking forward to teaching the
@@ -4215,4 +4275,4 @@ that secret lecture, I want to show you ways that you can style your
 page in very simple steps. And I hope it&apos;s something you&apos;ll enjoy and
 help you to continue your journey into HTML 5.
 
-the end...11/26/2023 last updated &/or reviewed.
+the end...1/1/2024 last updated &/or reviewed.
