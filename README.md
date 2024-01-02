@@ -1459,7 +1459,6 @@ Replit is free, and the first step is to make an account.
     email
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 17. the create a replit account screen (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
   <img src="./images/imageXXX.png" 
   alt="The Create a Replit account screen."
@@ -1492,21 +1491,31 @@ Replit is free, and the first step is to make an account.
 
 3.  Click &lbrack;+ Create Repl&rbrack;
 
-![Information to fill in on the create a repl screen: template, title,
-and public.](./images/image019.png){width="4.0in"
-height="2.308546587926509in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~ 19. info to fill in on the create a repl screen: template, title and public (xx) ~~~~-->
+<p align="center">
+  <img src="./images/image019.png"
+  alt="The files section."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
-## Congrats!
+### Congrats!
 
 A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. the files section (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image020.png"
+  alt="The files section."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
-![The files section](./images/image020.png){width="4.0in"
-height="3.124359142607174in"}
-
-## File Section
+### File Section
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -1521,15 +1530,20 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-## Coding Environment
+### Coding Environment
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. a code editor (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image020.png"
+  alt="A code editor."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
-![A code editor](./images/image021.png){width="4.0in"
-height="2.3675218722659666in"}
-
-## View Window
+### View Window
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -1540,11 +1554,16 @@ when you created your repl.
 This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. the view window (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image022.png"
+  alt="The view window."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
-![The view window](./images/image022.png){width="4.0in"
-height="3.9055555555555554in"}
-
-## More information
+### More information
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit) for more
@@ -1621,11 +1640,16 @@ You can find the code at [HTML5 Course
 Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week&apos;s lessons.
-
-## 2.01. The Document Object Model (DOM) (9:58)
-
-![](./images/image023.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch2-01">2.01. The Document Object Model (DOM) (9:58)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 23. the document object model (dom) (2.01) (xx) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image023.png"
+  alt="2.01. The Document Object Model (DOM)."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Let&apos;s talk about writing clean code. When I&apos;m talking about clean code
 I&apos;m talking about learning how to write code that&apos;s going to work on
@@ -1771,11 +1795,16 @@ code when you visit pages.
 [HTML
 Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 (optional, but recommended)
-
-## 2.02. HTML5 Tags and Syntax (12:10)
-
-![](./images/image024.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch2-02">2.02. HTML5 Tags and Syntax (12:10)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 24. html5 tags and syntax (2.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image024.png"
+  alt="2.02. HTML5 tags and syntax."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 This is it. Today&apos;s the day, I&apos;m finally going to teach you enough
 HTML that you can start making an interesting page to share with your
@@ -1981,7 +2010,7 @@ but here are links to three that I have recommended in the past.
     Accessibility Cheat
     Sheet](https://webaim.org/resources/htmlcheatsheet/)
 
-# Semantic Tags
+## Semantic Tags
 
 One of the best ways to make sure that your page is accessible to as
 many people as possible is to use semantic tags. When writing HTML, it
@@ -1992,11 +2021,16 @@ We need to do our best to keep our code "clean" -- this means using the
 HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
-
-## 2.03. Semantic Tags (6:04)
-
-![](./images/image025.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch2-03">2.03. Semantic Tags (6:04)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. semantic tags (2.03) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image025.png"
+  alt="2.03. Semantic tags."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Hi everybody. Today we&apos;re gonna be talking about some of the newer
 HTML5 tags that I like to refer to as the semantic tags. This is going
@@ -2096,10 +2130,14 @@ can quickly and easily understand their code.)
 The most common organization is to have one main folder with your html
 files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
-
-![Folder with list of documents nested
-within.](./images/image026.png){width="4.0in"
-height="4.961111111111111in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 26. folder with list of documents nested within (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image026.png"
+  alt="Folder with list of documents nested within."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 In this image you can see the following structure:
 
@@ -2124,11 +2162,16 @@ fancy orange bandana&quot;&gt;**
 It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
-
-## 2.04. Template Page in Visual Studio Code (8:13)
-
-![](./images/image027.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h1 id="ch2-04">2.04. Template Page in Visual Studio Code (8:13)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 27. template page in vs code (2.04) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image027.png"
+  alt="2.04. Template Page in VS Code."
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
 
 Earlier, I showed you how you can open the Visual Studio Code editor.
 Let&apos;s go ahead and go back and actually create something real that has
@@ -2222,7 +2265,16 @@ often, and make sure that you&apos;re writing code that you can be proud of
 that&apos;s accessible.
 
 ## 2.05. Template Page in Replit (8:04)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image028.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -2402,7 +2454,16 @@ Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
 
 ## 2.06. Images (9:28)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image029.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -2549,7 +2610,16 @@ It includes links to high-quality image banks that reflect diversity,
 equity, and inclusion.
 
 ## 2.07. Accessible Images (7:43)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image030.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -2696,7 +2766,16 @@ resource. This site guides you with simple &quot;yes/no&quot; questions on how
 to create your alt text.
 
 ## 2.08. Hyperlinks (9:23)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--
+<p align="center">
+  <img src="./images/imageXXX.png" 
+  alt="." 
+  style="border: 2px solid #000000;" 
+  width="40%" />
+</p>
+-->
 ![](./images/image031.png){width="4.0in"
 height="2.2666666666666666in"}
 
@@ -2842,20 +2921,16 @@ they&apos;re not a great thing to do, and I&apos;m not saying you should do it.
 I&apos;m just saying make sure that you do it carefully to ensure that
 everyone who is viewing your page can get the same content and the same
 experience as everyone else.
-
-## 2.09. Useful Tags (x:xx)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch2-09">2.09. Useful Tags (x:xx)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. useful tags (2.09) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image032.png" 
+  alt="2.09. Useful Tags."
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image032.png){width="4.0in"
-height="2.2427351268591424in"}
 
 Hi, today we&apos;re gonna talk about
 
@@ -2863,17 +2938,11 @@ some of the tags that you may find extremely useful as you go and
 
 try to add blocks of code and simple snippets of different
 
-things to your web page. I know that it can seem overwhelming
-
-how many tags there are in HTML5. So today, I&apos;m going to try to break
-
+things to your web page. I know that it can seem overwhelming how many 
+tags there are in HTML5. So today, I&apos;m going to try to break 
 down some of the most useful ones. Now, I realize it may seem
-overwhelming as
-
-I said throwing all these elements at you. You&apos;re not supposed to
-memorize them
-
-all by the end of this lecture. Instead, I&apos;m really just trying to give
+overwhelming as I said throwing all these elements at you. You&apos;re not supposed to
+memorize them all by the end of this lecture. Instead, I&apos;m really just trying to give
 
 you a taste for what&apos;s out there so you can start playing with your own
 code. So, one of the first things you need
@@ -3257,12 +3326,12 @@ number of people possible. And really, the only way you can do
 this is by keeping your code simple, succinct, and you&apos;re always
 validating. Thanks.
 
-# Additional Resources
+## Additional Resources
 
 Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.
 
-## Images and Icons
+### Images and Icons
 
 -   [Make your document or presentation more accessible - Google Docs
     Editors Help](https://support.google.com/docs/answer/6199477?hl=en)
@@ -3282,16 +3351,16 @@ Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-sh
 the W3 alt decision tree site as a resource. This site guides you with
 simple &quot;yes/no&quot; questions on how to create your alt text.
 
-# Resources
+## Resources
 
-## Lecture Slides
+### Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
 video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
-## Code
+### Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -3301,20 +3370,16 @@ Code](https://intro-webdesign.com/v3/html5.html#code)
 .  It is organized by week, so you can check to see if any code is
 provided for this week&apos;s lessons.  (Note, for Week 3 there isn&apos;t any
 starter code so you will be writing the code on your own!)
-
-## 3.01. Accessibility (11:01)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<h1 id="ch3-01">3.01. Accessibility (11:01)</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. accessibility (3.01) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image033.png" 
+  alt="3.01. Accessibility." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image033.png){width="4.0in"
-height="2.2427351268591424in"}
 
 One of the things that I&apos;m constantly
 
@@ -3635,31 +3700,23 @@ also tests which HTML5 features are supported by major browsers. This
 includes if they are keyboard accessible and if any accessibility
 related features are supported.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image034.png" 
   alt="." 
   style="border: 2px solid #000000;" 
-  width="40%" />
+  width="50%" />
 </p>
--->
-![](./images/image034.png){width="5.0in"
-height="2.2467946194225723in"}
 
-## 3.02. Validating Your Site (4:10)
+<h1 id="ch3-02">3.02. Validating Your Site (4:10)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 35. validating your site (3.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image035.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image035.png){width="4.0in"
-height="2.2427351268591424in"}
 
 I know that I&apos;ve been saying validate your code over and over again,
 but let&apos;s talk about why it&apos;s so important. Browsers are basically the
@@ -3724,19 +3781,15 @@ feel free to skip the lectures on Replit and Github Pages if you don&apos;t
 plan on hosting your files on the web. You can always change your mind
 and host them later.
 
-## 3.03. Hosting Your Site (4:19)
+<h1 id="ch3-03">3.03. Hosting Your Site (4:19)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image036.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image036.png){width="4.0in"
-height="2.2427351268591424in"}
 
 Hi, everybody. Today we&apos;re going to talk about hosting your site. And
 what I mean by hosting your site is how you take the pages that you&apos;ve
@@ -3808,17 +3861,13 @@ want to go and post your work out on the web. Good luck.
 
 ## 3.04a. Creating a GitHub Pages Account (5:29)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image037.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image037.png){width="4.0in"
-height="2.2427351268591424in"}
 
 One way that you can share your webpage with everyone is by hosting it
 on GitHub. So, the first step is making a GitHub Pages account. So, I&apos;m
@@ -3902,16 +3951,12 @@ places you can look for help in creating your GitHub Pages account.
 ## 3.04b. Uploading to GitHub Pages (8:25)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image038.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image038.png){width="4.0in"
-height="2.2427351268591424in"}
 
 So, let&apos;s say you&apos;ve come up with a pretty nice site. I&apos;ve got one
 right here. I&apos;m going to click on my &quot;index.html&quot; file, and I&apos;ve got
@@ -4011,16 +4056,12 @@ impressed with your incredible work.
 ## 3.05. Sharing Your Page from Replit (3:06)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image039.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![](./images/image039.png){width="4.0in"
-height="2.2427351268591424in"}
 
 As we reach the end of this course, it&apos;s going to be time for you to
 make your final project and share the things that you&apos;ve learned with
@@ -4060,7 +4101,7 @@ remember this, you can jump on the forums. People will be there to give
 you help. But we always want to give people the greatest chance possible
 to look at your code and see how it&apos;s all working together, good luck.
 
-# Sharing Your Page from Replit
+## Sharing Your Page from Replit
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -4099,17 +4140,12 @@ height="1.6423075240594927in"}
 ### Creating a repl
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image018.png" 
+  alt="The + Create button under the heading My Repls.." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![The + Create button under the heading My
-Repls.](./images/image018.png){width="4.0in"
-height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
     Under that is a blue box with the words + Create. Select &lbrack;+
@@ -4127,17 +4163,12 @@ height="1.7692311898512685in"}
 3.  Click &lbrack;+ Create Repl&rbrack;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image019.png" 
+  alt="Information to fill in on the create a repl screen: template, title, and public." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![Information to fill in on the create a repl screen: template, title,
-and public.](./images/image019.png){width="4.0in"
-height="2.308546587926509in"}
 
 ### Congrats!
 
@@ -4147,16 +4178,12 @@ thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image020.png" 
+  alt="The files section." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![The files section](./images/image020.png){width="4.0in"
-height="3.124359142607174in"}
 
 ### File Section
 
@@ -4179,16 +4206,12 @@ The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image041.png" 
+  alt="A code editor." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->
-![A code editor](./images/image041.png){width="4.0in"
-height="2.3675218722659666in"}
 
 ## View Window
 
@@ -4202,17 +4225,13 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 42.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
-  alt="." 
+  <img src="./images/image042.png" 
+  alt="The view window." 
   style="border: 2px solid #000000;" 
-  width="40%" />
+  width="30%" />
 </p>
--->
-![The view window](./images/image042.png){width="3.0in"
-height="2.9291666666666667in"}
 
 ## More information
 
@@ -4285,18 +4304,14 @@ You will get frustrated. You will put in silly mistakes. But hang in
 there. And don&apos;t forget to reach out for help if you need it.
 
 ## 3.06. Final Project (x:yz)
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image043.png"
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->![](./images/image043.png){width="4.0in"
-height="2.2427351268591424in"}
 
 Hi everyone. Welcome to the Final Project. One of the things I&apos;ve
 learned as a teacher is that it is so important for students to take
@@ -4417,19 +4432,15 @@ viewed on. Techniques include determining specific screen sizes
 yourself, or using popular template platforms such as Bootstrap to
 handle the responsive aspects for you.
 
-## 3.07. Closing (x:yz)
-
+<h1 id="ch3-07">3.07. Closing (x:yz)</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ XX.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 44.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/imageXXX.png" 
+  <img src="./images/image044.png" 
   alt="." 
   style="border: 2px solid #000000;" 
   width="40%" />
 </p>
--->![](./images/image044.png){width="4.0in"
-height="2.2427351268591424in"}
 
 Hi everybody. I&apos;m not sure if I should say welcome back or goodbye.
 Because this is the end of the class. I know that you might be a little
