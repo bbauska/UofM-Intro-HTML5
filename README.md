@@ -6,6 +6,7 @@ output:
   markdown:
     with some style
 ---
+<a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/">How-To's in HTML</a>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
