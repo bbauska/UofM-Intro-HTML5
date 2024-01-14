@@ -1,6 +1,7 @@
 ---
 title: "University of Michigan's Intro to HTML5"
 author: "bbauska"
+date of class: 2016
 date last editted: "1/1/2024 3+pm"
 output: 
   markdown:
