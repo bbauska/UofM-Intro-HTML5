@@ -1662,7 +1662,9 @@ stick by the standard. That any new features should be based on HTML,
 CSS, the DOM, and JavaScript, and you can have a chance to learn about
 each one of those. But I want to talk about the DOM for just a little
 bit because it&apos;s going to help you understand the HTML a little bit
-better. One of the things about geeky computer scientists like myself is
+better. 
+
+One of the things about geeky computer scientists like myself is
 that we love trees. Not like trees out outside that are green and
 beautiful in the fall. We like mathematical trees. These tree-like
 structures that we can prove to be valid or invalid. So, when we talk
@@ -1684,7 +1686,9 @@ well-formed document. The Doctype, which is the version of HTML that
 you&apos;re going to be using. The head, which is all of the metadata or
 kind of extra information, and the body. The body is the displayable
 content. The thing that most people are going to get back when they do
-the request-response cycle. So let&apos;s talk doctype. You are so lucky.
+the request-response cycle. 
+
+So let&apos;s talk doctype. You are so lucky.
 When I was creating web pages at first and we were in HTML4, we had to
 come up with all these different ways to kind of explain whether our
 HTML4 was like very strict standards or whether it was transitional. In
@@ -1696,7 +1700,8 @@ what language you&apos;re creating your page in. You could also include, and
 you really want to include, what the title of your pages. When I am
 talking about the title I&apos;m not talking about big kind of header that
 you see. I&apos;m talking about the little tiny thing you see in the tab of
-your browser. Later, you might want to add supporting files as well. You
+your browser. 
+Later, you might want to add supporting files as well. You
 might want to have CSS files that will style your page, or JavaScript
 that can add on different interaction, or really any type of add-on
 that&apos;s going to change the way people view and interact with your site.
@@ -1707,7 +1712,9 @@ formatted or tree-like code where you&apos;re making sure that every tag has
 an end. That you&apos;re not putting tags in weird orders. So, most of the
 content in the body is displayed by the browser but every once in a
 while there&apos;s a little bit of metadata in there too. But we&apos;re not
-going to hit that in this class. So let&apos;s look at an example. Right
+going to hit that in this class. 
+
+So let&apos;s look at an example. Right
 here, I have a file called &quot;template.html,&quot; and I&apos;m displaying the
 code here on the screen for you. Can you find the three parts of a
 well-formed document? The first thing you want to look for is the
