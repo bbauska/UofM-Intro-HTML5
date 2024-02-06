@@ -1064,11 +1064,11 @@ surge and up to 64% of desktops and laptops were using Google Chrome,
 followed by Firefox, Internet Explorer etc. This is always going to
 change, it&apos;s going to flux. You can&apos;t pick one browser and say hey,
 this is the new one that&apos;s everyone is going to be using. And the other
-interesting thing
+interesting thing to kind of think about is, especially in this old map over 
+here, people use really old browsers because people like to use what they&apos;re 
+used to. 
 
-to kind of think about is, especially in this old map over here, people
-use really old browsers because people like to use what they&apos;re used
-to. One thing that I&apos;m hoping all the students in my class take into
+One thing that I&apos;m hoping all the students in my class take into
 consideration though, is accessibility. Accessibility is basically the
 ability of a browser to support all these special functionalities, and
 all these new HTML5 tags, and all types of assistive technology. So one
