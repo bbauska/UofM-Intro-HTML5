@@ -365,14 +365,13 @@ are other free hosting services as well, including using [Github
 Pages](https://pages.github.com/).  Learning to use Github Pages can
 take some time, but is a useful skill for advanced learners.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h1>
+<h2 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
   alt="1.01. Introduction to HTML5." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Hi, I&apos;m Colleen van Lent and I&apos;m happy to welcome you to Introduction
@@ -391,8 +390,7 @@ blocks.
 <p align="center">
   <img src="./images/image004.png" 
   alt="What this course will cover: The Basics." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 We&apos;ll start off talking about what&apos;s called syntax and semantics. What
@@ -418,15 +416,13 @@ here&apos;s your homework. Go ahead and do it and everyone just kind of
 stops because they&apos;re not sure where to get started. I really want to
 be there for you to show you how to get started and get off on the right
 foot.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image005.png" 
   alt="Week 1: What happens when you type an address into a URL, what tools
     you need to code, and what is HTML5?" 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Let&apos;s talk about what we&apos;ll cover in this course. In Week One the
@@ -444,15 +440,14 @@ we use? In Week One, again, almost no coding. Really, just giving you an
 idea of how the web works and why it&apos;s important for you to be able to
 interact with people and with code that&apos;s being used to create your
 sites.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image006.png" 
   alt="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
+<!--  width="40%" / -->
 
 Week Two, we&apos;re going to talk a little bit of theory, and then,
 unfortunately for some people, a lot of code. There&apos;s this idea of
@@ -1168,7 +1163,7 @@ Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
 
-# 1.04 Looking at Your Browser Options (5:25) {#looking-at-your-browser-options-525 .unnumbered}
+# 1.04 Looking at Your Browser Options (5:25)
 
 ![](./images/media/image47.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -1470,7 +1465,7 @@ family all across the country and all across the world. But wherever you
 feel most comfortable, pick one, maybe two editors. And that\'s what
 you\'re going to want to focus on and really become a pro.
 
-# 1.06 Editors: How to Use VS Code (6:24) {#editors-how-to-use-vs-code-624 .unnumbered}
+<h2 id="ch1-06">1.06 Editors: How to Use VS Code (6:24)</h2>
 
 ![](./images/media/image68.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -1589,7 +1584,7 @@ install \"Live Server\" and then from there we will go and learn how to
 add multiple files, multiple images, and lots of things that is going to
 make your webpage look amazing.
 
-### 1.06.Editors: How to use VS Code {#editors-how-to-use-vs-code .unnumbered}
+### 1.06.Editors: How to use VS Code
 
 We highly recommend using [Replit](https://replit.com/) but Visual
 Studio Code (VSCode) is a popular editor that you may want to use as
@@ -1632,7 +1627,7 @@ encourage you to validate all of your code with the [The W3C Markup
 Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
 
-# 1.07 Editors: How to use Replit (5:55) {#editors-how-to-use-replit-555 .unnumbered}
+<h2 id="ch1-07">1.07 Editors: How to use Replit (5:55)</h2>
 
 ![](./images/media/image78.png){width="4.0in"
 height="2.2666666666666666in"}
