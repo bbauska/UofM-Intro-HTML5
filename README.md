@@ -1,7 +1,7 @@
 ---
-title: "University of Michigan's Intro to HTML5"
+title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/11/2024 1+am"
+date last editted: "2/11/2024 12+pm"
 output: 
   markdown:
     with some style
