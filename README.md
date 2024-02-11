@@ -7,7 +7,7 @@ output:
     with some style
 ---
 
-<a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/">How-To's in HTML</a>
+<a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/">How-To's in HTML (a beginner's guide)</a>
 
 <a href="https://replit.com/~">Replit Home</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
