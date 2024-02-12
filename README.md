@@ -1,13 +1,14 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/11/2024 12+pm"
+date last editted: "2/12/2024 11+am"
 output: 
   markdown:
     with some style
 ---
 
-<a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/">How-To's in HTML (a beginner's guide)</a>
+<a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/">
+How-To's in HTML (a beginner's guide)</a>
 
 <a href="https://replit.com/~">Replit Home</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -466,8 +467,7 @@ site.
 <p align="center">
   <img src="./images/image007.png" 
   alt="Week 3: Putting it Together." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Week Three, we&apos;re really going to put it all together. At this point,
@@ -2254,7 +2254,7 @@ kind of things that can really mess up your code when you try to
 validate it later, and so being cognizant of these ideas in the
 beginning will really help you write much cleaner code.
 
-### 2.02.Cheatsheets {#cheatsheets .unnumbered}
+### 2.02.Cheatsheets
 
 There are many online \"cheat sheets\" for HTML. These files list all of
 the HTML5 tags, and also include information about tags that are common,
@@ -2266,7 +2266,7 @@ but here are links to three that I have recommended in the past.
     We also included the availability of the tag from the previous HTML
     4 version for comparison. You can find it at: [The Ultimate HTML5
     Cheat
-    Sheet](https://www.wpkube.com/html5-cheat-sheet/)[.]{.underline}
+    Sheet](https://www.wpkube.com/html5-cheat-sheet/)[.]
 
 2.  This next cheat sheet also provides information on tags, but has a
     built-in editor to try things out. It also includes information on
@@ -2280,7 +2280,7 @@ but here are links to three that I have recommended in the past.
     Accessibility Cheat
     Sheet](https://webaim.org/resources/htmlcheatsheet/)
 
-### 2.02.Semantic Tags {#semantic-tags .unnumbered}
+### 2.02.Semantic Tags
 
 One of the best ways to make sure that your page is accessible to as
 many people as possible is to use semantic tags. When writing HTML, it
@@ -2292,7 +2292,7 @@ HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-# 2.03. Semantic Tags (6:04) {#semantic-tags-604 .unnumbered}
+## 2.03. Semantic Tags (6:04)
 
 ![](./images/media/image95.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -2384,7 +2384,7 @@ Semantic guide tags are gonna help guide your users to the information
 in your page. And that\'s really what you want to do, you want to make
 your page the most accessible to as many people as possible.
 
-### 2.03.Code Placement {#code-placement .unnumbered}
+### 2.03.Code Placement
 
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -2424,7 +2424,7 @@ It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
 
-# 2.04. Template Page in Visual Studio Code (8:13) {#template-page-in-visual-studio-code-813 .unnumbered}
+## 2.04. Template Page in Visual Studio Code (8:13)
 
 ![](./images/media/image97.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -2520,7 +2520,7 @@ to see that it\'s really important to go slowly, save often, check
 often, and make sure that you\'re writing code that you can be proud of
 that\'s accessible.
 
-# 2.05. Template Page in Replit (8:04) {#template-page-in-replit-804 .unnumbered}
+## 2.05. Template Page in Replit (8:04)
 
 ![](./images/media/image98.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -2619,34 +2619,26 @@ main section, and the footer, because as we learn about more
 accessibility tools, you\'re going to realize that they are an important
 step to making your page accessible for everyone.
 
-### 2.05.Starter Code for Template Page {#starter-code-for-template-page .unnumbered}
+### 2.05.Starter Code for Template Page
 
 I just want to give you some sample template code. If need be, you can
 copy and paste this to get you started:
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-\<!DOCTYPE html\>
-
-\<html lang=\"en\"\>
-
-\<head\>
-
-    \<meta charset=\"UTF-8\"\>
-
-    \<title\>Document\</title\>
-
-\</head\>
-
-\<body\>
-
+```
+*************************************
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
     
+</body>
+</html>
+```
 
-\</body\>
-
-\</html\>
-
-### 2.05.Images and Icons {#images-and-icons .unnumbered}
+### 2.05.Images and Icons
 
 It is difficult to believe that the internet used to be all text. 
 Knowing how to incorporate visual media (images, icons, videos, etc) is
@@ -2672,7 +2664,7 @@ guidelines while you watch the upcoming videos: 
 
 -   Use alt=\"\" if the image is only for decoration
 
-### Making All of Your Images Accessible Everywhere {#making-all-of-your-images-accessible-everywhere .unnumbered}
+### Making All of Your Images Accessible Everywhere
 
 Understanding how images work on other platforms is important too. For
 instance, when you make a presentation at work you can add alternative
@@ -2699,11 +2691,15 @@ end.
 
 Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
-
-# 2.06. Images (9:28) {#images-928 .unnumbered}
-
-![](./images/media/image99.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-06">2.06. Images (9:28)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. images (2.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image099.png" 
+  alt="2.06 images." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 It may be hard to believe, but when you think about the early days of
 the Internet, there were actually no images at all. Now, it\'s hard to
@@ -2822,9 +2818,9 @@ width in the HTML code itself using the attribute. If you decide to
 learn more with us, you can later learn about how to use CSS to do even
 more with your images to make them pop. Good luck.
 
-### 2.06.Copyright, Fair Use, and Inclusive Images {#copyright-fair-use-and-inclusive-images .unnumbered}
+### 2.06.Copyright, Fair Use, and Inclusive Images
 
-### Where to get images? {#where-to-get-images .unnumbered}
+### Where to get images?
 
 Every time a product is created, that product is automatically protected
 by copyright. Copyright protection prevents others from using the work
@@ -2847,7 +2843,7 @@ Bank](https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yE
 It includes links to high-quality image banks that reflect diversity,
 equity, and inclusion.
 
-# 2.07. Accessible Images (7:43) {#accessible-images-743 .unnumbered}
+## 2.07. Accessible Images (7:43)
 
 ![](./images/media/image100.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -2954,14 +2950,14 @@ something really exciting food that I would like to try.\" So do what
 you can to try to just make sure that the page reflects yourself and the
 best self that you can be.
 
-### Alternative Text {#alternative-text .unnumbered}
+### Alternative Text
 
 Creating good alternative text is almost an art. The good news is that
 it is an art that even artistically-challenged people like myself can do
 well. The key is to think about the meanings behind your images, not a
 description of them. So here are some tips:
 
-### Tips {#tips .unnumbered}
+### Tips
 
 -   **Decide what information the image conveys:** Does someone need to
     see the page to understand your message? If not, you can treat the
@@ -2994,7 +2990,7 @@ tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) site as a
 resource. This site guides you with simple \"yes/no\" questions on how
 to create your alt text.
 
-# 2.08. Hyperlinks (9:23) {#hyperlinks-923 .unnumbered}
+## 2.08. Hyperlinks (9:23)
 
 ![](./images/media/image101.png){width="4.0in"
 height="2.2666666666666666in"}
@@ -3142,7 +3138,7 @@ I\'m just saying make sure that you do it carefully to ensure that
 everyone who is viewing your page can get the same content and the same
 experience as everyone else.
 
-# 2.09. Useful Tags (x:xx) {#useful-tags-xxx .unnumbered}
+## 2.09. Useful Tags (x:xx)
 
 ![](./images/media/image102.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3328,7 +3324,7 @@ greatest number of people possible. And really, the only way you can do
 this is by keeping your code simple, succinct, and you\'re always
 validating. Thanks.
 
-## Additional Resources {#additional-resources-1 .unnumbered}
+### Additional Resources
 
 Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.
@@ -3344,7 +3340,7 @@ Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-sh
 
 -   
 
-### Alt Text {#alt-text .unnumbered}
+### Alt Text
 
 -   [W3 alt decision
     tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
@@ -3353,16 +3349,16 @@ Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-sh
 the W3 alt decision tree site as a resource. This site guides you with
 simple \"yes/no\" questions on how to create your alt text.
 
-## Resources {#resources .unnumbered}
+## Resources
 
-### Lecture Slides {#lecture-slides-3 .unnumbered}
+### Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
 video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
-### Code {#code-2 .unnumbered}
+### Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -3373,7 +3369,7 @@ Code](https://intro-webdesign.com/v3/html5.html#code)
 provided for this week\'s lessons.  (Note, for Week 3 there isn\'t any
 starter code so you will be writing the code on your own!)
 
-# 3.01. Accessibility (11:01) {#accessibility-1101 .unnumbered}
+## 3.01. Accessibility (11:01)
 
 ![](./images/media/image103.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3541,7 +3537,7 @@ understand the content of your page. Together we can make sure that the
 next generation of Web developers are designing for the greatest
 possible audience.
 
-### 3.01.Does Your Browser Support Accessibility? {#does-your-browser-support-accessibility .unnumbered}
+### 3.01.Does Your Browser Support Accessibility?
 
 In the Week One material you may or may not have run the test at
 <https://html5test.com/> to see how well your browser supports HTML5.
@@ -3561,7 +3557,7 @@ related features are supported.
 ![](./images/media/image104.png){width="5.0in"
 height="2.2467946194225723in"}
 
-# 3.02. Validating Your Site (4:10) {#validating-your-site-410 .unnumbered}
+## 3.02. Validating Your Site (4:10)
 
 ![](./images/media/image105.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3617,7 +3613,7 @@ important thing to know is that validated sites are more robust and
 they\'re more accessible. More robust means they\'re less likely to
 break.
 
-### 3.02.Putting Your Code Out on to the Web {#putting-your-code-out-on-to-the-web .unnumbered}
+### 3.02.Putting Your Code Out on to the Web
 
 The videos in this next section are intended for those students who want
 to post their websites to the Web. Until now you have been viewing your
@@ -3629,7 +3625,7 @@ feel free to skip the lectures on Replit and Github Pages if you don\'t
 plan on hosting your files on the web. You can always change your mind
 and host them later.
 
-# 3.03. Hosting Your Site (4:19) {#hosting-your-site-419 .unnumbered}
+## 3.03. Hosting Your Site (4:19)
 
 ![](./images/media/image106.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3702,7 +3698,7 @@ support, but you just don\'t have to pay for them. So, I hope you\'re
 excited, and I hope you\'re going to take that next step and that you
 want to go and post your work out on the web. Good luck.
 
-# 3.04a. Creating a GitHub Pages Account (5:29) {#a.-creating-a-github-pages-account-529 .unnumbered}
+## 3.04a. Creating a GitHub Pages Account (5:29)
 
 ![](./images/media/image107.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3768,7 +3764,7 @@ upload. But hopefully, from here, you won\'t have too much problems. In
 the readings, I\'ll includes links to other places you can look for help
 in creating your GitHub Pages account.
 
-# 3.04b. Uploading to GitHub Pages (8:25) {#b.-uploading-to-github-pages-825 .unnumbered}
+## 3.04b. Uploading to GitHub Pages (8:25)
 
 ![](./images/media/image108.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3868,7 +3864,7 @@ seems to almost forget to look for \"index.html\" file. So, I\'ll hit
 to host your code and share it with everyone who you think will be
 impressed with your incredible work.
 
-# 3.05. Sharing Your Page from Replit (3:06) {#sharing-your-page-from-replit-306 .unnumbered}
+## 3.05. Sharing Your Page from Replit (3:06)
 
 ![](./images/media/image109.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -3911,7 +3907,7 @@ remember this, you can jump on the forums. People will be there to give
 you help. But we always want to give people the greatest chance possible
 to look at your code and see how it\'s all working together, good luck.
 
-### 3.05.Sharing Your Page from Replit {#sharing-your-page-from-replit .unnumbered}
+### 3.05.Sharing Your Page from Replit
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -3920,7 +3916,7 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-### 3.05.Getting started {#getting-started-1 .unnumbered}
+### 3.05.Getting started 
 
 1.  Go to <https://replit.com/>
 
@@ -3938,7 +3934,7 @@ Replit is free, and the first step is to make an account.
 screen.](./images/media/image110.png){width="4.0in"
 height="1.6423075240594927in"}
 
-### 3.05.Creating a repl {#creating-a-repl-1 .unnumbered}
+### 3.05.Creating a repl
 
 ![The + Create button under the heading My
 Repls.](./images/media/image88.png){width="4.0in"
@@ -3963,7 +3959,7 @@ height="1.7692311898512685in"}
 and public.](./images/media/image89.png){width="4.0in"
 height="2.308546587926509in"}
 
-### Congrats!  {#congrats-1 .unnumbered}
+### Congrats!
 
 A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the IDE are. But for now the important
@@ -3973,7 +3969,7 @@ section, the Coding Environment, and the View window.
 ![The files section](./images/media/image111.png){width="2.0in"
 height="1.562179571303587in"}
 
-### 3.05.File Section {#file-section-1 .unnumbered}
+### 3.05.File Section
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -3988,7 +3984,7 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-### 3.05.Coding Environment {#coding-environment-1 .unnumbered}
+### 3.05.Coding Environment
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
@@ -3996,7 +3992,7 @@ where you can edit your code. 
 ![A code editor](./images/media/image112.png){width="4.0in"
 height="2.3675218722659666in"}
 
-### 3.05.View Window {#view-window-1 .unnumbered}
+### 3.05.View Window
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -4011,7 +4007,7 @@ created your repl.
 ![The view window](./images/media/image113.png){width="3.0in"
 height="2.9291666666666667in"}
 
-### 3.05.More information {#more-information-1 .unnumbered}
+### 3.05.More information
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit)
@@ -4024,9 +4020,9 @@ for more detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### 3.05.Final Project Description {#final-project-description .unnumbered}
+### 3.05.Final Project Description
 
-### **Specification** {#specification .unnumbered}
+### **Specification**
 
 Your final project is to create and host your own website using
 [Replit](https://replit.com/).
@@ -4036,7 +4032,7 @@ specific webpage, but I invite you all to create a page of your choice,
 you just need to make sure that you have the following components in
 your project.
 
-### **Grading Checklist** {#grading-checklist .unnumbered}
+### **Grading Checklist**
 
 1.  doctype
 
@@ -4060,7 +4056,7 @@ Tool](https://wave.webaim.org/)
 
 .
 
-### **3.05.Examples** {#examples .unnumbered}
+### **3.05.Examples**
 
 1.  [Example 1 - Michigan
     Facts](https://replit.com/@wd4eHTML/Example-Site-1)
@@ -4072,7 +4068,7 @@ Laptops](https://replit.com/@WD4E-HTML/Example-Site-3)
 
 3.  
 
-### **Peer Grading** {#peer-grading .unnumbered}
+### **Peer Grading**
 
 For this assignment you will be grading the submission of your peers and
 they will be grading your work as well.
@@ -4081,7 +4077,7 @@ Please note that you must get this COMPLETELY correct to receive credit.
 You will get frustrated. You will put in silly mistakes. But hang in
 there. And don\'t forget to reach out for help if you need it.
 
-# 3.06. Final Project Demo (5:48) {#final-project-demo-548 .unnumbered}
+## 3.06. Final Project Demo (5:48)
 
 ![](./images/media/image114.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -4167,7 +4163,7 @@ harshly. This is really just a celebration of you learning something new
 and taking that time to learn about HTML, the web accessibility and just
 tech in general. Good luck.
 
-### Congratulations! {#congratulations .unnumbered}
+### Congratulations!
 
 Well done on taking the leap and learning more about the way web pages
 are created and transferred across the Internet. If you enjoyed this
@@ -4176,7 +4172,7 @@ to go. This course is the first course in the Web Design for Everybody
 Specialization offered by Coursera. The other courses in this
 specialization include:
 
-### 3.06.Introduction to CSS3 {#introduction-to-css3 .unnumbered}
+### 3.06.Introduction to CSS3
 
 In this course you will take simple HTML documents and use Cascading
 Style Sheets (CSS) to make them look less like they are from 1992 and
@@ -4187,14 +4183,14 @@ takes on even greater importance since many people ignore the core
 principles and tend to use color, images, and font to convey information
 instead of using semantic tags.
 
-### 3.06.Adding Interaction with JavaScript {#adding-interaction-with-javascript .unnumbered}
+### 3.06.Adding Interaction with JavaScript
 
 Ever notice how some pages react to mouse clicks, screen swipes, or
 information you type into forms? This is often done using the JavaScript
 programming language. This course offers you an overview of the
 techniques and best practices for adding interaction to your site.
 
-### 3.06.Responsive Design {#responsive-design .unnumbered}
+### 3.06.Responsive Design
 
 Responsive design is the ability to design a site with multiple screen
 sizes (or \"platforms\") in mind. We have all been to a site that
@@ -4205,7 +4201,7 @@ viewed on. Techniques include determining specific screen sizes
 yourself, or using popular template platforms such as Bootstrap to
 handle the responsive aspects for you.
 
-# 3.07. Closing (3:54) {#closing-354 .unnumbered}
+## 3.07. Closing (3:54)
 
 ![](./images/media/image115.png){width="4.0in"
 height="2.2427351268591424in"}
@@ -4272,3 +4268,10 @@ page in very simple steps. And I hope it\'s something you\'ll enjoy and
 help you to continue your journey into HTML 5.
 
 the end...2/11/2024 last updated &/or reviewed.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image###.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
