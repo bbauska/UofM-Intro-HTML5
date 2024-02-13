@@ -1351,9 +1351,13 @@ buy new computers are going to be using Edge. But don\'t forget people
 don\'t buy new computers all the time or even if they do buy a new
 computer, they might decide they still like Internet Explorer better. So
 you basically want to make sure that you\'re considering both browsers.
-
-![](./images/image051.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 51.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image051.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Another option is Google Chrome. Google Chrome was developed by,
 surprise, Google, and it was a freeware that they created to be used on
@@ -1364,9 +1368,13 @@ on security. Unlike Microsoft, they care more. Unlike Microsoft, they
 get hacked one hell of a lot less. And this is partially why. Not so
 lazy as Microsoft. If that's something that you're concerned about,
 Chrome is a good way to go.
-
-![](./images/image052.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image052.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 The next option is Firefox. Once again, the theme seems to be, I'm
 always recommending free and open source browsers. What open source
@@ -1374,9 +1382,13 @@ means is that they\'ve actually shared their code with everyone (unlike
 Microsoft) for how they created Firefox. And this is a great way to let
 people make suggestions and improvements to it. It\'s also available for
 Windows, macOS, Linux, and different BSD operating systems.
-
-![](./images/image053.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 53.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image053.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 So who\'s using the different browsers? Back in 2014, I can show you
 that Internet Explorer had a really big chunk of the market, right
@@ -1391,17 +1403,25 @@ this is the new one that\'s everyone is going to be using. And the other
 interesting thing to kind of think about is, especially in this old map
 over here, people use really old browsers because people like to use
 what they\'re used to.
-
-![](./images/image054.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image054.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One thing that I\'m hoping all the students in my class take into
 consideration though, is accessibility. Accessibility is basically the
 ability of a browser to support all these special functionalities, and
 all these new HTML5 tags, and all types of assistive technology.
-
-![](./images/image055.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 55.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image055.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 One place you can go is this site www.html5accessibility.com. And what
 you\'ll find at this site is how well the different browsers are
@@ -1414,9 +1434,13 @@ better. However, it is important to notice that Internet Explorer is at
 56% and since it\'s been basically relegated into the background, it\'s
 unlikely that it\'s going to get much better. Greed and arrogance kept
 Microsoft behind.
-
-![](./images/image056.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 56.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image056.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So what I want you to take away from this is that browsers can vary in
 how well they adhere to different standards. And different versions of
@@ -1428,13 +1452,15 @@ IE unless you have a shit load of extra time to re-write everything. Not
 only will it make your site better, but it will be a little bit
 interesting for you as you can look at the different ways that HTML5 is
 supported.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-05">1.05 How to Use an Editor to Create an HTML File (10:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image057.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~ 57. how to use an editor to create an html file (1.05) (3x) ~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image057.png"
+  alt="1.05 How to Use an Editor to Create an HTML File."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One of the things that you\'re going to learn about making your web
 pages is that once in a while, you have to bite the bullet and stop
@@ -1443,9 +1469,13 @@ talked about browsers and how you can look at webpages but when it comes
 time to create a webpage, we have to use a different type of software
 called an editor. Before we begin typing in your code though, it is
 always worth your time to organize yourself and organize your files.
-
-![](./images/image058.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 58.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image058.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 **Step** 1, you need to decide where on your computer you\'re going to
 save your HTML files. I highly recommend that you make your own folder
@@ -1482,9 +1512,13 @@ If you\'re a paid learner on the Coursera platform, you do have access
 to VS Code right here within the site. But if you\'re one of our
 non-paid learners, don\'t worry, you can still do everything we do. You
 just have to download it first.
-
-![](./images/image059.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image059.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Once you\'ve decided on your editor, you\'re going to open it up and
 then I\'m going to want you to save your file and when you go to save
@@ -1499,11 +1533,16 @@ every time you type in a few lines, hit that Control-S or Command-S.
 It\'s a shortcut for saving your file. Then when you\'re all done, you
 have your code in your editor but you want to open up your page in your
 browser so you can see all the cool stuff that you\'ve made.
-
-![](./images/image060.png){width="3.5in"
-height="1.9766021434820646in"}
-![](./images/image061.png){width="3.5in"
-height="1.9766021434820646in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 60/61.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image060.png"
+  alt="."
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image061.png"
+  alt="."
+  style="border: 2px solid #000000; width:45%" />
+</p>
 
 So let\'s try this together using Visual Studio Code. The first thing
 that I\'m going to do is make a folder called \"**WD4E**.\" I\'m going
@@ -1514,9 +1553,13 @@ going to do a lot of coding together. So now I have my folder where I
 want to keep my files. I\'ve opened up Visual Studio Code and don\'t be
 scared off by all these different options. Focus in on the one option
 that says \"New File\" and we want to use a regular old text file.
-
-![](./images/image062.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image062.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I\'m going to close this window over here and remember I said one of the
 first things we want to do is we want to save this file, so for the
@@ -1524,9 +1567,13 @@ first time, I welcome you to go to \"File\" and then \"Save As.\" I\'m
 going to call this, **myFirstPage.html**. If you notice, it has in my
 **WD4E** folder, that\'s very important. We want to make sure it\'s in
 there. I\'m going to hit \'\'Save.\'\'
-
-![](./images/image063.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 63.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image063.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Our next step is very tricky and exciting and makes you feel like a real
 coder, even though we haven\'t done any coding before. Because I told
@@ -1539,9 +1586,13 @@ just going to say, \"Hi from Colleen.\" If I look up here near the top,
 I can see there\'s a little circle next to my file name. If you see a
 circle, that means I haven\'t saved it recently. I am going to do a
 Command-S to save it. Now I\'ve made my first page. Yay!
-
-![](./images/image064.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 64.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image064.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 But I need that last step (#5). That last step is how do you go from
 looking at something as an editor to actually seeing it in your browser.
@@ -1557,9 +1608,13 @@ Let\'s always talk about that. Let\'s jump on the message board. Let\'s
 learn how to go on and search for things. But I would really like to try
 to prepare you to know, there are some things that you\'re going to do
 and everyone does it, so it\'s okay.
-
-![](./images/image065.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 65.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image065.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 The first thing that happens to many people is that when they click on
 their file, instead of opening up in Chrome or Safari, or Firefox, it
@@ -1572,9 +1627,13 @@ out why it\'s showing you that text rather than the pretty page. If
 that\'s the case, usually the problem is that your file extension, you
 forgot to save it as .html. You\'re going to want to go back and check
 that.
-
-![](./images/image066.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 66.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image066.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Another problem that can happen is you can change your code. But even
 after you\'ve changed it, so that instead of saying, \"Hi from
@@ -1594,9 +1653,13 @@ instead of typing them by hand. They pick up these hidden characters.
 Try those things if it\'s not working for you, try refreshing the page,
 try going back, and making sure you saved your file. And if you copied
 and pasted, try to go back in and type it in by hand.
-
-![](./images/image067.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 67.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image067.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Throughout the rest of this course, you will see examples that I have
 written in TextEdit, in Sublime, in VS Code, and something new for the
@@ -1611,33 +1674,47 @@ code it\'s also going to let you share your code with your friends and
 family all across the country and all across the world. But wherever you
 feel most comfortable, pick one, maybe two editors. And that\'s what
 you\'re going to want to focus on and really become a pro.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-06">1.06 How to Use VS Code (6:24)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image068.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image068.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Let\'s talk about how to use Visual Studio code.
-
-![](./images/image069.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image069.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Once you open up Visual Studio Code, it\'s not unusual to be overwhelmed
 at first as to what you should be doing. Particularly since when we
 think of webpages, we like to think of a web page is being one-page. But
 actually a web page is numerous files that are all put together.
-
-![](./images/image070.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image070.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 My recommendation for you is once you start Visual Studio Code to always
 click on \"File,\" \"Open Folder,\" and navigate to the folder that you
 created for your site. In this case, it\'s \"wd4e-html.\"
-
-![](./images/image071.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 71.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image071.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 The reason that you want to open an entire folder, and I\'m going to
 say, yes, I trust the authors because it\'s me, is because off here to
@@ -1669,27 +1746,41 @@ your code, it\'s really important to make sure that you\'re always
 taking a moment to see what it looks like as well. One option for doing
 that is to go to your folder, find your first page and when we click on
 it, it opens up in Google Chrome.
-
-![](./images/image072.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image072.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I\'m going to zoom in so you can see it a little bit better. You can see
 I have a title up here of, \"My Amazing First Page.\" Let\'s say I want
 to go back and say, maybe my first page looks maybe not great, it just
 looks okay.
-
-![](./images/image073.png){width="3.5in"
-height="1.9769761592300963in"}![](./images/image074.png){width="3.5in"
-height="1.9769761592300963in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73/74.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image073.png"
+  alt="."
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image074.png"
+  alt="."
+  style="border: 2px solid #000000; width:45%" />
+</p>
 
 Because we\'re new, we have ways to improve. I\'m going to save it. But
 when I go back over here, it still looks the same as it did last time.
 If you remember, changing something in the editor doesn\'t automatically
 tell your browser to reload it. I\'m going to click here on the
 \"Reload,\" and it now it says, \"My first page looks okay.\"
-
-![](./images/image075.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image075.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Personally, when I code, I like to have half my screen as the browser,
 and half my screen as text editor, so I can go back and forth and see
@@ -1698,9 +1789,13 @@ another line.\" I\'m going to do \"Save,\" and I\'m going to do
 \"Reload.\" One of the things you might notice is how things look in the
 editor is not always how it\'s going to look on the webpage, will learn
 how to fix that.
-
-![](./images/image076.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 76.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image076.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 But I want to show you one more tip just in case you feel like Visual
 Studio Code is the editor you want to use. I\'m going to click back on
@@ -1714,9 +1809,13 @@ once. That\'s it. I never have to do this again. As it installs, let me
 explain what Live Server does. Live server will let you see the changes
 you make as you type. I\'m going to close this up here. I\'m going to
 make sure that I can see both things on the same page.
-
-![](./images/image077.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 77.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image077.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Now that I have Live server, I\'m going to go down here to the bottom of
 the screen where it says \"go live\" at the very bottom. Now, every time
@@ -1779,17 +1878,24 @@ writing syntactically correct code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 How to use Replit (5:55)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image078.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image078.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Earlier I mentioned that one of the editors I would highly recommend you
 use in this course is called \"Replit,\" because I want to show you that
 writing code is great. Writing code that you can share online to show
 others your progress is also really exciting.
-
-![](./images/image079.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79.  (3x) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image079.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 You\'ve probably used online editors before. Google Docs and Microsoft
 365 are common ways to share your documents. You can type something in,
@@ -1800,9 +1906,13 @@ Sharing code is a little bit different, especially when you want to
 share your web page with someone. Do you want to share the code or do
 you want to share more with them that visual thing that you created?
 Today, we are going to use something called \"Replit.\"
-
-![](./images/image080.png){width="4.0in"
-height="2.259401793525809in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 80.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image080.png"
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Replit is what we call an IDE, which is a fancy term called Integrated
 Development Environment. It lets you write your code, run your code,
@@ -1818,8 +1928,13 @@ highly recommend you using Replit because as I mentioned, unlike Sublime
 and Visual Studio Code, there are built-in tools for you to share your
 web page.
 
-![](./images/image081.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image081.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 The first step to using Replit is to create a Replit account. You\'re
 going to want to create a username, provide your email and give them a
@@ -1831,15 +1946,25 @@ perhaps for family members, friends, a company, pick a name that you
 think that they would want to use as a front-facing part of their
 company or personality.
 
-![](./images/image082.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image082.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Once you\'re logged on, we\'re going to start off by creating a Repl.
 I\'m going to click right down here on \"Create Repl\". It\'ll give you
 a number of different templates that you can use.
 
-![](./images/image083.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image083.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 We will scroll down until we find HTML, CSS, and JS, which stands for
 JavaScript. Don\'t worry that we don\'t know any CSS or JS yet. We can
@@ -1853,8 +1978,13 @@ make \"my\" lower case, the F capitalized, and the P capitalized.
 That\'s what we call camelCase. Anyone can see it, and I\'m going to
 click on \"Create Repl\".
 
-![](./images/image084.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 84.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image084.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 The first few times you log on, you\'re probably going to see a lot of
 helpful tips. I would recommend that you click through on all the next.
@@ -1862,8 +1992,13 @@ However, for me, I\'ve seen this before, so I don\'t really need to go
 through it. If you look, you will see that Repl has provided a lot of
 scaffolding for us, right?
 
-![](./images/image085.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 85.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image085.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 It\'s gone in and it\'s given us a lot of code. It\'s provided that
 DOCTYPE HTML. It has a title for us, it\'s called \"Replit\" so I might
@@ -1876,8 +2011,13 @@ overwhelming ourselves with code we don\'t need but I am going to say
 instead of \"Hello world,\" I\'m going to type in \"Hello Colleen\" and
 I\'m going to do a command-S for save.
 
-![](./images/image086.png){width="5.0in"
-height="2.824251968503937in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 86.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image086.png"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Did you notice something off here to the right? It will automatically
 show us what our page is going to look like as we type and save things.
@@ -1920,15 +2060,23 @@ Replit is free, and the first step is to make an account.
 5.  Go to the email inbox you created your account with and verify your
     email
 
-![The Create a Replit account
-screen.](./images/image087.png){width="4.0in"
-height="1.6423075240594927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 87. the create a replit account screen (xx) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image087.png"
+  alt="The Create a Replit Account screen."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### 1.07.Creating a repl
 
-![The + Create button under the heading My
-Repls.](./images/image088.png){width="4.0in"
-height="1.7692311898512685in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 88. the + create button under the heading my repls (xx) ~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image088.png"
+  alt="The + Create button under the heading My Repls."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 1.  If you search the page you should find a heading titled: My Repls.
     Under that is a blue box with the words + Create. Select \[+
@@ -1945,19 +2093,27 @@ height="1.7692311898512685in"}
 
 3.  Click \[+ Create Repl\]
 
-![Information to fill in on the create a repl screen: template, title,
-and public.](./images/image089.png){width="4.0in"
-height="2.308546587926509in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 89. info to fill in on the create a repl screen (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image089.png"
+  alt="Information to fill in on the create a repl screen: template, title, and public."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
-### Congrats!  {#congrats .unnumbered}
+### Congrats!
 
 A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
-
-![The files section](./images/image090.png){width="3.0in"
-height="2.34326990376203in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 90. the files section (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image090.png"
+  alt="The Files Section."
+  style="border: 2px solid #000000; width:30%" />
+</p>
 
 ### 1.07.File Section
 
@@ -1978,9 +2134,13 @@ is where you can:
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
-
-![A code editor](./images/image091.png){width="4.0in"
-height="2.3675218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 91. a code editor (xx) ~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image091.png"
+  alt="A code editor."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### 1.07.View Window
 
