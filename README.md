@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/12/2024 11+am"
+date last editted: "2/12/2024 4+pm"
 output: 
   markdown:
     with some style
@@ -21,17 +21,16 @@ How-To's in HTML (a beginner's guide)</a>
 <p align="center">
   <img src="./images/image001.png" 
   alt="HTML5 logo." 
-  style="border: 2px solid #000000;" 
-  width="20%" />
+  style="border: 2px solid #000000; width:20%" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.png" 
   alt="University of Michigan and Coursera logo." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
+
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**Week 1: Learning about the Web**](#ch1)
@@ -74,11 +73,10 @@ https://www.coursera.org/learn/intermediate-web-and-front-end-development/lectur
 
 <h1 id="ch1">Week 1: Learning about the Web</h1>
 
-This week we will uncover the &quot;mystery&quot; behind the Internet. What
-happens when you type a URL into your browser so that a webpage
-magically appears? What is HTML5 and what happened to HTML 1 - 4? We
-will also cover some practical concepts that you need to master before
-you begin coding your own pages.
+<p>This week we will uncover the &quot;mystery&quot; behind the Internet. What happens when 
+you type a URL into your browser so that a webpage magically appears? What is HTML5 and 
+what happened to HTML 1 - 4? We will also cover some practical concepts that you need to 
+master before you begin coding your own pages.</p>
 
 ### Learning Objectives
 
@@ -202,7 +200,7 @@ We will be peer grading this assignment which means that you will grade
 the code created by your fellow students and they will grade yours. But
 don&apos;t worry, we all want each other to succeed in my courses!
 
-## **Academic Honesty**
+### **Academic Honesty**
 
 All submitted work should be your own and academic dishonesty is not
 allowed. Academic dishonesty can be defined as:
@@ -368,7 +366,7 @@ take some time, but is a useful skill for advanced learners.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
   alt="1.01. Introduction to HTML5." 
@@ -387,7 +385,7 @@ In this course, we will be covering the basics. I really can&apos;t
 emphasize enough that we will be starting at the very basic building
 blocks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image004.png" 
   alt="What this course will cover: The Basics." 
@@ -418,7 +416,7 @@ stops because they&apos;re not sure where to get started. I really want to
 be there for you to show you how to get started and get off on the right
 foot.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (10) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image005.png" 
   alt="Week 1: What happens when you type an address into a URL, what tools
@@ -442,13 +440,12 @@ idea of how the web works and why it&apos;s important for you to be able to
 interact with people and with code that&apos;s being used to create your
 sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (11) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image006.png" 
   alt="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia." 
   style="border: 2px solid #000000; width:40%" />
 </p>
-<!--  width="40%" / -->
 
 Week Two, we&apos;re going to talk a little bit of theory, and then,
 unfortunately for some people, a lot of code. There&apos;s this idea of
@@ -463,7 +460,7 @@ We&apos;re going to talk about links, images, lists, tables, and also
 multimedia in case you would like to add any video or audio to your
 site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 3: putting it together (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 3: putting it together (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image007.png" 
   alt="Week 3: Putting it Together." 
@@ -486,13 +483,12 @@ hosting because it&apos;s a lot more fun to make websites if you can
 actually put it out there on the internet and let your friends and
 family see it, as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. final project (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. final project (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.png" 
   alt="Final Project: Create multipage website, pass W3C validation 
     &amp; WAVE accessibility review." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Finally, we&apos;ll work on a final project where you&apos;ll put together a lot
@@ -507,12 +503,11 @@ be talking about styling, we&apos;re not talking about different things. I
 really just want you to understand the HTML5 language and that&apos;s all
 about content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image009.png" 
   alt="This class is for persistent, non-nerd beginners." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Let&apos;s talk logistics. Let&apos;s talk about who this class is for. Who am I
@@ -530,12 +525,11 @@ of this class. Instead, it&apos;s about persistence. I&apos;d like you to just
 hang in there and learn enough that you can go off and help people build
 better technology.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image010.png" 
   alt="The educator is Colleen van Lent, PhD - University of Michigan."
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 A little bit about of who I am, I have a PhD in computer science which
@@ -689,7 +683,7 @@ pdf and docx format.
 ```
 -   
 
-## [Week 3 Lecture Slides.pdf]
+### [Week 3 Lecture Slides.pdf]
 
 ### Lecture Slides
 
@@ -699,8 +693,6 @@ video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
 ### 1.01-Week1-Lecture-Slides.pdf
-
-### 
 
 ### [Week 1 Lecture Slides.pdf]
 
@@ -715,23 +707,22 @@ Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week&apos;s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h1 id="ch1-02">1.02. The Evolution of HTML (9:36)</h1>
+<h2 id="ch1-02">1.02 The Evolution of HTML (9:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image011.png" 
-  alt="1.02. The evolution of HTML." 
-  style="border: 2px solid #000000;" 
-  width="40%" />
+  alt="1.02 The Evolution of HTML."  
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
-![](./images/media/image11.png){width="4.0in"
+![](./images/image11.png){width="4.0in"
 height="1.9854166666666666in"}
 
 Hi. Today we\'re going to be talking about HTML5. Specifically what it
 is, and why we aren\'t learning HTML1 instead. So what is HTML?
 
-![](./images/media/image12.png){width="4.0in"
+![](./images/image12.png){width="4.0in"
 height="1.9924912510936132in"}
 
 HTML stands for hypertext markup language. Markup languages are actually
@@ -740,7 +731,7 @@ they\'re special languages that use tags to annotate or markup
 documents. In HTML, the tags tell the browsers where you want to put
 headings, images, lists, links, et cetera.
 
-![](./images/media/image13.png){width="4.0in"
+![](./images/image013.png){width="4.0in"
 height="1.9591371391076116in"}
 
 A .HTML file is a special kind of file. You\'ve already seen special
@@ -754,13 +745,13 @@ display it on the screen. It\'s more than that, HTML file tags also
 allow screen readers and other assisted devices to utilize the tags to
 present the information in new and special ways.
 
-![](./images/media/image14.png){width="4.0in"
+![](./images/image014.png){width="4.0in"
 height="1.9836089238845145in"}
 
 So HTML is very similar to English, you can understand it even if you
 don\'t know much about it.
 
-![](./images/media/image15.png){width="5.004328521434821in"
+![](./images/image015.png){width="5.004328521434821in"
 height="2.4719160104986875in"}
 
 Let\'s look at this example HTML file over here. Most of it is just a
@@ -777,7 +768,7 @@ let the browser know, I don\'t want you to just show this material, I
 want you to actually link it to a different web page. So here\'s the
 output when any browser would look at our code.
 
-![](./images/media/image16.png){width="4.0in"
+![](./images/image016.png){width="4.0in"
 height="1.950819116360455in"}
 
 In the beginning, learning HTML is mostly about learning all those
@@ -787,7 +778,7 @@ different things like that. You spend most of your time going, oh, did I
 remember that tag and did I write it the right way? That\'s very
 short-lived.
 
-![](./images/media/image17.png){width="4.0in"
+![](./images/image017.png){width="4.0in"
 height="1.9591535433070866in"}
 
 In just a little amount of time, you\'re gonna gain the confidence to
@@ -798,7 +789,7 @@ be using? If someone\'s searching my page, can they find what they\'re
 looking for? Even if they can\'t see the text, can they use the tags to
 navigate through it?
 
-![](./images/media/image18.png){width="4.0in"
+![](./images/image018.png){width="4.0in"
 height="1.97582239720035in"}
 
 So what happened to HTML1? Why are we using something called HTML5?
@@ -814,14 +805,14 @@ corner, they were nuclear physicists, they didn\'t care about things
 such as color, images, or anything that wasn\'t science related, and
 that was the key.
 
-![](./images/media/image19.png){width="4.0in"
+![](./images/image019.png){width="4.0in"
 height="2.0078105861767277in"}
 
 HTML was intended to work across any platform. And in order to do this
 you really had to avoid things such as special fonts or different colors
 or anything that was more about layout than content.
 
-![](./images/media/image20.png){width="4.0in"
+![](./images/image020.png){width="4.0in"
 height="2.258974190726159in"}
 
 However, in 1993 Mosaic emerged as the first graphical browser. And what
@@ -834,7 +825,7 @@ like layout. They like that even as much as they like the content. So
 there is a big battle between how the Internet should evolve from that
 point.
 
-![](./images/media/image21.png){width="4.0in"
+![](./images/image021.png){width="4.0in"
 height="2.258974190726159in"}
 
 So after Mosaic emerged, the use of the Internet just absolutely
@@ -842,7 +833,7 @@ exploded, and more and more people were using it for commercial means,
 instead of just for doing research. Mosaic had challengers though, in
 the form of Netscape, Internet Explorer and other browsers.
 
-![](./images/media/image22.png){width="4.0in"
+![](./images/image022.png){width="4.0in"
 height="2.258974190726159in"}
 
 This was the start of what we call the browser wars. Each of these
@@ -866,7 +857,7 @@ wars, or best viewed on images today. Many times when you go to a page,
 you\'ll see that you can\'t actually access the full content if you\'re
 on your phone, unless you click on a link to the full website.
 
-![](./images/media/image23.png){width="4.0in"
+![](./images/image023.png){width="4.0in"
 height="2.258974190726159in"}
 
 How did this happen? How did we get to the point where different
@@ -883,7 +874,7 @@ groups, **The Web Accessibility Initiative**, they want to make sure,
 that no matter how people are accessing the web, they have the same
 ability to view the content.
 
-![](./images/media/image24.png){width="5.0in"
+![](./images/image024.png){width="5.0in"
 height="2.823718285214348in"}
 
 We had this evolution of browsers that we\'ve been talking about. In
@@ -896,7 +887,7 @@ browsers went back to this idea of separating content from style. And in
 learning about in this course, to create the content and CSS files to
 style it.
 
-![](./images/media/image25.png){width="5.0in"
+![](./images/image025.png){width="5.0in"
 height="2.823718285214348in"}
 
 So as the browsers evolved so did HTML. The way it tends to work in most
@@ -905,7 +896,7 @@ developers who push the standards. So as coders learned that there more
 and more things that they wanted the ability to do, it\'s the browsers
 job to keep up.
 
-![](./images/media/image26.png){width="5.0in"
+![](./images/image026.png){width="5.0in"
 height="2.823718285214348in"}
 
 So, where are we now? HTML5 is a cooperation between W3C and the Web
@@ -928,7 +919,7 @@ And finally, HTML5 should be device independent. It shouldn\'t matter
 whether you\'re on your phone, you laptop, a PC or even on a screen
 reader. You want everyone the same access to the information.
 
-![](./images/media/image27.png){width="5.0in"
+![](./images/image027.png){width="5.0in"
 height="2.823718285214348in"}
 
 When you think back over this module, there are certain lessons I hope
@@ -942,15 +933,17 @@ it. So, this is why we\'re developing new standards in HTML5 to handle
 these new requirements that people desire and push browsers to adopt the
 new standards.
 
-# 1.03 How it Works: The "Magic" of Page Requests (9:06) {#how-it-works-the-magic-of-page-requests-906 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-03">1.03 How it Works: The "Magic" of Page Requests (9:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image28.png){width="4.0in"
+![](./images/image028.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Today, let\'s talk about the request-response cycle or basically what
 happens when you type something into the address bar of your browser.
 
-![](./images/media/image29.png){width="4.0in"
+![](./images/image029.png){width="4.0in"
 height="2.258974190726159in"}
 
 One of the things I think is really funny and I\'m guilty of it as well,
@@ -960,7 +953,7 @@ actually one of the most technical of this entire class. I don\'t want
 to feel like you need to memorize this or write it down, but I do think
 it will help you understand what is going on as you learn HTML5.
 
-![](./images/media/image30.png){width="4.0in"
+![](./images/image030.png){width="4.0in"
 height="2.258974190726159in"}
 
 One of the things you might want to understand is the client-server
@@ -969,7 +962,7 @@ resources. Our hope is that they\'re always connected to the network.
 Clients are what we\'re using, where the machines that you use for
 personal use; like laptops, phones, et cetera.
 
-![](./images/media/image31.png){width="4.0in"
+![](./images/image031.png){width="4.0in"
 height="2.258974190726159in"}
 
 Let me show you in this picture. It\'s common to use networks such as
@@ -993,14 +986,14 @@ might be a university, where you want to be able to share servers across
 multiple buildings. The largest wide area network is, of course, the
 Internet.
 
-![](./images/media/image32.png){width="4.0in"
+![](./images/image032.png){width="4.0in"
 height="2.258974190726159in"}
 
 Now we get back to that question of what happens when you type something
 into the URL? What you\'re doing is that you the client are requesting a
 web page and the server needs to respond with the appropriate files.
 
-![](./images/media/image33.png){width="4.0in"
+![](./images/image033.png){width="4.0in"
 height="2.258974190726159in"}
 
 When you type something in, this is called the URL. Every URL has three
@@ -1010,7 +1003,7 @@ So, even though you\'re typing in one URL, one of the things to realize
 is that usually, you\'re actually requesting lots and lots of files all
 at once.
 
-![](./images/media/image34.png){width="4.0in"
+![](./images/image034.png){width="4.0in"
 height="2.258974190726159in"}
 
 The protocols that most people have seen; the first one is **HTTP**, the
@@ -1023,7 +1016,7 @@ Protocol. It\'s a little bit different. When you see HTTP, it\'s
 expecting that you\'re going to give back and forth HTML5 code; with
 **FTP**, it could be any type of file.
 
-![](./images/media/image35.png){width="5.0in"
+![](./images/image035.png){width="5.0in"
 height="2.823718285214348in"}
 
 We have the protocol, now let\'s talk about what the domain names
@@ -1036,7 +1029,7 @@ determined by **ICAAN**. Their job is to go in and decide which types of
 organizations qualify for different domains. I\'ve included a link here
 if you want, you can go and see what the different types are.
 
-![](./images/media/image36.png){width="5.0in"
+![](./images/image036.png){width="5.0in"
 height="2.823718285214348in"}
 
 But the important thing to know is that your domain name is actually
@@ -1050,14 +1043,14 @@ basically have sets of numbers, you have these different sets right
 here, where each X can represent one of 16 different values. So, you can
 see we have a lot of options, over 300 trillion, in fact.
 
-![](./images/media/image37.png){width="4.0in"
+![](./images/image037.png){width="4.0in"
 height="2.258974190726159in"}
 
 As I said, luckily for you, the domain name server lets you type in
 something really simple like Umich or Google, and it\'s the one that
 turns it into that really long number.
 
-![](./images/media/image38.png){width="5.0in"
+![](./images/image038.png){width="5.0in"
 height="2.823718285214348in"}
 
 The last part of your URL is the document. Sometimes you want to specify
@@ -1069,7 +1062,7 @@ there\'s no filename. But that\'s okay. Every server has a default
 document that it\'s going to return. Usually, it\'s called
 **index.html**.
 
-![](./images/media/image39.png){width="4.0in"
+![](./images/image039.png){width="4.0in"
 height="2.258974190726159in"}
 
 We know what it means when we\'re typing something in. We understand the
@@ -1077,7 +1070,7 @@ request. What happens though once we type that in, is we are actually
 going to get back a lot of information. Headers, cookies, form data, all
 the stuff that you don\'t see.
 
-![](./images/media/image40.png){width="4.0in"
+![](./images/image040.png){width="4.0in"
 height="2.258974190726159in"}
 
 The important thing to know is that the server returns files, not web
@@ -1093,7 +1086,7 @@ you get a 500 error, that actually means that the servers down. So, you
 may as well go have a snack, do something fun, come back later and type
 it in again.
 
-![](./images/media/image41.png){width="5.0in"
+![](./images/image041.png){width="5.0in"
 height="2.823718285214348in"}
 
 I want to kind of do a live demo with you of what happens when we type
@@ -1101,7 +1094,7 @@ something in. I\'ve written it down for you. It looks up the domain, the
 **DNS** returns an IP address, and then a whole bunch of files start to
 be returned. Let\'s take a look.
 
-![](./images/media/image42.png){width="5.0in"
+![](./images/image042.png){width="5.0in"
 height="2.823718285214348in"}
 
 What I\'ve done here is I\'ve gone to the School of Information site at
@@ -1110,9 +1103,9 @@ didn\'t type in the protocol because it usually just defaults. What you
 see here visually is a page. Student looking out, looking very inspired,
 et cetera.
 
-![](./images/media/image43.png){width="3.5in"
+![](./images/image043.png){width="3.5in"
 height="1.9766021434820646in"}
-![](./images/media/image44.png){width="3.5in"
+![](./images/image044.png){width="3.5in"
 height="1.9766021434820646in"}
 
 But now, I\'m going to do a little trick here, where I right-click on
@@ -1121,7 +1114,7 @@ A window\'s going to pop up to the side here. I\'m going to say, \"You
 know what? I would like to see all the information that\'s being
 returned when I actually request this page.\"
 
-![](./images/media/image45.png){width="5.0in"
+![](./images/image045.png){width="5.0in"
 height="2.823718285214348in"}
 
 I\'m requesting one page, I\'m going to hit \"Refresh.\" If you look off
@@ -1129,7 +1122,7 @@ to the side, don\'t worry that you can\'t see the details. But you
 should see that the single page is actually made up of lots and lots of
 files, and each one of these files was a separate request.
 
-![](./images/media/image46.png){width="4.0in"
+![](./images/image046.png){width="4.0in"
 height="2.258974190726159in"}
 
 Okay. So, let\'s review. This was a kind of long video, where really all
@@ -1142,7 +1135,7 @@ server. So, we\'re going to start off small. We\'re going to do one file
 at a time, but you can always look ahead to building bigger and bigger
 web applications.
 
-## 1.03.Browsers {#browsers .unnumbered}
+## 1.03.Browsers
 
 Browsers are constantly changing. Changing so much that it is difficult
 to keep up with all of the changes once you pick a favorite. Myself? I
@@ -1163,16 +1156,18 @@ Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
 
-# 1.04 Looking at Your Browser Options (5:25)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-04">1.04 Looking at Your Browser Options (5:25)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image47.png){width="4.0in"
+![](./images/image047.png){width="4.0in"
 height="2.2666666666666666in"}
 
 One of the things that you might notice is that there are a lot of
 different options for how you can view web pages, and these different
 options are called your different browsers.
 
-![](./images/media/image48.png){width="4.0in"
+![](./images/image048.png){width="4.0in"
 height="2.258974190726159in"}
 
 Different browsers have their pros and cons. I am not one of those
@@ -1184,7 +1179,7 @@ whichever one was installed on their computer. But, when you want to
 create websites, you might have one browser you use to look at things,
 but you really want to test your site on multiple browsers.
 
-![](./images/media/image49.png){width="4.0in"
+![](./images/image049.png){width="4.0in"
 height="2.258974190726159in"}
 
 So, let\'s talk about some of the differences. First, we have Internet
@@ -1196,7 +1191,7 @@ shit.
 It was platform-dependent and what that means is that it doesn\'t
 automatically work if you have a Mac.
 
-![](./images/media/image50.png){width="4.0in"
+![](./images/image050.png){width="4.0in"
 height="2.258974190726159in"}
 
 In 2015 Windows 10 came out and instead of including Internet Explorer
@@ -1207,7 +1202,7 @@ don\'t buy new computers all the time or even if they do buy a new
 computer, they might decide they still like Internet Explorer better. So
 you basically want to make sure that you\'re considering both browsers.
 
-![](./images/media/image51.png){width="4.0in"
+![](./images/image051.png){width="4.0in"
 height="2.258974190726159in"}
 
 Another option is Google Chrome. Google Chrome was developed by,
@@ -1220,7 +1215,7 @@ get hacked one hell of a lot less. And this is partially why. Not so
 lazy as Microsoft. If that's something that you're concerned about,
 Chrome is a good way to go.
 
-![](./images/media/image52.png){width="4.0in"
+![](./images/image052.png){width="4.0in"
 height="2.258974190726159in"}
 
 The next option is Firefox. Once again, the theme seems to be, I'm
@@ -1230,7 +1225,7 @@ Microsoft) for how they created Firefox. And this is a great way to let
 people make suggestions and improvements to it. It\'s also available for
 Windows, macOS, Linux, and different BSD operating systems.
 
-![](./images/media/image53.png){width="5.0in"
+![](./images/image053.png){width="5.0in"
 height="2.823718285214348in"}
 
 So who\'s using the different browsers? Back in 2014, I can show you
@@ -1247,7 +1242,7 @@ interesting thing to kind of think about is, especially in this old map
 over here, people use really old browsers because people like to use
 what they\'re used to.
 
-![](./images/media/image54.png){width="4.0in"
+![](./images/image054.png){width="4.0in"
 height="2.258974190726159in"}
 
 One thing that I\'m hoping all the students in my class take into
@@ -1255,7 +1250,7 @@ consideration though, is accessibility. Accessibility is basically the
 ability of a browser to support all these special functionalities, and
 all these new HTML5 tags, and all types of assistive technology.
 
-![](./images/media/image55.png){width="5.0in"
+![](./images/image055.png){width="5.0in"
 height="2.823718285214348in"}
 
 One place you can go is this site www.html5accessibility.com. And what
@@ -1270,7 +1265,7 @@ better. However, it is important to notice that Internet Explorer is at
 unlikely that it\'s going to get much better. Greed and arrogance kept
 Microsoft behind.
 
-![](./images/media/image56.png){width="4.0in"
+![](./images/image056.png){width="4.0in"
 height="2.258974190726159in"}
 
 So what I want you to take away from this is that browsers can vary in
@@ -1284,9 +1279,11 @@ only will it make your site better, but it will be a little bit
 interesting for you as you can look at the different ways that HTML5 is
 supported.
 
-# 1.05 Editors: How to Use an Editor to Create an HTML File (10:11) {#editors-how-to-use-an-editor-to-create-an-html-file-1011 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch1-05">1.05 Editors: How to Use an Editor to Create an HTML File (10:11)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image57.png){width="4.0in"
+![](./images/image057.png){width="4.0in"
 height="2.2666666666666666in"}
 
 One of the things that you\'re going to learn about making your web
@@ -1297,7 +1294,7 @@ time to create a webpage, we have to use a different type of software
 called an editor. Before we begin typing in your code though, it is
 always worth your time to organize yourself and organize your files.
 
-![](./images/media/image58.png){width="5.0in"
+![](./images/image058.png){width="5.0in"
 height="2.823718285214348in"}
 
 **Step** 1, you need to decide where on your computer you\'re going to
@@ -1336,7 +1333,7 @@ to VS Code right here within the site. But if you\'re one of our
 non-paid learners, don\'t worry, you can still do everything we do. You
 just have to download it first.
 
-![](./images/media/image59.png){width="4.0in"
+![](./images/image059.png){width="4.0in"
 height="2.258974190726159in"}
 
 Once you\'ve decided on your editor, you\'re going to open it up and
@@ -1353,9 +1350,9 @@ It\'s a shortcut for saving your file. Then when you\'re all done, you
 have your code in your editor but you want to open up your page in your
 browser so you can see all the cool stuff that you\'ve made.
 
-![](./images/media/image60.png){width="3.5in"
+![](./images/image060.png){width="3.5in"
 height="1.9766021434820646in"}
-![](./images/media/image61.png){width="3.5in"
+![](./images/image061.png){width="3.5in"
 height="1.9766021434820646in"}
 
 So let\'s try this together using Visual Studio Code. The first thing
@@ -1368,7 +1365,7 @@ want to keep my files. I\'ve opened up Visual Studio Code and don\'t be
 scared off by all these different options. Focus in on the one option
 that says \"New File\" and we want to use a regular old text file.
 
-![](./images/media/image62.png){width="5.0in"
+![](./images/image062.png){width="5.0in"
 height="2.823718285214348in"}
 
 I\'m going to close this window over here and remember I said one of the
@@ -1378,7 +1375,7 @@ going to call this, **myFirstPage.html**. If you notice, it has in my
 **WD4E** folder, that\'s very important. We want to make sure it\'s in
 there. I\'m going to hit \'\'Save.\'\'
 
-![](./images/media/image63.png){width="5.0in"
+![](./images/image063.png){width="5.0in"
 height="2.824251968503937in"}
 
 Our next step is very tricky and exciting and makes you feel like a real
@@ -1393,7 +1390,7 @@ I can see there\'s a little circle next to my file name. If you see a
 circle, that means I haven\'t saved it recently. I am going to do a
 Command-S to save it. Now I\'ve made my first page. Yay!
 
-![](./images/media/image64.png){width="5.0in"
+![](./images/image064.png){width="5.0in"
 height="2.824251968503937in"}
 
 But I need that last step (#5). That last step is how do you go from
@@ -1411,7 +1408,7 @@ learn how to go on and search for things. But I would really like to try
 to prepare you to know, there are some things that you\'re going to do
 and everyone does it, so it\'s okay.
 
-![](./images/media/image65.png){width="5.0in"
+![](./images/image065.png){width="5.0in"
 height="2.824251968503937in"}
 
 The first thing that happens to many people is that when they click on
@@ -1426,7 +1423,7 @@ that\'s the case, usually the problem is that your file extension, you
 forgot to save it as .html. You\'re going to want to go back and check
 that.
 
-![](./images/media/image66.png){width="5.0in"
+![](./images/image066.png){width="5.0in"
 height="2.824251968503937in"}
 
 Another problem that can happen is you can change your code. But even
@@ -1448,7 +1445,7 @@ Try those things if it\'s not working for you, try refreshing the page,
 try going back, and making sure you saved your file. And if you copied
 and pasted, try to go back in and type it in by hand.
 
-![](./images/media/image67.png){width="4.0in"
+![](./images/image067.png){width="4.0in"
 height="2.259401793525809in"}
 
 Throughout the rest of this course, you will see examples that I have
@@ -1465,14 +1462,16 @@ family all across the country and all across the world. But wherever you
 feel most comfortable, pick one, maybe two editors. And that\'s what
 you\'re going to want to focus on and really become a pro.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-06">1.06 Editors: How to Use VS Code (6:24)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image68.png){width="4.0in"
+![](./images/image068.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Let\'s talk about how to use Visual Studio code.
 
-![](./images/media/image69.png){width="5.0in"
+![](./images/image069.png){width="5.0in"
 height="2.824251968503937in"}
 
 Once you open up Visual Studio Code, it\'s not unusual to be overwhelmed
@@ -1480,14 +1479,14 @@ at first as to what you should be doing. Particularly since when we
 think of webpages, we like to think of a web page is being one-page. But
 actually a web page is numerous files that are all put together.
 
-![](./images/media/image70.png){width="5.0in"
+![](./images/image070.png){width="5.0in"
 height="2.824251968503937in"}
 
 My recommendation for you is once you start Visual Studio Code to always
 click on \"File,\" \"Open Folder,\" and navigate to the folder that you
 created for your site. In this case, it\'s \"wd4e-html.\"
 
-![](./images/media/image71.png){width="5.0in"
+![](./images/image071.png){width="5.0in"
 height="2.824251968503937in"}
 
 The reason that you want to open an entire folder, and I\'m going to
@@ -1521,7 +1520,7 @@ taking a moment to see what it looks like as well. One option for doing
 that is to go to your folder, find your first page and when we click on
 it, it opens up in Google Chrome.
 
-![](./images/media/image72.png){width="5.0in"
+![](./images/image072.png){width="5.0in"
 height="2.824251968503937in"}
 
 I\'m going to zoom in so you can see it a little bit better. You can see
@@ -1529,8 +1528,8 @@ I have a title up here of, \"My Amazing First Page.\" Let\'s say I want
 to go back and say, maybe my first page looks maybe not great, it just
 looks okay.
 
-![](./images/media/image73.png){width="3.5in"
-height="1.9769761592300963in"}![](./images/media/image74.png){width="3.5in"
+![](./images/image073.png){width="3.5in"
+height="1.9769761592300963in"}![](./images/image074.png){width="3.5in"
 height="1.9769761592300963in"}
 
 Because we\'re new, we have ways to improve. I\'m going to save it. But
@@ -1539,7 +1538,7 @@ If you remember, changing something in the editor doesn\'t automatically
 tell your browser to reload it. I\'m going to click here on the
 \"Reload,\" and it now it says, \"My first page looks okay.\"
 
-![](./images/media/image75.png){width="5.0in"
+![](./images/image075.png){width="5.0in"
 height="2.824251968503937in"}
 
 Personally, when I code, I like to have half my screen as the browser,
@@ -1550,7 +1549,7 @@ another line.\" I\'m going to do \"Save,\" and I\'m going to do
 editor is not always how it\'s going to look on the webpage, will learn
 how to fix that.
 
-![](./images/media/image76.png){width="5.0in"
+![](./images/image076.png){width="5.0in"
 height="2.824251968503937in"}
 
 But I want to show you one more tip just in case you feel like Visual
@@ -1566,7 +1565,7 @@ explain what Live Server does. Live server will let you see the changes
 you make as you type. I\'m going to close this up here. I\'m going to
 make sure that I can see both things on the same page.
 
-![](./images/media/image77.png){width="5.0in"
+![](./images/image077.png){width="5.0in"
 height="2.824251968503937in"}
 
 Now that I have Live server, I\'m going to go down here to the bottom of
@@ -1627,9 +1626,11 @@ encourage you to validate all of your code with the [The W3C Markup
 Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 Editors: How to use Replit (5:55)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image78.png){width="4.0in"
+![](./images/image078.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Earlier I mentioned that one of the editors I would highly recommend you
@@ -1637,7 +1638,7 @@ use in this course is called \"Replit,\" because I want to show you that
 writing code is great. Writing code that you can share online to show
 others your progress is also really exciting.
 
-![](./images/media/image79.png){width="4.0in"
+![](./images/image079.png){width="4.0in"
 height="2.259401793525809in"}
 
 You\'ve probably used online editors before. Google Docs and Microsoft
@@ -1650,7 +1651,7 @@ share your web page with someone. Do you want to share the code or do
 you want to share more with them that visual thing that you created?
 Today, we are going to use something called \"Replit.\"
 
-![](./images/media/image80.png){width="4.0in"
+![](./images/image080.png){width="4.0in"
 height="2.259401793525809in"}
 
 Replit is what we call an IDE, which is a fancy term called Integrated
@@ -1667,7 +1668,7 @@ highly recommend you using Replit because as I mentioned, unlike Sublime
 and Visual Studio Code, there are built-in tools for you to share your
 web page.
 
-![](./images/media/image81.png){width="5.0in"
+![](./images/image081.png){width="5.0in"
 height="2.824251968503937in"}
 
 The first step to using Replit is to create a Replit account. You\'re
@@ -1680,14 +1681,14 @@ perhaps for family members, friends, a company, pick a name that you
 think that they would want to use as a front-facing part of their
 company or personality.
 
-![](./images/media/image82.png){width="5.0in"
+![](./images/image082.png){width="5.0in"
 height="2.824251968503937in"}
 
 Once you\'re logged on, we\'re going to start off by creating a Repl.
 I\'m going to click right down here on \"Create Repl\". It\'ll give you
 a number of different templates that you can use.
 
-![](./images/media/image83.png){width="5.0in"
+![](./images/image083.png){width="5.0in"
 height="2.824251968503937in"}
 
 We will scroll down until we find HTML, CSS, and JS, which stands for
@@ -1702,7 +1703,7 @@ make \"my\" lower case, the F capitalized, and the P capitalized.
 That\'s what we call camelCase. Anyone can see it, and I\'m going to
 click on \"Create Repl\".
 
-![](./images/media/image84.png){width="5.0in"
+![](./images/image084.png){width="5.0in"
 height="2.824251968503937in"}
 
 The first few times you log on, you\'re probably going to see a lot of
@@ -1711,7 +1712,7 @@ However, for me, I\'ve seen this before, so I don\'t really need to go
 through it. If you look, you will see that Repl has provided a lot of
 scaffolding for us, right?
 
-![](./images/media/image85.png){width="5.0in"
+![](./images/image085.png){width="5.0in"
 height="2.824251968503937in"}
 
 It\'s gone in and it\'s given us a lot of code. It\'s provided that
@@ -1725,7 +1726,7 @@ overwhelming ourselves with code we don\'t need but I am going to say
 instead of \"Hello world,\" I\'m going to type in \"Hello Colleen\" and
 I\'m going to do a command-S for save.
 
-![](./images/media/image86.png){width="5.0in"
+![](./images/image086.png){width="5.0in"
 height="2.824251968503937in"}
 
 Did you notice something off here to the right? It will automatically
@@ -1746,7 +1747,7 @@ them lower case? You\'ll create files, you\'ll edit your files. While
 you edit them, you\'ll be able to see what they look like. This is why
 I\'m recommending you use Replit.
 
-### 1.07.Editors: How to use Replit {#editors-how-to-use-replit .unnumbered}
+### 1.07.Editors: How to use Replit
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -1755,7 +1756,7 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-### 1.07.Getting started {#getting-started .unnumbered}
+### 1.07.Getting started
 
 1.  Go to <https://replit.com/>
 
@@ -1770,13 +1771,13 @@ Replit is free, and the first step is to make an account.
     email
 
 ![The Create a Replit account
-screen.](./images/media/image87.png){width="4.0in"
+screen.](./images/image087.png){width="4.0in"
 height="1.6423075240594927in"}
 
-### 1.07.Creating a repl {#creating-a-repl .unnumbered}
+### 1.07.Creating a repl
 
 ![The + Create button under the heading My
-Repls.](./images/media/image88.png){width="4.0in"
+Repls.](./images/image088.png){width="4.0in"
 height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
@@ -1795,7 +1796,7 @@ height="1.7692311898512685in"}
 3.  Click \[+ Create Repl\]
 
 ![Information to fill in on the create a repl screen: template, title,
-and public.](./images/media/image89.png){width="4.0in"
+and public.](./images/image089.png){width="4.0in"
 height="2.308546587926509in"}
 
 ### Congrats!  {#congrats .unnumbered}
@@ -1805,10 +1806,10 @@ out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
 
-![The files section](./images/media/image90.png){width="3.0in"
+![The files section](./images/image090.png){width="3.0in"
 height="2.34326990376203in"}
 
-### 1.07.File Section {#file-section .unnumbered}
+### 1.07.File Section
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -1823,15 +1824,15 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-### 1.07.Coding Environment {#coding-environment .unnumbered}
+### 1.07.Coding Environment
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./images/media/image91.png){width="4.0in"
+![A code editor](./images/image091.png){width="4.0in"
 height="2.3675218722659666in"}
 
-### 1.07.View Window {#view-window .unnumbered}
+### 1.07.View Window
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -1843,10 +1844,10 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 
-![The view window](./images/media/image92.png){width="4.0in"
+![The view window](./images/image092.png){width="4.0in"
 height="3.9055555555555554in"}
 
-### 1.07.More information {#more-information .unnumbered}
+### 1.07.More information
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit) for more
@@ -1858,12 +1859,12 @@ detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### 1.07.Additional Resources {#additional-resources .unnumbered}
+### 1.07.Additional Resources
 
 Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.
 
-### 1.07.The origins of MOSAIC {#the-origins-of-mosaic .unnumbered}
+### 1.07.The origins of MOSAIC
 
 [Interview with Joseph
 Hardin.](https://www.youtube.com/watch?v=-c8iWUh3Sv4&app=desktop) If you
@@ -1872,7 +1873,7 @@ here is an interview with Joseph Hardin. The material in this video is
 just meant as a supplemental resource and is not required for the
 quizzes or any other evaluation.
 
-### 1.07.Readings {#readings .unnumbered}
+### 1.07.Readings
 
 The readings come from [Learn to Code HTML & CSS: Develop & Style
 Websites](https://learn.shayhowe.com/html-css/) and the [W3Schools
@@ -1900,16 +1901,16 @@ covering in this course. (CSS is the next course in this series.)
 
 -   [HTML Images](https://www.w3schools.com/html/html_images.asp) 
 
-### 1.07.Lecture Slides {#lecture-slides-2 .unnumbered}
+### 1.07.Lecture Slides
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
 video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
-[Week 2 Lecture Slides.pdf]{.underline}
+[Week 2 Lecture Slides.pdf]
 
-### 1.07.Code {#code-1 .unnumbered}
+### 1.07.Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -1920,9 +1921,11 @@ Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
 by week, so you can check to see if any code is provided for this
 week\'s lessons.
 
-# 2.01. The Document Object Model (DOM) (9:58) {#the-document-object-model-dom-958 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-01">2.01 The Document Object Model (DOM) (9:58)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image93.png){width="4.0in"
+![](./images/image093.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Let\'s talk about writing clean code. When I\'m talking about clean code
@@ -2044,7 +2047,7 @@ is that doesn\'t always work for everyone. So, just because your site
 looks good to you when you\'re looking at it on your browser, doesn\'t
 mean it\'s right. You have to use a validator to check your code.
 
-### 2.01.HTML5 Tags and Syntax {#html5-tags-and-syntax .unnumbered}
+### 2.01.HTML5 Tags and Syntax
 
 At first it will seem like the number of tags is overwhelming, but you
 can really start by focusing on the most common. These tags include:
@@ -2071,9 +2074,11 @@ code when you visit pages.
 Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 (optional, but recommended)
 
-# 2.02. HTML5 Tags and Syntax (12:10) {#html5-tags-and-syntax-1210 .unnumbered}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image94.png){width="4.0in"
+![](./images/image094.png){width="4.0in"
 height="2.2666666666666666in"}
 
 This is it. Today\'s the day, I\'m finally going to teach you enough
@@ -2292,9 +2297,11 @@ HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-## 2.03. Semantic Tags (6:04)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-03">2.03 Semantic Tags (6:04)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image95.png){width="4.0in"
+![](./images/image095.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Hi everybody. Today we\'re gonna be talking about some of the newer
@@ -2397,7 +2404,7 @@ files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
 
 ![Folder with list of documents nested
-within.](./images/media/image96.png){width="2.0in"
+within.](./images/image096.png){width="2.0in"
 height="2.4805555555555556in"}
 
 In this image you can see the following structure:
@@ -2424,9 +2431,11 @@ It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
 
-## 2.04. Template Page in Visual Studio Code (8:13)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-04">2.04 Template Page in Visual Studio Code (8:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image97.png){width="4.0in"
+![](./images/image097.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Earlier, I showed you how you can open the Visual Studio Code editor.
@@ -2520,9 +2529,11 @@ to see that it\'s really important to go slowly, save often, check
 often, and make sure that you\'re writing code that you can be proud of
 that\'s accessible.
 
-## 2.05. Template Page in Replit (8:04)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-05">2.05 Template Page in Replit (8:04)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image98.png){width="4.0in"
+![](./images/image098.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Earlier, we made a very simple web page using Replit, but now let\'s
@@ -2692,12 +2703,12 @@ end.
 Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-06">2.06. Images (9:28)</h2>
+<h2 id="ch2-06">2.06 Images (9:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. images (2.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image099.png" 
-  alt="2.06 images." 
+  alt="2.06 Images." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -2843,9 +2854,11 @@ Bank](https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yE
 It includes links to high-quality image banks that reflect diversity,
 equity, and inclusion.
 
-## 2.07. Accessible Images (7:43)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-07">2.07 Accessible Images (7:43)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image100.png){width="4.0in"
+![](./images/image100.png){width="4.0in"
 height="2.2666666666666666in"}
 
 I know we\'ve talked about images in the past, but I\'d really like to
@@ -2990,9 +3003,11 @@ tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) site as a
 resource. This site guides you with simple \"yes/no\" questions on how
 to create your alt text.
 
-## 2.08. Hyperlinks (9:23)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-08">2.08 Hyperlinks (9:23)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image101.png){width="4.0in"
+![](./images/image101.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Hi, today we\'re going to be talking about hyperlinks, or links, as
@@ -3138,9 +3153,11 @@ I\'m just saying make sure that you do it carefully to ensure that
 everyone who is viewing your page can get the same content and the same
 experience as everyone else.
 
-## 2.09. Useful Tags (x:xx)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-09">2.09 Useful Tags (x:xx)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image102.png){width="4.0in"
+![](./images/image102.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, today we\'re gonna talk about some of the tags that you may find
@@ -3349,7 +3366,7 @@ Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-sh
 the W3 alt decision tree site as a resource. This site guides you with
 simple \"yes/no\" questions on how to create your alt text.
 
-## Resources
+### Resources
 
 ### Lecture Slides
 
@@ -3369,9 +3386,11 @@ Code](https://intro-webdesign.com/v3/html5.html#code)
 provided for this week\'s lessons.  (Note, for Week 3 there isn\'t any
 starter code so you will be writing the code on your own!)
 
-## 3.01. Accessibility (11:01)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-01">3.01 Accessibility (11:01)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image103.png){width="4.0in"
+![](./images/image103.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One of the things that I\'m constantly talking about in my courses is
@@ -3554,12 +3573,14 @@ tests which HTML5 features are supported by major browsers. This
 includes if they are keyboard accessible and if any accessibility
 related features are supported.
 
-![](./images/media/image104.png){width="5.0in"
+![](./images/image104.png){width="5.0in"
 height="2.2467946194225723in"}
 
-## 3.02. Validating Your Site (4:10)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-02">3.02 Validating Your Site (4:10)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image105.png){width="4.0in"
+![](./images/image105.png){width="4.0in"
 height="2.2427351268591424in"}
 
 I know that I\'ve been saying validate your code over and over again,
@@ -3625,9 +3646,11 @@ feel free to skip the lectures on Replit and Github Pages if you don\'t
 plan on hosting your files on the web. You can always change your mind
 and host them later.
 
-## 3.03. Hosting Your Site (4:19)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-03">3.03 Hosting Your Site (4:19)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image106.png){width="4.0in"
+![](./images/image106.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, everybody. Today we\'re going to talk about hosting your site. And
@@ -3698,9 +3721,11 @@ support, but you just don\'t have to pay for them. So, I hope you\'re
 excited, and I hope you\'re going to take that next step and that you
 want to go and post your work out on the web. Good luck.
 
-## 3.04a. Creating a GitHub Pages Account (5:29)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-04a">3.04a Creating a GitHub Pages Account (5:29)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image107.png){width="4.0in"
+![](./images/image107.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One way that you can share your webpage with everyone is by hosting it
@@ -3764,9 +3789,11 @@ upload. But hopefully, from here, you won\'t have too much problems. In
 the readings, I\'ll includes links to other places you can look for help
 in creating your GitHub Pages account.
 
-## 3.04b. Uploading to GitHub Pages (8:25)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-04b">3.04b Uploading to GitHub Pages (8:25)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image108.png){width="4.0in"
+![](./images/image108.png){width="4.0in"
 height="2.2427351268591424in"}
 
 So, let\'s say you\'ve come up with a pretty nice site. I\'ve got one
@@ -3864,9 +3891,11 @@ seems to almost forget to look for \"index.html\" file. So, I\'ll hit
 to host your code and share it with everyone who you think will be
 impressed with your incredible work.
 
-## 3.05. Sharing Your Page from Replit (3:06)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-05">3.05 Sharing Your Page from Replit (3:06)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image109.png){width="4.0in"
+![](./images/image109.png){width="4.0in"
 height="2.2427351268591424in"}
 
 As we reach the end of this course, it\'s going to be time for you to
@@ -3931,13 +3960,13 @@ Replit is free, and the first step is to make an account.
     email
 
 ![The Create a Replit account
-screen.](./images/media/image110.png){width="4.0in"
+screen.](./images/image110.png){width="4.0in"
 height="1.6423075240594927in"}
 
 ### 3.05.Creating a repl
 
 ![The + Create button under the heading My
-Repls.](./images/media/image88.png){width="4.0in"
+Repls.](./images/image88.png){width="4.0in"
 height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
@@ -3956,7 +3985,7 @@ height="1.7692311898512685in"}
 3.  Click \[+ Create Repl\]
 
 ![Information to fill in on the create a repl screen: template, title,
-and public.](./images/media/image89.png){width="4.0in"
+and public.](./images/image089.png){width="4.0in"
 height="2.308546587926509in"}
 
 ### Congrats!
@@ -3966,7 +3995,7 @@ out what the different parts of the IDE are. But for now the important
 thing is that you should be able to find three things: the Files
 section, the Coding Environment, and the View window.
 
-![The files section](./images/media/image111.png){width="2.0in"
+![The files section](./images/image111.png){width="2.0in"
 height="1.562179571303587in"}
 
 ### 3.05.File Section
@@ -3989,7 +4018,7 @@ is where you can:
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./images/media/image112.png){width="4.0in"
+![A code editor](./images/image112.png){width="4.0in"
 height="2.3675218722659666in"}
 
 ### 3.05.View Window
@@ -4004,7 +4033,7 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 
-![The view window](./images/media/image113.png){width="3.0in"
+![The view window](./images/image113.png){width="3.0in"
 height="2.9291666666666667in"}
 
 ### 3.05.More information
@@ -4077,9 +4106,11 @@ Please note that you must get this COMPLETELY correct to receive credit.
 You will get frustrated. You will put in silly mistakes. But hang in
 there. And don\'t forget to reach out for help if you need it.
 
-## 3.06. Final Project Demo (5:48)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-06">3.06 Final Project Demo (5:48)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image114.png){width="4.0in"
+![](./images/image114.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everyone. Welcome to the Final Project. One of the things I\'ve
@@ -4201,9 +4232,11 @@ viewed on. Techniques include determining specific screen sizes
 yourself, or using popular template platforms such as Bootstrap to
 handle the responsive aspects for you.
 
-## 3.07. Closing (3:54)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch3-07">3.07 Closing (3:54)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/media/image115.png){width="4.0in"
+![](./images/image115.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everybody. I\'m not sure if I should say welcome back or goodbye.
@@ -4267,7 +4300,7 @@ that secret lecture, I want to show you ways that you can style your
 page in very simple steps. And I hope it\'s something you\'ll enjoy and
 help you to continue your journey into HTML 5.
 
-the end...2/11/2024 last updated &/or reviewed.
+<h5>the end...2/12/2024 last updated &/or reviewed.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
