@@ -716,23 +716,28 @@ week&apos;s lessons.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-![](./images/image11.png){width="4.0in"
-height="1.9854166666666666in"}
-
 Hi. Today we\'re going to be talking about HTML5. Specifically what it
 is, and why we aren\'t learning HTML1 instead. So what is HTML?
-
-![](./images/image12.png){width="4.0in"
-height="1.9924912510936132in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. what is html? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image012.png" 
+  alt="What is HTML?"
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 HTML stands for hypertext markup language. Markup languages are actually
 very common. They\'re not the same as programing languages, instead
 they\'re special languages that use tags to annotate or markup
 documents. In HTML, the tags tell the browsers where you want to put
 headings, images, lists, links, et cetera.
-
-![](./images/image013.png){width="4.0in"
-height="1.9591371391076116in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. .html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image013.png" 
+  alt=".html files."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 A .HTML file is a special kind of file. You\'ve already seen special
 file extensions before. Whenever you open a file that has a .doc, your
@@ -744,15 +749,23 @@ Firefox or Safari. Your browser can read this file and it knows how to
 display it on the screen. It\'s more than that, HTML file tags also
 allow screen readers and other assisted devices to utilize the tags to
 present the information in new and special ways.
-
-![](./images/image014.png){width="4.0in"
-height="1.9836089238845145in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14. html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image014.png" 
+  alt="HTML files."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So HTML is very similar to English, you can understand it even if you
 don\'t know much about it.
-
-![](./images/image015.png){width="5.004328521434821in"
-height="2.4719160104986875in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. example, html file (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image015.png" 
+  alt="Example, HTML file."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Let\'s look at this example HTML file over here. Most of it is just a
 typical English language. This is an important heading or hi there. I am
@@ -767,9 +780,13 @@ paragraph, and I have another tag down here called and anchor tag. To
 let the browser know, I don\'t want you to just show this material, I
 want you to actually link it to a different web page. So here\'s the
 output when any browser would look at our code.
-
-![](./images/image016.png){width="4.0in"
-height="1.950819116360455in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. 'learning' html (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image016.png" 
+  alt="'Learning' HTML."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 In the beginning, learning HTML is mostly about learning all those
 different tags that I showed you in that file. This is called learning
@@ -778,8 +795,13 @@ different things like that. You spend most of your time going, oh, did I
 remember that tag and did I write it the right way? That\'s very
 short-lived.
 
-![](./images/image017.png){width="4.0in"
-height="1.9591535433070866in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. 'learning' html, #2 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image017.png" 
+  alt="'Learning' HTML, #2."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 In just a little amount of time, you\'re gonna gain the confidence to
 not worry about your syntax and instead to be thinking about the
@@ -788,9 +810,13 @@ information that I\'m trying to get across, and is this the right tag to
 be using? If someone\'s searching my page, can they find what they\'re
 looking for? Even if they can\'t see the text, can they use the tags to
 navigate through it?
-
-![](./images/image018.png){width="4.0in"
-height="1.97582239720035in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. html, the early years (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image018.png" 
+  alt="HTML, The Early Years."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So what happened to HTML1? Why are we using something called HTML5?
 Well, let\'s talk about the early years. HTML was created in 1990 as a
@@ -804,16 +830,24 @@ audience from HTML tended to be people like my dad up there in the
 corner, they were nuclear physicists, they didn\'t care about things
 such as color, images, or anything that wasn\'t science related, and
 that was the key.
-
-![](./images/image019.png){width="4.0in"
-height="2.0078105861767277in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. html, early years, #2 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image019.png" 
+  alt="HTML, The Early Years, #2."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 HTML was intended to work across any platform. And in order to do this
 you really had to avoid things such as special fonts or different colors
 or anything that was more about layout than content.
-
-![](./images/image020.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. mosaic is introduced (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image020.png"
+  alt="Mosaic is introduced."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 However, in 1993 Mosaic emerged as the first graphical browser. And what
 that means is that it was a first browser to actually introduce the idea
@@ -825,16 +859,26 @@ like layout. They like that even as much as they like the content. So
 there is a big battle between how the Internet should evolve from that
 point.
 
-![](./images/image021.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. mosaic (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image021.png"
+  alt="Mosaic."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So after Mosaic emerged, the use of the Internet just absolutely
 exploded, and more and more people were using it for commercial means,
 instead of just for doing research. Mosaic had challengers though, in
 the form of Netscape, Internet Explorer and other browsers.
 
-![](./images/image022.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. the browser wars (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image022.png"
+  alt="The Browser Wars."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 This was the start of what we call the browser wars. Each of these
 browsers decided that they wanted to create these proprietary tags, tags
@@ -856,9 +900,13 @@ going to get the optimal experience. We all in a way suffer from browser
 wars, or best viewed on images today. Many times when you go to a page,
 you\'ll see that you can\'t actually access the full content if you\'re
 on your phone, unless you click on a link to the full website.
-
-![](./images/image023.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. web standards (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image023.png"
+  alt="Web standards."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 How did this happen? How did we get to the point where different
 browsers weren\'t agreeing on the different roles that HTML should play?
@@ -873,9 +921,13 @@ should and should not support. **Third**, and last, one of the newest
 groups, **The Web Accessibility Initiative**, they want to make sure,
 that no matter how people are accessing the web, they have the same
 ability to view the content.
-
-![](./images/image024.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. evolution of browsers (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image024.png"
+  alt="Evolution of browsers."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 We had this evolution of browsers that we\'ve been talking about. In
 1990 to \'94 it was all very simple, text-based. In \'93, we talked
@@ -886,18 +938,26 @@ browsers went back to this idea of separating content from style. And in
 2005 it became standard practice to use HTML files, which we are
 learning about in this course, to create the content and CSS files to
 style it.
-
-![](./images/image025.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. evolution of html (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image025.png"
+  alt="Evolution of HTML."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 So as the browsers evolved so did HTML. The way it tends to work in most
 computer science and technology fields is that it\'s the coders and the
 developers who push the standards. So as coders learned that there more
 and more things that they wanted the ability to do, it\'s the browsers
 job to keep up.
-
-![](./images/image026.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. where are we at now? (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image026.png"
+  alt="Where are we at now?"
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 So, where are we now? HTML5 is a cooperation between W3C and the Web
 Hypertext Application Technology Working Group, and what they\'ve done
@@ -918,9 +978,13 @@ simple tag that can do it instead.
 And finally, HTML5 should be device independent. It shouldn\'t matter
 whether you\'re on your phone, you laptop, a PC or even on a screen
 reader. You want everyone the same access to the information.
-
-![](./images/image027.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 27. review evolution of html (1-02) (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image027.png"
+  alt="Review of 1.02 The Evolution of HTML."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 When you think back over this module, there are certain lessons I hope
 stick with you. The first is the idea that HTML is not a programing
@@ -932,19 +996,26 @@ do something they tend to write nonstandard code to force browsers to do
 it. So, this is why we\'re developing new standards in HTML5 to handle
 these new requirements that people desire and push browsers to adopt the
 new standards.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-03">1.03 How it Works: The "Magic" of Page Requests (9:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image028.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 28. how it works: the 'magic' of page requests (26) ~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image028.png"
+  alt="1.03 How it Works: The 'Magic' of Page Requests."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Today, let\'s talk about the request-response cycle or basically what
 happens when you type something into the address bar of your browser.
-
-![](./images/image029.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. how does this all work? (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image029.png"
+  alt="How Does This All Work?"
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One of the things I think is really funny and I\'m guilty of it as well,
 is that we all do things and we have no idea how they work. If I were to
@@ -952,9 +1023,13 @@ ask you when you type in an address, what happens? This lecture is
 actually one of the most technical of this entire class. I don\'t want
 to feel like you need to memorize this or write it down, but I do think
 it will help you understand what is going on as you learn HTML5.
-
-![](./images/image030.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. client/server relationship (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image030.png"
+  alt="Client/Server Relationship."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One of the things you might want to understand is the client-server
 relationship. Servers are basically machines that hold all the
