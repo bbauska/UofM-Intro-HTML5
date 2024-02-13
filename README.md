@@ -2153,9 +2153,13 @@ when you created your repl.
 This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
-
-![The view window](./images/image092.png){width="4.0in"
-height="3.9055555555555554in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 92.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image092.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### 1.07.More information
 
@@ -2234,15 +2238,23 @@ week\'s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-01">2.01 The Document Object Model (DOM) (9:58)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image093.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 93.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image093.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Let\'s talk about writing clean code. When I\'m talking about clean code
 I\'m talking about learning how to write code that\'s going to work on
 as many devices as possible.
-![](./images/media/image094.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 94.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image094.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 In order to do that, you need to know a little bit about the Document
 Object Model, also called the DOM. When HTML5 was developed the main
@@ -2256,9 +2268,13 @@ One of the things about geeky computer scientists like myself is that we
 love trees. Not like trees out outside that are green and beautiful in
 the fall. We like mathematical trees. These tree-like structures that we
 can prove to be valid or invalid.
-
-![](./images/media/image095.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 95.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image095.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 When we talk about HTML as a tree we\'re talking about this idea that at
 the very root of the tree we are going to be creating HTML. Then, from
@@ -2277,9 +2293,13 @@ idea that at the root of every HTML page should be what\'s called the
 HTML tag. That kind of thing that says, lets the browser know, I\'m
 going to be giving you certain types of tags and here\'s how I want them
 to work.
-
-![](./images/media/image096.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 96.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image096.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 If we don\'t look at it as a picture, I can also kind of just tell you
 that every tree has three parts to a well-formed document. The
@@ -2288,9 +2308,13 @@ using. The **head**, which is all of the metadata or kind of extra
 information, and the body. The **body** is the displayable content. The
 thing that most people are going to get back when they do the
 **request-response cycle**.
-
-![](./images/media/image097.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 97.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image097.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So let\'s talk **doctype**. You are so lucky. When I was creating web
 pages at first and we were in HTML4, we had to come up with all these
@@ -2298,9 +2322,13 @@ different ways to kind of explain whether our HTML4 was like very strict
 standards or whether it was transitional. In HTML5, it\'s very simple to
 say, \"Nope, there\'s only one thing and it\'s called DOCTYPE HTML, and
 you\'re all set.\"
-
-![](./images/media/image098.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 98.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image098.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 For the **head** which is inside the **head** tag, we\'re going to have
 all this additional information used by the browser. So for instance you
@@ -2314,9 +2342,13 @@ page, or JavaScript that can add on different interaction, or really any
 type of add-on that\'s going to change the way people view and interact
 with your site. Other than the title, the metadata is not displayed,
 people will not see it.
-
-![](./images/media/image099.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 99.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image099.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 What people do see is the information that\'s in your **body** tag. That
 **body** tag is the bulk of your page. It\'s very important to write
@@ -2325,9 +2357,13 @@ tag has an end. That you\'re not putting tags in weird orders. Most of
 the content in the **body** is displayed by the browser but every once
 in a while there\'s a little bit of metadata in there too. But we\'re
 not going to hit that in this class.
-
-![](./images/media/image100.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 100.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image100.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Let\'s look at an example. Right here, I have a file called
 \"template.html,\" and I\'m displaying the code here on the screen for
@@ -2351,16 +2387,24 @@ parts.
 
 The last part is the **body** tag and it\'s displaying the content that
 we want to see on the screen.
-
-![](./images/media/image101.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 101.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image101.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 So let\'s look at this in a browser. What do I have? I have my **title**
 way up here, and my displayable content right down there. I have written
 the code, the next step you should always do is validate the code.
-
-![](./images/media/image102.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 102.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image102.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Say, \"Ok, I have written code it looks good, but I know that browsers
 are very nice and they make things display nicely even when I haven\'t
@@ -2372,9 +2416,13 @@ I\'ve put in the **URL** to **template.html**. Run Check, and yay, not
 surprisingly because I knew I was going to be taping this, it
 successfully checked. Don\'t worry about warnings. Warnings are usually
 in to cover themselves.
-
-![](./images/media/image103.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 103.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image103.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 What if you want to validate your file but your files aren\'t actually
 on the Internet yet? Let\'s walk through really quickly an example of
@@ -2382,9 +2430,13 @@ how you can do that. Let\'s say that I have my file \"template.html\"
 and I want to check it. I want to point out to you that I went in and I
 changed the file and I put in an intentional typo. I spelled the closing
 tag for title incorrectly.
-
-![](./images/media/image104.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 104.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image104.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Let\'s see what happens. And if the browser or the validator can find
 this. What I\'m going to do is I went to **validator.w3.org**, and I\'m
@@ -2400,16 +2452,24 @@ oh. I found the end of a file and I was not expecting that.\" Well the
 reason that happened is let\'s check out error number 2, it tells us,
 \"Oh you forgot to close the title tag.\" So sometimes one error can
 cause a lot of error messages.
-
-![](./images/media/image105.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 105.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image105.png"
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I\'m going to go back over to my code, I\'m going to fix it and put that
 title in and save it. Copy it again, put it in and I\'m going to check
 again. This time, checking complete, no errors.
-
-![](./images/media/image106.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 106.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image106.png"
+  alt="." 
+  style="border: 2px solid #000000; width:30%" />
+</p>
 
 Just to review, you really want to follow **DOM** structure if you want
 a well-formed page. Following that structure means you always use
@@ -2454,17 +2514,25 @@ code when you visit pages.
 ### 2.01. [HTML Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 
 <h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
-
-![](./images/media/image107.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 107.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image107.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 This is it. Today\'s the day, I\'m finally going to teach you enough
 HTML that you can start making an interesting page to share with your
 friends and family. It\'s also, unfortunately, probably, or at least
 hopefully, my first really big disappointment to you.
-
-![](./images/media/image108.png){width="4.0in"
-height="2.2581200787401574in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 108.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image108.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 And the reason is, I need to just break it to you right away that I
 can\'t teach you all of the HTML5 tags. I can\'t teach them all to you
@@ -2473,9 +2541,13 @@ boring for me to list them all off to you. Instead, I\'m gonna get you
 started and point you in the direction of where you can find resources
 for more tags. Because it\'s really not until you need a tag that you
 ever really bother learning about it.
-
-![](./images/media/image109.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image109.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Every tag has a beginning and an end. So, right here I\'m using what\'s
 called an h1 tag or a heading tag to encase the words \"Hello World.\"
@@ -2498,9 +2570,13 @@ Also, some tags have what we call attributes. So the source which is
 where the picture is located, an href which is where the new page you
 want to go to is. So when we talk about the tags, for some of them I\'ll
 also be talking about the attributes.
-
-![](./images/media/image110.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 110.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image110.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Before we begin, I want to talk to you about one of the most important
 attributes in an element and that\'s its **display**. The two most
@@ -2514,9 +2590,13 @@ want you to understand some tags are **block** and some are **inline**.
 And it may not seem important now, but it\'s the kind of thing that\'s
 going to make it much easier for you when you\'re trying to make your
 pages look a certain way.
-
-![](./images/media/image111.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 111.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image111.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Some of the most common tags, include the ones I\'m about to tell you
 about. Headings are **block** tags. You have **h1, h2, h3**, all the way
@@ -2551,9 +2631,13 @@ there\'s really no semantic meaning behind a **div**. If you put a lot
 of them to your page you\'re not giving your readers or users any extra
 information to let them know that this is a footer or a header or
 something along those lines.
-
-![](./images/media/image112.png){width="5.0in"
-height="2.8226498250218723in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 112.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image112.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Two additional tags that you\'ll find you\'ll use a lot are the list
 tags. If you put in the tag **&lt;ol&gt;** that stands for an ordered
@@ -2707,9 +2791,13 @@ tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 <h2 id="ch2-03">2.03. Semantic Tags (6:04)</h2>
-
-![](./images/media/image113.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 113.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image113.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi everybody. Today we\'re gonna be talking about some of the newer
 HTML5 tags that I like to refer to as the semantic tags. This is going
@@ -2810,10 +2898,13 @@ can quickly and easily understand their code.)
 The most common organization is to have one main folder with your html
 files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
-
-![Folder with list of documents nested
-within.](./images/media/image114.png){width="2.0in"
-height="2.4805555555555556in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 114.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image114.png" 
+  alt="Folder with list of documents nested within." 
+  style="border: 2px solid #000000; width:20%" />
+</p>
 
 In this image you can see the following structure:
 
@@ -2840,9 +2931,13 @@ understanding folder structures will help you, even if you never code
 again.
 
 <h2 id="ch2-04">2.04. Template Page in Visual Studio Code (8:13)</h2>
-
-![](./images/media/image115.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image115.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Earlier, I showed you how you can open the Visual Studio Code editor.
 Let\'s go ahead and go back and actually create something real that has
@@ -2936,9 +3031,13 @@ often, and make sure that you\'re writing code that you can be proud of
 that\'s accessible.
 
 <h2 id="ch2-05">2.05. Template Page in Replit (8:04)</h2>
-
-![](./images/media/image116.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image116.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Earlier, we made a very simple web page using Replit, but now let\'s
 make something that\'s a little bit more involved using the tags that
@@ -3108,9 +3207,13 @@ Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
 
 <h2 id="ch2-06">2.06. Images (9:28)</h2>
-
-![](./images/media/image117.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 117.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image117.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 It may be hard to believe, but when you think about the early days of
 the Internet, there were actually no images at all. Now, it\'s hard to
@@ -3258,9 +3361,12 @@ equity, and inclusion.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-07">2.07 Accessible Images (7:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image118.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 118.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image118.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 I know we\'ve talked about images in the past, but I\'d really like to
 take a moment for us to stop and talk about them a little bit more. They
@@ -3406,9 +3512,12 @@ to create your alt text.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-08">2.08 Hyperlinks (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image119.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 119.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image119.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi, today we\'re going to be talking about hyperlinks, or links, as
 they\'re more commonly called. And how you can use them to link your
@@ -3556,9 +3665,12 @@ experience as everyone else.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-09">2.09 Useful Tags (x:xx)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image120.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image120.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi, today we\'re gonna talk about some of the tags that you may find
 extremely useful as you go and try to add blocks of code and simple
@@ -3787,9 +3899,13 @@ code so you will be writing the code on your own!)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 Accessibility (11:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image121.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image121.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One of the things that I\'m constantly talking about in my courses is
 accessibility. The things is that I\'ve come to realize is that I can
@@ -3977,9 +4093,13 @@ height="2.2467946194225723in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Validating Your Site (4:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image123.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image123.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 I know that I\'ve been saying validate your code over and over again,
 but let\'s talk about why it\'s so important. Browsers are basically the
@@ -4047,9 +4167,12 @@ and host them later.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03. Hosting Your Site (4:19)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image124.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image124.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi, everybody. Today we\'re going to talk about hosting your site. And
 what I mean by hosting your site is how you take the pages that you\'ve
@@ -4122,9 +4245,12 @@ and that you want to go and post your work out on the web. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04a">3.04a Creating a GitHub Pages Account (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image125.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image125.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One way that you can share your webpage with everyone is by hosting it
 on GitHub. So, the first step is making a GitHub Pages account. So, I\'m
@@ -4190,9 +4316,13 @@ in creating your GitHub Pages account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04b">3.04b Uploading to GitHub Pages (8:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image126.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image126.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So, let\'s say you\'ve come up with a pretty nice site. I\'ve got one
 right here. I\'m going to click on my \"index.html\" file, and I\'ve got
@@ -4292,9 +4422,12 @@ impressed with your incredible work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 Sharing Your Page from Replit (3:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image127.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image127.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 As we reach the end of this course, it\'s going to be time for you to
 make your final project and share the things that you\'ve learned with
@@ -4357,15 +4490,22 @@ Replit is free, and the first step is to make an account.
 5.  Go to the email inbox you created your account with and verify your
     email
 
-![The Create a Replit account
-screen.](./images/media/image128.png){width="4.0in"
-height="1.6423075240594927in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image128.png" 
+  alt="The Create a Replit account screen." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### 3.05 Creating a repl
-
-![The + Create button under the heading My
-Repls.](./images/media/image88.png){width="4.0in"
-height="1.7692311898512685in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 88.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image088.png" 
+  alt="The + Create button under the heading My Repls." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 1.  If you search the page you should find a heading titled: My Repls.
     Under that is a blue box with the words + Create. Select \[+
@@ -4382,9 +4522,13 @@ height="1.7692311898512685in"}
 
 3.  Click \[+ Create Repl\]
 
-![Information to fill in on the create a repl screen: template, title,
-and public.](./images/media/image89.png){width="4.0in"
-height="2.308546587926509in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~ 89. info to fill in on the create a repl screen, template, title and public (xx) ~~~~~-->
+<p align="center">
+  <img src="./images/image089.png"
+  alt="Information to fill in on the create a repl screen: template, title, and public." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### Congrats!
 
@@ -4392,9 +4536,13 @@ A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the **IDE** are. But for now the
 important thing is that you should be able to find three things: the
 Files section, the Coding Environment, and the View window.
-
-![The files section](./images/media/image129.png){width="2.0in"
-height="1.562179571303587in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image129.png" 
+  alt="The files section." 
+  style="border: 2px solid #000000; width:20%" />
+</p>
 
 ### 3.05 File Section
 
@@ -4416,8 +4564,13 @@ is where you can:
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./images/media/image130.png){width="4.0in"
-height="2.3675218722659666in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130. a code editor (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image130.png"
+  alt="The new window." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 ### 3.05 View Window
 
@@ -4431,8 +4584,13 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 
-![The view window](./images/media/image131.png){width="3.0in"
-height="2.9291666666666667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131. the new window (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image131.png"
+  alt="The new window." 
+  style="border: 2px solid #000000; width:30%" />
+</p>
 
 ### 3.05 More information
 
@@ -4501,9 +4659,12 @@ there. And don\'t forget to reach out for help if you need it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Final Project Demo (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image132.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 132.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image132.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi everyone. Welcome to the Final Project. One of the things I\'ve
 learned as a teacher is that it is so important for students to take
