@@ -999,7 +999,6 @@ new standards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-03">1.03 How it Works: The "Magic" of Page Requests (9:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 28. how it works: the 'magic' of page requests (26) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image028.png"
@@ -1036,9 +1035,13 @@ relationship. Servers are basically machines that hold all the
 resources. Our hope is that they\'re always connected to the network.
 Clients are what we\'re using, where the machines that you use for
 personal use; like laptops, phones, et cetera.
-
-![](./images/image031.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. networks; lan and wan (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image031.png"
+  alt="Networks; LAN and WAN."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Let me show you in this picture. It\'s common to use networks such as
 something called a **LAN** or a **WAN**. A **LAN** is a local area
@@ -1060,16 +1063,24 @@ Local area network is like your office building. A wide area network
 might be a university, where you want to be able to share servers across
 multiple buildings. The largest wide area network is, of course, the
 Internet.
-
-![](./images/image032.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. request/response cycle (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image032.png"
+  alt="Request/Response Cycle."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Now we get back to that question of what happens when you type something
 into the URL? What you\'re doing is that you the client are requesting a
 web page and the server needs to respond with the appropriate files.
-
-![](./images/image033.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. uniform resource locator (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image033.png"
+  alt="Uniform Resouce Locator."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 When you type something in, this is called the URL. Every URL has three
 parts. The **protocol**, how you want to connect, the **domain**, which
@@ -1077,9 +1088,13 @@ is the server, and then optionally, you can include the **document**.
 So, even though you\'re typing in one URL, one of the things to realize
 is that usually, you\'re actually requesting lots and lots of files all
 at once.
-
-![](./images/image034.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34. protocols (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image034.png"
+  alt="Protocols."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 The protocols that most people have seen; the first one is **HTTP**, the
 Hypertext Transfer Protocol. The second one, **HTTPS**, is the same
@@ -1091,8 +1106,13 @@ Protocol. It\'s a little bit different. When you see HTTP, it\'s
 expecting that you\'re going to give back and forth HTML5 code; with
 **FTP**, it could be any type of file.
 
-![](./images/image035.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. domain names (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image035.png"
+  alt="Domain Names."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 We have the protocol, now let\'s talk about what the domain names
 represent. Usually, the domain names are something recognizable, such as
@@ -1103,9 +1123,13 @@ some .**com**, some .**biz**, et cetera? Well, they\'re actually
 determined by **ICAAN**. Their job is to go in and decide which types of
 organizations qualify for different domains. I\'ve included a link here
 if you want, you can go and see what the different types are.
-
-![](./images/image036.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. ip addresses (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image036.png"
+  alt="IP Addresses."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 But the important thing to know is that your domain name is actually
 mapped to an address. In the old days, like when my Dad was on the
@@ -1117,16 +1141,24 @@ we need a lot of different options. So, with these IP addresses, you
 basically have sets of numbers, you have these different sets right
 here, where each X can represent one of 16 different values. So, you can
 see we have a lot of options, over 300 trillion, in fact.
-
-![](./images/image037.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 37. the domain name server (dns)  (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image037.png"
+  alt="The Domain Name Server (DNS)."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 As I said, luckily for you, the domain name server lets you type in
 something really simple like Umich or Google, and it\'s the one that
 turns it into that really long number.
-
-![](./images/image038.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 38. document - last part of your url (31) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image038.png"
+  alt="Document - Last part of your URL."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 The last part of your URL is the document. Sometimes you want to specify
 a very specific document that you want to get. For instance, the contact
@@ -1136,17 +1168,25 @@ the time, you don\'t. If you type in wikipedia.org or Facebook.com,
 there\'s no filename. But that\'s okay. Every server has a default
 document that it\'s going to return. Usually, it\'s called
 **index.html**.
-
-![](./images/image039.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. the request (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image039.png"
+  alt="The Request."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 We know what it means when we\'re typing something in. We understand the
 request. What happens though once we type that in, is we are actually
 going to get back a lot of information. Headers, cookies, form data, all
 the stuff that you don\'t see.
-
-![](./images/image040.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. the response (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image040.png"
+  alt="The Response."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 The important thing to know is that the server returns files, not web
 pages. For a lot of us, we are very visual. So, when we type in a URL,
@@ -1160,45 +1200,66 @@ error code. I think a lot of you are familiar with 404, where it says,
 you get a 500 error, that actually means that the servers down. So, you
 may as well go have a snack, do something fun, come back later and type
 it in again.
-
-![](./images/image041.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 41. what happens in the address bar (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image041.png"
+  alt="What happens in the address bar."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I want to kind of do a live demo with you of what happens when we type
 something in. I\'ve written it down for you. It looks up the domain, the
 **DNS** returns an IP address, and then a whole bunch of files start to
 be returned. Let\'s take a look.
-
-![](./images/image042.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 42. example, school of information at u of michigan (33) ~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image042.png"
+  alt="Example, School of Info at University of Michigan."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 What I\'ve done here is I\'ve gone to the School of Information site at
 the University of Michigan. I simply typed in **si.umich.edu**. I
 didn\'t type in the protocol because it usually just defaults. What you
 see here visually is a page. Student looking out, looking very inspired,
 et cetera.
-
-![](./images/image043.png){width="3.5in"
-height="1.9766021434820646in"}
-![](./images/image044.png){width="3.5in"
-height="1.9766021434820646in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 43/44. right click inspect school of info (34) ~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image043.png"
+  alt="Example, School of Info at University of Michigan."
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image044.png"
+  alt="Inspect, School of Info at University of Michigan."
+  style="border: 2px solid #000000; width:45%" />
+</p>
 
 But now, I\'m going to do a little trick here, where I right-click on
 the screen, and I\'m going to choose the option that says, \"Inspect.\"
 A window\'s going to pop up to the side here. I\'m going to say, \"You
 know what? I would like to see all the information that\'s being
 returned when I actually request this page.\"
-
-![](./images/image045.png){width="5.0in"
-height="2.823718285214348in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 45. example, school of information at u of michigan (34) ~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image045.png"
+  alt="Inspect, School of Info at University of Michigan."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I\'m requesting one page, I\'m going to hit \"Refresh.\" If you look off
 to the side, don\'t worry that you can\'t see the details. But you
 should see that the single page is actually made up of lots and lots of
 files, and each one of these files was a separate request.
-
-![](./images/image046.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 46. review, url and request/response cycle (35) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image046.png"
+  alt="Review, URL and Request/Response Cycle."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Okay. So, let\'s review. This was a kind of long video, where really all
 I want you to come away from it with is the knowledge that every URL has
@@ -1210,7 +1271,7 @@ server. So, we\'re going to start off small. We\'re going to do one file
 at a time, but you can always look ahead to building bigger and bigger
 web applications.
 
-## 1.03.Browsers
+### 1.03.Browsers
 
 Browsers are constantly changing. Changing so much that it is difficult
 to keep up with all of the changes once you pick a favorite. Myself? I
@@ -1230,20 +1291,26 @@ an optional reading because I don\'t like the popups that accompany it.
 Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-04">1.04 Looking at Your Browser Options (5:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image047.png){width="4.0in"
-height="2.2666666666666666in"}
+<!--~~~~~~~~~~~~~~~~~~~~ 47. looking at your browser options (1.04) (36) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image047.png"
+  alt="1.04 Looking at Your Browser Options."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 One of the things that you might notice is that there are a lot of
 different options for how you can view web pages, and these different
 options are called your different browsers.
-
-![](./images/image048.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48. differing browsers (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image048.png"
+  alt="Differing Browsers."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Different browsers have their pros and cons. I am not one of those
 people who gets really passionate about having, using one over the
@@ -1253,9 +1320,13 @@ perfectly natural to have a preferred browser, for most people it\'s
 whichever one was installed on their computer. But, when you want to
 create websites, you might have one browser you use to look at things,
 but you really want to test your site on multiple browsers.
-
-![](./images/image049.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. internet explorer (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image049.png"
+  alt="Internet Explorer."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 So, let\'s talk about some of the differences. First, we have Internet
 Explorer and for a long time, it was the most popular browser and that
@@ -1265,9 +1336,13 @@ shit.
 
 It was platform-dependent and what that means is that it doesn\'t
 automatically work if you have a Mac.
-
-![](./images/image050.png){width="4.0in"
-height="2.258974190726159in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 50. microsoft edge (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image050.png"
+  alt="Microsoft Edge."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 In 2015 Windows 10 came out and instead of including Internet Explorer
 as a default, it\'s using something called the Microsoft Edge. An even
@@ -1355,7 +1430,7 @@ interesting for you as you can look at the different ways that HTML5 is
 supported.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-05">1.05 Editors: How to Use an Editor to Create an HTML File (10:11)</h2>
+<h2 id="ch1-05">1.05 How to Use an Editor to Create an HTML File (10:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image057.png){width="4.0in"
@@ -1538,7 +1613,7 @@ feel most comfortable, pick one, maybe two editors. And that\'s what
 you\'re going to want to focus on and really become a pro.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-06">1.06 Editors: How to Use VS Code (6:24)</h2>
+<h2 id="ch1-06">1.06 How to Use VS Code (6:24)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image068.png){width="4.0in"
@@ -1702,7 +1777,7 @@ Validation Service](https://validator.w3.org/) to ensure that you are
 writing syntactically correct code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch1-07">1.07 Editors: How to use Replit (5:55)</h2>
+<h2 id="ch1-07">1.07 How to use Replit (5:55)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image078.png){width="4.0in"
@@ -4392,9 +4467,12 @@ handle the responsive aspects for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 Closing (3:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/media/image133.png){width="4.0in"
-height="2.2427351268591424in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 133.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image133.png" 
+  alt="."
+  style="border: 2px solid #000000; width:40%" />
+</p>
 
 Hi everybody. I\'m not sure if I should say welcome back or goodbye.
 Because this is the end of the class. I know that you might be a little
