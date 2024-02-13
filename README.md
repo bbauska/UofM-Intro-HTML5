@@ -1931,42 +1931,68 @@ height="2.2666666666666666in"}
 Let\'s talk about writing clean code. When I\'m talking about clean code
 I\'m talking about learning how to write code that\'s going to work on
 as many devices as possible.
+![](./images/media/image094.png){width="4.0in"
+height="2.2581200787401574in"}
 
 In order to do that, you need to know a little bit about the Document
 Object Model, also called the DOM. When HTML5 was developed the main
 kind of driving goal is that they want to stick by the standard. That
-any new features should be based on HTML, CSS, the DOM, and JavaScript,
-and you can have a chance to learn about each one of those. But I want
-to talk about the DOM for just a little bit because it\'s going to help
-you understand the HTML a little bit better. One of the things about
-geeky computer scientists like myself is that we love trees. Not like
-trees out outside that are green and beautiful in the fall. We like
-mathematical trees. These tree-like structures that we can prove to be
-valid or invalid. So, when we talk about HTML as a tree we\'re talking
-about this idea that at the very root of the tree we are going to be
-creating HTML. Then, from that tree when we say, \"I\'m going to make an
-HTML document.\" We want two parts. We want the head over here, and we
-want the body. In the head we\'re going to keep all that kind of
-information that the user isn\'t going to see for the most part. The one
-difference is we might talk about the title, but we\'re going to have
-all of that kind of hidden stuff nobody really cares about. In the body
-is where we\'re going to learn to put all of our HTML5 tags. So let\'s
-talk about HTML as a tree. In this case I\'m showing you this idea that
-at the root of every HTML page should be what\'s called the HTML tag.
-That kind of thing that says, lets the browser know, I\'m going to be
-giving you certain types of tags and here\'s how I want them to work. If
-we don\'t look at it as a picture, I can also kind of just tell you that
-every tree has three parts to a well-formed document. The Doctype, which
-is the version of HTML that you\'re going to be using. The head, which
-is all of the metadata or kind of extra information, and the body. The
-body is the displayable content. The thing that most people are going to
-get back when they do the request-response cycle. So let\'s talk
-doctype. You are so lucky. When I was creating web pages at first and we
-were in HTML4, we had to come up with all these different ways to kind
-of explain whether our HTML4 was like very strict standards or whether
-it was transitional. In HTML5, it\'s very simple to say, \"Nope,
-there\'s only one thing and it\'s called DOCTYPE HTML, and you\'re all
-set.\" For the head which is inside the head tag, we\'re going to have
+any new features should be based on HTML, CSS, the **DOM**, and
+JavaScript, and you can have a chance to learn about each one of those.
+But I want to talk about the **DOM** for just a little bit because it\'s
+going to help you understand the HTML a little bit better.
+
+One of the things about geeky computer scientists like myself is that we
+love trees. Not like trees out outside that are green and beautiful in
+the fall. We like mathematical trees. These tree-like structures that we
+can prove to be valid or invalid.
+
+![](./images/media/image095.png){width="5.0in"
+height="2.8226498250218723in"}
+
+When we talk about HTML as a tree we\'re talking about this idea that at
+the very root of the tree we are going to be creating HTML. Then, from
+that tree when we say, \"I\'m going to make an HTML document.\" We want
+two parts. We want the head (on the left), and we want the body (the
+right of the root element).
+
+In the head we\'re going to keep all that kind of information that the
+user isn\'t going to see for the most part. The one difference is we
+might talk about the title, but we\'re going to have all of that kind of
+hidden stuff nobody really cares about.
+
+In the body is where we\'re going to learn to put all of our HTML5 tags.
+So let\'s talk about HTML as a tree. In this case I\'m showing you this
+idea that at the root of every HTML page should be what\'s called the
+HTML tag. That kind of thing that says, lets the browser know, I\'m
+going to be giving you certain types of tags and here\'s how I want them
+to work.
+
+![](./images/media/image096.png){width="4.0in"
+height="2.2581200787401574in"}
+
+If we don\'t look at it as a picture, I can also kind of just tell you
+that every tree has three parts to a well-formed document. The
+**Doctype**, which is the version of HTML that you\'re going to be
+using. The **head**, which is all of the metadata or kind of extra
+information, and the body. The **body** is the displayable content. The
+thing that most people are going to get back when they do the
+**request-response cycle**.
+
+![](./images/media/image097.png){width="4.0in"
+height="2.2581200787401574in"}
+
+So let\'s talk **doctype**. You are so lucky. When I was creating web
+pages at first and we were in HTML4, we had to come up with all these
+different ways to kind of explain whether our HTML4 was like very strict
+standards or whether it was transitional. In HTML5, it\'s very simple to
+say, \"Nope, there\'s only one thing and it\'s called DOCTYPE HTML, and
+you\'re all set.\"
+
+![](./images/media/image098.png){width="4.0in"
+height="2.2581200787401574in"}
+
+For the **head** which is inside the **head** tag, we\'re going to have
 all this additional information used by the browser. So for instance you
 might want to say what language you\'re creating your page in. You could
 also include, and you really want to include, what the title of your
@@ -1977,77 +2003,122 @@ files as well. You might want to have CSS files that will style your
 page, or JavaScript that can add on different interaction, or really any
 type of add-on that\'s going to change the way people view and interact
 with your site. Other than the title, the metadata is not displayed,
-people will not see it. What people do see is the information that\'s in
-your body tag. That body tag is the bulk of your page. So it\'s very
-important to write well formatted or tree-like code where you\'re making
-sure that every tag has an end. That you\'re not putting tags in weird
-orders. So, most of the content in the body is displayed by the browser
-but every once in a while there\'s a little bit of metadata in there
-too. But we\'re not going to hit that in this class. So let\'s look at
-an example. Right here, I have a file called \"template.html,\" and I\'m
-displaying the code here on the screen for you. Can you find the three
-parts of a well-formed document? The first thing you want to look for is
-the Doctype. We\'ve got that right here. Letting you know that this is
-an HTML5 document. We then have the HTML tag which was the root of our
-really scientific tree, and I\'m letting people know I\'d liked the
-language that it\'s displayed in to be English. In the head section
-we\'ve got that metadata. Where it\'s telling us things like, \"Hey, I
-know that there\'s lots of different keyboards and ways across the world
-to represent letters. I want you to use what\'s called UTF-8.\" Don\'t
-worry that just use it every time. Then the next part of my metadata is
-the title where we want to see it saying, \"My First Page.\" That\'s it.
-That\'s two of the three parts. The last part is the body tag and it\'s
-displaying the content that we want to see on the screen. So let\'s look
-at this in a browser. What do I have? I have my title way up here, and
-my displayable content right down there. I have written the code, the
-next step you should always do is validate the code. Say, \"Ok, I have
-written code it looks good, but I know that browsers are very nice and
-they make things display nicely even when I haven\'t written good
-code.\" So if you go to validator.w3.org, you can check any website to
-see if the code is valid and you have three choices. You can upload the
-URL, you can upload a file, or you can actually copy and paste your code
-and put it right in there. In this case, I\'ve put in the URL to
-template.html. Run Check, and yay, not surprisingly because I knew I was
-going to be taping this, it successfully checked. Don\'t worry about
-warnings. Warnings are usually in to cover themselves. What if you want
-to validate your file but your files aren\'t actually on the Internet
-yet? Let\'s walk through really quickly an example of how you can do
-that. Let\'s say that I have my file \"template.html\" and I want to
-check it. I want to point out to you that I went in and I changed the
-file and I put in an intentional typo. I spelled the closing tag for
-title incorrectly. So let\'s see what happens. And if the browser or the
-validator can find this. What I\'m going to do is I went to
-validator.w3.org, and I\'m now going to select the third option,
-\"validate by direct input.\" I go back to my file, command A or control
-A, if you\'re on a PC, Command C, I copied all the code and now I want
-to put it in the validator. Hit \"check,\" up, and if we scroll down
-here I can make this a lot bigger for you. You can see that I did get
-two errors. Uh oh. Why did I get two errors when I only typed one error
-in? Well, validators are never perfect. So what error it found is it
-said, \"Uh oh. I found the end of a file and I was not expecting that.\"
-Well the reason that happened is let\'s check out error number 2, it
-tells us, \"Oh you forgot to close the title tag.\" So sometimes one
-error can cause a lot of error messages. So don\'t worry. I\'ve seen as
-many as 50 or 60 errors that once I corrected one line of code it fixed
-more than 80 percent of those errors. So I\'m going to go back over to
-my code, I\'m going to fix it and put that title in and save it. Copy it
-again, put it in and I\'m going to check again. This time, checking
-complete, no errors. So just to review, you really want to follow DOM
-structure if you want a well-formed page. Following that structure means
-you always use beginning and end tags. Also, you close inner tags before
-outer ones. What that means is if you start a title tag you\'ve got to
-end it before you end the body tag. You also will want to use valid
-attributes which is one of the things we\'re going to talk about a
-little later when we talk about images and basically parts of your page
-that need extra information. The problem with browsers is that they\'ll
-actually fix bad code for you. I always call them the helicopter parents
-of coding. It\'s like, \"Oh, I know what you wanted it to look like so,
-that\'s the way I\'m going to make it look on the screen.\" The problem
-is that doesn\'t always work for everyone. So, just because your site
-looks good to you when you\'re looking at it on your browser, doesn\'t
-mean it\'s right. You have to use a validator to check your code.
+people will not see it.
 
-### 2.01.HTML5 Tags and Syntax
+![](./images/media/image099.png){width="4.0in"
+height="2.2581200787401574in"}
+
+What people do see is the information that\'s in your **body** tag. That
+**body** tag is the bulk of your page. It\'s very important to write
+well formatted or tree-like code where you\'re making sure that every
+tag has an end. That you\'re not putting tags in weird orders. Most of
+the content in the **body** is displayed by the browser but every once
+in a while there\'s a little bit of metadata in there too. But we\'re
+not going to hit that in this class.
+
+![](./images/media/image100.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Let\'s look at an example. Right here, I have a file called
+\"template.html,\" and I\'m displaying the code here on the screen for
+you. Can you find the three parts of a well-formed document?
+
+The first thing you want to look for is the **Doctype**. We\'ve got that
+right here. Letting you know that this is an HTML5 document.
+
+We then have the **HTML** tag which was the root of our really
+scientific tree, and I\'m letting people know I\'d liked the language
+that it\'s displayed in to be English.
+
+In the **head** section we\'ve got that **metadata**. Where it\'s
+telling us things like, \"Hey, I know that there\'s lots of different
+keyboards and ways across the world to represent letters. I want you to
+use what\'s called UTF-8.\" Don\'t worry that just use it every time.
+
+Then the next part of my **metadata** is the **title** where we want to
+see it saying, \"My First Page.\" That\'s it. That\'s two of the three
+parts.
+
+The last part is the **body** tag and it\'s displaying the content that
+we want to see on the screen.
+
+![](./images/media/image101.png){width="5.0in"
+height="2.8226498250218723in"}
+
+So let\'s look at this in a browser. What do I have? I have my **title**
+way up here, and my displayable content right down there. I have written
+the code, the next step you should always do is validate the code.
+
+![](./images/media/image102.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Say, \"Ok, I have written code it looks good, but I know that browsers
+are very nice and they make things display nicely even when I haven\'t
+written good code.\" So if you go to **validator.w3.org**, you can check
+any website to see if the code is valid and you have three choices. You
+can upload the **URL**, you can upload a **file**, or you can actually
+**copy and paste your code** and put it right in there. In this case,
+I\'ve put in the **URL** to **template.html**. Run Check, and yay, not
+surprisingly because I knew I was going to be taping this, it
+successfully checked. Don\'t worry about warnings. Warnings are usually
+in to cover themselves.
+
+![](./images/media/image103.png){width="5.0in"
+height="2.8226498250218723in"}
+
+What if you want to validate your file but your files aren\'t actually
+on the Internet yet? Let\'s walk through really quickly an example of
+how you can do that. Let\'s say that I have my file \"template.html\"
+and I want to check it. I want to point out to you that I went in and I
+changed the file and I put in an intentional typo. I spelled the closing
+tag for title incorrectly.
+
+![](./images/media/image104.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Let\'s see what happens. And if the browser or the validator can find
+this. What I\'m going to do is I went to **validator.w3.org**, and I\'m
+now going to select the third option, \"validate by direct input.\" I go
+back to my file, command A or control A, if you\'re on a PC, Command C,
+I copied all the code and now I want to put it in the validator. Hit
+\"check,\" up, and if we scroll down you can see that I did get two
+errors.
+
+Why did I get two errors when I only typed one error in? Well,
+validators are never perfect. So what error it found is it said, \"Uh
+oh. I found the end of a file and I was not expecting that.\" Well the
+reason that happened is let\'s check out error number 2, it tells us,
+\"Oh you forgot to close the title tag.\" So sometimes one error can
+cause a lot of error messages.
+
+![](./images/media/image105.png){width="5.0in"
+height="2.8226498250218723in"}
+
+I\'m going to go back over to my code, I\'m going to fix it and put that
+title in and save it. Copy it again, put it in and I\'m going to check
+again. This time, checking complete, no errors.
+
+![](./images/media/image106.png){width="4.0in"
+height="2.2581200787401574in"}
+
+Just to review, you really want to follow **DOM** structure if you want
+a well-formed page. Following that structure means you always use
+beginning and end tags. Also, you close inner tags before outer ones.
+What that means is if you start a title tag you\'ve got to end it before
+you end the body tag.
+
+You also will want to use valid attributes which is one of the things
+we\'re going to talk about a little later when we talk about images and
+basically parts of your page that need extra information. The problem
+with browsers is that they\'ll actually fix bad code for you. I always
+call them the helicopter parents of coding. It\'s like, \"Oh, I know
+what you wanted it to look like so, that\'s the way I\'m going to make
+it look on the screen.\" The problem is that doesn\'t always work for
+everyone. So, just because your site looks good to you when you\'re
+looking at it on your browser, doesn\'t mean it\'s right. You have to
+use a validator to check your code.
+
+### 2.01. HTML5 Tags and Syntax
 
 At first it will seem like the number of tags is overwhelming, but you
 can really start by focusing on the most common. These tags include:
@@ -2068,106 +2139,134 @@ Complete the following reading to make sure that you recognize these
 tags. It will also tell you more about the handy option to View HTML
 code when you visit pages.
 
-[HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
+### 2.01. [HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
 
-[HTML
-Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
-(optional, but recommended)
+### 2.01. [HTML Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image094.png){width="4.0in"
+![](./images/media/image107.png){width="4.0in"
 height="2.2666666666666666in"}
 
 This is it. Today\'s the day, I\'m finally going to teach you enough
 HTML that you can start making an interesting page to share with your
 friends and family. It\'s also, unfortunately, probably, or at least
-hopefully, my first really big disappointment to you. And the reason is,
-I need to just break it to you right away that I can\'t teach you all of
-the HTML5 tags. I can\'t teach them all to you and you don\'t want me to
-teach you all the tags. It would be incredibly boring for me to list
-them all off to you. Instead, I\'m gonna get you started and point you
-in the direction of where you can find resources for more tags. Because
-it\'s really not until you need a tag that you ever really bother
-learning about it. Every tag has a beginning and an end. So, right here
-I\'m using what\'s called an h1 tag or a heading tag to encase the words
-\"Hello World.\" The first h1 is my start tag. It just shows the simple
-tag that I want inside brackets. The second tag, the closing tag, always
-starts with a slash. The indicates to the browser, she\'s about to end a
-tag. This is one of the most common, is to have the start tag and the
-closing tag, with some sort of text inside of it. My next tag, or the
-image tag, is what\'s called a self-closing tag. There\'s only one tag,
-and it contains both the beginning and the end. In this case, as soon as
-the browser sees the image tag, it knows that you\'re gonna give it
-information that it can use to create a picture. And since there\'s no
-real text associated with the image, at least at this point, or any that
-you want to show on this screen, it\'s going to close itself. So, while
-every tag has a beginning and an end, some do close differently. Also,
-some tags have what we call attributes. So the source which is where the
-picture is located, an href which is where the new page you want to go
-to is. So when we talk about the tags, for some of them I\'ll also be
-talking about the attributes. Before we begin, I want to talk to you
-about one of the most important attributes in an element and that\'s its
-display. The two most common display types are what are called block and
-inline. Block tags are ones that take up a certain amount of width and
-height. So anytime you have a tag that\'s called block, it\'s the same
-thing as if when you were typing, you hit new line at the end, or enter,
-or return. Inline tags are ones that only take up as much space as is
-needed. I\'m gonna show you examples of both, but I really want you to
-understand some tags are block and some are inline. And it may not seem
-important now, but it\'s the kind of thing that\'s going to make it much
-easier for you when you\'re trying to make your pages look a certain
-way. So some of the most common tags, include the ones I\'m about to
-tell you about. Headings are block tags. You have h1, h2, h3, all the
-way down to h6. These tags have what are both called syntax and
+hopefully, my first really big disappointment to you.
+
+![](./images/media/image108.png){width="4.0in"
+height="2.2581200787401574in"}
+
+And the reason is, I need to just break it to you right away that I
+can\'t teach you all of the HTML5 tags. I can\'t teach them all to you
+and you don\'t want me to teach you all the tags. It would be incredibly
+boring for me to list them all off to you. Instead, I\'m gonna get you
+started and point you in the direction of where you can find resources
+for more tags. Because it\'s really not until you need a tag that you
+ever really bother learning about it.
+
+![](./images/media/image109.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Every tag has a beginning and an end. So, right here I\'m using what\'s
+called an h1 tag or a heading tag to encase the words \"Hello World.\"
+The first h1 is my start tag. It just shows the simple tag that I want
+inside brackets. The second tag, the closing tag, always starts with a
+slash. The indicates to the browser, she\'s about to end a tag. This is
+one of the most common, is to have the start tag and the closing tag,
+with some sort of text inside of it.
+
+My next tag, or the image tag, is what\'s called a self-closing tag.
+There\'s only one tag, and it contains both the beginning and the end.
+In this case, as soon as the browser sees the image tag, it knows that
+you\'re gonna give it information that it can use to create a picture.
+And since there\'s no real text associated with the image, at least at
+this point, or any that you want to show on this screen, it\'s going to
+close itself. So, while every tag has a beginning and an end, some do
+close differently.
+
+Also, some tags have what we call attributes. So the source which is
+where the picture is located, an href which is where the new page you
+want to go to is. So when we talk about the tags, for some of them I\'ll
+also be talking about the attributes.
+
+![](./images/media/image110.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Before we begin, I want to talk to you about one of the most important
+attributes in an element and that\'s its **display**. The two most
+common display types are what are called **block** and **inline**.
+**Block tags** are ones that take up a certain amount of width and
+height. So anytime you have a tag that\'s called **block**, it\'s the
+same thing as if when you were typing, you hit new line at the end, or
+enter, or return. **Inline tags** are ones that only take up as much
+space as is needed. I\'m gonna show you examples of both, but I really
+want you to understand some tags are **block** and some are **inline**.
+And it may not seem important now, but it\'s the kind of thing that\'s
+going to make it much easier for you when you\'re trying to make your
+pages look a certain way.
+
+![](./images/media/image111.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Some of the most common tags, include the ones I\'m about to tell you
+about. Headings are **block** tags. You have **h1, h2, h3**, all the way
+down to **h6**. These tags have what are both called syntax and
 semantics. To the browser, at first sight, it might simply mean, \"hey,
-everything that\'s in an h1 tag, I want to make it really big and
-bold.\" And things that are h6, \"I also wanna make them slightly bigger
-and bolder, but not nearly big and bold as the ones of the lower
-numbers.\" What a lot of people do is they just kind of randomly throw
-around h3 tags or h4 tags just because they like the look that the text
-takes on it. But these tags also have semantics, kind of a meaning that
-you don\'t see when you just look at it, and the semantics are, things
-that are in an h1 tag have much higher importance than things that are
-in an h5 or h6. And this is very important for people who are using
-screen readers. If you start throwing h3 tags and h2 tags all over the
-place just because you want them to be a little bit bigger and bolder,
-it\'s gonna be very confusing. Another extremely common tag is the
-paragraph tag. It\'s also block, and inside of it you can only contain
-other inline elements. So you can put a lot of text, a lot of pictures
-and things like that, but you should never put a paragraph inside of a
-paragraph or even, you should never put a heading inside of a paragraph.
-Another common tag is the div tag. This is a generic section that tends
-to be larger than a paragraph, and it\'s related content that you would
-like to group together. Divs used to be the most popular tag. You would
-use the div for everything. The problem with divs is that there\'s
-really no semantic meaning behind a div. If you put a lot of them to
-your page you\'re not giving your readers or users any extra information
-to let them know that this is a footer or a header or something along
-those lines. Two additional tags that you\'ll find you\'ll use a lot are
-the list tags. If you put in the tag &lt;ol&gt; that stands for an
-ordered list. By default it\'s going to put each list item as one, two,
-three, etc. You need to make sure that you end each of your list items
-before you start the next one. And you need to make sure that you\'ve
-ended all your list items before you end your ordered list. The
-unordered list is very similar, only instead of using numbers, you\'ll
-use special symbols, perhaps the circle, or the small square, depending
-upon your browser. Now, later when we talk about attributes, I\'ll
-mention that you can go ahead and change your ordered list. So instead
-of being regular numbers, you\'re using Roman numerals, or uppercase
-letters, or lowercase letters. But by default, these are just going to
-either be a one, two, three, four, etc., or some sort of little disc.
-Finally one more tag that I know you\'re gonna see a lot of is the line
-break tag. Line break is simply a &lt;br&gt;, stands for line break, and
-this is a self-closing tag. Now one of the things that\'s very important
-that I tell you is when you\'re typing your code you can put as many
-line breaks in your code as you want. Enter, enter, enter, enter, enter.
-But the browser ignores all of it. The browser is not going to put
-something on a new line, unless it runs out of space or it specifically
-sees the &lt;br&gt; tag. So I mentioned before with the lists that tags
-can have attributes. Attributes provide additional information about an
+everything that\'s in an **h1** tag, I want to make it really big and
+bold.\" And things that are **h6**, \"I also wanna make them slightly
+bigger and bolder, but not nearly big and bold as the ones of the lower
+numbers.\"
+
+What a lot of people do is they just randomly throw around **h3** tags
+or **h4** tags just because they like the look that the text takes on
+it. But these tags also have semantics, meaning that you don\'t see when
+you just look at it, and the semantics are, things that are in an h1 tag
+have much higher importance than things that are in an **h5** or **h6**.
+And this is very important for people who are using screen readers. If
+you start throwing **h3** tags and **h2** tags all over the place just
+because you want them to be a little bit bigger and bolder, it\'s gonna
+be very confusing.
+
+Another extremely common tag is the paragraph tag. It\'s also **block**,
+and inside of it you can only contain other inline elements. So you can
+put a lot of text, a lot of pictures and things like that, but you
+should never put a paragraph inside of a paragraph or even, you should
+never put a heading inside of a paragraph.
+
+Another common tag is the **div** tag. This is a generic section that
+tends to be larger than a paragraph, and it\'s related content that you
+would like to group together. **Divs** used to be the most popular tag.
+You would use the **div** for everything. The problem with divs is that
+there\'s really no semantic meaning behind a **div**. If you put a lot
+of them to your page you\'re not giving your readers or users any extra
+information to let them know that this is a footer or a header or
+something along those lines.
+
+![](./images/media/image112.png){width="5.0in"
+height="2.8226498250218723in"}
+
+Two additional tags that you\'ll find you\'ll use a lot are the list
+tags. If you put in the tag **&lt;ol&gt;** that stands for an ordered
+list. By default it\'s going to put each list item as one, two, three,
+etc. You need to make sure that you end each of your list items before
+you start the next one. And you need to make sure that you\'ve ended all
+your list items before you end your ordered list. The unordered list is
+very similar, only instead of using numbers, you\'ll use special
+symbols, perhaps the circle, or the small square, depending upon your
+browser. Now, later when we talk about attributes, I\'ll mention that
+you can go ahead and change your ordered list. So instead of being
+regular numbers, you\'re using Roman numerals, or uppercase letters, or
+lowercase letters. But by default, these are just going to either be a
+one, two, three, four, etc., or some sort of little disc. Finally one
+more tag that I know you\'re gonna see a lot of is the line break tag.
+Line break is simply a **&lt;br&gt;**, stands for line break, and this
+is a self-closing tag. Now one of the things that\'s very important that
+I tell you is when you\'re typing your code you can put as many line
+breaks in your code as you want. Enter, enter, enter, enter, enter. But
+the browser ignores all of it. The browser is not going to put something
+on a new line, unless it runs out of space or it specifically sees the
+**&lt;br&gt;** tag. So I mentioned before with the lists that tags can
+have attributes. Attributes provide additional information about an
 element. Sometimes they\'re absolutely necessary, sometimes they\'re
 just supplemental. The important thing to remember is that attributes
 are always, always specified in the start tag, in the beginning, and
@@ -2240,23 +2339,23 @@ figure out, and the browser knows whenever it sees a bracket, it
 shouldn\'t display the content, it should do something fancy. So what do
 you do if you want the browser to display a bracket? And say, \"hey,
 this isn\'t a start tag?\" Well, then you\'re gonna use special
-entities. So if you want a bracket, then use \"&lt;\". The lt stands for
-less than and please note that\'s an L, not a one. You could also do
-\"&gt;\" for greater than, \"&copy;\". If you\'d like extra blank
-spaces, you actually have to use a special entity. Putting space, space,
-space, the browser ignores it. You\'d have to actually put \"&nbsp\".
-Again, if you want the cent, all right, well what if you actually want
-an ampersand? Well, in that case we even have a special entity for that,
-which is \"&amp;\". So, we\'ve gone through a number of tags today, and
-you\'re gonna learn more and more tags and probably use cheat sheets and
-go online to find a bunch of different tags you wanna use. So an
-important this that I want you to know is, how do you know the
-difference between a tag and an attribute? And the key is to look for
-those brackets. Also you\'re gonna want to make sure that you know which
-two symbols end a self-closing tag. All right. Don\'t forget, that\'s
-where you have the forward slash in the closing bracket. These are the
-kind of things that can really mess up your code when you try to
-validate it later, and so being cognizant of these ideas in the
+entities. So if you want a bracket, then use **\"&lt;\"**. The lt stands
+for less than and please note that\'s an L, not a one. You could also do
+**\"&gt;\"** for greater than, **\"&copy;\"**. If you\'d like extra
+blank spaces, you actually have to use a special entity. Putting space,
+space, space, the browser ignores it. You\'d have to actually put
+**\"&nbsp\"**. Again, if you want the cent, all right, well what if you
+actually want an ampersand? Well, in that case we even have a special
+entity for that, which is **\"&amp;\".** So, we\'ve gone through a
+number of tags today, and you\'re gonna learn more and more tags and
+probably use cheat sheets and go online to find a bunch of different
+tags you wanna use. So an important this that I want you to know is, how
+do you know the difference between a tag and an attribute? And the key
+is to look for those brackets. Also you\'re gonna want to make sure that
+you know which two symbols end a self-closing tag. All right. Don\'t
+forget, that\'s where you have the forward slash in the closing bracket.
+These are the kind of things that can really mess up your code when you
+try to validate it later, and so being cognizant of these ideas in the
 beginning will really help you write much cleaner code.
 
 ### 2.02.Cheatsheets
@@ -2271,7 +2370,7 @@ but here are links to three that I have recommended in the past.
     We also included the availability of the tag from the previous HTML
     4 version for comparison. You can find it at: [The Ultimate HTML5
     Cheat
-    Sheet](https://www.wpkube.com/html5-cheat-sheet/)[.]
+    Sheet](https://www.wpkube.com/html5-cheat-sheet/)[.]{.underline}
 
 2.  This next cheat sheet also provides information on tags, but has a
     built-in editor to try things out. It also includes information on
@@ -2297,11 +2396,9 @@ HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-03">2.03 Semantic Tags (6:04)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-03">2.03. Semantic Tags (6:04)</h2>
 
-![](./images/image095.png){width="4.0in"
+![](./images/media/image113.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Hi everybody. Today we\'re gonna be talking about some of the newer
@@ -2318,75 +2415,76 @@ this sample page. Again, it\'s just a quick sketch, and it shows that I
 would like to have a header section, a footer section, and a few other
 sections embedded in between the two of them. Once I know that that\'s
 the kind of design I want, I can begin coding. So you may recall that
-one of the most common tags used to be the &lt;div&gt; tag, because in
-the beginning, kind of dum, dum, dum, you did everything with
-&lt;div&gt;. You would go through your page, group it together, and put
-each group into a &lt;div&gt; tag. These divs almost always had some
-sort of special class or id associated with them. So for instance, one
-div might have the class of header, another the section, another the
+one of the most common tags used to be the **&lt;div&gt;** tag, because
+in the beginning, kind of dum, dum, dum, you did everything with
+**&lt;div&gt;.** You would go through your page, group it together, and
+put each group into a **&lt;div&gt;** tag. These divs almost always had
+some sort of special class or id associated with them. So for instance,
+one div might have the class of header, another the section, another the
 footer. This way, you could back to your design and really break it up
 in a way that worked best for you. The first tag that I\'ll be talking
 to you about today is the header tag. The header tag is typically used
 to group together introductory or navigational aids. So you\'d put in
 your title, perhaps your navigation bar, anything that really lets the
 user know right off the bat what this page is about. The thing I want
-you to understand about the header tag is that it is a block tag, and
-nothing more than that. There\'s no special formatting or anything along
-that line. However, it does let the user know that this is the header
-section. Now, most people will never see the tags. Remember, the browser
-looks at the tag and doesn\'t display it, instead formats its content.
-But for people who are using screen readers or other assistive devices,
-this is a great way for them to find what they\'re looking for if
-they\'re not using visual clues. Another point I wanna make is that the
-header tag should not be confused with the head or different heading
+you to understand about the header tag is that it is a **block** tag,
+and nothing more than that. There\'s no special formatting or anything
+along that line. However, it does let the user know that this is the
+header section. Now, most people will never see the tags. Remember, the
+browser looks at the tag and doesn\'t display it, instead formats its
+content. But for people who are using screen readers or other assistive
+devices, this is a great way for them to find what they\'re looking for
+if they\'re not using visual clues. Another point I wanna make is that
+the header tag should not be confused with the head or different heading
 tags. This is going to happen to you a lot. Just remember that the
-&lt;head&gt; tag is for metadata, and the &lt;header&gt; tag is more of
-just an aid. The next tag I\'m gonna talk to you about today is the
-&lt;nav&gt; tag. The nav is basically a section of your page that links
-to other pages or parts within your page. So, inside your nav you\'re
-not going to have links to Facebook, or Google, or your LinkedIn account
-or anything like that. Instead, it\'s really just links that go to other
-parts of your site. So for instance, here I\'ve made an unordered list
-with three links. Each of them go to a different part of your page.
-There\'s a lot of debate, for better, for worse, as to whether or not
-your &lt;nav&gt; tags should be using lists, but the important thing is
-to include the &lt;nav&gt; tag to help people navigate through your
-page. Oftentimes, you\'ll find the &lt;nav&gt; tag embedded inside the
-&lt;header&gt; tag. Another tag is the &lt;footer&gt; tag, and this is a
-section that contains information that is pretty typical for the bottom
-of the page, such as copyright data, related documents, your links to
-social media. And while I say that it\'s usually at the bottom of the
-page, this is not required, nor does using the footer tag actually make
-it that it\'ll show up at the bottom. So in this example here, I have my
-footer tag, my special entity to make the copyright symbol, and then my
-name with a line break. And then I\'ve also included a link back to my
-main site. Some of our other semantic tags have a little bit more oomph
-to them. So for instance, one of the new tags is the &lt;figure&gt; tag,
-and it has a lot more semantics than the image tag we\'ve gone over
-previously. Every figure can include additional information. So you can
-include an image, you can include multimedia, you can include a
-combination of all of them. But it also has some additional tags such as
-the figcaption. So what this is going to do is somebody who, it provides
-additional information for somebody who may not be able to see it. So
-the picture normally just floats by itself when its in an image tag,
-this lets you say, this text goes specifically with this image. Now
-again, we do have the &lt;alt&gt; tag, which helps describe the picture,
-but you have to remember, most of us will never see that. There are a
-number of other new tags in HTML5, and it\'s not really possible for me
-to go over all of them. Instead, you\'ll find that as you develop your
-pages and after you\'ve done your initial web design, you\'ll logically
-just head towards these different tags. Some of them are structural
-elements, such as article, summary, sections, etc. Others you won\'t be
-using until we create forms. Another would be input types. Have you ever
-noticed that sometimes on your phone, when you click on certain buttons,
-different keyboards will pop up, depending on whether you\'re typing in
-an email or a URL? These are all things to the new HTML5. Email, date,
-color, etc., tags. We\'re also gonna be able to talk about graphics
-elements such as canvas, and also media elements which let you go ahead
-and put in your movies and music of your choice. The important thing to
-remember is that if you\'re developing your page, and you find yourself
-using a lot of &lt;div&gt;s, you\'re going astray. You really want to
-use the best tag available that will give the most meaning to the users.
+**&lt;head&gt;** tag is for metadata, and the **&lt;header&gt;** tag is
+more of just an aid. The next tag I\'m gonna talk to you about today is
+the **&lt;nav&gt;** tag. The nav is basically a section of your page
+that links to other pages or parts within your page. So, inside your nav
+you\'re not going to have links to Facebook, or Google, or your LinkedIn
+account or anything like that. Instead, it\'s really just links that go
+to other parts of your site. So for instance, here I\'ve made an
+unordered list with three links. Each of them go to a different part of
+your page. There\'s a lot of debate, for better, for worse, as to
+whether or not your **&lt;nav&gt;** tags should be using lists, but the
+important thing is to include the **&lt;nav&gt;** tag to help people
+navigate through your page. Oftentimes, you\'ll find the **&lt;nav&gt;**
+tag embedded inside the **&lt;header&gt;** tag. Another tag is the
+**&lt;footer&gt;** tag, and this is a section that contains information
+that is pretty typical for the bottom of the page, such as copyright
+data, related documents, your links to social media. And while I say
+that it\'s usually at the bottom of the page, this is not required, nor
+does using the footer tag actually make it that it\'ll show up at the
+bottom. So in this example here, I have my footer tag, my special entity
+to make the copyright symbol, and then my name with a line break. And
+then I\'ve also included a link back to my main site. Some of our other
+semantic tags have a little bit more oomph to them. So for instance, one
+of the new tags is the **&lt;figure&gt;** tag, and it has a lot more
+semantics than the image tag we\'ve gone over previously. Every figure
+can include additional information. So you can include an image, you can
+include multimedia, you can include a combination of all of them. But it
+also has some additional tags such as the figcaption. So what this is
+going to do is somebody who, it provides additional information for
+somebody who may not be able to see it. So the picture normally just
+floats by itself when its in an image tag, this lets you say, this text
+goes specifically with this image. Now again, we do have the
+**&lt;alt&gt;** tag, which helps describe the picture, but you have to
+remember, most of us will never see that. There are a number of other
+new tags in HTML5, and it\'s not really possible for me to go over all
+of them. Instead, you\'ll find that as you develop your pages and after
+you\'ve done your initial web design, you\'ll logically just head
+towards these different tags. Some of them are structural elements, such
+as article, summary, sections, etc. Others you won\'t be using until we
+create forms. Another would be input types. Have you ever noticed that
+sometimes on your phone, when you click on certain buttons, different
+keyboards will pop up, depending on whether you\'re typing in an email
+or a URL? These are all things to the new HTML5. Email, date, color,
+etc., tags. We\'re also gonna be able to talk about graphics elements
+such as canvas, and also media elements which let you go ahead and put
+in your movies and music of your choice. The important thing to remember
+is that if you\'re developing your page, and you find yourself using a
+lot of **&lt;div&gt;s,** you\'re going astray. You really want to use
+the best tag available that will give the most meaning to the users.
 Semantic guide tags are gonna help guide your users to the information
 in your page. And that\'s really what you want to do, you want to make
 your page the most accessible to as many people as possible.
@@ -2404,7 +2502,7 @@ files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
 
 ![Folder with list of documents nested
-within.](./images/image096.png){width="2.0in"
+within.](./images/media/image114.png){width="2.0in"
 height="2.4805555555555556in"}
 
 In this image you can see the following structure:
@@ -2431,11 +2529,9 @@ It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-04">2.04 Template Page in Visual Studio Code (8:13)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-04">2.04. Template Page in Visual Studio Code (8:13)</h2>
 
-![](./images/image097.png){width="4.0in"
+![](./images/media/image115.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Earlier, I showed you how you can open the Visual Studio Code editor.
@@ -2529,11 +2625,9 @@ to see that it\'s really important to go slowly, save often, check
 often, and make sure that you\'re writing code that you can be proud of
 that\'s accessible.
 
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-05">2.05 Template Page in Replit (8:04)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-05">2.05. Template Page in Replit (8:04)</h2>
 
-![](./images/image098.png){width="4.0in"
+![](./images/media/image116.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Earlier, we made a very simple web page using Replit, but now let\'s
@@ -2606,8 +2700,8 @@ honest, for me, \"The 80s were great,\" right? I had a paper route, I
 could ride my bike, I went to a lot of movies, \"So were the movies.\"
 If I\'m going to list off my favorite movies, it makes sense that I
 should use some sort of list. I could use an ordered list, an fixed with
-&lt;ol&gt; if I wanted to rank them. But since they\'re all so great,
-I\'m going to go ahead and do an unordered list and include three
+**&lt;ol&gt;** if I wanted to rank them. But since they\'re all so
+great, I\'m going to go ahead and do an unordered list and include three
 things. Number one, we can\'t forget the good old \"Goonies,\" all
 right? Style number two, I will do \"Back to the Future,\" and we\'ll
 just do those two for right now. So, I\'m going to go ahead and do a
@@ -2640,11 +2734,11 @@ copy and paste this to get you started:
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Document</title>
 </head>
 <body>
-    
+   
 </body>
 </html>
 ```
@@ -2702,15 +2796,11 @@ end.
 
 Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-06">2.06 Images (9:28)</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. images (2.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p align="center">
-  <img src="./images/image099.png" 
-  alt="2.06 Images." 
-  style="border: 2px solid #000000; width:40%" />
-</p>
+
+<h2 id="ch2-06">2.06. Images (9:28)</h2>
+
+![](./images/media/image117.png){width="4.0in"
+height="2.2666666666666666in"}
 
 It may be hard to believe, but when you think about the early days of
 the Internet, there were actually no images at all. Now, it\'s hard to
@@ -2732,8 +2822,8 @@ computer. But their computer also needs to take the time to download
 each and every single one of your images. So, if you are creating a site
 that has a lot of pictures, it might be really hard for someone with a
 slow internet to actually be able to access all of them. Size can
-definitely be a factor. Every image requires its own HTTP Request, so if
-those images are broken, if they don\'t belong to you, if they\'re
+definitely be a factor. Every image requires its own **HTTP** Request,
+so if those images are broken, if they don\'t belong to you, if they\'re
 behind a paywall, it can all mess up your page. The first thing you need
 to realize is that when you link an image, your browser displays the
 image as big or as small as the file. And that size is rarely optimal. I
@@ -2754,80 +2844,81 @@ dimensions. However, more and more people are using these, what we call
 attributes to size the image. It used to be the case that you never
 wanted to use your HTML code to set the size of your picture. But we\'re
 realizing that using width can actually improve the accessibility of
-your page. So when you start using the &lt;img&gt; tag, I want you to
-include at least the width attribute. You don\'t need both, but at least
-the width attribute. And what that will do is it means when your page is
-loaded, it\'ll keep the pictures from like kind of flashing and
+your page. So when you start using the **&lt;img&gt;** tag, I want you
+to include at least the width attribute. You don\'t need both, but at
+least the width attribute. And what that will do is it means when your
+page is loaded, it\'ll keep the pictures from like kind of flashing and
 flickering as they adjust to different sizes. Let\'s look at what I\'m
-talking about. What I have here is a &lt;figure&gt; tag and inside my
-figure I have an image and a figure caption. You can see that I\'ve used
-src=\"imgs/Ashtabula.jpg\" That means I have a folder. And somewhere in
-that folder there\'s something called Ashtabula. There\'s a picture
-called \"Ashtabula.jpg.\" If that picture can\'t load, then I have what
-we call the alternative text that describes it just as \"My house.\" To
-be honest, that\'s not great alternative text. Way better. Alternative
-text would be a visual description of my house, but that doesn\'t really
-fit on a slide very well. So, you\'ll have to forgive me on this one.
-You can also, if you\'d like, set the width of that picture. If the
-picture of my house was way too big, we can say, you know what, when we
-load this picture, let\'s make sure it\'s always 500 pixels wide. By
-only setting the width, it will automatically set the height so that it
-height so it doesn\'t like skew the picture. It\'ll still look really
-good, right? So, that is one way to do it is to set the width by hard
-coding it to how many pixels you want it to be. This may have been a
-fine idea to use back in the early 2000s, but nowadays we realize that
-people might be looking at your website, on a phone, on a tablet, on a
-really large screen. So, what looks good on one size may not look good
-on another. 500 pixels may be way too big for my phone and way too small
-for my giant screen. So, one of the things we could do is if we wanted
-to, we could try setting the height to match our screen size. But
-that\'s often going to skew our image size, right? It\'s just not going
-to look good. A better idea is to use percentages. In this example,
-I\'ve done same exact image, same exact alt text. But the difference is
-its width equals 50%. What does that 50% mean? 50% of what? Well,
-typically the browser is going to open up the page and it\'s going to
-look and see how much space is this figure tag taking up and maybe the
-figure is taking up the whole width of your browser. It\'s going to set
-your picture to 50% of the browser. So, as you make your screen bigger,
-the picture will get bigger. As you make the screen smaller, the picture
-will get smaller. It\'s a really nice way to kind of we call it like
-fluid measurements and to be reactive and responsive to people. In
-addition to regular images that use the image tag, people really like to
-use things called favicons. Favicons are those little tiny images that
-show up inside the tab of your browser. So if you look, you\'ll see that
-Coursera has its own favicon. If you are looking at a Google Doc,
-you\'ll see it has its own favicon. You can make your own favicon if you
-want. The difference between favicons and image tags is that the favicon
-always goes in the head section. So, instead of using the image tag,
-what I have here is link, what type of relationship I have. This is
-going to be an icon. It\'s going to be a PNG file, and that PNG file is
-located in my images folder. I can\'t stress enough that when you use
-images, it\'s very, very, very important to use alternative text. What
-alternative text will do is it provides basically words for non-text
-content. If someone\'s using a screen reader, every time it gets to an
-image, the screen reader will read off the description that you
-included. If an image isn\'t loading, either because you wrote the wrong
-image name or because someone\'s internet is slow and they can\'t
-download it, it\'ll actually be displayed in place of the images. This
-is great for both accessibility and for debugging and figuring out which
-of your pictures aren\'t working. Also, by including alternative text,
-you\'re providing semantic meaning for search engines. So, if you have a
-business and you would like to promote that business, alternative text
-has these kind of sneaky side benefits as well as just being, you know,
-a decent human being. As you start to do images, they\'re going to be
-great, but you\'re going to have some problems and it\'s going to take
-some time to get them to work. So, if things aren\'t working right, make
-sure you\'re using the right file extensions. If it\'s .jpg, jpg, make
-sure you\'re not writing .jpeg, or vice versa. Don\'t name all your
-files \"image_26859,\" blah blah blah, right? Rename them. Give them a
-good name. Because often the file names are a problem. Or when I use
-that fancy term file path, that usually means you\'ve hopefully been
-putting all of your images into an image folder, but you forgot to
-include that folder name when you were linking it. And for right now, as
-you start to use images, make sure you are setting that height and or
-width in the HTML code itself using the attribute. If you decide to
-learn more with us, you can later learn about how to use CSS to do even
-more with your images to make them pop. Good luck.
+talking about. What I have here is a **&lt;figure&gt;** tag and inside
+my figure I have an image and a figure caption. You can see that I\'ve
+used **src=\"imgs/Ashtabula.jpg\"** That means I have a folder. And
+somewhere in that folder there\'s something called Ashtabula. There\'s a
+picture called \"Ashtabula.jpg.\" If that picture can\'t load, then I
+have what we call the alternative text that describes it just as \"My
+house.\" To be honest, that\'s not great alternative text. Way better.
+Alternative text would be a visual description of my house, but that
+doesn\'t really fit on a slide very well. So, you\'ll have to forgive me
+on this one. You can also, if you\'d like, set the width of that
+picture. If the picture of my house was way too big, we can say, you
+know what, when we load this picture, let\'s make sure it\'s always 500
+pixels wide. By only setting the width, it will automatically set the
+height so that it height so it doesn\'t like skew the picture. It\'ll
+still look really good, right? So, that is one way to do it is to set
+the width by hard coding it to how many pixels you want it to be. This
+may have been a fine idea to use back in the early 2000s, but nowadays
+we realize that people might be looking at your website, on a phone, on
+a tablet, on a really large screen. So, what looks good on one size may
+not look good on another. 500 pixels may be way too big for my phone and
+way too small for my giant screen. So, one of the things we could do is
+if we wanted to, we could try setting the height to match our screen
+size. But that\'s often going to skew our image size, right? It\'s just
+not going to look good. A better idea is to use percentages. In this
+example, I\'ve done same exact image, same exact alt text. But the
+difference is its width equals 50%. What does that 50% mean? 50% of
+what? Well, typically the browser is going to open up the page and it\'s
+going to look and see how much space is this figure tag taking up and
+maybe the figure is taking up the whole width of your browser. It\'s
+going to set your picture to 50% of the browser. So, as you make your
+screen bigger, the picture will get bigger. As you make the screen
+smaller, the picture will get smaller. It\'s a really nice way to kind
+of we call it like fluid measurements and to be reactive and responsive
+to people. In addition to regular images that use the image tag, people
+really like to use things called favicons. Favicons are those little
+tiny images that show up inside the tab of your browser. So if you look,
+you\'ll see that Coursera has its own favicon. If you are looking at a
+Google Doc, you\'ll see it has its own favicon. You can make your own
+favicon if you want. The difference between favicons and image tags is
+that the favicon always goes in the head section. So, instead of using
+the image tag, what I have here is link, what type of relationship I
+have. This is going to be an icon. It\'s going to be a PNG file, and
+that PNG file is located in my images folder. I can\'t stress enough
+that when you use images, it\'s very, very, very important to use
+alternative text. What alternative text will do is it provides basically
+words for non-text content. If someone\'s using a screen reader, every
+time it gets to an image, the screen reader will read off the
+description that you included. If an image isn\'t loading, either
+because you wrote the wrong image name or because someone\'s internet is
+slow and they can\'t download it, it\'ll actually be displayed in place
+of the images. This is great for both accessibility and for debugging
+and figuring out which of your pictures aren\'t working. Also, by
+including alternative text, you\'re providing semantic meaning for
+search engines. So, if you have a business and you would like to promote
+that business, alternative text has these kind of sneaky side benefits
+as well as just being, you know, a decent human being. As you start to
+do images, they\'re going to be great, but you\'re going to have some
+problems and it\'s going to take some time to get them to work. So, if
+things aren\'t working right, make sure you\'re using the right file
+extensions. If it\'s .jpg, jpg, make sure you\'re not writing .jpeg, or
+vice versa. Don\'t name all your files \"image_26859,\" blah blah blah,
+right? Rename them. Give them a good name. Because often the file names
+are a problem. Or when I use that fancy term file path, that usually
+means you\'ve hopefully been putting all of your images into an image
+folder, but you forgot to include that folder name when you were linking
+it. And for right now, as you start to use images, make sure you are
+setting that height and or width in the HTML code itself using the
+attribute. If you decide to learn more with us, you can later learn
+about how to use CSS to do even more with your images to make them pop.
+Good luck.
 
 ### 2.06.Copyright, Fair Use, and Inclusive Images
 
@@ -2858,7 +2949,7 @@ equity, and inclusion.
 <h2 id="ch2-07">2.07 Accessible Images (7:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image100.png){width="4.0in"
+![](./images/media/image118.png){width="4.0in"
 height="2.2666666666666666in"}
 
 I know we\'ve talked about images in the past, but I\'d really like to
@@ -2998,8 +3089,7 @@ description of them. So here are some tips:
     of the essential information conveyed by the image.
 
 If you want to learn more about creating good alt text, I recommend the
-[W3 alt decision
-tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) site as a
+[W3 alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) site as a
 resource. This site guides you with simple \"yes/no\" questions on how
 to create your alt text.
 
@@ -3007,7 +3097,7 @@ to create your alt text.
 <h2 id="ch2-08">2.08 Hyperlinks (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image101.png){width="4.0in"
+![](./images/media/image119.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Hi, today we\'re going to be talking about hyperlinks, or links, as
@@ -3017,28 +3107,28 @@ a web. It\'s this whole idea that different links built together create
 this kind of knowledge that search engines or you yourself can gain by
 going from page to page to page, and with hopefully related material.
 So, let\'s get right into how you create a link on your page. Links are
-called anchor links and that\'s where we get the a for in the &lt;a&gt;
-tag. When you use an anchor tag, the &lt;a&gt; tag you\'re going to need
-to make sure that you\'ve two different parts. You need a hyper
-reference and you need content. So the hyper reference is just the
-reference to the location of the new content. So in this case I used
-http://www.umich.edu. That tells a browser, if somebody clicks on this
-link this is where I want to request the new page from. We also need to
-have content. The content is what we call the clickable part. In this
-case, it\'s text. I would actually click on an underlined text that
+called anchor links and that\'s where we get the a for in the
+**&lt;a&gt;** tag. When you use an anchor tag, the **&lt;a&gt;** tag
+you\'re going to need to make sure that you\'ve two different parts. You
+need a hyper reference and you need content. So the hyper reference is
+just the reference to the location of the new content. So in this case I
+used **http://www.umich.edu**. That tells a browser, if somebody clicks
+on this link this is where I want to request the new page from. We also
+need to have content. The content is what we call the clickable part. In
+this case, it\'s text. I would actually click on an underlined text that
 says, University of Michigan. But in some cases, it might be an image
 instead. So what types of links can we have? Some of the most common are
 called absolute links. We also have relative links. Internal links and
 graphical links and I\'m gonna show you examples of each one of those.
 With an absolute reference in the href section we need to put a fully
-formed URL. You need to have the http or https, the address, and any
-type of extra document name you want. So if you remember there\'s three
-parts to URL, you have the protocol, the host, and the document. You
-need to include all of those if you have an absolute reference, right?
-Everything else is still pretty much the same. For a relative reference,
-we slightly change what goes in to the href. Instead of linking to some
-outside or even internal webpage, we\'re only going to put, in this
-case, the file name.
+formed URL. You need to have the **http** or **https**, the address, and
+any type of extra document name you want. So if you remember there\'s
+three parts to URL, you have the protocol, the host, and the document.
+You need to include all of those if you have an absolute reference,
+right? Everything else is still pretty much the same. For a relative
+reference, we slightly change what goes in to the href. Instead of
+linking to some outside or even internal webpage, we\'re only going to
+put, in this case, the file name.
 
 So in this case we\'re going to link to \"page2.html.\" You might get
 slightly more in-depth than that, where you can include also some sort
@@ -3110,24 +3200,24 @@ view. This last idea of embedded links is a little bit interesting. So
 let me bring you over to the code for just a second and show you. Right
 down here, I have something called \"Relative References\" with an
 id=\"relative\". I have embedded links with an id that says \"embedded\"
-and up here, at the very beginning you can see I have &lt;div id
-=\"absolute\"&gt;. With embedded links, I can click on any of these and
-navigate within the same page. So I\'m not gonna go to a different page.
-I\'m not gonna open up a new tab. Instead I\'m gonna jump to different
-places within the page. So I went to Absolute. I went to Relative now if
-I try to do Embedded references it doesn\'t look like it moved but it
-really did. It\'s just that we\'re already there. All right, so that is
-how these kind of embedded or internal links work, right? Now if at any
-time you get confused about how code is working. I just want to remind
-you that you can always go to \"view.\" \"Developer\" and \"view
-source\" to really get a better idea of how people are creating their
-pages and their links. Next, let\'s talk about targets, all right?
-Anchors can take a different target attribute as well. We\'ve got the
-source, let\'s add anchor. So, or, target. So you might have target
-equals self. This is kind of the default action. This is going to happen
-if you don\'t put anything at all. If you don\'t even include target,
-and what it means is when you click on a link, open up in the same tab
-or window that you\'re looking at right now.
+and up here, at the very beginning you can see I have **&lt;div id
+=\"absolute\"&gt;.** With embedded links, I can click on any of these
+and navigate within the same page. So I\'m not gonna go to a different
+page. I\'m not gonna open up a new tab. Instead I\'m gonna jump to
+different places within the page. So I went to Absolute. I went to
+Relative now if I try to do Embedded references it doesn\'t look like it
+moved but it really did. It\'s just that we\'re already there. All
+right, so that is how these kind of embedded or internal links work,
+right? Now if at any time you get confused about how code is working. I
+just want to remind you that you can always go to \"view.\"
+\"Developer\" and \"view source\" to really get a better idea of how
+people are creating their pages and their links. Next, let\'s talk about
+targets, all right? Anchors can take a different target attribute as
+well. We\'ve got the source, let\'s add anchor. So, or, target. So you
+might have target equals self. This is kind of the default action. This
+is going to happen if you don\'t put anything at all. If you don\'t even
+include target, and what it means is when you click on a link, open up
+in the same tab or window that you\'re looking at right now.
 
 If you put target equals blank. You\'re going to leave the current page
 that you\'re in exactly the same, and open up a new tab or window for
@@ -3157,7 +3247,7 @@ experience as everyone else.
 <h2 id="ch2-09">2.09 Useful Tags (x:xx)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image102.png){width="4.0in"
+![](./images/media/image120.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, today we\'re gonna talk about some of the tags that you may find
@@ -3170,85 +3260,87 @@ not supposed to memorize them all by the end of this lecture. Instead,
 I\'m really just trying to give you a taste for what\'s out there so you
 can start playing with your own code. So, one of the first things you
 need to decide when you\'re coding is, which tags are you going to use?
-There are the generic kind of what we call block tags, &lt;p&gt; and
-&lt;div&gt; that break your code into nice sections. Paragraph is kind
-of self-explanatory, and div gives you a way to put groups of content
-together. But the problem with both div and paragraph is that they\'re
-very generic. So we want to move over to the idea of using these
-semantic tags, such as &lt;header&gt; and &lt;nav&gt;, &lt;footer&gt;
-and &lt;figure&gt;. And we talked about those in an earlier video. Some
-of the other block tags that you may not be familiar with are listed
-here. The first one are the containers. Containers are simple things
-where you can put like-minded code together. So you might have an
-&lt;article&gt; or an &lt;aside&gt;, a &lt;section&gt;, &lt;main&gt;.
-Again, they almost seem generic in their names. But as you grow more
-comfortable, as you\'re designing your website, you can start to see oh,
-this isn\'t a generic section. This really is an aside. The next block
-tag is &lt;hr&gt;, or horizontal rule. And it\'s really an interesting
-idea because it doesn\'t contain any text at all. Just to remind you,
-block tags are tags that have the display block. It means it forces a
-new line above and below. There\'s never going to be anything next to it
-by default. So our hard rule will just put a single line across your
-page, simple yet very much used by many people. The next one is
-&lt;address&gt;. This will go ahead and be a block tag, and it doesn\'t
-format your address any differently than other text. But what it does
-is, it allows screen readers and other assisted devices to quickly and
-easily find if they\'re looking for your address. &lt;blockquote&gt;
-will be another block tag as well as &lt;details&gt;. Now the details
-tag is very interesting in this kind of quote you get into work. And
-what it does is elastic hand having drop down open and close idea with
-your text. Now, just to warn you it is not implemented in Firefox so if
-you\'re someone with Firefox who tries to run it its just gonna kinda
-default to this open idea. Alright, so there\'s &lt;hr&gt;,
-&lt;address&gt;, &lt;blockquote&gt; and &lt;details&gt;. I\'ve told you
-what they were. My guess is, you still have no idea what they really do,
-so let\'s take a look at a quick example. So here would be an example of
-the hr element. It\'s just a simple line across the screen, nothing too
-fancy, but very recognizable. The next one, the address element. In this
-case, the browser does italicize what\'s inside the content. I had to
-put my own end line here, but otherwise it just looks kind of
-italicized. But you can\'t be sure that it\'ll be italicized on every
-browser. It\'s really specific to Chrome, Firefox, Safari et cetera. But
-the important thing to know is that there is semantic meaning here. Here
-we have a block quote, and what block quote does, is it lets, indents
-the code and kind of lets people know that there\'s a quote that you\'re
-look at. One of the things that I put inside my blockquote, was I put in
-a cite tag, so someone can know right away that I cited Napoleon Hill.
-So if someone\'s doing a search for Napoleon Hill, this is going to up
-the chances that a search engine will link back to your page. The last
-one, details, is kind of combined with a summary tag. So I\'m going to
-go ahead and click here and you can see that it opens and closes. So the
-default is to have it closed and then open up when someone clicks on the
-little arrow icon right here. Now one of the things I mentioned is that
-it\'s not supported on Firefox. So if you\'re looking at this page on
-Firefox, by default you\'re just going to see it in the open context. So
-let\'s go ahead and go back to some other tags that aren\'t block tags.
-We\'re gonna do some inline tags. Again remember, inline tags just means
-that you can put it into the page and go all in a line one after the
-other. You don\'t need to break things up. So &lt;span&gt; was the
-original inline tag for plain text. You would put span around some code,
-and then you could go ahead and style it any way you wanted to. Now, in
-addition, we have &lt;cite&gt;, &lt;abbr&gt;, &lt;time&gt;, &lt;code&gt;
-and then the &lt;sub&gt; and the &lt;sup&gt;. Now, if you\'re watching
-closely you may have noticed I left a little typo after abbreviation
-there. So make sure you go ahead and put in the less than or greater
-than sign. But let\'s look at examples of this code as well. Here I have
-my inline elements. The &lt;cite&gt; basically makes it easier for
-people or bots to search your code, so I went ahead an put this code
-right inside a &lt;cite&gt; tag. Now, again, this particular browser
-happened to style it differently, but that\'s not always going to be the
-case. Another new tag that has come along recently is the &lt;abbr&gt;
-tag. So if you notice, right along here, I\'ve included abbreviation
-inside the box. Now, if you can, watch what happens when I put my mouse
-over the Sunday, Monday and Tuesday. As I hover over it, it\'s very
-small probably on your screen, but you can see that the expanded version
-of the abbreviation pops up, Sunday, Monday, Tuesday. Now, from an
+There are the generic kind of what we call **block** tags, **&lt;p&gt;**
+and **&lt;div&gt;** that break your code into nice sections. Paragraph
+is kind of self-explanatory, and div gives you a way to put groups of
+content together. But the problem with both div and paragraph is that
+they\'re very generic. So we want to move over to the idea of using
+these semantic tags, such as **&lt;header&gt;** and **&lt;nav&gt;,**
+**&lt;footer&gt;** and **&lt;figure&gt;.** And we talked about those in
+an earlier video. Some of the other **block** tags that you may not be
+familiar with are listed here. The first one are the containers.
+Containers are simple things where you can put like-minded code
+together. So you might have an **&lt;article&gt;** or an
+**&lt;aside&gt;,** a **&lt;section&gt;, &lt;main&gt;.** Again, they
+almost seem generic in their names. But as you grow more comfortable, as
+you\'re designing your website, you can start to see oh, this isn\'t a
+generic section. This really is an aside. The next **block** tag is
+**&lt;hr&gt;**, or horizontal rule. And it\'s really an interesting idea
+because it doesn\'t contain any text at all. Just to remind you,
+**block** tags are tags that have the display **block**. It means it
+forces a new line above and below. There\'s never going to be anything
+next to it by default. So our hard rule will just put a single line
+across your page, simple yet very much used by many people. The next one
+is **&lt;address&gt;**. This will go ahead and be a **block** tag, and
+it doesn\'t format your address any differently than other text. But
+what it does is, it allows screen readers and other assisted devices to
+quickly and easily find if they\'re looking for your address**.
+&lt;blockquote&gt;** will be another **block** tag as well as
+**&lt;details&gt;.** Now the details tag is very interesting in this
+kind of quote you get into work. And what it does is elastic hand having
+drop down open and close idea with your text. Now, just to warn you it
+is not implemented in Firefox so if you\'re someone with Firefox who
+tries to run it its just gonna kinda default to this open idea. Alright,
+so there\'s **&lt;hr&gt;, &lt;address&gt;, &lt;blockquote&gt;** and
+**&lt;details&gt;.** I\'ve told you what they were. My guess is, you
+still have no idea what they really do, so let\'s take a look at a quick
+example. So here would be an example of the hr element. It\'s just a
+simple line across the screen, nothing too fancy, but very recognizable.
+The next one, the address element. In this case, the browser does
+italicize what\'s inside the content. I had to put my own end line here,
+but otherwise it just looks kind of italicized. But you can\'t be sure
+that it\'ll be italicized on every browser. It\'s really specific to
+Chrome, Firefox, Safari et cetera. But the important thing to know is
+that there is semantic meaning here. Here we have a block quote, and
+what block quote does, is it lets, indents the code and kind of lets
+people know that there\'s a quote that you\'re look at. One of the
+things that I put inside my blockquote, was I put in a cite tag, so
+someone can know right away that I cited Napoleon Hill. So if someone\'s
+doing a search for Napoleon Hill, this is going to up the chances that a
+search engine will link back to your page. The last one, details, is
+kind of combined with a summary tag. So I\'m going to go ahead and click
+here and you can see that it opens and closes. So the default is to have
+it closed and then open up when someone clicks on the little arrow icon
+right here. Now one of the things I mentioned is that it\'s not
+supported on Firefox. So if you\'re looking at this page on Firefox, by
+default you\'re just going to see it in the open context. So let\'s go
+ahead and go back to some other tags that aren\'t **block** tags. We\'re
+gonna do some inline tags. Again remember, inline tags just means that
+you can put it into the page and go all in a line one after the other.
+You don\'t need to break things up. So &lt;span&gt; was the original
+inline tag for plain text. You would put span around some code, and then
+you could go ahead and style it any way you wanted to. Now, in addition,
+we have &lt;cite&gt;, &lt;abbr&gt;, &lt;time&gt;, &lt;code&gt; and then
+the &lt;sub&gt; and the &lt;sup&gt;. Now, if you\'re watching closely
+you may have noticed I left a little typo after abbreviation there. So
+make sure you go ahead and put in the less than or greater than sign.
+But let\'s look at examples of this code as well. Here I have my inline
+elements. The &lt;cite&gt; basically makes it easier for people or bots
+to search your code, so I went ahead an put this code right inside a
+&lt;cite&gt; tag. Now, again, this particular browser happened to style
+it differently, but that\'s not always going to be the case. Another new
+tag that has come along recently is the &lt;abbr&gt; tag. So if you
+notice, right along here, I\'ve included abbreviation inside the box.
+Now, if you can, watch what happens when I put my mouse over the Sunday,
+Monday and Tuesday. As I hover over it, it\'s very small probably on
+your screen, but you can see that the expanded version of the
+abbreviation pops up, Sunday, Monday, Tuesday. Now, from an
 accessibility screen point, it can actually go ahead and read the
 expanded version. But even for people who aren\'t using screen readers,
 I actually find that you need to do something to let people know that
 hovering over is even an option. Most people wouldn\'t think about that.
-The &lt;time&gt; attribute is another one that is just inline and most
-of us won\'t even know it\'s there but it allows you to give extra
+The **&lt;time&gt;** attribute is another one that is just inline and
+most of us won\'t even know it\'s there but it allows you to give extra
 semantic meaning. So the party starts at 9 PM. It makes perfect sense to
 us, but the party took place on New Year\'s Eve. Notice again, that\'s
 actually a time, even though it\'s not our typical numeric time, it is a
@@ -3256,49 +3348,50 @@ time. By putting in different time tags, it\'s also much more likely
 that if someone is accessing your site on a mobile phone, it\'ll pop up
 as knowing that it\'s a date. Sometimes you would like to be able to
 identify parts of your code as code fragments. This happens to me all
-the time because I\'m a computer scientist. So the &lt;code&gt; elements
-tend to be displayed in different font but it\'s not always the case.
-But &lt;code&gt; is just a nice way to break it up and let people know
-what is this crazy stuff people are typing? Oh, it\'s code. It\'s not
-supposed to make sense. Finally, the last two are &lt;sub&gt; and
-&lt;sup&gt;, and these are used to create, a lot of times, mathematical
-formulas. So, you can see here, I\'ve raised up the three, and I\'ve
-lowered down the two. So, I\'ve given you kind of the general block
-tags, the general in-line tags that people use. And there\'s other tags
-that people use quite often that you may see when you\'re looking at
-their pages. The issue with these tags is the thing when I say need
-more. It\'s really weird to use these tags unless you\'re also
-incorporating them with JavaScript or some other elements that you
-probably don\'t know a lot with yet. So these include the
-&lt;button&gt;, the &lt;meter&gt;, &lt;progress&gt;, &lt;iframe&gt;,
-&lt;bdo&gt;, which stands for bidirectional orientation, and then the
-&lt;map&gt; attribute along with &lt;area&gt;. Now, people really like
-these, but they tend to need JavaScript. So I\'m gonna show you a quick
-example. But I\'m not going to include the fancy add-ons you would need
-to use then. Cuz that\'s not what this course is about. Right now,
-we\'re just learning these tags. So let\'s take a look at them so you
-can see what they look like visually and understand that they\'re not
-actually functioning yet. So, my special tags that need more, I called
-it. Little word that you might not even be able to see it because it\'s
-so light in screen but you can see I\'ve included some open and close
-buttons. They don\'t do anything but they look really nice. So go ahead
-and put them in if you want but it may confuse people that there not
-actually operational. The next one is &lt;meter&gt;, and you\'ve
-probably seen this before. Basically how this one works, let me actually
-bring up the code for this one. You can see for the &lt;meter&gt; one
-I\'ve actually gone in here and put in &lt;meter&gt; minimum value of
-zero, maximum value of 100, and my current value is 50. So you can see
-it\'s colored in until about pretty much half way through all right?
-Same here with the next one, I\'ve set it to 25%. Here I just want to
-show you that it doesn\'t always have to be 0 to 100. You can start at 5
-and go to 10, and I\'ve set it to 8, which is 60%. So that\'s kind of
-how the &lt;meter&gt; works. &lt;progress&gt; is very similar to
-&lt;meter&gt; in that it shows kind of a proportional value. Now, with
-&lt;progress&gt;, you\'re expecting that you\'re doing something where
-eventually you\'ll get to 100. So you\'ve taken the surveys before where
-as you filled in, the progress bar fills in. Again both &lt;meter&gt;
-and &lt;progress&gt; tend to use JavaScript to update them. The next one
-I was going to show you is &lt;iframe&gt;. &lt;iframe&gt; is used to
+the time because I\'m a computer scientist. So the **&lt;code&gt;**
+elements tend to be displayed in different font but it\'s not always the
+case. But **&lt;code&gt;** is just a nice way to break it up and let
+people know what is this crazy stuff people are typing? Oh, it\'s code.
+It\'s not supposed to make sense. Finally, the last two are
+**&lt;sub&gt;** and **&lt;sup&gt;**, and these are used to create, a lot
+of times, mathematical formulas. So, you can see here, I\'ve raised up
+the three, and I\'ve lowered down the two. So, I\'ve given you kind of
+the general **block** tags, the general in-line tags that people use.
+And there\'s other tags that people use quite often that you may see
+when you\'re looking at their pages. The issue with these tags is the
+thing when I say need more. It\'s really weird to use these tags unless
+you\'re also incorporating them with JavaScript or some other elements
+that you probably don\'t know a lot with yet. So these include the
+**&lt;button&gt;**, the **&lt;meter&gt;**, **&lt;progress&gt;**,
+**&lt;iframe&gt;**, **&lt;bdo&gt;**, which stands for bidirectional
+orientation, and then the **&lt;map&gt;** attribute along with
+**&lt;area&gt;**. Now, people really like these, but they tend to need
+JavaScript. So I\'m gonna show you a quick example. But I\'m not going
+to include the fancy add-ons you would need to use then. Cuz that\'s not
+what this course is about. Right now, we\'re just learning these tags.
+So let\'s take a look at them so you can see what they look like
+visually and understand that they\'re not actually functioning yet. So,
+my special tags that need more, I called it. Little word that you might
+not even be able to see it because it\'s so light in screen but you can
+see I\'ve included some open and close buttons. They don\'t do anything
+but they look really nice. So go ahead and put them in if you want but
+it may confuse people that there not actually operational. The next one
+is **&lt;meter&gt;**, and you\'ve probably seen this before. Basically
+how this one works, let me actually bring up the code for this one. You
+can see for the **&lt;meter&gt;** one I\'ve actually gone in here and
+put in **&lt;meter&gt;** minimum value of zero, maximum value of 100,
+and my current value is 50. So you can see it\'s colored in until about
+pretty much half way through all right? Same here with the next one,
+I\'ve set it to 25%. Here I just want to show you that it doesn\'t
+always have to be 0 to 100. You can start at 5 and go to 10, and I\'ve
+set it to 8, which is 60%. So that\'s kind of how the **&lt;meter&gt;**
+works. **&lt;progress&gt;** is very similar to **&lt;meter&gt;** in that
+it shows kind of a proportional value. Now, with **&lt;progress&gt;**,
+you\'re expecting that you\'re doing something where eventually you\'ll
+get to 100. So you\'ve taken the surveys before where as you filled in,
+the progress bar fills in. Again both **&lt;meter&gt;** and
+**&lt;progress&gt;** tend to use JavaScript to update them. The next one
+I was going to show you is **&lt;iframe&gt;. &lt;iframe&gt;** is used to
 nest content in each other. It is not equally well supported by all the
 browsers, so you really want to explore who can use it and the best way
 to use it. And you would definitely want look into options, such as
@@ -3341,32 +3434,27 @@ greatest number of people possible. And really, the only way you can do
 this is by keeping your code simple, succinct, and you\'re always
 validating. Thanks.
 
-### Additional Resources
+### 2.09. Additional Resources
 
-Here are some optional resources for you to explore if you are
-interested in learning more about the topics from this week.
+Here are some resources for you to explore if you are interested in
+learning more about the topics from this week.
 
-### Images and Icons {#images-and-icons-1 .unnumbered}
+### Images and Icons
 
 -   [Make your document or presentation more accessible - Google Docs
     Editors Help](https://support.google.com/docs/answer/6199477?hl=en)
 
-• • [Add alternative text to a shape, picture, chart, SmartArt graphic,
-or other object - Microsoft
-Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669)
-
--   
+-   [Add alternative text to a shape, picture, chart, SmartArt graphic,
+    or other object - Microsoft
+    Support](https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669)
 
 ### Alt Text
 
--   [W3 alt decision
-    tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+-   [W3 alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 
-. If you want to learn more about creating good alt text, I recommend
-the W3 alt decision tree site as a resource. This site guides you with
+If you want to learn more about creating good alt text, I recommend the
+W3 alt decision tree site as a resource. This site guides you with
 simple \"yes/no\" questions on how to create your alt text.
-
-### Resources
 
 ### Lecture Slides
 
@@ -3382,15 +3470,15 @@ downloadable zip file.  You can choose the format that best suits your
 learning style.  You can find the code at [HTML5 Course
 Code](https://intro-webdesign.com/v3/html5.html#code)
 
-.  It is organized by week, so you can check to see if any code is
-provided for this week\'s lessons.  (Note, for Week 3 there isn\'t any
-starter code so you will be writing the code on your own!)
+It is organized by week, so you can check to see if any code is provided
+for this week\'s lessons.  (Note, for Week 3 there isn\'t any starter
+code so you will be writing the code on your own!)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 Accessibility (11:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image103.png){width="4.0in"
+![](./images/media/image121.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One of the things that I\'m constantly talking about in my courses is
@@ -3556,13 +3644,13 @@ understand the content of your page. Together we can make sure that the
 next generation of Web developers are designing for the greatest
 possible audience.
 
-### 3.01.Does Your Browser Support Accessibility?
+### 3.01. Does Your Browser Support Accessibility?
 
 In the Week One material you may or may not have run the test at
-<https://html5test.com/> to see how well your browser supports HTML5.
-But you should also find out if that HTML5 is easily usable by people
-who rely on assistive technology without having to use special
-work-arounds. 
+[**https://html5test.com/**](https://html5test.com/) to see how well
+your browser supports HTML5. But you should also find out if that HTML5
+is easily usable by people who rely on assistive technology without
+having to use special work-arounds. 
 
 In the screenshot below I compared my current Chrome browser (528) vs
 Firefox (497), Edge (496), Safari (477), and even Chrome on an older
@@ -3573,14 +3661,14 @@ tests which HTML5 features are supported by major browsers. This
 includes if they are keyboard accessible and if any accessibility
 related features are supported.
 
-![](./images/image104.png){width="5.0in"
+![](./images/media/image122.png){width="5.0in"
 height="2.2467946194225723in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Validating Your Site (4:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image105.png){width="4.0in"
+![](./images/media/image123.png){width="4.0in"
 height="2.2427351268591424in"}
 
 I know that I\'ve been saying validate your code over and over again,
@@ -3622,17 +3710,17 @@ wave.webaim.org site. To validate the accessibility of your page, you
 can put your URL directly in, or if you don\'t have a URL yet, right,
 maybe you\'re still in production. Maybe you\'re using Visual Studio
 Code. You can install an extension to check your local pages, right? The
-ones that start with \"File\" instead of \"http.\" We\'re going to talk
-about other accessibility validators as we go through, but it\'s very
-important that you do these two steps at the very least. To make sure
-that you are creating a page that works for everyone, not just somebody
-who\'s using the same browser you are, such as Chrome or Firefox. People
-might be using screen readers, they might be using Braille readers.
-There are so many different options out there. It\'s really pretty
-exciting if you take the time to look at what people are using. Finally
-important thing to know is that validated sites are more robust and
-they\'re more accessible. More robust means they\'re less likely to
-break.
+ones that start with \"File\" instead of \"**http**.\" We\'re going to
+talk about other accessibility validators as we go through, but it\'s
+very important that you do these two steps at the very least. To make
+sure that you are creating a page that works for everyone, not just
+somebody who\'s using the same browser you are, such as Chrome or
+Firefox. People might be using screen readers, they might be using
+Braille readers. There are so many different options out there. It\'s
+really pretty exciting if you take the time to look at what people are
+using. Finally important thing to know is that validated sites are more
+robust and they\'re more accessible. More robust means they\'re less
+likely to break.
 
 ### 3.02.Putting Your Code Out on to the Web
 
@@ -3647,10 +3735,10 @@ plan on hosting your files on the web. You can always change your mind
 and host them later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-03">3.03 Hosting Your Site (4:19)</h2>
+<h2 id="ch3-03">3.03. Hosting Your Site (4:19)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image106.png){width="4.0in"
+![](./images/media/image124.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, everybody. Today we\'re going to talk about hosting your site. And
@@ -3669,63 +3757,63 @@ something where you know you only want it up for a short time. The most
 common domain names have the domain ending of .com, but more and more,
 the other extensions are gaining acceptance. So if you go to buy a
 domain name and the only way you can get the name you really want is to
-use .net or .biz, that\'s okay. I recommend that you still go ahead and
-do it. The important thing to know is that domain names by themselves,
-they\'re really pretty much completely useless. You can own it, but
-unless you have files there that people can look at, no one\'s going to
-be able to go there and see anything. So this is where the hosting
-services come in. So if you were to look at your URL right now on your
-page, when you make a file and you right click and you\'re looking at
-your site in Chrome or Internet Explorer or anything like that, you\'re
-probably going to notice that the protocol is \"file.\" We don\'t want
-that. We don\'t want it to be \"file,\" or \"C:\" or \"My Documents.\"
-We want it to be something that looks like www, and that\'s where the
-hosting company comes in. So what you need is a registered IP address to
-connect your domain name with the Internet. So hosting services are
-going to vary. They go from free, to what I call mid-range, to really
-full-service. And so you need to decide what kind of hosting service
-best fits you. To be honest, I usually recommend free when you\'re
-getting started, and then make your way up. But let\'s talk about the
-pros and cons of each one. So with free services, you really have little
-or no control over your domain name. So if you go and look at some other
-people\'s, particularly from your school, your work, things where people
-are not really there just for the domain name is you\'re going to see
-things like wix dot whatever dot whatever, and then your name. You\'re
-going to have really limited tools. Sometimes when you pay for a site,
-you\'re going to be able to have email registration, different things
-like that. Free services don\'t really want to give you too much freedom
-because they\'re a little worried about what you\'re going to do.
-Probably the worst part about free services is that there\'s a lot of
-advertising and redirects. If somebody goes to your site and makes the
-smallest little typo, rather than getting a nice friendly warning,
-they\'re probably going to be redirected to somebody trying to sell
-something. The nice part about free services is that they have a very
-familiar look and feel across all of them. If you sign up for one
-service and learn how to do your hosting on it, you can pretty much rest
-assured that you\'re going to be able to manipulate your files on any
-other free service as well. So let\'s talk about paid services, both the
-mid-range and the full. With paid services, you tend to have much better
-tools for manipulating your code. It\'s not just about putting your
-files up on the web. You can do things like have email filters, send out
-special, what we call cron jobs. Cron jobs are different files that you
-can run at different times of the day. So if you want to have a
-database, you want to have a list server, you want to have emails, then
-you might want to pay for the paid services. The other really nice thing
-about paid services is that there\'s technical support available to you.
-So you can go ahead and email, chat, anything you need. You\'re not
-going to find that with the free services, or just won\'t be quite as
-good. But before you go for the paid services, I really recommend that
-you check for free services through work or school as well. A lot of
-time these free services still have the really great tools and the
-support, but you just don\'t have to pay for them. So, I hope you\'re
-excited, and I hope you\'re going to take that next step and that you
-want to go and post your work out on the web. Good luck.
+use **.net** or **.biz**, that\'s okay. I recommend that you still go
+ahead and do it. The important thing to know is that domain names by
+themselves, they\'re really pretty much completely useless. You can own
+it, but unless you have files there that people can look at, no one\'s
+going to be able to go there and see anything. So this is where the
+hosting services come in. So if you were to look at your URL right now
+on your page, when you make a file and you right click and you\'re
+looking at your site in Chrome or Internet Explorer or anything like
+that, you\'re probably going to notice that the protocol is \"file.\" We
+don\'t want that. We don\'t want it to be \"file,\" or \"C:\" or \"My
+Documents.\" We want it to be something that looks like www, and that\'s
+where the hosting company comes in. So what you need is a registered
+**IP address** to connect your domain name with the Internet. So hosting
+services are going to vary. They go from free, to what I call mid-range,
+to really full-service. And so you need to decide what kind of hosting
+service best fits you. To be honest, I usually recommend free when
+you\'re getting started, and then make your way up. But let\'s talk
+about the pros and cons of each one. So with free services, you really
+have little or no control over your domain name. So if you go and look
+at some other people\'s, particularly from your school, your work,
+things where people are not really there just for the domain name is
+you\'re going to see things like wix dot whatever dot whatever, and then
+your name. You\'re going to have really limited tools. Sometimes when
+you pay for a site, you\'re going to be able to have email registration,
+different things like that. Free services don\'t really want to give you
+too much freedom because they\'re a little worried about what you\'re
+going to do. Probably the worst part about free services is that
+there\'s a lot of advertising and redirects. If somebody goes to your
+site and makes the smallest little typo, rather than getting a nice
+friendly warning, they\'re probably going to be redirected to somebody
+trying to sell something. The nice part about free services is that they
+have a very familiar look and feel across all of them. If you sign up
+for one service and learn how to do your hosting on it, you can pretty
+much rest assured that you\'re going to be able to manipulate your files
+on any other free service as well. So let\'s talk about paid services,
+both the mid-range and the full. With paid services, you tend to have
+much better tools for manipulating your code. It\'s not just about
+putting your files up on the web. You can do things like have email
+filters, send out special, what we call cron jobs. Cron jobs are
+different files that you can run at different times of the day. So if
+you want to have a database, you want to have a list server, you want to
+have emails, then you might want to pay for the paid services. The other
+really nice thing about paid services is that there\'s technical support
+available to you. So you can go ahead and email, chat, anything you
+need. You\'re not going to find that with the free services, or just
+won\'t be quite as good. But before you go for the paid services, I
+really recommend that you check for free services through work or school
+as well. A lot of time these free services still have the really great
+tools and the support, but you just don\'t have to pay for them. So, I
+hope you\'re excited, and I hope you\'re going to take that next step
+and that you want to go and post your work out on the web. Good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04a">3.04a Creating a GitHub Pages Account (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image107.png){width="4.0in"
+![](./images/media/image125.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One way that you can share your webpage with everyone is by hosting it
@@ -3793,7 +3881,7 @@ in creating your GitHub Pages account.
 <h2 id="ch3-04b">3.04b Uploading to GitHub Pages (8:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image108.png){width="4.0in"
+![](./images/media/image126.png){width="4.0in"
 height="2.2427351268591424in"}
 
 So, let\'s say you\'ve come up with a pretty nice site. I\'ve got one
@@ -3895,7 +3983,7 @@ impressed with your incredible work.
 <h2 id="ch3-05">3.05 Sharing Your Page from Replit (3:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image109.png){width="4.0in"
+![](./images/media/image127.png){width="4.0in"
 height="2.2427351268591424in"}
 
 As we reach the end of this course, it\'s going to be time for you to
@@ -3936,7 +4024,7 @@ remember this, you can jump on the forums. People will be there to give
 you help. But we always want to give people the greatest chance possible
 to look at your code and see how it\'s all working together, good luck.
 
-### 3.05.Sharing Your Page from Replit
+### 3.05 Sharing Your Page from Replit
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -3945,9 +4033,9 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-### 3.05.Getting started 
+### 3.05 Getting started
 
-1.  Go to <https://replit.com/>
+1.  Go to [**https://replit.com/**](https://replit.com/)
 
 2.  Select sign up
 
@@ -3960,13 +4048,13 @@ Replit is free, and the first step is to make an account.
     email
 
 ![The Create a Replit account
-screen.](./images/image110.png){width="4.0in"
+screen.](./images/media/image128.png){width="4.0in"
 height="1.6423075240594927in"}
 
-### 3.05.Creating a repl
+### 3.05 Creating a repl
 
 ![The + Create button under the heading My
-Repls.](./images/image88.png){width="4.0in"
+Repls.](./images/media/image88.png){width="4.0in"
 height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
@@ -3985,20 +4073,20 @@ height="1.7692311898512685in"}
 3.  Click \[+ Create Repl\]
 
 ![Information to fill in on the create a repl screen: template, title,
-and public.](./images/image089.png){width="4.0in"
+and public.](./images/media/image89.png){width="4.0in"
 height="2.308546587926509in"}
 
 ### Congrats!
 
 A tutorial will pop up and I encourage you to look through it to find
-out what the different parts of the IDE are. But for now the important
-thing is that you should be able to find three things: the Files
-section, the Coding Environment, and the View window.
+out what the different parts of the **IDE** are. But for now the
+important thing is that you should be able to find three things: the
+Files section, the Coding Environment, and the View window.
 
-![The files section](./images/image111.png){width="2.0in"
+![The files section](./images/media/image129.png){width="2.0in"
 height="1.562179571303587in"}
 
-### 3.05.File Section
+### 3.05 File Section
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -4013,15 +4101,15 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-### 3.05.Coding Environment
+### 3.05 Coding Environment
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./images/image112.png){width="4.0in"
+![A code editor](./images/media/image130.png){width="4.0in"
 height="2.3675218722659666in"}
 
-### 3.05.View Window
+### 3.05 View Window
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -4033,10 +4121,10 @@ This is also where you can find the URL to share your site - it will be
 a combination of your username and the project name you chose when you
 created your repl.
 
-![The view window](./images/image113.png){width="3.0in"
+![The view window](./images/media/image131.png){width="3.0in"
 height="2.9291666666666667in"}
 
-### 3.05.More information
+### 3.05 More information
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit)
@@ -4049,7 +4137,7 @@ for more detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### 3.05.Final Project Description
+### 3.05 Final Project Description
 
 ### **Specification**
 
@@ -4078,26 +4166,20 @@ your project.
 7.  At least one link to an external source.
 
 In addition the page must be hosted and pass [The W3C Markup Validation
-Service Tool](https://validator.w3.org/)
+Service Tool](https://validator.w3.org/) and the [WAVE Web Accessibility
+Evaluation Tool](https://wave.webaim.org/)
 
-and the [WAVE Web Accessibility Evaluation
-Tool](https://wave.webaim.org/)
+### **3.05 Examples**
 
-.
-
-### **3.05.Examples**
-
-1.  [Example 1 - Michigan
+-   [Example 1 - Michigan
     Facts](https://replit.com/@wd4eHTML/Example-Site-1)
 
-• • [Example 2 - Movies](https://replit.com/@WD4E-HTML/Example-Site-2)
+-   [Example 2 - Movies](https://replit.com/@WD4E-HTML/Example-Site-2)
 
-• • [Example 3 - Comparing
-Laptops](https://replit.com/@WD4E-HTML/Example-Site-3)
+-   [Example 3 - Comparing
+    Laptops](https://replit.com/@WD4E-HTML/Example-Site-3)
 
-3.  
-
-### **Peer Grading**
+**Peer Grading**
 
 For this assignment you will be grading the submission of your peers and
 they will be grading your work as well.
@@ -4110,7 +4192,7 @@ there. And don\'t forget to reach out for help if you need it.
 <h2 id="ch3-06">3.06 Final Project Demo (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image114.png){width="4.0in"
+![](./images/media/image132.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everyone. Welcome to the Final Project. One of the things I\'ve
@@ -4236,7 +4318,7 @@ handle the responsive aspects for you.
 <h2 id="ch3-07">3.07 Closing (3:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./images/image115.png){width="4.0in"
+![](./images/media/image133.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everybody. I\'m not sure if I should say welcome back or goodbye.
@@ -4267,38 +4349,40 @@ who want to access your page. You also have the ability to go to the
 validator.org to check for well-structured syntactic code. Or to go to
 WebAIM to check for that semantic structure that people may or may not
 be using in their code. Again, the ability to evaluate accessibility is
-something that we really need more and more people to know. Finally, you
-also, hopefully, know how to publish your site or at the very least, you
-know the basics if you do decide to publish in the future. You know
-about domain names, you know about hosting, and you know that you really
-don\'t want to buy that one domain name they keep trying to sell you in
-the Super Bowl unless you\'re also willing to buy a host. You\'ve also
-achieved some familiarity, no matter how small, with so many systems
-that are out there. You\'ve learned about cPanel, you\'ve learned about
-FTP, you\'ve learned about different browsers, and you\'ve learned about
-different types of editors. And this is all information you can use to
-expand your knowledge in other areas. So what should you do next? If
-you\'ve found this course interesting, what you really want to do is you
-want to practice you skills. Keep writing code, keep using tags. It
-there is a tag you\'re not sure about. That is especially the one that
-you want to practice with. You want to get comfortable with multiple
-editors. If you\'ve been using Notepad++, try Sublime. If you\'ve been
-using Sublime try Textwrangler. Keep working with different editors, and
-while you\'re at it, try different browsers too. Try uploading your
-code. If you didn\'t host your site, I really encourage you to find a
-free hosting service and try putting it out there. Because once you can
-share your code with other people you get much more motivated to do new
-things. And finally, the most important thing you probably wanna do, is
-learn about Cascading Style Sheets. Cascading Style Sheets is a method
-you\'re gonna use to take your plain, everyday HTML file and make it
-look like something really special. Of course, I happen to be offering a
-course in CSS3, and I hope you\'ll join me for that. But if you decided
-you just don\'t have the time to do that, I want to let you know that
-when this course is over and after you\'ve submitted your final project,
-I will be sending you a link to what I call my secret lecture. And in
-that secret lecture, I want to show you ways that you can style your
-page in very simple steps. And I hope it\'s something you\'ll enjoy and
-help you to continue your journey into HTML 5.
+something that we need more and more people to know.
+
+Finally, you also, hopefully, know how to publish your site or at the
+very least, you know the basics if you do decide to publish in the
+future. You know about domain names, you know about hosting, and you
+know that you really don\'t want to buy that one domain name they keep
+trying to sell you in the Super Bowl unless you\'re also willing to buy
+a host. You\'ve also achieved some familiarity, no matter how small,
+with so many systems that are out there. You\'ve learned about cPanel,
+you\'ve learned about FTP, you\'ve learned about different browsers, and
+you\'ve learned about different types of editors. And this is all
+information you can use to expand your knowledge in other areas.
+
+What should you do next? If you\'ve found this course interesting, what
+you want to do is you want to practice you skills. Keep writing code,
+keep using tags. It there is a tag you\'re not sure about. That is
+especially the one that you want to practice with. You want to get
+comfortable with multiple editors. If you\'ve been using Notepad++, try
+Sublime. If you\'ve been using Sublime try Textwrangler. Keep working
+with different editors, and while you\'re at it, try different browsers
+too. Try uploading your code. If you didn\'t host your site, I encourage
+you to find a free hosting service and try putting it out there. Because
+once you can share your code with other people you get much more
+motivated to do new things. And finally, the most important thing you
+probably wanna do, is learn about Cascading Style Sheets. Cascading
+Style Sheets is a method you\'re gonna use to take your plain, everyday
+HTML file and make it look like something special. Of course, I happen
+to be offering a course in CSS3, and I hope you\'ll join me for that.
+But if you decided you just don\'t have the time to do that, I want to
+let you know that when this course is over and after you\'ve submitted
+your final project, I will be sending you a link to what I call my
+secret lecture. And in that secret lecture, I want to show you ways that
+you can style your page in very simple steps. And I hope it\'s something
+you\'ll enjoy and help you to continue your journey into HTML 5.
 
 <h5>the end...2/12/2024 last updated &/or reviewed.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
