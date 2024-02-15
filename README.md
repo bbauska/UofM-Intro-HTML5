@@ -2575,12 +2575,13 @@ code when you visit pages.
 
 ### 2.01. [HTML Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 107.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107. html5 tags and syntax (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image107.png" 
-  alt="." 
+  alt="2.02 HTML5 Tags and Syntax."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -2589,7 +2590,7 @@ HTML that you can start making an interesting page to share with your
 friends and family. It&apos;s also, unfortunately, probably, or at least
 hopefully, my first really big disappointment to you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 108.  (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 108. html tags (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image108.png" 
   alt="." 
@@ -2633,10 +2634,11 @@ where the picture is located, an href which is where the new page you
 want to go to is. So when we talk about the tags, for some of them I&apos;ll
 also be talking about the attributes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 110.  (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 110. display types: block & inline (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image110.png" 
-  alt="." 
+  title="Display types: block and inline"
+  alt="Display types: block and inline."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2653,10 +2655,11 @@ And it may not seem important now, but it&apos;s the kind of thing that&apos;s
 going to make it much easier for you when you&apos;re trying to make your
 pages look a certain way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 111.  (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 111. common tags: heading, paragraph & divs (all block) (76) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image111.png" 
-  alt="." 
+  title="Common Tags: Heading, paragraph & divs (all block)"
+  alt="Common Tags: Heading, paragraph & divs (all block)."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2694,10 +2697,11 @@ of them to your page you&apos;re not giving your readers or users any extra
 information to let them know that this is a footer or a header or
 something along those lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 112.  (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. more tags: ol, ul, and br (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image112.png" 
-  alt="." 
+  title="More tags: Ordered List, Unordered List, and Line Break"
+  alt="More tags: Ordered List, Unordered List, and Line Break." 
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2727,6 +2731,14 @@ the browser ignores all of it. The browser is not going to put something
 on a new line, unless it runs out of space or it specifically sees the
 **&lt;br&gt;** tag. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 113. attributes of elements (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image113.png" 
+  title="More tags: Ordered List, Unordered List, and Line Break"
+  alt="More tags: Ordered List, Unordered List, and Line Break." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 I mentioned before with the lists that tags can
 have attributes. Attributes provide additional information about an
@@ -2734,6 +2746,14 @@ element. Sometimes they&apos;re absolutely necessary, sometimes they&apos;re
 just supplemental. The important thing to remember is that attributes
 are always, always specified in the start tag, in the beginning, and
 attributes come in a name value pair. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 114. images (inline) src and alt (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image114.png" 
+  title="More tags: Ordered List, Unordered List, and Line Break"
+  alt="More tags: Ordered List, Unordered List, and Line Break." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Let&apos;s look at a tag that needs attributes in order to work. I&apos;m gonna use the 
 image tag as an example. Images are inline which means you can actually put many
@@ -2770,6 +2790,14 @@ picture in some sort of editor and save it to exactly the size you want.
 And give it a really good name. It&apos;s very frustrating to work on your
 web page when all of your files are named &quot;image_02586.&quot; 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 115. more images, src, alt, title, class (80) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image115.png" 
+  title="More images; src, alt, title, and class"
+  alt="More images; src, alt, title, and class."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 Here&apos;s an example for you of one image tag with multiple attributes. I have the
 image tag, followed by source, &quot;logo.jpg.&quot; I have the alternative
@@ -2778,6 +2806,14 @@ title attribute, which will often display when you hover over the image,
 and then I also have a class attribute, which might indicate extra
 formatting, such as the height, the width, the position, etc. 
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 116. more attributes; class, id, style, accesskey & tabindex (81) ~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image116.png" 
+  title="More attributes; class, id, style, accesskey & tabindex"
+  alt="More attributes; class, id, style, accesskey & tabindex."
+  style="border: 2px solid #000000; width:50%" />
+</p>
 
 As you learn more and more tags, you&apos;re gonna learn that they have specific
 attributes. It makes no sense for an image to also include some sort of
@@ -2814,7 +2850,15 @@ elements in your page. So even though something may come later in the
 page, if you feel it&apos;s really important you can put a high tabindex and
 them get there quickly. 
 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 117. special entities (82) ~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image117.png" 
+  title="Special Entities"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
+
 Okay, so one of the things I told you is that
 all tags start with a bracket. Which is fine, that&apos;s very easy to
 figure out, and the browser knows whenever it sees a bracket, it
@@ -2822,7 +2866,15 @@ shouldn&apos;t display the content, it should do something fancy. So what do
 you do if you want the browser to display a bracket? And say, &quot;hey,
 this isn&apos;t a start tag?&quot; 
 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 118. more special entities (82) ~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image118.png" 
+  title="More Special Entities"
+  alt="."
+  style="border: 2px solid #000000; width:50%" />
+</p>
+
 Well, then you&apos;re gonna use special
 entities. So if you want a bracket, then use **&quot;&lt;&quot;**. The lt stands
 for less than and please note that&apos;s an L, not a one. You could also do
@@ -2836,15 +2888,22 @@ number of tags today, and you&apos;re gonna learn more and more tags and
 probably use cheat sheets and go online to find a bunch of different
 tags you wanna use. 
 
-<image>
-So an important this that I want you to know is, how
-do you know the difference between a tag and an attribute? And the key
-is to look for those brackets. Also you&apos;re gonna want to make sure that
-you know which two symbols end a self-closing tag. All right. Don&apos;t
-forget, that&apos;s where you have the forward slash in the closing bracket.
-These are the kind of things that can really mess up your code when you
-try to validate it later, and so being cognizant of these ideas in the
-beginning will really help you write much cleaner code.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 119. review hmlt5 tags and syntax (83) ~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image119.png" 
+  title="Review; difference between tag & attribute, how to end a self-closing tag"
+  alt="Review; difference between tag & attribute, how to end a self-closing tag."
+  style="border: 2px solid #000000; width:50%" />
+</p>
+
+An important thing I want you to know is, how do you know the difference between a tag 
+and an attribute? And the key is to look for those brackets. Also you&apos;re gonna want 
+to make sure that you know which two symbols end a self-closing tag. All right. Don&apos;t
+forget, that&apos;s where you have the forward slash in the closing bracket. These are 
+the kind of things that can really mess up your code when you try to validate it later, 
+and so being cognizant of these ideas in the beginning will really help you write much 
+cleaner code.
 
 ### 2.02.Cheatsheets
 
@@ -2886,9 +2945,9 @@ Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
 <h2 id="ch2-03">2.03. Semantic Tags (6:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 113.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image113.png" 
+  <img src="./images/image120.png" 
   alt="." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -2897,19 +2956,40 @@ Hi everybody. Today we&apos;re gonna be talking about some of the newer
 HTML5 tags that I like to refer to as the semantic tags. This is going
 to continue our conversation about how we&apos;re trying to make our
 webpages the most accessible as possible to as many people. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image121.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 Before we begin talking about specific tags, though, I want to talk to you about
 the design of your webpage. Really, the most important step in your web
 design is the design. Once you&apos;re down pat with the different tags and
 typing in files, we&apos;re gonna change our focus to how you want to lay
 out your page. And you need a really clear picture of what you want to
 create before you can begin coding in earnest. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image122.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 Let&apos;s take a look at this sample page. Again, it&apos;s just a quick sketch, and it 
 shows that I would like to have a header section, a footer section, and a few other
 sections embedded in between the two of them. Once I know that that&apos;s
 the kind of design I want, I can begin coding. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image123.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 You may recall that one of the most common tags used to be the **&lt;div&gt;** tag, because
 in the beginning, kind of dum, dum, dum, you did everything with
 **&lt;div&gt;.** You would go through your page, group it together, and
@@ -2918,7 +2998,14 @@ some sort of special class or id associated with them. So for instance,
 one div might have the class of header, another the section, another the
 footer. This way, you could back to your design and really break it up
 in a way that worked best for you. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image124.png"
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 The first tag that I&apos;ll be talking
 to you about today is the header tag. The header tag is typically used
 to group together introductory or navigational aids. So you&apos;d put in
@@ -2937,20 +3024,33 @@ the header tag should not be confused with the head or different heading
 tags. This is going to happen to you a lot. Just remember that the
 **&lt;head&gt;** tag is for metadata, and the **&lt;header&gt;** tag is
 more of just an aid. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image125.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 The next tag I&apos;m gonna talk to you about today is
 the **&lt;nav&gt;** tag. The nav is basically a section of your page
 that links to other pages or parts within your page. So, inside your nav
 you&apos;re not going to have links to Facebook, or Google, or your LinkedIn
 account or anything like that. Instead, it&apos;s really just links that go
-to other parts of your site. So for instance, here I&apos;ve made an
-unordered list with three links. Each of them go to a different part of
-your page. There&apos;s a lot of debate, for better, for worse, as to
-whether or not your **&lt;nav&gt;** tags should be using lists, but the
-important thing is to include the **&lt;nav&gt;** tag to help people
-navigate through your page. Oftentimes, you&apos;ll find the **&lt;nav&gt;**
-tag embedded inside the **&lt;header&gt;** tag. 
-<image>
+to other parts of your site. 
+For instance, here I&apos;ve made an unordered list with three links. Each of them go to 
+a different part of your page. There&apos;s a lot of debate, for better, for worse, as to
+whether or not your **&lt;nav&gt;** tags should be using lists, but the important thing 
+is to include the **&lt;nav&gt;** tag to help people navigate through your page. 
+Oftentimes, you&apos;ll find the **&lt;nav&gt;** tag embedded inside the **&lt;header&gt;** tag. 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image126.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
+
 Another tag is the
 **&lt;footer&gt;** tag, and this is a section that contains information
 that is pretty typical for the bottom of the page, such as copyright
@@ -2963,7 +3063,13 @@ In this example here, I have my footer tag, my special entity
 to make the copyright symbol, and then my name with a line break. And
 then I&apos;ve also included a link back to my main site. Some of our other
 semantic tags have a little bit more oomph to them. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image127.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 For instance, one of the new tags is the **&lt;figure&gt;** tag, and it has a lot more
 semantics than the image tag we&apos;ve gone over previously. Every figure
 can include additional information. So you can include an image, you can
@@ -2975,7 +3081,13 @@ floats by itself when its in an image tag, this lets you say, this text
 goes specifically with this image. Now again, we do have the
 **&lt;alt&gt;** tag, which helps describe the picture, but you have to
 remember, most of us will never see that. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image128.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 There are a number of other new tags in HTML5, and it&apos;s not really possible for me to go over all
 of them. Instead, you&apos;ll find that as you develop your pages and after
 you&apos;ve done your initial web design, you&apos;ll logically just head
@@ -3009,9 +3121,9 @@ The most common organization is to have one main folder with your html
 files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 114.  (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image114.png" 
+  <img src="./images/image129.png" 
   alt="Folder with list of documents nested within." 
   style="border: 2px solid #000000; width:20%" />
 </p>
@@ -3042,9 +3154,9 @@ again.
 
 <h2 id="ch2-04">2.04. Template Page in Visual Studio Code (8:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 115.  (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130.  (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image115.png" 
+  <img src="./images/image130.png" 
   alt="." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -3052,7 +3164,13 @@ again.
 Earlier, I showed you how you can open the Visual Studio Code editor.
 Let&apos;s go ahead and go back and actually create something real that has
 been using the tags that we&apos;ve been talking about. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131.  (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image131.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 The minimum requirements that I&apos;m going to want you to have is one, create a real
 page and make sure to call it &quot;index.html&quot;. Remember, &quot;index.html&quot;
 is the default name that all the browsers know to look for when it goes
@@ -3062,7 +3180,13 @@ Take this as a chance to create something interesting. Then finally, as
 always, want you to make sure that your page validates. Go in to the W3
 validator and/or the WAVE validator to take a look and see what&apos;s going
 on. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 132.  (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image132.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 Make sure to start with the shell. The shell includes your doctype,
 any metadata, that&apos;s the head section, as well as your displayable
 content. In the past, it was up to you to remember how to put that all
@@ -3070,13 +3194,25 @@ in. But thanks to Visual Studio Code and Replit, this will all be
 built-in to the shell when you open up your editor. I&apos;m going to give
 you some examples, but I really encourage you to take what I&apos;m about to
 do and make it your own. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 133.  (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image133.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 The first step is to create a new file. I&apos;m
 going to call mine &quot;index.html&quot;. It&apos;s going to go in my folder and
 then we&apos;ve got it. Step 2 is show off those super programming skills.
 Makes you feel like you&apos;re in some sort of movie where they&apos;re typing
 a little bit and amazing things are happening. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 134.  (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image134.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 I&apos;m going to type the
 exclamation point and Tab. It has now put the shell of my program in for
 me. It has put in that I want HTML5. It has put in the head data, which
@@ -3108,7 +3244,13 @@ the curly fries. Second was absolutely a chocolate milkshake. I&apos;m
 trying to remember. They also had really good chicken nuggets. You can
 see, I had very sophisticated taste in food. I have done a lot of typing
 so far. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 135.  (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image135.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 One of the things I want to remind everybody is never do this
 much typing without remembering to save. I can see that I haven&apos;t saved
 in a while based on that circle. Instead of going up to &quot;File,&quot;
@@ -3116,13 +3258,25 @@ in a while based on that circle. Instead of going up to &quot;File,&quot;
 see if people remember. I can see my code. How can I also see my
 deployed page? One option is to go in and find &quot;index.html&quot; on your
 folder and open it up. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 136.  (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image136.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 But instead, I&apos;m going to click on &quot;Go Live.&quot;
 When I did, you can see it popped in my page up for me. I&apos;m going to
 make it a little bit bigger so you can see everything. I also wanted to
 have a footer, so let&apos;s add a footer in here. My footer is going to be
 &quot;Copyright Colleen van Lent.&quot; 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137.  (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image137.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 I&apos;m going to save my page, and you can
 see it popped up. Things are looking good so far. If all we&apos;re looking
 at is my page, everything looks good. But it&apos;s not a matter of things
@@ -3141,18 +3295,39 @@ child of element body.&quot; Let&apos;s go take a look. Instead of calling it a
 footer, I called it a foote. Let&apos;s go ahead and fix that up. And so now
 that looks better. Let&apos;s go back and save it. I can just do live server
 again, and it looks better. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 138.  (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image138.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 So, let&apos;s do another check. Let&apos;s take
 this site and we would like to go to the WAVE accessibility checker and
 check this site as well. But again, we have a problem that it wants to
 know what the URL of our code is and we don&apos;t have a URL because we&apos;re
 using Visual Studio Code. So you do have a few options. One is that you
 can click on &quot;Browser Extensions.&quot; I&apos;m going to add this to my page.
-<double images>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 139/140.  (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image139.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image140.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:45%" />
+</p>
 I&apos;m going to take a quick look and see if this will go for me. I&apos;m
 going to go back to my page, I&apos;m going to refresh just in case, I&apos;m
 going to right-click, and you can see it says &quot;WAVE this page.&quot; 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 141.  (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image141.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 You can see it went through and it said, excellent. Boom. It went through
 and it doesn&apos;t find any other errors or any contrast errors. It&apos;s
 pretty unusual. I encourage you to go in, add a few more things, add
@@ -3164,9 +3339,9 @@ that&apos;s accessible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05. Template Page in Replit (8:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 116.  (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142.  (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image116.png" 
+  <img src="./images/image142.png" 
   alt="." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -3174,7 +3349,13 @@ that&apos;s accessible.
 Earlier, we made a very simple web page using Replit, but now let&apos;s
 make something that&apos;s a little bit more involved using the tags that
 you&apos;ve been learning about. 
-<image pg98>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 143.  (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image143.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 What I want you to do is create a page
 called &quot;index.html.&quot; Your page should utilize a header, the main, and
 footer elements, and hey, don&apos;t cheat, these elements should not be
@@ -3184,7 +3365,13 @@ sure that your page validates. A lot of times we wait until the end and
 it can be overwhelming to pick up on the mistakes that we&apos;ve made. I&apos;m
 going to encourage you to save as you&apos;re developing and keep validating
 the page. 
-<image>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 144.  (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image144.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:40%" />
+</p>
 With every website, we start with a shell. That shell is going
 to include the doctype stating that it&apos;s an HTML5 document. The
 meta-data that&apos;s for us right now going to be the title of our page,
@@ -3192,7 +3379,16 @@ but as you become a more confident programmer, it might include links to
 CSS files, to JavaScript, or perhaps to Favicons. Finally, today you&apos;re
 really going to focus on the displayable content, adding in paragraphs
 or lists, eventually we&apos;ll be adding images. 
-<dbl images pg99>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 145/146.  (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image145.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image146.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:45%" />
+</p>
 Let&apos;s open up Replit and create, test, share, and validate it. I&apos;m 
 going to begin by creating a Repl, I want it to be an HTML file, and I had 
 mentioned that we like to call our
@@ -3201,7 +3397,13 @@ with Replit since we put so many files in the same place, but let&apos;s go
 ahead and go with it right here. So, I&apos;ve got it&apos;s an HTML, CSS,
 JavaScript file, I&apos;ve named it &quot;index.html&quot; and now I&apos;m going to
 click on &quot;Create.&quot; 
-<image pg99>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 147.  (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+  <img src="./images/image147.png" 
+  alt="." 
+  style="border: 2px solid #000000; width:50%" />
+</p>
 Right away, Replit is going to fill in that data
 that we had talked about, it has our data type. It has our extra
 meta-data where it tells us how big the screen is going to be and links
