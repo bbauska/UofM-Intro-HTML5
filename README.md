@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/12/2024 4+pm"
+date last editted: "2/14/2024 5+pm"
 output: 
   markdown:
     with some style
@@ -20,13 +20,15 @@ How-To's in HTML (a beginner's guide)</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. html5 logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image001.png" 
-  alt="HTML5 logo." 
+  alt="HTML5 logo."
+  title="HTML5 logo"
   style="border: 2px solid #000000; width:20%" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.png" 
+  title="University of Michigan and Coursera logo"
   alt="University of Michigan and Coursera logo." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -366,10 +368,11 @@ take some time, but is a useful skill for advanced learners.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (1.01) (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image003.png" 
-  alt="1.01. Introduction to HTML5." 
+  title="1.01 Introduction to HTML5"
+  alt="1.01 Introduction to HTML5." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -388,6 +391,7 @@ blocks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image004.png" 
+  title="What this course will cover: The Basics"
   alt="What this course will cover: The Basics." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -419,6 +423,8 @@ foot.
 <!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (10) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image005.png" 
+  title="Week 1: What happens when you type an address into a URL, what tools
+    you need to code, and what is HTML5?" 
   alt="Week 1: What happens when you type an address into a URL, what tools
     you need to code, and what is HTML5?" 
   style="border: 2px solid #000000; width:40%" />
@@ -443,6 +449,7 @@ sites.
 <!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (11) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image006.png" 
+  title="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia" 
   alt="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -463,6 +470,7 @@ site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 3: putting it together (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image007.png" 
+  title="Week 3: Putting it Together" 
   alt="Week 3: Putting it Together." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -486,6 +494,8 @@ family see it, as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. final project (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image008.png" 
+  title="Final Project: Create multipage website, pass W3C validation 
+    &amp; WAVE accessibility review" 
   alt="Final Project: Create multipage website, pass W3C validation 
     &amp; WAVE accessibility review." 
   style="border: 2px solid #000000; width:40%" />
@@ -506,6 +516,7 @@ about content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image009.png" 
+  title="This class is for persistent, non-nerd beginners" 
   alt="This class is for persistent, non-nerd beginners." 
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -528,6 +539,7 @@ better technology.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image010.png" 
+  title="The educator is Colleen van Lent, PhD - University of Michigan"
   alt="The educator is Colleen van Lent, PhD - University of Michigan."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -712,7 +724,8 @@ week&apos;s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image011.png" 
-  alt="1.02 The Evolution of HTML."  
+  title="1.02 The Evolution of HTML"
+  alt="1.02 The Evolution of HTML." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -721,7 +734,8 @@ is, and why we aren&apos;t learning HTML1 instead. So what is HTML?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. what is html? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image012.png" 
+  <img src="./images/image012.png"
+  title="What is HTML?"
   alt="What is HTML?"
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -734,7 +748,8 @@ headings, images, lists, links, et cetera.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. .html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image013.png" 
+  <img src="./images/image013.png"
+  title=".html files"
   alt=".html files."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -752,7 +767,8 @@ present the information in new and special ways.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14. html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image014.png" 
+  <img src="./images/image014.png"
+  title="HTML files"
   alt="HTML files."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -763,6 +779,7 @@ don&apos;t know much about it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. example, html file (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image015.png" 
+  title=="Example, HTML file"
   alt="Example, HTML file."
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -783,7 +800,8 @@ output when any browser would look at our code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. 'learning' html (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image016.png" 
+  <img src="./images/image016.png"
+  title="'Learning' HTML"
   alt="'Learning' HTML."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -799,6 +817,7 @@ short-lived.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. 'learning' html, #2 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image017.png" 
+  title="'Learning' HTML, #2"
   alt="'Learning' HTML, #2."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -814,6 +833,7 @@ navigate through it?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. html, the early years (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image018.png" 
+  title="HTML, The Early Years"
   alt="HTML, The Early Years."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -834,6 +854,7 @@ that was the key.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. html, early years, #2 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image019.png" 
+  title="HTML, The Early Years, #2"
   alt="HTML, The Early Years, #2."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -845,6 +866,7 @@ or anything that was more about layout than content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. mosaic is introduced (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image020.png"
+  title="Mosaic is introduced"
   alt="Mosaic is introduced."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -863,6 +885,7 @@ point.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. mosaic (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image021.png"
+  title="Mosaic"
   alt="Mosaic."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -876,6 +899,7 @@ the form of Netscape, Internet Explorer and other browsers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. the browser wars (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image022.png"
+  title="The Browser Wars"
   alt="The Browser Wars."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -904,6 +928,7 @@ on your phone, unless you click on a link to the full website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. web standards (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image023.png"
+  title="Web standards"
   alt="Web standards."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -925,6 +950,7 @@ ability to view the content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. evolution of browsers (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image024.png"
+  title="Evolution of browsers"
   alt="Evolution of browsers."
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -942,6 +968,7 @@ style it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. evolution of html (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image025.png"
+  title="Evolution of HTML"
   alt="Evolution of HTML."
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -955,6 +982,7 @@ job to keep up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. where are we at now? (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image026.png"
+  title="Where are we at now?"
   alt="Where are we at now?"
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -982,6 +1010,7 @@ reader. You want everyone the same access to the information.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 27. review evolution of html (1-02) (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image027.png"
+  title="Review of 1.02 The Evolution of HTML"
   alt="Review of 1.02 The Evolution of HTML."
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -1002,6 +1031,7 @@ new standards.
 <!--~~~~~~~~~~~~~~~~~~ 28. how it works: the 'magic' of page requests (26) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image028.png"
+  title="1.03 How it Works: The 'Magic' of Page Requests"
   alt="1.03 How it Works: The 'Magic' of Page Requests."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1012,6 +1042,7 @@ happens when you type something into the address bar of your browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. how does this all work? (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image029.png"
+  title="How Does This All Work?"
   alt="How Does This All Work?"
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1026,6 +1057,7 @@ it will help you understand what is going on as you learn HTML5.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. client/server relationship (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image030.png"
+  title="Client/Server Relationship"
   alt="Client/Server Relationship."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1039,6 +1071,7 @@ personal use; like laptops, phones, et cetera.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. networks; lan and wan (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image031.png"
+  title="Networks; LAN and WAN"
   alt="Networks; LAN and WAN."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1067,6 +1100,7 @@ Internet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. request/response cycle (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image032.png"
+  title="Request/Response Cycle"
   alt="Request/Response Cycle."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1078,7 +1112,8 @@ web page and the server needs to respond with the appropriate files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. uniform resource locator (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image033.png"
-  alt="Uniform Resouce Locator."
+  title="Uniform Resource Locator"
+  alt="Uniform Resource Locator."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -1092,6 +1127,7 @@ at once.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34. protocols (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image034.png"
+  title="Protocols"
   alt="Protocols."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -1110,6 +1146,7 @@ expecting that you&apos;re going to give back and forth HTML5 code; with
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. domain names (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image035.png"
+  title="Domain Names"
   alt="Domain Names."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -4858,7 +4895,7 @@ secret lecture. And in that secret lecture, I want to show you ways that
 you can style your page in very simple steps. And I hope it&apos;s something
 you&apos;ll enjoy and help you to continue your journey into HTML 5.
 
-<h5>the end...2/12/2024 last updated &/or reviewed.</h5>
+<h5>the end...2/14/2024 last updated &/or reviewed.</h5>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ xx.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
