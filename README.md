@@ -435,7 +435,9 @@ focus is on questions. It&apos;s not on coding, it&apos;s on questions. I want
 you to understand what happens when you type something into the URL. If
 you type in <b>www.introwebdesign.com</b>, how is this page magically
 appearing in front of your browser? I also want to talk to you about
-what types of tools you are going to need in order to code. We&apos;re going
+what types of tools you are going to need in order to code. 
+
+We&apos;re going
 to talk about editors and browsers and other different software tools
 because I want you to know right from the start what you&apos;re going to
 need in order to succeed in this class. Finally, we&apos;re really going to
@@ -460,7 +462,9 @@ something called the Document Object Model, upon which all webpages are
 built. If I can get you to understand just a little bit about that, then
 later on, if you decide to go off and use WordPress or some other
 software to make your own website, you&apos;re going to be able to really
-understand what&apos;s going on so much better. We&apos;re going to talk about
+understand what&apos;s going on so much better. 
+
+We&apos;re going to talk about
 things called contextual tags and headings and different things we can
 use to make our site have different meanings and different appearances.
 We&apos;re going to talk about links, images, lists, tables, and also
@@ -745,6 +749,11 @@ very common. They&apos;re not the same as programing languages, instead
 they&apos;re special languages that use tags to annotate or markup
 documents. In HTML, the tags tell the browsers where you want to put
 headings, images, lists, links, et cetera.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. .html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -940,6 +949,7 @@ However, some groups have taken a more proactive role to try to help
 standardize what&apos;s going on out there. The <b>first</b> is the <b>Internet
 Engineering Task Force</b>, they really focus on the idea of how the
 different networks should collaborate and how they should work together.
+
 The <b>second, World Wide Web Consortium</b>, instead deals with HTML and
 the evolution of HTML, they want to know what kinds of tags the browsers
 should and should not support. <b>Third</b>, and last, one of the newest
@@ -959,7 +969,9 @@ We had this evolution of browsers that we&apos;ve been talking about. In
 1990 to &apos;94 it was all very simple, text-based. In &apos;93, we talked
 about how the images entered the scene, and pretty much exploded the
 Internet. Cross-browser compatibility made many of the web pages just
-fall apart and led to incredibly ugly code. In the beginning of 2000
+fall apart and led to incredibly ugly code. 
+
+In the beginning of 2000
 browsers went back to this idea of separating content from style. And in
 2005 it became standard practice to use HTML files, which we are
 learning about in this course, to create the content and CSS files to
@@ -1019,7 +1031,9 @@ When you think back over this module, there are certain lessons I hope
 stick with you. The first is the idea that HTML is not a programing
 language, but rather a way that browsers can translate documents into
 viewable webpages. HTML was intended to facilitate many different
-content types. Images, pictures, links, lists. What we&apos;ve found
+content types. Images, pictures, links, lists. 
+
+What we&apos;ve found
 throughout the history of the Internet, is that when designers want to
 do something they tend to write nonstandard code to force browsers to do
 it. So, this is why we&apos;re developing new standards in HTML5 to handle
@@ -1053,6 +1067,11 @@ ask you when you type in an address, what happens? This lecture is
 actually one of the most technical of this entire class. I don&apos;t want
 to feel like you need to memorize this or write it down, but I do think
 it will help you understand what is going on as you learn HTML5.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. client/server relationship (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1137,7 +1156,9 @@ Hypertext Transfer Protocol. The second one, <b>HTTPS</b>, is the same
 idea, only now we&apos;re having a more secure protocol. So, if you&apos;re ever
 connecting to a bank or any place where you&apos;re putting in passwords,
 make sure that the first thing you see in that URL is HTTPS. If you
-don&apos;t, don&apos;t connect. The third one is called the File Transfer
+don&apos;t, don&apos;t connect. 
+
+The third one is called the File Transfer
 Protocol. It&apos;s a little bit different. When you see HTTP, it&apos;s
 expecting that you&apos;re going to give back and forth HTML5 code; with
 <b>FTP</b>, it could be any type of file.
@@ -1175,7 +1196,9 @@ Internet, if he wanted to connect to some place, he would actually type
 in numbers; 185.261 et cetera, et cetera. Well, there&apos;s been a new
 version of IP addresses, because every single client needs their own
 address. If you think of how many people have laptops and smartphones,
-we need a lot of different options. So, with these IP addresses, you
+we need a lot of different options. 
+
+With these IP addresses, you
 basically have sets of numbers, you have these different sets right
 here, where each X can represent one of 16 different values. So, you can
 see we have a lot of options, over 300 trillion, in fact.
@@ -1978,6 +2001,10 @@ Sharing code is a little bit different, especially when you want to
 share your web page with someone. Do you want to share the code or do
 you want to share more with them that visual thing that you created?
 Today, we are going to use something called &quot;Replit.&quot;
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 80. integrated development environments (ides) (55) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2348,14 +2375,14 @@ JavaScript, and you can have a chance to learn about each one of those.
 But I want to talk about the <b>DOM</b> for just a little bit because it&apos;s
 going to help you understand the HTML a little bit better.
 
-<div align="right">
-  <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
-
 One of the things about geeky computer scientists like myself is that we
 love trees. Not like trees out outside that are green and beautiful in
 the fall. We like mathematical trees. These tree-like structures that we
 can prove to be valid or invalid.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 95. tree structure; html is built on the dom (66) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2640,6 +2667,10 @@ boring for me to list them all off to you. Instead, I&apos;m gonna get you
 started and point you in the direction of where you can find resources
 for more tags. Because it&apos;s really not until you need a tag that you
 ever really bother learning about it.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. example, img tag attributes (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2810,7 +2841,7 @@ work the first time you use them. They&apos;re either gonna show a broken link b
 you wrote the wrong file name or you forgot to upload it or it&apos;s not in the right
 file, or the picture is going to be too big or too small or something like that. Unless 
 you have the broken link, and you&apos;re just worried about the appearance, I want you 
-to just let it go for right now. What we care about right now is that you can get tags 
+to let it go for right now. What we care about right now is that you can get tags 
 to work. We&apos;re gonna worry about appearance later. So if you really have your heart 
 set on making things look a certain way, then make sure that you open up the picture in 
 some sort of editor and save it to exactly the size you want. And give it a really good 
@@ -2904,7 +2935,9 @@ for less than and please note that&apos;s an L, not a one. You could also do
 <b>&quot;&gt;&quot;</b> for greater than, <b>&quot;&copy;&quot;</b>. If you&apos;d like extra
 blank spaces, you actually have to use a special entity. Putting space,
 space, space, the browser ignores it. You&apos;d have to actually put
-<b>&quot;&nbsp&quot;</b>. Again, if you want the cent, all right, well what if you
+<b>&quot;&nbsp&quot;</b>. 
+
+Again, if you want the cent, all right, well what if you
 actually want an ampersand? Well, in that case we even have a special
 entity for that, which is <b>&quot;&amp;&quot;.</b> So, we&apos;ve gone through a
 number of tags today, and you&apos;re gonna learn more and more tags and
@@ -2954,7 +2987,7 @@ but here are links to three that I have recommended in the past.
     Accessibility Cheat
     Sheet](https://webaim.org/resources/htmlcheatsheet/)
 
-### 2.02.Semantic Tags
+### 2.02 Semantic Tags
 
 One of the best ways to make sure that your page is accessible to as
 many people as possible is to use semantic tags. When writing HTML, it
@@ -2966,12 +2999,14 @@ HTML5 structural elements where suitable. A quick refresher on semantic
 tags can be found on the W3Schools site [HTML Semantic
 Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 
-<h2 id="ch2-03">2.03. Semantic Tags (6:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 120.  (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-03">2.03 Semantic Tags (6:04)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. semantic tags (2.03) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image120.png" 
-  alt="." 
+  title="2.03 Semantic Tags"
+  alt="2.03 Semantic Tags."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -2980,10 +3015,11 @@ HTML5 tags that I like to refer to as the semantic tags. This is going
 to continue our conversation about how we&apos;re trying to make our
 webpages the most accessible as possible to as many people. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 121.  (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. how to design (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image121.png" 
-  alt="." 
+  title="How to Design"
+  alt="How to Design."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -2992,7 +3028,11 @@ the design of your webpage. Really, the most important step in your web
 design is the design. Once you&apos;re down pat with the different tags and
 typing in files, we&apos;re gonna change our focus to how you want to lay
 out your page. And you need a really clear picture of what you want to
-create before you can begin coding in earnest. 
+create before you can begin coding in earnest.
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
