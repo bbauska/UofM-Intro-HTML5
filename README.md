@@ -694,12 +694,7 @@ pdf and docx format.
 
 -   [Week 2 Lecture Slides.pdf]
 
-```{=html}
-<!-- -->
-```
--   
-
-### [Week 3 Lecture Slides.pdf]
+-   [Week 3 Lecture Slides.pdf]
 
 ### Lecture Slides
 
