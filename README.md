@@ -3779,7 +3779,7 @@ However, more and more people are using these, what we call attributes
 to size the image. It used to be the case that you never wanted to use
 your HTML code to set the size of your picture. But we&apos;'re realizing
 that using width can actually improve the accessibility of your page. So
-when you start using the **&lt;img&gt;** (**&lt;img&gt;**) tag, I want you
+when you start using the **&lt;img&gt;** tag, I want you
 to include at least the **width** attribute. You don&apos;'t need both, but
 at least the **width** attribute. And what that will do is it means when
 your page is loaded, it&apos;'ll keep the pictures from flashing and
@@ -3794,7 +3794,7 @@ flickering as they adjust to different sizes.
 </p>
 
 Let&apos;'s look at what I&apos;'m talking about. What I have here is a
-**&lt;figure&gt;** (**&lt;figure&gt;**) tag and inside my figure I have an
+**&lt;figure&gt;** tag and inside my figure I have an
 image and a figure caption. You can see that I&apos;'ve used
 **src=&apos;"imgs/Ashtabula.jpg&apos;"** That means I have a folder. And somewhere
 in that folder there&apos;'s something called Ashtabula. There&apos;'s a picture
@@ -4229,8 +4229,8 @@ you create a link on your page.
 </p>
 
 Links are called anchor links and that&apos;'s where we get the a for in the
-**&lt;a&gt;** (**&lt;a&gt;**) tag. When you use an anchor tag, the
-**&lt;a&gt;** (**&lt;a&gt;**) tag you&apos;'re going to need to make sure that
+**&lt;a&gt;** tag. When you use an anchor tag, the
+**&lt;a&gt;** tag you&apos;'re going to need to make sure that
 you&apos;'ve two different parts. You need a hyper reference and you need
 content. So the hyper reference is just the reference to the location of
 the new content. So in this case I used **http://www.umich.edu**. That
@@ -4613,14 +4613,14 @@ can start playing with your own code.
 
 One of the first things you need to decide when you&apos;'re coding is, which
 tags are you going to use? There are the generic kind of what we call
-**block** tags, **&lt;p&gt; (&lt;p&gt;)** and **&lt;div&gt;** (**&lt;div&gt;**)
+**block** tags, **&lt;p&gt;** and **&lt;div&gt;**
 that break your code into nice sections. Paragraph is self-explanatory,
 and **div** gives you a way to put groups of content together. But the
 problem with both **div** and paragraph is that they&apos;'re very generic.
 
 So we want to move over to the idea of using these semantic tags, such
-as **&lt;header&gt;** (**&lt;header&gt;**) and **&lt;nav&gt; (&lt;nav&gt;),**
-**&lt;footer&gt; (&lt;footer&gt;)** and **&lt;figure&gt; (&lt;figure&gt;).** And
+as **&lt;header&gt;** and **&lt;nav&gt;,**
+**&lt;footer&gt;** and **&lt;figure&gt;** And
 we talked about those in an earlier lesson.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4635,13 +4635,12 @@ we talked about those in an earlier lesson.
 Some of the other **block** tags that you may not be familiar with are
 listed here. The first one are the containers. Containers are simple
 things where you can put like-minded code together. So you might have an
-**&lt;article&gt;** (**&lt;article&gt;**) or an **&lt;aside&gt;
-(&lt;aside&gt;),** a **&lt;section&gt; (&lt;section&gt;), &lt;main&gt;
-(&lt;main&gt;).** Again, they almost seem generic in their names. But as you
+**&lt;article&gt;** or an **&lt;aside&gt;,** a **&lt;section&gt;, &lt;main&gt;.** 
+Again, they almost seem generic in their names. But as you
 grow more comfortable, as you&apos;'re designing your website, you can start
 to see oh, this isn&apos;'t a generic section. This really is an aside.
 
-The next **block** tag is **&lt;hr&gt; (&lt;hr&gt;)**, or horizontal rule.
+The next **block** tag is **&lt;hr&gt;**, or horizontal rule.
 And it&apos;'s really an interesting idea because it doesn&apos;'t contain any
 text at all. Just to remind you, **block** tags are tags that have the
 display **block**. It means it forces a new line above and below.
@@ -4649,23 +4648,22 @@ There&apos;'s never going to be anything next to it by default. So our hard
 rule will just put a single line across your page, simple yet very much
 used by many people.
 
-The next one is **&lt;address&gt; (&lt;address&gt;)**. This will be a
+The next one is **&lt;address&gt;**. This will be a
 **block** tag, and it doesn&apos;'t format your address any differently than
 other text. But what it does is, it allows screen readers and other
 assisted devices to quickly and easily find if they&apos;'re looking for your
 address**.**
 
-**&lt;blockquote&gt; (&lt;blockquote&gt;)** will be another **block** tag as
-well as **&lt;details&gt; (&lt;details&gt;).** Now the details tag is very
+**&lt;blockquote&gt;** will be another **block** tag as
+well as **&lt;details&gt;** Now the details tag is very
 interesting in this kind of quote you get into work. And what it does is
 elastic hand having drop down open and close idea with your text. Now,
 just to warn you it is not implemented in Firefox so if you&apos;'re someone
 with Firefox who tries to run it its just gonna kinda default to this
 open idea.
 
-Alright, so there&apos;'s **&lt;hr&gt; (&lt;hr&gt;), &lt;address&gt;
-(&lt;address&gt;), &lt;blockquote&gt;** (**&lt;blockquote&gt;**) and
-**&lt;details&gt; (&lt;details&gt;).** I&apos;'ve told you what they were. My
+Alright, so there&apos;'s **&lt;hr&gt;, &lt;address&gt;, &lt;blockquote&gt;** and
+**&lt;details&gt;.** I&apos;'ve told you what they were. My
 guess is, you still have no idea what they really do, so let&apos;'s take a
 look at a quick example.
 
@@ -4711,14 +4709,12 @@ it closed and then open up when someone clicks on the little arrow icon.
 Let&apos;'s go back to some other tags that aren&apos;'t **block** tags. These are
 inline tags. Again remember, inline tags means you can put it into the
 page and go all in a line one after the other. You don&apos;'t need to break
-things up. **&lt;span&gt;** (**&lt;span&gt;**) was the original inline tag
+things up. **&lt;span&gt;**  was the original inline tag
 for plain text. You would put span around some code, and then you could
 style it any way you wanted to.
 
-In addition, we have **&lt;cite&gt;** (**&lt;cite&gt;**), **&lt;abbr&gt;**
-(**&lt;abbr&gt;**), **&lt;time&gt;** (**&lt;time&gt;**), **&lt;code&gt;**
-(**&lt;code&gt;**) and then the **&lt;sub&gt;** (**&lt;sub&gt;**) and the
-**&lt;sup&gt;** (**&lt;sup&gt;**). Now, if you are watching closely you may
+In addition, we have **&lt;cite&gt;**, **&lt;abbr&gt;**, **&lt;time&gt;**, **&lt;code&gt;**
+ and then the **&lt;sub&gt;** and the **&lt;sup&gt;**. Now, if you are watching closely you may
 have noticed I left a typo after abbreviation there. So make sure you
 put in the greater than sign. Let&apos;'s look at examples of this code.
 
@@ -4731,15 +4727,14 @@ put in the greater than sign. Let&apos;'s look at examples of this code.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Here I have my inline elements. The **&lt;cite&gt;** (**&lt;cite&gt;**)
+Here I have my inline elements. The **&lt;cite&gt;**
 basically makes it easier for people or bots to search your code, so I
-put this code right inside a **&lt;cite&gt;** (**&lt;cite&gt;**) tag. Now,
+put this code right inside a **&lt;cite&gt;** tag. Now,
 again, this particular browser happened to style it differently, but
 that&apos;'s not always going to be the case.
 
-Another new tag that has come along recently is the **&lt;abbr&gt;
-(&lt;abbr&gt;)** tag. If you notice, right along here, I&apos;'ve included
-abbreviation inside the box.
+Another new tag that has come along recently is the **&lt;abbr&gt;** tag. 
+If you notice, right along here, I&apos;'ve included abbreviation inside the box.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4759,7 +4754,7 @@ But even for people who aren&apos;'t using screen readers, I actually find
 that you need to do something to let people know that hovering over is
 an option. Most people wouldn&apos;'t think about that.
 
-The **&lt;time&gt;** (**&lt;time&gt;**) attribute is another one that is
+The **&lt;time&gt;** attribute is another one that is
 just inline and most of us won&apos;'t even know it&apos;'s there but it allows
 you to give extra semantic meaning. So the party starts at 9 PM. It
 makes perfect sense to us, but the party took place on New Year&apos;'s Eve.
@@ -4779,14 +4774,13 @@ phone, it&apos;'ll pop up as knowing that it&apos;'s a date.
 
 Sometimes you would like to be able to identify parts of your code as
 code fragments. This happens to me all the time because I&apos;'m a computer
-scientist. So the **&lt;code&gt;** (**&lt;code&gt;**) elements tend to be
+scientist. So the **&lt;code&gt;** elements tend to be
 displayed in different font but it&apos;'s not always the case. But
-**&lt;code&gt;** (**&lt;code&gt;**) is just a nice way to break it up and
+**&lt;code&gt;** is just a nice way to break it up and
 let people know what is this crazy stuff people are typing? Oh, it&apos;'s
 code. It&apos;'s not supposed to make sense.
 
-Finally, the last two are **&lt;sub&gt;** **(&lt;sub&gt;**) and
-**&lt;sup&gt; (&lt;sup&gt;)**, and these are used to create, a lot of times,
+Finally, the last two are **&lt;sub&gt;** and **&lt;sup&gt;, and these are used to create, a lot of times,
 mathematical formulas. You can see here, I&apos;'ve raised up the three, and
 I&apos;'ve lowered down the two. I&apos;'ve given you the general **block** tags,
 the general in-line tags that people use. And there&apos;'s other tags that
@@ -4805,11 +4799,10 @@ know a lot with yet.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-These include the **&lt;button&gt; (&lt;button&gt;)**, the **&lt;meter&gt;
-(&lt;meter&gt;)**, **&lt;progress&gt; (&lt;progress&gt;)**, **&lt;iframe&gt;
-(&lt;iframe&gt;)**, **&lt;bdo&gt; (&lt;bdo&gt;)**, which stands for
-bidirectional orientation, and then the **&lt;map&gt;** (**&lt;map&gt;**)
-attributes along with **&lt;area&gt; (&lt;area&gt;)**. Now, people really
+These include the **&lt;button&gt;**, the **&lt;meter&gt;**, 
+**&lt;progress&gt;**, **&lt;iframe&gt;**, **&lt;bdo&gt;**, which stands for
+bidirectional orientation, and then the **&lt;map&gt;** 
+attributes along with **&lt;area&gt;**. Now, people really
 like these, but they tend to need JavaScript. So I&apos;'m gonna show you a
 quick example. But I&apos;'m not going to include the fancy add-ons you would
 need to use then. That&apos;'s not what this course is about. Right now,
@@ -4841,16 +4834,16 @@ confuse people that there not actually operational.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The next one is **&lt;meter&gt; (&lt;meter&gt;)**, and you&apos;'ve probably seen
+The next one is **&lt;meter&gt;**, and you&apos;'ve probably seen
 this before. Basically how this one works, let me actually bring up the
-code for this one. You can see for the **&lt;meter&gt;** (**&lt;meter&gt;**)
+code for this one. You can see for the **&lt;meter&gt;** 
 one I&apos;'ve actually gone in here and put in **&lt;meter&gt;**
-(**&lt;meter&gt;**) minimum value of zero, maximum value of 100, and my
+ minimum value of zero, maximum value of 100, and my
 current value is 50. So you can see it&apos;'s colored in until about half
 way through all right? Same here with the next one, I&apos;'ve set it to 25%.
 Here I just want to show you that it doesn&apos;'t always have to be 0 to
 100. You can start at 5 and go to 10, and I&apos;'ve set it to 8, which is
-60%. That&apos;'s how the **&lt;meter&gt; (&lt;meter&gt;)** works.
+60%. That&apos;'s how the **&lt;meter&gt;** works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4861,14 +4854,12 @@ Here I just want to show you that it doesn&apos;'t always have to be 0 to
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-**&lt;progress&gt;** (**&lt;progress&gt;**) is very similar to
-**&lt;meter&gt; (&lt;meter&gt;)** in that it shows kind of a proportional
-value. Now, with **&lt;progress&gt; (&lt;progress&gt;)**, you&apos;'re expecting
+**&lt;progress&gt;** is very similar to **&lt;meter&gt; in that it shows kind of a proportional
+value. Now, with **&lt;progress&gt;**, you&apos;'re expecting
 that you&apos;'re doing something where eventually you&apos;'ll get to 100. So
 you&apos;'ve taken the surveys before where as you filled in, the progress
-bar fills in. Again both **&lt;meter&gt; (&lt;meter&gt;)** and
-**&lt;progress&gt;** (**&lt;progress&gt;**) tend to use JavaScript to update
-them.
+bar fills in. Again both **&lt;meter&gt;** and
+**&lt;progress&gt;** tend to use JavaScript to update them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4879,8 +4870,8 @@ them.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The next one I was going to show you is **&lt;iframe&gt; (&lt;iframe&gt;).
-&lt;iframe&gt;** (**&lt;iframe&gt;**) is used to nest content in each other.
+The next one I was going to show you is **&lt;iframe&gt;.
+**&lt;iframe&gt;** is used to nest content in each other.
 It is not equally well supported by all the browsers, so you want to
 explore who can use it and the best way to use it. And you would want to
 look into options, such as height and width.
