@@ -3403,9 +3403,9 @@ that&apos;s accessible.
   alt="." 
   style="border: 2px solid #000000; width:40%" />
 </p>
-Earlier, we made a very simple web page using **Replit**, but now let&apos;'s
-make something that&apos;'s a little bit more involved using the tags that
-you&apos;'ve been learning about.
+Earlier, we made a very simple web page using **Replit**, but now let&apos;s
+make something that&apos;s a little bit more involved using the tags that
+you&apos;ve been learning about.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3419,11 +3419,11 @@ you&apos;'ve been learning about.
 What I want you to do is create a page called &apos;"**index.html**.&apos;" Your
 page should utilize a **header**, the **main**, and **footer** elements,
 and these elements should not be empty. You should be using this as an
-opportunity to be playing with the things you&apos;'ve learned. And of
-course, as you&apos;'re coding, make sure that your page validates. A lot of
+opportunity to be playing with the things you&apos;ve learned. And of
+course, as you&apos;re coding, make sure that your page validates. A lot of
 times we wait until the end and it can be overwhelming to pick up on the
-mistakes that we&apos;'ve made. I&apos;'m going to encourage you to save as
-you&apos;'re developing and keep validating the page.
+mistakes that we&apos;ve made. I&apos;m going to encourage you to save as
+you&apos;re developing and keep validating the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3435,12 +3435,12 @@ you&apos;'re developing and keep validating the page.
 </p>
 
 With every website, we start with a shell. That shell is going to
-include the **doctype** stating that it&apos;'s an **HTML5** document. The
-**meta-data** that&apos;'s for us right now going to be the title of our
+include the **doctype** stating that it&apos;s an **HTML5** document. The
+**meta-data** that&apos;s for us right now going to be the title of our
 page, but as you become a more confident programmer, it might include
 links to CSS files, to JavaScript, or perhaps to Favicons. Finally,
-today you&apos;'re going to focus on the displayable content, adding in
-paragraphs or lists, eventually we&apos;'ll be adding images.
+today you&apos;re going to focus on the displayable content, adding in
+paragraphs or lists, eventually we&apos;ll be adding images.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145/146.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3455,13 +3455,13 @@ paragraphs or lists, eventually we&apos;'ll be adding images.
   style="border: 2px solid #000000; width:45%" />
 </p>
 
-Let&apos;'s open up **Replit** and create, test, share, and validate it. I&apos;'m
+Let&apos;s open up **Replit** and create, test, share, and validate it. I&apos;m
 going to begin by creating a **Repl**, I want it to be an HTML file, and
-I had mentioned that we like to call our files &apos;"**index.html**.&apos;" It&apos;'s
+I had mentioned that we like to call our files &apos;"**index.html**.&apos;" It&apos;s
 going to be a little bit harder to do that with **Replit** since we put
-so many files in the same place, but let&apos;'s go ahead and go with it
-right here. So, I&apos;'ve got it&apos;'s an HTML, CSS, JavaScript file, I&apos;'ve
-named it &apos;"**index.html**&apos;" and now I&apos;'m going to click on &apos;"Create.&apos;"
+so many files in the same place, but let&apos;s go ahead and go with it
+right here. So, I&apos;ve got it&apos;s an HTML, CSS, JavaScript file, I&apos;ve
+named it &apos;"**index.html**&apos;" and now I&apos;m going to click on &apos;"Create.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3474,32 +3474,32 @@ named it &apos;"**index.html**&apos;" and now I&apos;'m going to click on &apos;
 
 Right away, **Replit** is going to fill in that data that we had talked
 about, it has our data type. It has our extra meta-data where it tells
-us how big the screen is going to be and links to style sheets. It&apos;'s
-included a title, the title&apos;'s &apos;"**Replit**,&apos;" and it included some
-like, very basic code that has the body. I&apos;'m going to go ahead though
+us how big the screen is going to be and links to style sheets. It&apos;s
+included a title, the title&apos;s &apos;"**Replit**,&apos;" and it included some
+like, very basic code that has the body. I&apos;m going to go ahead though
 and delete all of the links to the JavaScript and start off with this
-really bare bones page and I&apos;'m going to save it, okay?
+really bare bones page and I&apos;m going to save it, okay?
 
 The first thing that I want to do is I want to take the code that
 **Replit** gave us and see, does it validate? You have three choices,
 you can validate by a **URL**, you can validate using a file upload,
-which we don&apos;'t really have the file on our computer when we use
-**Replit**. So we can&apos;'t use that one, and we can do validate by direct
-input. I&apos;'m going to go ahead and start with the validate by direct
-input. You copy all the code, I&apos;'m going to do a quick command-C, I&apos;'m
-going to put it in here and let&apos;'s check it, all right? You know, it&apos;'s
-saying you&apos;'re doing okay, there&apos;'s a couple warnings saying maybe it
+which we don&apos;t really have the file on our computer when we use
+**Replit**. So we can&apos;t use that one, and we can do validate by direct
+input. I&apos;m going to go ahead and start with the validate by direct
+input. You copy all the code, I&apos;m going to do a quick command-C, I&apos;m
+going to put it in here and let&apos;s check it, all right? You know, it&apos;s
+saying you&apos;re doing okay, there&apos;s a couple warnings saying maybe it
 would be a good idea to say that the language is going to be English.
-And it&apos;'s also mentioning that they&apos;'re using a little bit of an old
-construct by adding a backslash s, but there&apos;'s no errors, so we&apos;'re
+And it&apos;s also mentioning that they&apos;re using a little bit of an old
+construct by adding a backslash s, but there&apos;s no errors, so we&apos;re
 doing okay.
 
 I also want to check it on the **Wave Accessibility Evaluator**. I can
-do that by going back to the code, and I&apos;'m going to open up this site
-in a new window. There&apos;'s two ways to do this, one is to click on the
-little icon that says &apos;"open in a new tab.&apos;" I don&apos;'t always have the
-best of luck with that, but let&apos;'s go ahead and try it and see if it
-works right here. Your other option, just so you know if it doesn&apos;'t
+do that by going back to the code, and I&apos;m going to open up this site
+in a new window. There&apos;s two ways to do this, one is to click on the
+little icon that says &apos;"open in a new tab.&apos;" I don&apos;t always have the
+best of luck with that, but let&apos;s go ahead and try it and see if it
+works right here. Your other option, just so you know if it doesn&apos;t
 work for you, is to copy and paste this link right here, all right?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3515,11 +3515,11 @@ work for you, is to copy and paste this link right here, all right?
   style="border: 2px solid #000000; width:45%" />
 </p>
 
-I know what my **URL** is, I&apos;'m going to put it into the **Wave
-Accessibility Tool**, and I&apos;'m going to put it in here. Let&apos;'s give it a
+I know what my **URL** is, I&apos;m going to put it into the **Wave
+Accessibility Tool**, and I&apos;m going to put it in here. Let&apos;s give it a
 second, and right away you can see that it said, &apos;"hey, right here
-they&apos;'re saying it&apos;'s definitely a problem.&apos;" We want to add in what the
-language is, all right, so let&apos;'s go ahead and go back, and I&apos;'m going
+they&apos;re saying it&apos;s definitely a problem.&apos;" We want to add in what the
+language is, all right, so let&apos;s go ahead and go back, and I&apos;m going
 to put &apos;"language=es.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3530,10 +3530,10 @@ to put &apos;"language=es.&apos;"
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-All right, so I put that in. I&apos;'m going to go up here again, I&apos;'m going
+All right, so I put that in. I&apos;m going to go up here again, I&apos;m going
 to refresh the page, give it a second, and you can see that the error is
 gone, all right? This was a lot of work just to get us started, we
-haven&apos;'t even made anything ourselves yet.
+haven&apos;t even made anything ourselves yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 151.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3543,22 +3543,22 @@ haven&apos;'t even made anything ourselves yet.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Let&apos;'s start adding that extra information. Maybe I want to talk to them
-about, let&apos;'s think of a good thing that we can talk about. We&apos;'ll do my
-favorite movies from the 80s, all right, since I&apos;'m changing the topic,
-I&apos;'m also going to change the title, &apos;"My Favorite,&apos;" I should learn to
-type that word, &apos;"80s Movies.&apos;" It&apos;'s not uncommon for the **title** and
+Let&apos;s start adding that extra information. Maybe I want to talk to them
+about, let&apos;s think of a good thing that we can talk about. We&apos;ll do my
+favorite movies from the 80s, all right, since I&apos;m changing the topic,
+I&apos;m also going to change the title, &apos;"My Favorite,&apos;" I should learn to
+type that word, &apos;"80s Movies.&apos;" It&apos;s not uncommon for the **title** and
 the **h1** to be the same, or at least very similar.
 
-Let&apos;'s say to be honest, for me, &apos;"The 80s were great,&apos;" right? I had a
+Let&apos;s say to be honest, for me, &apos;"The 80s were great,&apos;" right? I had a
 paper route, I could ride my bike, I went to a lot of movies, &apos;"So what
-were the movies.&apos;" If I&apos;'m going to list off my favorite movies, it
+were the movies.&apos;" If I&apos;m going to list off my favorite movies, it
 makes sense that I should use some sort of list. I could use an ordered
-list, an fixed with **&lt;ol&gt;** (**&lt;ol&gt;**) if I wanted to rank
-them. But since they&apos;'re all so great, I&apos;'m going to go ahead and do an
-unordered list and include three things. Number one, we can&apos;'t forget
+list, an fixed with **&lt;ol&gt;** if I wanted to rank
+them. But since they&apos;re all so great, I&apos;m going to go ahead and do an
+unordered list and include three things. Number one, we can&apos;t forget
 the good old &apos;"Goonies,&apos;" all right? Style number two, I will do &apos;"Back
-to the Future,&apos;" and we&apos;'ll just do those two for right now.
+to the Future,&apos;" and we&apos;ll just do those two for right now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 152.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3568,10 +3568,10 @@ to the Future,&apos;" and we&apos;'ll just do those two for right now.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-I&apos;'m going to go ahead and do a save, which I should have done a while
-ago, and you can see that it has automatically updated my page. I&apos;'m
-going to go ahead and add a footer, because we said it&apos;'s good to add a
-footer to your page, and I&apos;'ll put in &apos;"Copyright Colleen.&apos;"
+I&apos;m going to go ahead and do a save, which I should have done a while
+ago, and you can see that it has automatically updated my page. I&apos;m
+going to go ahead and add a footer, because we said it&apos;s good to add a
+footer to your page, and I&apos;ll put in &apos;"Copyright Colleen.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3592,19 +3592,19 @@ right here off to the side, everything looks great.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-It doesn&apos;'t matter that everything looks great, we always want to go in
-as we&apos;'re coding, I&apos;'m going to do a copy and a paste, I&apos;'m going to go
-back here to the validator. Let&apos;'s go ahead and check. And what&apos;'s going
+It doesn&apos;t matter that everything looks great, we always want to go in
+as we&apos;re coding, I&apos;m going to do a copy and a paste, I&apos;m going to go
+back here to the validator. Let&apos;s go ahead and check. And what&apos;s going
 to pop up is you will notice that it gave me an error that says &apos;"the
 element foot is not allowed a child of element body&apos;" somewhere near
 line 18. Look at that, instead of calling it a footer, I had only called
 it a foot, so I need to go in here and fix that up. Once I do, my page
 is going to validate, and you can keep creating.
 
-This is where I&apos;'m going to leave you to create your own page about
-things that are interesting to you. Don&apos;'t forget to add that **head**
+This is where I&apos;m going to leave you to create your own page about
+things that are interesting to you. Don&apos;t forget to add that **head**
 section, the **main** section, and the **footer**, because as we learn
-about more accessibility tools, you&apos;'re going to realize that they are
+about more accessibility tools, you&apos;re going to realize that they are
 an important step to making your page accessible for everyone.
 
 ### 2.05.Starter Code for Template Page
@@ -3715,13 +3715,13 @@ sure your images look the way that you want them to look.
 </p>
 
 The image tag really has a lot of things going on with it. Many file
-types are supported when you&apos;'re making your web page. Your files can be
+types are supported when you&apos;re making your web page. Your files can be
 what we call jpeg, which might be a .jpg. It might be a .jpeg and that
 matters. It might be a GIF or it might be a PNG. There are some fancier
 options with things called SVG and BMP images. And the important thing
-to know is that when you&apos;'re making your files and when you&apos;'re adding
+to know is that when you&apos;re making your files and when you&apos;re adding
 them to your page, these file extensions must be included. Your computer
-doesn&apos;'t know what that type of file is unless you tell it.
+doesn&apos;t know what that type of file is unless you tell it.
 
 The other important thing to know is that if someone is visiting your
 page and looking at your images, your page is being downloaded onto
@@ -3730,7 +3730,7 @@ download each and every single one of your images. If you are creating a
 site that has a lot of pictures, it might be really hard for someone
 with a slow internet to actually be able to access all of them. Size can
 definitely be a factor. Every image requires its own **HTTP** Request,
-so if those images are broken, if they don&apos;'t belong to you, if they&apos;'re
+so if those images are broken, if they don&apos;t belong to you, if they&apos;re
 behind a paywall, it can all mess up your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3743,10 +3743,10 @@ behind a paywall, it can all mess up your page.
 
 The first thing you need to realize is that when you link an image, your
 browser displays the image as big or as small as the file. And that size
-is rarely optimal. I don&apos;'t know if it&apos;'s ever happened to you where
-someone for me, it&apos;'s usually my mom will email me a picture and I&apos;'m
-like trying to see it all and it&apos;'s like scroll, scroll, scroll, and it
-never really fits. Or if someone texts it to me, it&apos;'s so tiny I can
+is rarely optimal. I don&apos;t know if it&apos;s ever happened to you where
+someone for me, it&apos;s usually my mom will email me a picture and I&apos;m
+like trying to see it all and it&apos;s like scroll, scroll, scroll, and it
+never really fits. Or if someone texts it to me, it&apos;s so tiny I can
 barely see it. The quick solution for that is you can either change the
 file or we can use something called width and height attributes.
 
@@ -3759,10 +3759,10 @@ file or we can use something called width and height attributes.
 </p>
 
 If you decide to use an editor to permanently change the style of the
-image, that&apos;'s only going to really work on what we call like local
+image, that&apos;s only going to really work on what we call like local
 files, the files that you have stored on your computer. If you are
-trying to use an image from somebody else&apos;'s site, you can&apos;'t really
-change the size of their picture, right? You don&apos;'t own it, but any of
+trying to use an image from somebody else&apos;s site, you can&apos;t really
+change the size of their picture, right? You don&apos;t own it, but any of
 your local images. You can use something like preview or Paint to open
 it up and adjust the size to how you would like it to fit not only the
 size, but you can also crop it to different dimensions.
@@ -3777,12 +3777,12 @@ size, but you can also crop it to different dimensions.
 
 However, more and more people are using these, what we call attributes
 to size the image. It used to be the case that you never wanted to use
-your HTML code to set the size of your picture. But we&apos;'re realizing
+your HTML code to set the size of your picture. But we&apos;re realizing
 that using width can actually improve the accessibility of your page. So
 when you start using the **&lt;img&gt;** tag, I want you
-to include at least the **width** attribute. You don&apos;'t need both, but
+to include at least the **width** attribute. You don&apos;t need both, but
 at least the **width** attribute. And what that will do is it means when
-your page is loaded, it&apos;'ll keep the pictures from flashing and
+your page is loaded, it&apos;ll keep the pictures from flashing and
 flickering as they adjust to different sizes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3793,16 +3793,16 @@ flickering as they adjust to different sizes.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s look at what I&apos;'m talking about. What I have here is a
+Let&apos;s look at what I&apos;m talking about. What I have here is a
 **&lt;figure&gt;** tag and inside my figure I have an
-image and a figure caption. You can see that I&apos;'ve used
+image and a figure caption. You can see that I&apos;ve used
 **src=&apos;"imgs/Ashtabula.jpg&apos;"** That means I have a folder. And somewhere
-in that folder there&apos;'s something called Ashtabula. There&apos;'s a picture
-called &apos;"**Ashtabula.jpg**.&apos;" If that picture can&apos;'t load, then I have
+in that folder there&apos;s something called Ashtabula. There&apos;s a picture
+called &apos;"**Ashtabula.jpg**.&apos;" If that picture can&apos;t load, then I have
 what we call the alternative text that describes it as &apos;"My house.&apos;"
-That&apos;'s not great alternative text. A better alternative text would be a
-visual description of my house, but that doesn&apos;'t fit on a slide very
-well. You&apos;'ll have to forgive me on this one.
+That&apos;s not great alternative text. A better alternative text would be a
+visual description of my house, but that doesn&apos;t fit on a slide very
+well. You&apos;ll have to forgive me on this one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3812,11 +3812,11 @@ well. You&apos;'ll have to forgive me on this one.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-You can also, if you&apos;'d like, set the **width** of that picture. If the
+You can also, if you&apos;d like, set the **width** of that picture. If the
 picture of my house was too big, we can say, you know what, when we load
-this picture, let&apos;'s make sure it&apos;'s always 500 pixels wide. By only
+this picture, let&apos;s make sure it&apos;s always 500 pixels wide. By only
 setting the width, it will automatically set the height so that it
-height doesn&apos;'t skew the picture. It&apos;'ll still look really good, right?
+height doesn&apos;t skew the picture. It&apos;ll still look really good, right?
 That is one way to do it by hard coding it to how many pixels you want
 it to be. This may have been a fine idea to use back in the early 2000s,
 but nowadays we realize that people might be looking at your website, on
@@ -3834,7 +3834,7 @@ may be too big for my phone and too small for my giant screen.
 </p>
 
 One of the things we could do is set the height to match our screen
-size. But that&apos;'s often going to skew our image size, right? It&apos;'s just
+size. But that&apos;s often going to skew our image size, right? It&apos;s just
 not going to look good.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3845,15 +3845,15 @@ not going to look good.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-A better idea is to use **percentages**. In this example, I&apos;'ve done
+A better idea is to use **percentages**. In this example, I&apos;ve done
 same exact image, same exact **alt** text. But the difference is its
 width equals 50%. What does that 50% mean? 50% of what? Well, typically
-the browser is going to open up the page and it&apos;'s going to look and see
+the browser is going to open up the page and it&apos;s going to look and see
 how much space is this figure tag taking up and maybe the figure is
-taking up the whole width of your browser. It&apos;'s going to set your
+taking up the whole width of your browser. It&apos;s going to set your
 picture to 50% of the browser. As you make your screen bigger, the
 picture will get bigger. As you make the screen smaller, the picture
-will get smaller. It&apos;'s a nice way to make the picture fluid. We call it
+will get smaller. It&apos;s a nice way to make the picture fluid. We call it
 fluid measurements and to be reactive and responsive to people.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3866,13 +3866,13 @@ fluid measurements and to be reactive and responsive to people.
 
 In addition to regular images that use the image tag, people like to use
 things called **favicons**. **Favicons** are those little tiny images
-that show up inside the tab of your browser. If you look, you&apos;'ll see
+that show up inside the tab of your browser. If you look, you&apos;ll see
 that Coursera has its own favicon. If you are looking at a Google Doc,
-you&apos;'ll see it has its own **favicon**. You can make your own
+you&apos;ll see it has its own **favicon**. You can make your own
 **favicon** if you want. The difference between **favicons** and image
 tags is that the **favicon** always goes in the head section. Instead of
 using the image tag, what I have here is link, what type of relationship
-I have. This is going to be an icon. It&apos;'s going to be a PNG file, and
+I have. This is going to be an icon. It&apos;s going to be a PNG file, and
 that PNG file is located in my images folder.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3883,18 +3883,18 @@ that PNG file is located in my images folder.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-I can&apos;'t stress enough that when you use images, it&apos;'s very, very, very
+I can&apos;t stress enough that when you use images, it&apos;s very, very, very
 important to use alternative text. What alternative text will do is it
-provides basically words for non-text content. If someone&apos;'s using a
+provides basically words for non-text content. If someone&apos;s using a
 screen reader, every time it gets to an image, the screen reader will
-read off the description that you included. If an image isn&apos;'t loading,
-either because you wrote the wrong image name or because someone&apos;'s
-internet is slow and they can&apos;'t download it, it&apos;'ll actually be
+read off the description that you included. If an image isn&apos;t loading,
+either because you wrote the wrong image name or because someone&apos;s
+internet is slow and they can&apos;t download it, it&apos;ll actually be
 displayed in place of the images. This is great for both accessibility
-and for debugging and figuring out which of your pictures aren&apos;'t
+and for debugging and figuring out which of your pictures aren&apos;t
 working.
 
-Also, by including alternative text, you&apos;'re providing semantic meaning
+Also, by including alternative text, you&apos;re providing semantic meaning
 for search engines. So, if you have a business and you would like to
 promote that business, alternative text has these kind of sneaky side
 benefits as well as just being, you know, a decent human being.
@@ -3907,14 +3907,14 @@ benefits as well as just being, you know, a decent human being.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-As you start to do images, they&apos;'re going to be great, but you&apos;'re going
-to have some problems and it&apos;'s going to take some time to get them to
-work. So, if things aren&apos;'t working right, make sure you&apos;'re using the
-right file extensions. If it&apos;'s .jpg, jpg, make sure you&apos;'re not writing
-.jpeg, or vice versa. Don&apos;'t name all your files &apos;"image_26859,&apos;" blah
+As you start to do images, they&apos;re going to be great, but you&apos;re going
+to have some problems and it&apos;s going to take some time to get them to
+work. So, if things aren&apos;t working right, make sure you&apos;re using the
+right file extensions. If it&apos;s .jpg, jpg, make sure you&apos;re not writing
+.jpeg, or vice versa. Don&apos;t name all your files &apos;"image_26859,&apos;" blah
 blah blah, right? Rename them. Give them a good name. Because often the
 file names are a problem. Or when I use that fancy term file path, that
-usually means you&apos;'ve hopefully been putting all of your images into an
+usually means you&apos;ve hopefully been putting all of your images into an
 image folder, but you forgot to include that folder name when you were
 linking it.
 
@@ -3962,7 +3962,7 @@ equity, and inclusion.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-I know we&apos;'ve talked about images in the past, but I&apos;'d really like to
+I know we&apos;ve talked about images in the past, but I&apos;d really like to
 take a moment for us to stop and talk about them a little bit more. They
 often say that a picture is worth a thousand words, but we need to think
 about, is there a way to also have a picture, say, maybe 10 or 11 words,
@@ -3977,22 +3977,22 @@ image on your page?
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-And that&apos;'s what brings us to the alternative text attribute.
+And that&apos;s what brings us to the alternative text attribute.
 Alternative text is going to provide a texture alternative to what we
 call non-text content, right? So if you have a picture, any image on
-your screen, what&apos;'s going to happen when a screen reader gets to that?
+your screen, what&apos;s going to happen when a screen reader gets to that?
 
-If you don&apos;'t include alternative text, what&apos;'s going to happen is that
+If you don&apos;t include alternative text, what&apos;s going to happen is that
 the screen reader is going to read off the title of your image, and
-that&apos;'s rarely a very good thing to do. It also is used when you&apos;'re
+that&apos;s rarely a very good thing to do. It also is used when you&apos;re
 debugging to display in place of images. So if you forget to link your
-image correctly or you forgot to download an image, it&apos;'s really handy
+image correctly or you forgot to download an image, it&apos;s really handy
 when instead of just seeing a little broken icon, it actually shows you
 what image you meant to have there.
 
 It also provides semantic meaning for search engines, which improves
 basically the amount of traffic that you might get to your page. These
-are all things, though, that I&apos;'ve mentioned before, so I really want to
+are all things, though, that I&apos;ve mentioned before, so I really want to
 talk to you a little bit more in depth into how to create alternative
 text attributes.
 
@@ -4005,15 +4005,15 @@ text attributes.
 </p>
 
 A key to creating good **alt** text is to be accurate and succinct. You
-don&apos;'t want to be redundant. Your **alt** text shouldn&apos;'t say &apos;"picture
+don&apos;t want to be redundant. Your **alt** text shouldn&apos;t say &apos;"picture
 of,&apos;" &apos;"graphic of,&apos;". For instance, if I have a picture of my three
 children and they are pushing themselves, pushing each other into a
-pool, I don&apos;'t need to say, &apos;"picture of three children pushing each
+pool, I don&apos;t need to say, &apos;"picture of three children pushing each
 other into a pool.&apos;" I want to think about, all right, why did I add
 this image? Should it really be like the **alt** text of, &apos;"my children
 having fun?&apos;" Should it be, &apos;"my children being idiots,&apos;" right? Why did
-I put the picture there? That&apos;'s what you want to think about when
-you&apos;'re creating good **alt** text.
+I put the picture there? That&apos;s what you want to think about when
+you&apos;re creating good **alt** text.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4024,11 +4024,11 @@ you&apos;'re creating good **alt** text.
 </p>
 
 Sometimes a picture is just there because you kind of just had some
-space to fill. So it&apos;'s actually okay to leave **alt** text as blank,
-but that doesn&apos;'t mean you don&apos;'t have the **alt** attribute, it means
-you&apos;'re actually going to use alt=&apos;"&apos;". Because that&apos;'s you and I saying
+space to fill. So it&apos;s actually okay to leave **alt** text as blank,
+but that doesn&apos;t mean you don&apos;t have the **alt** attribute, it means
+you&apos;re actually going to use alt=&apos;"&apos;". Because that&apos;s you and I saying
 to somebody, hey, we know that alternative text is important, and we
-want you to know that this picture just doesn&apos;'t have any important
+want you to know that this picture just doesn&apos;t have any important
 extra meaning.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4041,8 +4041,8 @@ extra meaning.
 
 For some images, especially infographics, right? Like and the charts and
 the things that have a ton of information, you might think, how in the
-world can I create succinct **alt** text for that? There&apos;'s too much
-information. So if that&apos;'s the case, there is a special thing that you
+world can I create succinct **alt** text for that? There&apos;s too much
+information. So if that&apos;s the case, there is a special thing that you
 can use called a **long alt** text. But my recommendation would be
 instead to create an entirely second page where you really talk about
 the details of the infographic and just link to it. So when someone gets
@@ -4057,17 +4057,17 @@ that time to digest it.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-You&apos;'ve decided that you&apos;'re going to include images on your page,
-you&apos;'re going to include the **alt** text, where can you find the images
+You&apos;ve decided that you&apos;re going to include images on your page,
+you&apos;re going to include the **alt** text, where can you find the images
 for your site? You can always use your own personal images, right? You
 own those, those are great. You can also use images from image sharing
-sites, and we&apos;'ll include some links for places that you can find that
+sites, and we&apos;ll include some links for places that you can find that
 you can use images that have what we call Creative Commons usage.
 
 What this means is when you go in and you search for the images,
-there&apos;'s actually a little option you can turn on that says &apos;"usage
+there&apos;s actually a little option you can turn on that says &apos;"usage
 rights&apos;" and Creative Commons usage means someone has said, hey, I am
-100% okay with you using my pictures so long as you&apos;'re not using them
+100% okay with you using my pictures so long as you&apos;re not using them
 to make money. Another option which is becoming extremely popular is to
 use icons. Icons are those almost little cartoonish looking infographics
 that you can use on your page.
@@ -4087,9 +4087,9 @@ screen reader, right? The screen reader knows when you have a smiley
 face, when you have a flag waving, etc, things like that.
 
 A screen reader does not know what to do when it comes across an icon.
-And since icons aren&apos;'t images, they can&apos;'t use the **alt** attribute
-instead. If you decide to use icons, there&apos;'s a brand new attribute that
-I want to introduce, and it&apos;'s called &apos;"**aria-label**.&apos;" And the
+And since icons aren&apos;t images, they can&apos;t use the **alt** attribute
+instead. If you decide to use icons, there&apos;s a brand new attribute that
+I want to introduce, and it&apos;s called &apos;"**aria-label**.&apos;" And the
 **aria-label** will read off what that icon is about. In this case, if I
 have the little icon of Pinterest, I would add **aria-label**,
 Pinterest. If I had basically any icon at all, think about what would
@@ -4104,25 +4104,25 @@ that icon is representing?
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-When you use images, I&apos;'d like you to also think about where those
-images are coming from, who you&apos;'re representing, and what you&apos;'re
-trying to make out of your page. Don&apos;'t constrain yourself to the most
-common images, right? If you do an image search, it&apos;'s really easy to
-put something like favorite foods, and if you&apos;'re me, pizza will show
+When you use images, I&apos;d like you to also think about where those
+images are coming from, who you&apos;re representing, and what you&apos;re
+trying to make out of your page. Don&apos;t constrain yourself to the most
+common images, right? If you do an image search, it&apos;s really easy to
+put something like favorite foods, and if you&apos;re me, pizza will show
 up, or maybe popcorn. But instead, maybe you could include &apos;"favorite
-foods from&apos;" and fill in someplace that you&apos;'ve traveled recently and
-you&apos;'d like to show off maybe something from different cultures.
+foods from&apos;" and fill in someplace that you&apos;ve traveled recently and
+you&apos;d like to show off maybe something from different cultures.
 
-If you&apos;'re doing athletes, you can include athletes in adaptive sports
-whenever you&apos;'re having pictures of people try to get people of
+If you&apos;re doing athletes, you can include athletes in adaptive sports
+whenever you&apos;re having pictures of people try to get people of
 different body types, right? It only takes a few seconds to make your
-pictures more impactful, so there&apos;'s really no reason not to do it
+pictures more impactful, so there&apos;s really no reason not to do it
 anymore.
 
 Plus, using diverse images has the ability to draw more people to your
 site because everyone likes to see somebody who looks like them or
 someone that they kind of aspire to be. So I would like to encourage you
-to use images in the most impactful way possible. And so I&apos;'m putting
+to use images in the most impactful way possible. And so I&apos;m putting
 into some of the resources, places that I have discovered you can look
 to try to improve kind of your own outlook.
 
@@ -4134,19 +4134,19 @@ to try to improve kind of your own outlook.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-I want to finish with some tips. One is, there&apos;'s a great website called
+I want to finish with some tips. One is, there&apos;s a great website called
 **alt** Decision Tree, a decision tree is basically when it asks you a
-question and it&apos;'s yes or no, yes or no. So there&apos;'s a great **alt**
+question and it&apos;s yes or no, yes or no. So there&apos;s a great **alt**
 decision tree to help you figure out what type of alternative text you
 should add to your images.
 
-If you&apos;'re using something else that&apos;'s visual, but not an image, such
+If you&apos;re using something else that&apos;s visual, but not an image, such
 as an icon, make sure to use **aria-labels**. I know I said that a
-screen reader would read emojis, but still, let&apos;'s avoid excessive
+screen reader would read emojis, but still, let&apos;s avoid excessive
 emojis, it can be hard to follow for people who rely on text, right?
-Reading text. And then finally, try to diversify your images. It&apos;'s kind
-of fun to go out and when you show off your page, people to go, &apos;"I&apos;'ve
-never seen that before,&apos;" or, &apos;"hey, that&apos;'s something really exciting
+Reading text. And then finally, try to diversify your images. It&apos;s kind
+of fun to go out and when you show off your page, people to go, &apos;"I&apos;ve
+never seen that before,&apos;" or, &apos;"hey, that&apos;s something really exciting
 food that I would like to try.&apos;" So do what you can to try to just make
 sure that the page reflects yourself and the best self that you can be.
 
@@ -4202,8 +4202,8 @@ to create your **alt** text.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hi, today we&apos;'re going to be talking about hyperlinks, or links, as
-they&apos;'re more commonly called. And how you can use them to link your
+Hi, today we&apos;re going to be talking about hyperlinks, or links, as
+they&apos;re more commonly called. And how you can use them to link your
 document with others out there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4214,10 +4214,10 @@ document with others out there.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Now, links are really what make the web a web. It&apos;'s this whole idea
+Now, links are really what make the web a web. It&apos;s this whole idea
 that different links built together create this kind of knowledge that
 search engines or you yourself can gain by going from page to page to
-page, and with hopefully related material. So, let&apos;'s get right into how
+page, and with hopefully related material. So, let&apos;s get right into how
 you create a link on your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4228,15 +4228,15 @@ you create a link on your page.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Links are called anchor links and that&apos;'s where we get the a for in the
+Links are called anchor links and that&apos;s where we get the a for in the
 **&lt;a&gt;** tag. When you use an anchor tag, the
-**&lt;a&gt;** tag you&apos;'re going to need to make sure that
-you&apos;'ve two different parts. You need a hyper reference and you need
+**&lt;a&gt;** tag you&apos;re going to need to make sure that
+you&apos;ve two different parts. You need a hyper reference and you need
 content. So the hyper reference is just the reference to the location of
 the new content. So in this case I used **http://www.umich.edu**. That
 tells a browser, if somebody clicks on this link this is where I want to
 request the new page from. We also need to have content. The content is
-what we call the clickable part. In this case, it&apos;'s text. I would
+what we call the clickable part. In this case, it&apos;s text. I would
 actually click on an underlined text that says, University of Michigan.
 But in some cases, it might be an image instead.
 
@@ -4250,7 +4250,7 @@ But in some cases, it might be an image instead.
 
 So what types of links can we have? Some of the most common are called
 absolute links. We also have relative links. Internal links and
-graphical links and I&apos;'m gonna show you examples of each one of those.
+graphical links and I&apos;m gonna show you examples of each one of those.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 180.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4263,7 +4263,7 @@ graphical links and I&apos;'m gonna show you examples of each one of those.
 With an absolute reference in the href section we need to put a fully
 formed **URL**. You need to have the **http** or **https**, the address,
 and any type of extra document name you want. So if you remember
-there&apos;'s three parts to **URL**, you have the protocol, the host, and
+there&apos;s three parts to **URL**, you have the protocol, the host, and
 the document. You need to include all of those if you have an absolute
 reference, right? Everything else is still pretty much the same.
 
@@ -4277,17 +4277,17 @@ reference, right? Everything else is still pretty much the same.
 </p>
 
 For a relative reference, we slightly change what goes in to the href.
-Instead of linking to some outside or even internal webpage, we&apos;'re only
+Instead of linking to some outside or even internal webpage, we&apos;re only
 going to put, in this case, the file name.
 
-So in this case we&apos;'re going to link to &apos;"page2.html.&apos;" You might get
+So in this case we&apos;re going to link to &apos;"page2.html.&apos;" You might get
 slightly more in-depth than that, where you can include also some sort
-of folder name. So in this case we&apos;'d be going to the file called
-&apos;"page2.html&apos;" but it&apos;'s in a different folder called &apos;"docs.&apos;"
+of folder name. So in this case we&apos;d be going to the file called
+&apos;"page2.html&apos;" but it&apos;s in a different folder called &apos;"docs.&apos;"
 
 The third way we can use a relative reference is to what we call use the
-ID tag. So when you have href equals hash pound or history, we&apos;'re
-saying there&apos;'s another location inside the same file and it&apos;'s called
+ID tag. So when you have href equals hash pound or history, we&apos;re
+saying there&apos;s another location inside the same file and it&apos;s called
 &apos;"history.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4300,23 +4300,23 @@ saying there&apos;'s another location inside the same file and it&apos;'s called
 </p>
 
 Absolute versus relative links. When would you use absolute links versus
-when would you use relative links? With absolute links, you&apos;'re
+when would you use relative links? With absolute links, you&apos;re
 basically saying, I am not in charge of this page, somebody else is. If
-you&apos;'re linking to somebody else&apos;'s page, absolutely use the absolute
-link with the full reference in there. For relative is when you&apos;'re
-developing your own site. And it&apos;'s really helpful to use relative links
+you&apos;re linking to somebody else&apos;s page, absolutely use the absolute
+link with the full reference in there. For relative is when you&apos;re
+developing your own site. And it&apos;s really helpful to use relative links
 instead of absolute, so that way if you move your page to a different
-server, or you move it into a different folder, you don&apos;'t need to
+server, or you move it into a different folder, you don&apos;t need to
 rename everything. And so those are some of the benefits to using local
-links, is just the idea that you don&apos;'t need to update as much.
+links, is just the idea that you don&apos;t need to update as much.
 
 Now, one of the things that you need to make sure that you never do is
-have a link that includes some sort of file structure, we&apos;'ll call it.
+have a link that includes some sort of file structure, we&apos;ll call it.
 So check your links. Make sure that it never says, &apos;"C:page&apos;" or
 &apos;"MyDocumentsPage&apos;" or anything that is very specific to your computer.
-The reason that you don&apos;'t wanna do that is, If you put your page out on
-the web. If you&apos;'re done you&apos;'ve put it up on a server or a hosting and
-you want other people to click. Well, it doesn&apos;'t make sense that they
+The reason that you don&apos;t wanna do that is, If you put your page out on
+the web. If you&apos;re done you&apos;ve put it up on a server or a hosting and
+you want other people to click. Well, it doesn&apos;t make sense that they
 would be able to access pages that are on your computer. So never ever
 have a reference that includes something local to your machine. All
 right?
@@ -4331,18 +4331,18 @@ right?
 </p>
 
 One of the other things that you can do is you can use images as the
-link. So the clickable component doesn&apos;'t have to be text. You&apos;'ve seen
+link. So the clickable component doesn&apos;t have to be text. You&apos;ve seen
 this a lot. It can be icons, images. different things along that line.
 
 In this case, I went in and I use the regular h reference and what
-we&apos;'re changing now, is not the h reference, but content that goes
-between the opening and closing tag. and I have gone ahead and I&apos;'ve put
+we&apos;re changing now, is not the h reference, but content that goes
+between the opening and closing tag. and I have gone ahead and I&apos;ve put
 in an image instead. Make sure that you use the **alt** text to go along
 with that image.
 
-In another case I&apos;'ve done something very similar, the only difference
-is, instead of using a local reference right here for the image, I&apos;'ve
-used an absolute reference. I&apos;'ve put in the entire **URL**.
+In another case I&apos;ve done something very similar, the only difference
+is, instead of using a local reference right here for the image, I&apos;ve
+used an absolute reference. I&apos;ve put in the entire **URL**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4353,10 +4353,10 @@ used an absolute reference. I&apos;'ve put in the entire **URL**.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s talk usability issues and accessibility issues. If you&apos;'re going
+Let&apos;s talk usability issues and accessibility issues. If you&apos;re going
 to use a clickable component, you wanna make sure that it has an
-informative name. There&apos;'s software out there that can list all of the
-links within a page for people who are looking for things, who can&apos;'t
+informative name. There&apos;s software out there that can list all of the
+links within a page for people who are looking for things, who can&apos;t
 use typical. typical means of accessing the page. It is not at all
 helpful to them if all the links are labelled, &apos;"click here,&apos;" &apos;"click
 here,&apos;" &apos;"click here,&apos;" right? You want to give it some sort of
@@ -4364,7 +4364,7 @@ informative name.
 
 You also want to make sure that if you are using an image for the
 clickable portion of your link. That image needs to have some sort of
-**alt** text or other information available to those who can&apos;'t see the
+**alt** text or other information available to those who can&apos;t see the
 image.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4389,15 +4389,15 @@ references, images as links, and then some embedded links, as well.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-If I were to click on &apos;"Washtenaw Dairy&apos;" or &apos;"Rosie&apos;'s Coffee Bar and
-Bakery,&apos;" or &apos;"Dexter&apos;'s Bakery&apos;" etc., it would actually take me to
-their pages. Head back. One of the tricks I want to point out as I&apos;'m
+If I were to click on &apos;"Washtenaw Dairy&apos;" or &apos;"Rosie&apos;s Coffee Bar and
+Bakery,&apos;" or &apos;"Dexter&apos;s Bakery&apos;" etc., it would actually take me to
+their pages. Head back. One of the tricks I want to point out as I&apos;m
 doing this is, as I hover over each one of these links, if you look at
-the very, very bottom of my browser, and I can&apos;'t really show at the
+the very, very bottom of my browser, and I can&apos;t really show at the
 same time, but as you highlight it, it shows you which **URL** you are
 going to. And I think this is very valuable for people to know, because
-if you&apos;'re ever hovering over a link, and the information you see at the
-bottom of the page doesn&apos;'t match what you expect, I wouldn&apos;'t click on
+if you&apos;re ever hovering over a link, and the information you see at the
+bottom of the page doesn&apos;t match what you expect, I wouldn&apos;t click on
 it. So absolute references take you away from your site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4413,9 +4413,9 @@ it. So absolute references take you away from your site.
   style="border: 2px solid #000000; width:45%" />
 </p>
 
-Relative references can take you to something that&apos;'s within your
+Relative references can take you to something that&apos;s within your
 folder. So right here I have an image of some doughnuts, and I have gone
-on and they&apos;'re in my folder in my file. So I was able to link to them
+on and they&apos;re in my folder in my file. So I was able to link to them
 just using the picture name. All right? We can also use images as links
 as well. Instead of writing &apos;"Doughnuts from the Squire Shop,&apos;" I went
 ahead and made it so you can click on the image to get to the larger
@@ -4433,11 +4433,9 @@ This last idea of embedded links is a little bit interesting. So let me
 bring you over to the code for just a second and show you. Right down
 here, I have something called &apos;"Relative References&apos;" with an
 id=&apos;"relative&apos;". I have embedded links with an id that says &apos;"embedded&apos;"
-and up here, at the very beginning you can see I have **&lt;div id
-=&apos;"absolute&apos;"&gt;.** (**&lt;div id="absolute"&gt;**). With embedded links, I
-can click on any of these and navigate within the same page. So I&apos;'m not
-gonna go to a different page. I&apos;'m not gonna open up a new tab. Instead
-I&apos;'m gonna jump to different places within the page.
+and up here, at the very beginning you can see I have **&lt;div id =&apos;"absolute&apos;"&gt;.**. With embedded links, I can click on any of these and navigate within the same page. So I&apos;m not
+gonna go to a different page. I&apos;m not gonna open up a new tab. Instead
+I&apos;m gonna jump to different places within the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4449,8 +4447,8 @@ I&apos;'m gonna jump to different places within the page.
 </p>
 
 So I went to Absolute. I went to Relative now if I try to do Embedded
-references it doesn&apos;'t look like it moved but it really did. It&apos;'s just
-that we&apos;'re already there. All right, so that is how these kind of
+references it doesn&apos;t look like it moved but it really did. It&apos;s just
+that we&apos;re already there. All right, so that is how these kind of
 embedded or internal links work, right? Now if at any time you get
 confused about how code is working.
 
@@ -4476,25 +4474,25 @@ people are creating their pages and their links.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Next, let&apos;'s talk about targets, all right? Anchors can take a different
-target attribute as well. We&apos;'ve got the source, let&apos;'s add anchor or
+Next, let&apos;s talk about targets, all right? Anchors can take a different
+target attribute as well. We&apos;ve got the source, let&apos;s add anchor or
 target. So you might have target equals **self**. This is kind of the
-default action. This is going to happen if you don&apos;'t put anything at
-all. If you don&apos;'t even include target, and what it means is when you
-click on a link, open up in the same tab or window that you&apos;'re looking
+default action. This is going to happen if you don&apos;t put anything at
+all. If you don&apos;t even include target, and what it means is when you
+click on a link, open up in the same tab or window that you&apos;re looking
 at right now.
 
-If you put target equals **blank**. You&apos;'re going to leave the current
-page that you&apos;'re in exactly the same, and open up a new tab or window
+If you put target equals **blank**. You&apos;re going to leave the current
+page that you&apos;re in exactly the same, and open up a new tab or window
 for where you want the new page to be opened. Now this has its upside
-and downside. The upside is that your site is still open in someone&apos;'s
-window. The downside is that many people don&apos;'t like it when it keeps
-adding on and adding on, and as they progress through your page, you&apos;'re
+and downside. The upside is that your site is still open in someone&apos;s
+window. The downside is that many people don&apos;t like it when it keeps
+adding on and adding on, and as they progress through your page, you&apos;re
 making them open more and more tabs.
 
-There are two other options that we&apos;'re not going to really talk about
+There are two other options that we&apos;re not going to really talk about
 here, but you can see them in the reading, and those are **top** and
-**parent**, and that deals with if you&apos;'re really getting into the idea
+**parent**, and that deals with if you&apos;re really getting into the idea
 of having multiple windows, frames, etc. open.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4506,18 +4504,18 @@ of having multiple windows, frames, etc. open.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s review, because making sure that you understand links is vitally
+Let&apos;s review, because making sure that you understand links is vitally
 important to your success in this course or even in just understanding
 HTML. The first thing you need to know is a page without links is
-extremely rare. And to be honest, it&apos;'s almost not even a web page.
-It&apos;'s just a document. Links can be **absolute, relative** and
+extremely rare. And to be honest, it&apos;s almost not even a web page.
+It&apos;s just a document. Links can be **absolute, relative** and
 **internal**.
 
 And internal, again, was where it had the hash mark in it. I think I may
-have referred to them as relative, but I wanna make sure I&apos;'m clear that
+have referred to them as relative, but I wanna make sure I&apos;m clear that
 the **hash** mark makes it **internal**. You want to use caution when
-using images in links. It&apos;'s not that they&apos;'re not a great thing to do,
-and I&apos;'m not saying you should do it. I&apos;'m just saying make sure that
+using images in links. It&apos;s not that they&apos;re not a great thing to do,
+and I&apos;m not saying you should do it. I&apos;m just saying make sure that
 you do it carefully to ensure that everyone who is viewing your page can
 get the same content and the same experience as everyone else.
 
@@ -4592,14 +4590,14 @@ everything on your page (until the next tag) into a big underlined link.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hi, today we&apos;'re gonna talk about some of the tags that you may find
+Hi, today we&apos;re gonna talk about some of the tags that you may find
 extremely useful as you go and try to add blocks of code and simple
 snippets of different things to your web page. I know that it can seem
-overwhelming how many tags there are in HTML5. So today, I&apos;'m going to
+overwhelming how many tags there are in HTML5. So today, I&apos;m going to
 try to break down some of the most useful ones. Now, I realize it may
-seem overwhelming as I said throwing all these elements at you. You&apos;'re
+seem overwhelming as I said throwing all these elements at you. You&apos;re
 not supposed to memorize them all by the end of this lecture. Instead,
-I&apos;'m really just trying to give you a taste for what&apos;'s out there so you
+I&apos;m really just trying to give you a taste for what&apos;s out there so you
 can start playing with your own code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4611,12 +4609,12 @@ can start playing with your own code.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-One of the first things you need to decide when you&apos;'re coding is, which
+One of the first things you need to decide when you&apos;re coding is, which
 tags are you going to use? There are the generic kind of what we call
 **block** tags, **&lt;p&gt;** and **&lt;div&gt;**
 that break your code into nice sections. Paragraph is self-explanatory,
 and **div** gives you a way to put groups of content together. But the
-problem with both **div** and paragraph is that they&apos;'re very generic.
+problem with both **div** and paragraph is that they&apos;re very generic.
 
 So we want to move over to the idea of using these semantic tags, such
 as **&lt;header&gt;** and **&lt;nav&gt;,**
@@ -4637,34 +4635,34 @@ listed here. The first one are the containers. Containers are simple
 things where you can put like-minded code together. So you might have an
 **&lt;article&gt;** or an **&lt;aside&gt;,** a **&lt;section&gt;, &lt;main&gt;.** 
 Again, they almost seem generic in their names. But as you
-grow more comfortable, as you&apos;'re designing your website, you can start
-to see oh, this isn&apos;'t a generic section. This really is an aside.
+grow more comfortable, as you&apos;re designing your website, you can start
+to see oh, this isn&apos;t a generic section. This really is an aside.
 
 The next **block** tag is **&lt;hr&gt;**, or horizontal rule.
-And it&apos;'s really an interesting idea because it doesn&apos;'t contain any
+And it&apos;s really an interesting idea because it doesn&apos;t contain any
 text at all. Just to remind you, **block** tags are tags that have the
 display **block**. It means it forces a new line above and below.
-There&apos;'s never going to be anything next to it by default. So our hard
+There&apos;s never going to be anything next to it by default. So our hard
 rule will just put a single line across your page, simple yet very much
 used by many people.
 
 The next one is **&lt;address&gt;**. This will be a
-**block** tag, and it doesn&apos;'t format your address any differently than
+**block** tag, and it doesn&apos;t format your address any differently than
 other text. But what it does is, it allows screen readers and other
-assisted devices to quickly and easily find if they&apos;'re looking for your
+assisted devices to quickly and easily find if they&apos;re looking for your
 address**.**
 
 **&lt;blockquote&gt;** will be another **block** tag as
 well as **&lt;details&gt;** Now the details tag is very
 interesting in this kind of quote you get into work. And what it does is
 elastic hand having drop down open and close idea with your text. Now,
-just to warn you it is not implemented in Firefox so if you&apos;'re someone
+just to warn you it is not implemented in Firefox so if you&apos;re someone
 with Firefox who tries to run it its just gonna kinda default to this
 open idea.
 
-Alright, so there&apos;'s **&lt;hr&gt;, &lt;address&gt;, &lt;blockquote&gt;** and
-**&lt;details&gt;.** I&apos;'ve told you what they were. My
-guess is, you still have no idea what they really do, so let&apos;'s take a
+Alright, so there&apos;s **&lt;hr&gt;, &lt;address&gt;, &lt;blockquote&gt;** and
+**&lt;details&gt;.** I&apos;ve told you what they were. My
+guess is, you still have no idea what they really do, so let&apos;s take a
 look at a quick example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4676,24 +4674,24 @@ look at a quick example.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Here would be an example of the hr element. It&apos;'s just a simple line
+Here would be an example of the hr element. It&apos;s just a simple line
 across the screen, nothing too fancy, but very recognizable. The next
 one, the address element. In this case, the browser does italicize
-what&apos;'s inside the content. I had to put my own end line here, but
-otherwise it just looks kind of italicized. But you can&apos;'t be sure that
-it&apos;'ll be italicized on every browser. It&apos;'s really specific to Chrome,
+what&apos;s inside the content. I had to put my own end line here, but
+otherwise it just looks kind of italicized. But you can&apos;t be sure that
+it&apos;ll be italicized on every browser. It&apos;s really specific to Chrome,
 Firefox, Safari et cetera. But the important thing to know is that there
 is semantic meaning here.
 
 Here we have a block quote, and what block quote does, is it lets,
-indents the code and kind of lets people know that there&apos;'s a quote that
-you&apos;'re look at. One of the things that I put inside my blockquote, was
+indents the code and kind of lets people know that there&apos;s a quote that
+you&apos;re look at. One of the things that I put inside my blockquote, was
 I put in a cite tag, so someone can know right away that I cited
-Napoleon Hill. So if someone&apos;'s doing a search for Napoleon Hill, this
+Napoleon Hill. So if someone&apos;s doing a search for Napoleon Hill, this
 is going to up the chances that a search engine will link back to your
 page.
 
-The last one, details, is combined with a summary tag. I&apos;'m going to
+The last one, details, is combined with a summary tag. I&apos;m going to
 click the arrow and see that it opens and closes. The default is to have
 it closed and then open up when someone clicks on the little arrow icon.
 
@@ -4706,9 +4704,9 @@ it closed and then open up when someone clicks on the little arrow icon.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s go back to some other tags that aren&apos;'t **block** tags. These are
+Let&apos;s go back to some other tags that aren&apos;t **block** tags. These are
 inline tags. Again remember, inline tags means you can put it into the
-page and go all in a line one after the other. You don&apos;'t need to break
+page and go all in a line one after the other. You don&apos;t need to break
 things up. **&lt;span&gt;**  was the original inline tag
 for plain text. You would put span around some code, and then you could
 style it any way you wanted to.
@@ -4716,7 +4714,7 @@ style it any way you wanted to.
 In addition, we have **&lt;cite&gt;**, **&lt;abbr&gt;**, **&lt;time&gt;**, **&lt;code&gt;**
  and then the **&lt;sub&gt;** and the **&lt;sup&gt;**. Now, if you are watching closely you may
 have noticed I left a typo after abbreviation there. So make sure you
-put in the greater than sign. Let&apos;'s look at examples of this code.
+put in the greater than sign. Let&apos;s look at examples of this code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4731,10 +4729,10 @@ Here I have my inline elements. The **&lt;cite&gt;**
 basically makes it easier for people or bots to search your code, so I
 put this code right inside a **&lt;cite&gt;** tag. Now,
 again, this particular browser happened to style it differently, but
-that&apos;'s not always going to be the case.
+that&apos;s not always going to be the case.
 
 Another new tag that has come along recently is the **&lt;abbr&gt;** tag. 
-If you notice, right along here, I&apos;'ve included abbreviation inside the box.
+If you notice, right along here, I&apos;ve included abbreviation inside the box.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4746,22 +4744,22 @@ If you notice, right along here, I&apos;'ve included abbreviation inside the box
 </p>
 
 Now, if you can, watch what happens when I put my mouse over the Sunday,
-Monday and Tuesday. As I hover over it, it&apos;'s very small probably on
+Monday and Tuesday. As I hover over it, it&apos;s very small probably on
 your screen, but you can see that the expanded version of the
 abbreviation pops up, Sunday, Monday, Tuesday. Now, from an
 accessibility screen point, it can actually read the expanded version.
-But even for people who aren&apos;'t using screen readers, I actually find
+But even for people who aren&apos;t using screen readers, I actually find
 that you need to do something to let people know that hovering over is
-an option. Most people wouldn&apos;'t think about that.
+an option. Most people wouldn&apos;t think about that.
 
 The **&lt;time&gt;** attribute is another one that is
-just inline and most of us won&apos;'t even know it&apos;'s there but it allows
+just inline and most of us won&apos;t even know it&apos;s there but it allows
 you to give extra semantic meaning. So the party starts at 9 PM. It
-makes perfect sense to us, but the party took place on New Year&apos;'s Eve.
-Notice again, that&apos;'s actually a time, even though it&apos;'s not our typical
-numeric time, it is a time. By putting in different time tags, it&apos;'s
+makes perfect sense to us, but the party took place on New Year&apos;s Eve.
+Notice again, that&apos;s actually a time, even though it&apos;s not our typical
+numeric time, it is a time. By putting in different time tags, it&apos;s
 also more likely that if someone is accessing your site on a mobile
-phone, it&apos;'ll pop up as knowing that it&apos;'s a date.
+phone, it&apos;ll pop up as knowing that it&apos;s a date.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4773,21 +4771,21 @@ phone, it&apos;'ll pop up as knowing that it&apos;'s a date.
 </p>
 
 Sometimes you would like to be able to identify parts of your code as
-code fragments. This happens to me all the time because I&apos;'m a computer
+code fragments. This happens to me all the time because I&apos;m a computer
 scientist. So the **&lt;code&gt;** elements tend to be
-displayed in different font but it&apos;'s not always the case. But
+displayed in different font but it&apos;s not always the case. But
 **&lt;code&gt;** is just a nice way to break it up and
-let people know what is this crazy stuff people are typing? Oh, it&apos;'s
-code. It&apos;'s not supposed to make sense.
+let people know what is this crazy stuff people are typing? Oh, it&apos;s
+code. It&apos;s not supposed to make sense.
 
-Finally, the last two are **&lt;sub&gt;** and **&lt;sup&gt;, and these are used to create, a lot of times,
-mathematical formulas. You can see here, I&apos;'ve raised up the three, and
-I&apos;'ve lowered down the two. I&apos;'ve given you the general **block** tags,
-the general in-line tags that people use. And there&apos;'s other tags that
-people use quite often that you may see when you&apos;'re looking at their
+Finally, the last two are **&lt;sub&gt;** and **&lt;sup&gt;**, and these are used to create, a lot of times,
+mathematical formulas. You can see here, I&apos;ve raised up the three, and
+I&apos;ve lowered down the two. I&apos;ve given you the general **block** tags,
+the general in-line tags that people use. And there&apos;s other tags that
+people use quite often that you may see when you&apos;re looking at their
 pages. The issue with these tags is the thing when I say need more.
-It&apos;'s really weird to use these tags unless you&apos;'re also incorporating
-them with JavaScript or some other elements that you probably don&apos;'t
+It&apos;s really weird to use these tags unless you&apos;re also incorporating
+them with JavaScript or some other elements that you probably don&apos;t
 know a lot with yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4803,10 +4801,10 @@ These include the **&lt;button&gt;**, the **&lt;meter&gt;**,
 **&lt;progress&gt;**, **&lt;iframe&gt;**, **&lt;bdo&gt;**, which stands for
 bidirectional orientation, and then the **&lt;map&gt;** 
 attributes along with **&lt;area&gt;**. Now, people really
-like these, but they tend to need JavaScript. So I&apos;'m gonna show you a
-quick example. But I&apos;'m not going to include the fancy add-ons you would
-need to use then. That&apos;'s not what this course is about. Right now,
-we&apos;'re just learning these tags.
+like these, but they tend to need JavaScript. So I&apos;m gonna show you a
+quick example. But I&apos;m not going to include the fancy add-ons you would
+need to use then. That&apos;s not what this course is about. Right now,
+we&apos;re just learning these tags.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4817,11 +4815,11 @@ we&apos;'re just learning these tags.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Let&apos;'s take a look at them so you can see what they look like visually
-and understand that they&apos;'re not actually functioning yet. My special
+Let&apos;s take a look at them so you can see what they look like visually
+and understand that they&apos;re not actually functioning yet. My special
 tags that need more, I called it. Little word that you might not even be
-able to see it because it&apos;'s so light in screen but you can see I&apos;'ve
-included some open and close buttons. They don&apos;'t do anything but they
+able to see it because it&apos;s so light in screen but you can see I&apos;ve
+included some open and close buttons. They don&apos;t do anything but they
 look really nice. So go ahead and put them in if you want but it may
 confuse people that there not actually operational.
 
@@ -4834,16 +4832,16 @@ confuse people that there not actually operational.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The next one is **&lt;meter&gt;**, and you&apos;'ve probably seen
+The next one is **&lt;meter&gt;**, and you&apos;ve probably seen
 this before. Basically how this one works, let me actually bring up the
 code for this one. You can see for the **&lt;meter&gt;** 
-one I&apos;'ve actually gone in here and put in **&lt;meter&gt;**
+one I&apos;ve actually gone in here and put in **&lt;meter&gt;**
  minimum value of zero, maximum value of 100, and my
-current value is 50. So you can see it&apos;'s colored in until about half
-way through all right? Same here with the next one, I&apos;'ve set it to 25%.
-Here I just want to show you that it doesn&apos;'t always have to be 0 to
-100. You can start at 5 and go to 10, and I&apos;'ve set it to 8, which is
-60%. That&apos;'s how the **&lt;meter&gt;** works.
+current value is 50. So you can see it&apos;s colored in until about half
+way through all right? Same here with the next one, I&apos;ve set it to 25%.
+Here I just want to show you that it doesn&apos;t always have to be 0 to
+100. You can start at 5 and go to 10, and I&apos;ve set it to 8, which is
+60%. That&apos;s how the **&lt;meter&gt;** works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4854,10 +4852,10 @@ Here I just want to show you that it doesn&apos;'t always have to be 0 to
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-**&lt;progress&gt;** is very similar to **&lt;meter&gt; in that it shows kind of a proportional
-value. Now, with **&lt;progress&gt;**, you&apos;'re expecting
-that you&apos;'re doing something where eventually you&apos;'ll get to 100. So
-you&apos;'ve taken the surveys before where as you filled in, the progress
+**&lt;progress&gt;** is very similar to **&lt;meter&gt;** in that it shows kind of a proportional
+value. Now, with **&lt;progress&gt;**, you&apos;re expecting
+that you&apos;re doing something where eventually you&apos;ll get to 100. So
+you&apos;ve taken the surveys before where as you filled in, the progress
 bar fills in. Again both **&lt;meter&gt;** and
 **&lt;progress&gt;** tend to use JavaScript to update them.
 
@@ -4870,7 +4868,7 @@ bar fills in. Again both **&lt;meter&gt;** and
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The next one I was going to show you is **&lt;iframe&gt;.
+The next one I was going to show you is **&lt;iframe&gt;**.
 **&lt;iframe&gt;** is used to nest content in each other.
 It is not equally well supported by all the browsers, so you want to
 explore who can use it and the best way to use it. And you would want to
@@ -4885,7 +4883,7 @@ look into options, such as height and width.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Right here in my **iframe**, I&apos;'ve said hey, let&apos;'s link back to my
+Right here in my **iframe**, I&apos;ve said hey, let&apos;s link back to my
 page. And it puts my whole web page inside this little block of the
 page.
 
@@ -4898,10 +4896,10 @@ page.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Down here, I went ahead and said hey, let&apos;'s do that iframe again, but
-this time let&apos;'s go ahead and have it take up a much bigger width, all
+Down here, I went ahead and said hey, let&apos;s do that iframe again, but
+this time let&apos;s go ahead and have it take up a much bigger width, all
 right? Now, one thing to notice is I can still click in here. I can do
-all the things. It&apos;'s as if I have a webpage inside of a webpage.
+all the things. It&apos;s as if I have a webpage inside of a webpage.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4912,16 +4910,16 @@ all the things. It&apos;'s as if I have a webpage inside of a webpage.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The last one. Let&apos;'s go down here. I want to show you is the
+The last one. Let&apos;s go down here. I want to show you is the
 **bidirectional orientation**. And this one would be something you would
 use if your particular language tends to not just go from left to right
 and instead goes right to left. So bidirectional orientation takes
 either rtl which stands for right to left or ltr which stands for left
 to right. And you can go ahead and put in the text. So here is my going
-from left to right and here&apos;'s that same thing going right to left. I
-didn&apos;'t really give examples of the map with the area. Because, again,
+from left to right and here&apos;s that same thing going right to left. I
+didn&apos;t really give examples of the map with the area. Because, again,
 this is one where you would really need to understand JavaScript to
-really embrace what it&apos;'s doing.
+really embrace what it&apos;s doing.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4933,29 +4931,29 @@ really embrace what it&apos;'s doing.
 </p>
 
 I realize I went over a lot of tags with you just right now. And some of
-the code, you probably understood and some of it, you didn&apos;'t. But all
+the code, you probably understood and some of it, you didn&apos;t. But all
 of the code is online, so you can download it, you can play with it, you
-can change it. But as you code, you&apos;'re not supposed to go in and be
-like, oh, I&apos;'m going to try to use every possible tag I can to show how
+can change it. But as you code, you&apos;re not supposed to go in and be
+like, oh, I&apos;m going to try to use every possible tag I can to show how
 much I know about HTML. No, use the most specific tag possible. Whenever
-you&apos;'re not sure ask somebody else say what would happen if I were
+you&apos;re not sure ask somebody else say what would happen if I were
 trying to look at this page with my eyes closed, what I understand
-what&apos;'s going on?
+what&apos;s going on?
 
 The second thing you need to understand is that sometimes your tags just
-don&apos;'t work. Now, there are two reasons that your tags may or may not
+don&apos;t work. Now, there are two reasons that your tags may or may not
 work. The first one might just be that you have a syntax error. So, make
 sure you run your code through a validator, and that will help you find
-places where you haven&apos;'t closed tags. This is especially important if
+places where you haven&apos;t closed tags. This is especially important if
 you nest tags, meaning you put one inside the other.
 
 The other thing you really want to do, is you want to run your code in
-multiple browsers. Even if your page looks great when you&apos;'re running it
+multiple browsers. Even if your page looks great when you&apos;re running it
 in Chrome, make sure you check it out on Firefox. If it looks great on
-Safari, make sure you check it on Chrome. It&apos;'s important that you make
+Safari, make sure you check it on Chrome. It&apos;s important that you make
 sure that your pages can be reachable to the greatest number of people
 possible. And really, the only way you can do this is by keeping your
-code simple, succinct, and you&apos;'re always validating. Thanks.
+code simple, succinct, and you&apos;re always validating. Thanks.
 
 ## 2.09 Additional Resources
 
@@ -5005,7 +5003,7 @@ Code](https://intro-webdesign.com/v3/html5.html#code)
 https://intro-webdesign.com/v3/html5.html#code
 
 It is organized by week, so you can check to see if any code is provided
-for this week&apos;'s lessons.  (Note, for Week 3 there isn&apos;'t any starter
+for this week&apos;s lessons.  (Note, for Week 3 there isn&apos;t any starter
 code so you will be writing the code on your own!)
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5019,10 +5017,10 @@ code so you will be writing the code on your own!)
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-One of the things that I&apos;'m constantly talking about in my courses is
-accessibility. The things is that I&apos;'ve come to realize is that I can
-talk about this as much as I want but it&apos;'s really up to me to show to
-you why it&apos;'s so important for you to make the Web as accessible as
+One of the things that I&apos;m constantly talking about in my courses is
+accessibility. The things is that I&apos;ve come to realize is that I can
+talk about this as much as I want but it&apos;s really up to me to show to
+you why it&apos;s so important for you to make the Web as accessible as
 possible for others.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5034,21 +5032,21 @@ possible for others.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Today we&apos;'re going to talk about three things. First, I would like to
-explain what a Web accessibility professional does. Second, we&apos;'re going
+Today we&apos;re going to talk about three things. First, I would like to
+explain what a Web accessibility professional does. Second, we&apos;re going
 to talk in-depth about how disabilities relate to the Web. Finally, I am
 going to introduce for the first time the four principles of accessible
 interface design. These four principles are something that will
-hopefully guide you throughout the entire time you&apos;'re making Web pages.
+hopefully guide you throughout the entire time you&apos;re making Web pages.
 
-Let&apos;'s start off with this whole idea of what a Web accessibility
-coordinator does. One of my pet peeves is people who say they don&apos;'t
-wanna go into technology because they&apos;'d rather do something where they
+Let&apos;s start off with this whole idea of what a Web accessibility
+coordinator does. One of my pet peeves is people who say they don&apos;t
+wanna go into technology because they&apos;d rather do something where they
 can help people. Well, my follow-through to that is that, if you really
 want to help people, you need to understand technology. One of the
 things that people like to do is find careers where they can help people
 who have issues, and work together with people who are in technology.
-And that&apos;'s exactly the type of thing a Web accessibility coordinator
+And that&apos;s exactly the type of thing a Web accessibility coordinator
 will do.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5069,9 +5067,9 @@ Third, they can assist people with disabilities to access online
 infrastructure. Most universities and large companies will always have
 someone, whose job it is to assist those who need some help accessing
 online material. Or really, any type of technological tools. Fourth,
-it&apos;'s very important that people keep pace with changing technology. You
+it&apos;s very important that people keep pace with changing technology. You
 will always have a job if you can find a way to combine your love with
-helping people with the different tools that are being used. Let&apos;'s talk
+helping people with the different tools that are being used. Let&apos;s talk
 specifics.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5100,11 +5098,11 @@ the Internet. Visual issues, hearing, motor and cognitive.
 </p>
 
 When you talk about accessibility almost everyone thinks about screen
-readers. They design and say, oh I&apos;'m gonna make sure that my page will
-read well on a screen reader. However, it&apos;'s much much more than that.
+readers. They design and say, oh I&apos;m gonna make sure that my page will
+read well on a screen reader. However, it&apos;s much much more than that.
 While 1.8 million people are completely blind, we also have 8 million
 people who have difficulty reading ordinary newsprint even with their
-glasses on. So one of the things that we want to think about when we&apos;'re
+glasses on. So one of the things that we want to think about when we&apos;re
 designing is more than just font size, we also need to think about color
 contrast. Your different font style. Can someone really see your page as
 easily as possible?
@@ -5118,24 +5116,24 @@ easily as possible?
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-We also want to think about hearing disabilities. We&apos;'re talking about
+We also want to think about hearing disabilities. We&apos;re talking about
 from partial to total deafness. So 8 million people have difficulty
 hearing in normal conversation and 1 million are completely deaf. More
 and more places are moving to online presence and of course we all know
-that watching videos online is a very common thing. We&apos;'re all doing it
+that watching videos online is a very common thing. We&apos;re all doing it
 right now. So one of the things to think about if you decide to add
 videos to your site is did you include the close captioning to really
 make sure as many people as possible can access your content? But
-there&apos;'s also other things to think about. Are you blaring music? You
-might have users who don&apos;'t even realize that music is playing. Or
-perhaps you have things so low that people can&apos;'t quite grasp what
-you&apos;'re saying.
+there&apos;s also other things to think about. Are you blaring music? You
+might have users who don&apos;t even realize that music is playing. Or
+perhaps you have things so low that people can&apos;t quite grasp what
+you&apos;re saying.
 
-One of the things we&apos;'re gonna talk about is making sure that people
-have the ability to control the different multimedia that you&apos;'re gonna
+One of the things we&apos;re gonna talk about is making sure that people
+have the ability to control the different multimedia that you&apos;re gonna
 put on your page. This is going to help people with hearing disabilities
 feel that they are in command of the technology, not that the
-technology&apos;'s in command of them.
+technology&apos;s in command of them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5151,12 +5149,12 @@ many, many people who are unable to use a mouse or a physical keyboard.
 Maybe they have slow response time or just limited fine motor skills. So
 dexterity issues are something that affects 8 million people who have
 difficulty using their arms or hands. But my guess is that for most of
-us have had some issue with trying to use the Web, and haven&apos;'t been
+us have had some issue with trying to use the Web, and haven&apos;t been
 quite able to do what we hope to do.
 
 One issue that we talked about is what happens when someone tries to tab
 through your page. This is a very common way for people to get through
-pages. But unless you&apos;'re very careful you can make it that people tab
+pages. But unless you&apos;re very careful you can make it that people tab
 through to nowhere. Another issue is do you require a steady hand? Many
 people like to add flashy and cool graphics and animations to the their
 page. But I know that I personally have been frustrated at trying to
@@ -5172,13 +5170,13 @@ click a button while the button keeps moving around the screen.
 </p>
 
 Another issue is cognitive disabilities and when we talk about cognitive
-disabilities, there&apos;'s a very wide range of issues we might be talking
-about. There&apos;'s learning disabilities, distractibility, dyslexia. Even
+disabilities, there&apos;s a very wide range of issues we might be talking
+about. There&apos;s learning disabilities, distractibility, dyslexia. Even
 the ability to remember or focus on large amounts of information.
 
 Some of the things I was laughing at when I looked at this slide just
 now is that this slide, perhaps, has too much text on it for people to
-be able to focus on what they're looking at. We&apos;'re saying that there
+be able to focus on what they're looking at. We&apos;re saying that there
 are 16 million adults with ADD or ADHD.
 
 Another overlooked population is that there are a large number of
@@ -5188,8 +5186,8 @@ Post-Traumatic Stress Disorder. Now what does that have to do with
 making your Web accessible? We want to make sure that things are easy to
 understand, not flashing, not requiring great amounts of concentration.
 Cognitive disabilities number greater than physical and perceptual
-disabilities combined. So it&apos;'s something that you want to think about
-when you&apos;'re designing your page, or even if you&apos;'re just help other
+disabilities combined. So it&apos;s something that you want to think about
+when you&apos;re designing your page, or even if you&apos;re just help other
 people design theirs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5201,7 +5199,7 @@ people design theirs.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s get the specific stats because nothing helps me convince people
+Let&apos;s get the specific stats because nothing helps me convince people
 more that they want to design for the Web than showing them the numbers.
 Almost 10% of the U.S. population has two or more disabilities. 40
 thousand people in the U.S. are both deaf and blind. Think about trying
@@ -5210,7 +5208,7 @@ to access technology when you have those types of issues. 41% of adults
 with disabilities who are poor. 70% of the disabled are underemployed or
 unemployed. The issue is not that they are not able to do the jobs that
 are out there. Many times there are roadblocks put up there that they
-can&apos;'t get through in order to do jobs that they are very well qualified
+can&apos;t get through in order to do jobs that they are very well qualified
 for.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5230,7 +5228,7 @@ people get their news from online resources so we want to make sure that
 we make it available to everybody.
 
 Commerce I find particularly interesting because many places have online
-presences but are they even realizing that they&apos;'re alienating such a
+presences but are they even realizing that they&apos;re alienating such a
 large customer base? And of course the social benefits of the Web are
 easy to see, so many people have created more friends online than they
 actually have in real life. The benefits of the Web are amplified for
@@ -5248,7 +5246,7 @@ so.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hopefully I convinced you just from a human standpoint that it&apos;'s
+Hopefully I convinced you just from a human standpoint that it&apos;s
 important to make your Web pages accessible, but there are of course
 legal aspects as well. The Department of Justice is in the process of
 updating the American with Disabilities Act to include online resources
@@ -5270,8 +5268,8 @@ be.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s just review this for a second. What is Web accessibility? What it
-is is making sure that you&apos;'re making your Web accessible for the widest
+Let&apos;s just review this for a second. What is Web accessibility? What it
+is is making sure that you&apos;re making your Web accessible for the widest
 possible audience, this includes people with permanent disabilities and
 those with temporary disabilities.
 
@@ -5279,8 +5277,8 @@ Currently, the online infrastructure, while a wonderful resource, is
 hostile to those with disabilities. Another issue you want to think
 about is that accessibility is inseparable from Search Engine
 Optimization, mobile technology, and usability. Improve one of these
-things and you can improve all the others. So what&apos;'s the best way to
-accomplish accessibility? It&apos;'s adherence to standards.
+things and you can improve all the others. So what&apos;s the best way to
+accomplish accessibility? It&apos;s adherence to standards.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5291,16 +5289,16 @@ accomplish accessibility? It&apos;'s adherence to standards.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-As you start now, you&apos;'re at the very beginning of your Web career.
-It&apos;'s the perfect time for you to learn the best possible tags and the
+As you start now, you&apos;re at the very beginning of your Web career.
+It&apos;s the perfect time for you to learn the best possible tags and the
 best possible ways to make your page accessible. These standards are
 going to come from the W3C Web Content Accessibility Guidelines, called
 WCAG. And these guidelines are principle, not technology based. What
-this means is that you don&apos;'t need to go out and find the greatest
+this means is that you don&apos;t need to go out and find the greatest
 language or greatest technology to make your page accessible, instead
 you really just need to follow four principles as you design your sites.
 Is my site perceivable, is it operable, is it understandable, and is it
-robust? We&apos;'ll be talking about these four principles throughout our
+robust? We&apos;ll be talking about these four principles throughout our
 entire course.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5312,18 +5310,18 @@ entire course.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s review quickly. I know that right now you&apos;'re starting your Web
-design career, and it can be overwhelming. But I&apos;'m hoping that one of
-the things you&apos;'ll make sure that you do is design with accessibility in
-mind. It is the right thing to do for so many reasons. Whether it&apos;'s
+Let&apos;s review quickly. I know that right now you&apos;re starting your Web
+design career, and it can be overwhelming. But I&apos;m hoping that one of
+the things you&apos;ll make sure that you do is design with accessibility in
+mind. It is the right thing to do for so many reasons. Whether it&apos;s
 because you want to reach out to the largest customer base you can, or
-because legally it&apos;'s required. The important thing is make sure you do
+because legally it&apos;s required. The important thing is make sure you do
 it. And the great thing is accessible design is actually pretty straight
 forward.
 
 All you need to do is adhere to standards. The reason that many pages
-are inaccessible, is because they&apos;'re trying to be flashy and cool and
-do things that aren&apos;'t quite yet fully implemented to standards. Finally
+are inaccessible, is because they&apos;re trying to be flashy and cool and
+do things that aren&apos;t quite yet fully implemented to standards. Finally
 as we go through this class make sure that you pay special attention to
 the semantics behind HTML tags. These semantics contain special
 information that are going to make it much easier for people who are
@@ -5385,8 +5383,8 @@ accessible and if any accessibility related features are supported.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-I know that I&apos;'ve been saying validate your code over and over again,
-but let&apos;'s talk about why it&apos;'s so important.
+I know that I&apos;ve been saying validate your code over and over again,
+but let&apos;s talk about why it&apos;s so important.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5398,14 +5396,14 @@ but let&apos;'s talk about why it&apos;'s so important.
 </p>
 
 Browsers are basically the helicopter parents of programming. You can
-put in so many mistakes, but the browser is going to say, &apos;"it&apos;'s okay.
+put in so many mistakes, but the browser is going to say, &apos;"it&apos;s okay.
 I know that you meant to close that tag.&apos;" &apos;"I know that you meant to
 call that tag footer instead of foot or main instead of min.&apos;" And so it
 goes in and it makes the site, quote, unquote, look, &apos;"okay.&apos;" However,
-as your pages become more complex and you&apos;'re adding more and more tags,
+as your pages become more complex and you&apos;re adding more and more tags,
 and eventually maybe even adding CSS and JavaScript. Those little hidden
 areas where you have bad code, can be absolutely devastating to
-accessibility tools because they don&apos;'t know what to do with that broken
+accessibility tools because they don&apos;t know what to do with that broken
 code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5420,19 +5418,19 @@ code.
 There are basically three approaches to using a syntactic accessibility
 checker. That wave W3. The first is that you can validate by a **URI**,
 which is a fancy term for **URL**. In order to use that option, your
-site must be hosted somewhere. So if you&apos;'re using **Replit**, you can
+site must be hosted somewhere. So if you&apos;re using **Replit**, you can
 use your **URL**. If you are doing accessibility work for your job, you
 can use the public facing website that they use.
 
 Oftentimes people like to do what we call validate by file name. So if
-you click that option, you&apos;'ll click on the button, it&apos;'ll let you
+you click that option, you&apos;ll click on the button, it&apos;ll let you
 upload the file, and it can check it that way. I rarely use that one
-personally because I feel like it&apos;'s too easy to upload the wrong file
+personally because I feel like it&apos;s too easy to upload the wrong file
 and not notice.
 
 My own personal favorite is to validate by direct input, where you copy
 the entire HTML file and put it in so it can check it line by line for
-you to see just if you&apos;'ve made some little mistakes.
+you to see just if you&apos;ve made some little mistakes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5443,15 +5441,15 @@ you to see just if you&apos;'ve made some little mistakes.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-When you do this, just relax, alright? Because more than likely, you&apos;'re
+When you do this, just relax, alright? Because more than likely, you&apos;re
 going to see so many errors, right? You might have a 15-20 line web
-page. How in the heck did it generate 52 errors, right? It doesn&apos;'t make
+page. How in the heck did it generate 52 errors, right? It doesn&apos;t make
 sense. The thing is, one little error at the top can propagate and cause
 a lot of other not real errors as you go down. So when you run it
 through the checker, always start at the top. Find that first error, fix
 that error, run the validator again.
 
-If you can&apos;'t exactly figure out how to fix it, well, hey, it&apos;'s the
+If you can&apos;t exactly figure out how to fix it, well, hey, it&apos;s the
 Internet, right? You can search for solutions online and in forums.
 Usually your best bet is to just copy and paste that error and put it
 into the search bar, okay? You can do it.
@@ -5466,20 +5464,20 @@ into the search bar, okay? You can do it.
 </p>
 
 In addition to syntactical validation, we also want to talk about
-accessibility validation. I&apos;'m a big fan of the wave.webaim.org site. To
+accessibility validation. I&apos;m a big fan of the wave.webaim.org site. To
 validate the accessibility of your page, you can put your **URL**
-directly in, or if you don&apos;'t have a **URL** yet, right, maybe you&apos;'re
-still in production. Maybe you&apos;'re using Visual Studio Code. You can
+directly in, or if you don&apos;t have a **URL** yet, right, maybe you&apos;re
+still in production. Maybe you&apos;re using Visual Studio Code. You can
 install an extension to check your local pages, right? The ones that
 start with &apos;"**File**&apos;" instead of &apos;"**http**.&apos;"
 
-We&apos;'re going to talk about other accessibility validators as we go
-through, but it&apos;'s very important that you do these two steps at the
+We&apos;re going to talk about other accessibility validators as we go
+through, but it&apos;s very important that you do these two steps at the
 very least. To make sure that you are creating a page that works for
-everyone, not just somebody who&apos;'s using the same browser you are, such
+everyone, not just somebody who&apos;s using the same browser you are, such
 as Chrome or Firefox. People might be using screen readers, they might
 be using Braille readers. There are so many different options out there.
-It&apos;'s really pretty exciting if you take the time to look at what people
+It&apos;s really pretty exciting if you take the time to look at what people
 are using.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5492,19 +5490,19 @@ are using.
 </p>
 
 Finally important thing to know is that validated sites are more robust
-and they&apos;'re more accessible. More robust means they&apos;'re less likely to
+and they&apos;re more accessible. More robust means they&apos;re less likely to
 break.
 
 ### 3.02 Putting Your Code Out on to the Web
 
 The lesson in this next section is intended for those students who want
 to post their websites to the Web. Until now you have been viewing your
-files ***locally***. This means that the browser isn&apos;'t sending a
+files ***locally***. This means that the browser isn&apos;t sending a
 Request to a server, but rather just retrieving a file from your
 computer. (This is why the protocol in the address bar is **file**, not
 **http**.) So go ahead and read the &apos;"Hosting Your Site&apos;" lesson (3.03)
 but feel free to skip the lectures on **Replit** and **Github Pages** if
-you don&apos;'t plan on hosting your files on the web. You can always change
+you don&apos;t plan on hosting your files on the web. You can always change
 your mind and host them later.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5518,11 +5516,11 @@ your mind and host them later.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hi, everybody. Today we&apos;'re going to talk about hosting your site. And
-what I mean by hosting your site is how you take the pages that you&apos;'ve
+Hi, everybody. Today we&apos;re going to talk about hosting your site. And
+what I mean by hosting your site is how you take the pages that you&apos;ve
 been working on so far and put them up on the Internet for everyone else
 to see them. In order to host your site, you need two things. You need,
-first, a domain name. That&apos;'s the name that people look at in your
+first, a domain name. That&apos;s the name that people look at in your
 **URL**. The second thing you need is a hosting company, usually called
 a hosting service, and they are going to be the ones who act as the
 server for your files to let other people see them.
@@ -5536,29 +5534,29 @@ server for your files to let other people see them.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-So first, let&apos;'s talk about domain names. Usually when you go to buy a
-domain name, you&apos;'re going to purchase it for multiple years at a time,
-because it really doesn&apos;'t make that much sense to own your domain name
-for only a single year. Unless, of course, maybe you&apos;'re running for an
+So first, let&apos;s talk about domain names. Usually when you go to buy a
+domain name, you&apos;re going to purchase it for multiple years at a time,
+because it really doesn&apos;t make that much sense to own your domain name
+for only a single year. Unless, of course, maybe you&apos;re running for an
 election or doing something where you know you only want it up for a
 short time.
 
 The most common domain names have the domain ending of .com, but more
 and more, the other extensions are gaining acceptance. So if you go to
 buy a domain name and the only way you can get the name you really want
-is to use **.net** or **.biz**, that&apos;'s okay. I recommend that you still
+is to use **.net** or **.biz**, that&apos;s okay. I recommend that you still
 go ahead and do it.
 
-The important thing to know is that domain names by themselves, they&apos;'re
+The important thing to know is that domain names by themselves, they&apos;re
 pretty much useless. You can own it, but unless you have files there
-that people can look at, no one&apos;'s going to be able to go there and see
+that people can look at, no one&apos;s going to be able to go there and see
 anything. This is where the hosting services come in. If you were to
 look at your **URL** right now on your page, when you make a file and
-you right click and you&apos;'re looking at your site in Chrome or Internet
-Explorer or anything like that, you&apos;'re probably going to notice that
-the protocol is &apos;"file.&apos;" We don&apos;'t want that. We don&apos;'t want it to be
+you right click and you&apos;re looking at your site in Chrome or Internet
+Explorer or anything like that, you&apos;re probably going to notice that
+the protocol is &apos;"file.&apos;" We don&apos;t want that. We don&apos;t want it to be
 &apos;"file,&apos;" or &apos;"C:&apos;" or &apos;"My Documents.&apos;" We want it to be something that
-looks like www, and that&apos;'s where the hosting company comes in.
+looks like www, and that&apos;s where the hosting company comes in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5573,8 +5571,8 @@ What you need is a registered **IP address** to connect your domain name
 with the Internet. Hosting services are going to vary. They go from
 free, to what I call mid-range, to full-service. And so you need to
 decide what kind of hosting service best fits you. To be honest, I
-usually recommend free when you&apos;'re getting started, and then make your
-way up. But let&apos;'s talk about the pros and cons of each one.
+usually recommend free when you&apos;re getting started, and then make your
+way up. But let&apos;s talk about the pros and cons of each one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5586,26 +5584,26 @@ way up. But let&apos;'s talk about the pros and cons of each one.
 </p>
 
 With free services, you really have little or no control over your
-domain name. So if you go and look at some other people&apos;'s, particularly
+domain name. So if you go and look at some other people&apos;s, particularly
 from your school, your work, things where people are not really there
-just for the domain name is you&apos;'re going to see things like wix dot
+just for the domain name is you&apos;re going to see things like wix dot
 whatever dot whatever, and then your name.
 
-You&apos;'re going to have limited tools. Sometimes when you pay for a site,
-you&apos;'re going to be able to have email registration, different things
-like that. Free services don&apos;'t want to give you too much freedom
-because they&apos;'re a little worried about what you&apos;'re going to do.
+You&apos;re going to have limited tools. Sometimes when you pay for a site,
+you&apos;re going to be able to have email registration, different things
+like that. Free services don&apos;t want to give you too much freedom
+because they&apos;re a little worried about what you&apos;re going to do.
 
-Probably the worst part about free services is that there&apos;'s a lot of
+Probably the worst part about free services is that there&apos;s a lot of
 advertising and redirects. If somebody goes to your site and makes the
 smallest little typo, rather than getting a nice friendly warning,
-they&apos;'re probably going to be redirected to somebody trying to sell
+they&apos;re probably going to be redirected to somebody trying to sell
 something.
 
 The nice part about free services is that they have a very familiar look
 and feel across all of them. If you sign up for one service and learn
 how to do your hosting on it, you can pretty much rest assured that
-you&apos;'re going to be able to manipulate your files on any other free
+you&apos;re going to be able to manipulate your files on any other free
 service as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5617,9 +5615,9 @@ service as well.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-So let&apos;'s talk about paid services, both the mid-range and the full.
+So let&apos;s talk about paid services, both the mid-range and the full.
 With paid services, you tend to have much better tools for manipulating
-your code. It&apos;'s not just about putting your files up on the web. You
+your code. It&apos;s not just about putting your files up on the web. You
 can do things like have email filters, send out special, what we call
 cron jobs.
 
@@ -5627,14 +5625,14 @@ Cron jobs are different files that you can run at different times of the
 day. So if you want to have a database, you want to have a list server,
 you want to have emails, then you might want to pay for the paid
 services. The other really nice thing about paid services is that
-there&apos;'s technical support available to you. So you can go ahead and
-email, chat, anything you need. You&apos;'re not going to find that with the
-free services, or just won&apos;'t be quite as good.
+there&apos;s technical support available to you. So you can go ahead and
+email, chat, anything you need. You&apos;re not going to find that with the
+free services, or just won&apos;t be quite as good.
 
 But before you go for the paid services, I recommend you check for free
 services through work or school as well. A lot of time these free
 services still have the really great tools and the support, but you just
-don&apos;'t have to pay for them. I hope you&apos;'re excited, and I hope you&apos;'re
+don&apos;t have to pay for them. I hope you&apos;re excited, and I hope you&apos;re
 going to take that next step and that you want to go and post your work
 out on the web. Good luck.
 
@@ -5661,13 +5659,13 @@ on GitHub.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The first step is making a GitHub Pages account. I&apos;'m going to go in
-here and pick a username. As I type in, it&apos;'s going to let me know if
-somebody already has that one or not. I&apos;'ve created web designer for
+The first step is making a GitHub Pages account. I&apos;m going to go in
+here and pick a username. As I type in, it&apos;s going to let me know if
+somebody already has that one or not. I&apos;ve created web designer for
 everyone. Make sure that whatever username you pick, makes sense because
 this is going to be part of the **URL** for your site. Pick something
 simple. Not a lot of upper or lowercase. Something that describes why
-you&apos;'re building your site. Go ahead and put in an email, and a
+you&apos;re building your site. Go ahead and put in an email, and a
 password.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5679,9 +5677,9 @@ password.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Once you&apos;'ve logged in, what you want to do is you want to create your
-account (bottom left). When you click on &apos;"create an account,&apos;" what&apos;'s
-going to happen is that they&apos;'re going to decide what kind of plan you
+Once you&apos;ve logged in, what you want to do is you want to create your
+account (bottom left). When you click on &apos;"create an account,&apos;" what&apos;s
+going to happen is that they&apos;re going to decide what kind of plan you
 want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5693,18 +5691,18 @@ want.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-We&apos;'re going to go with the free plan. We don&apos;'t need anything special,
-and you don&apos;'t really need to get updates from GitHub news. We&apos;'re going
+We&apos;re going to go with the free plan. We don&apos;t need anything special,
+and you don&apos;t really need to get updates from GitHub news. We&apos;re going
 to hit &apos;"Continue.&apos;" All right. Again, no need to share any type of
-special information about yourself. I&apos;'m going to click on &apos;"Skip This
-Step&apos;" I guess because I didn&apos;'t add anything and now, we can get
+special information about yourself. I&apos;m going to click on &apos;"Skip This
+Step&apos;" I guess because I didn&apos;t add anything and now, we can get
 started.
 
 The first thing we need to do is create something called a
 **repository**, and a **repository** is a place where you put your code
 on the web. Think of it like making a folder on your desktop. Maybe
-you&apos;'ve made a folder called HTML where you&apos;'ve been putting all your
-files, this is the name of the folder that we&apos;'re going to put up on the
+you&apos;ve made a folder called HTML where you&apos;ve been putting all your
+files, this is the name of the folder that we&apos;re going to put up on the
 web. It is important that you follow the rules precisely.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5716,14 +5714,14 @@ web. It is important that you follow the rules precisely.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-The first thing I&apos;'m going to do is I&apos;'m going to go up to the very top
-right corner, and you&apos;'ll see a plus. When you click on the plus,
-there&apos;'s something that says, &apos;"New Repository,&apos;" and this is a point
-where it&apos;'s going to stop and ask you to verify your email address. Once
-you verify your email, it should bring you back to this page. So, I&apos;'m
+The first thing I&apos;m going to do is I&apos;m going to go up to the very top
+right corner, and you&apos;ll see a plus. When you click on the plus,
+there&apos;s something that says, &apos;"New Repository,&apos;" and this is a point
+where it&apos;s going to stop and ask you to verify your email address. Once
+you verify your email, it should bring you back to this page. So, I&apos;m
 going to try clicking on the plus again and saying New Repository. All
-right. This is where it&apos;'s very important. This repository name has to
-be the same as your account name. In my case, it&apos;'s
+right. This is where it&apos;s very important. This repository name has to
+be the same as your account name. In my case, it&apos;s
 &apos;"**webdesigner4everyone.github.io**.&apos;" In my description, I can put
 something like &apos;"the website for web design for everyone.&apos;"
 
@@ -5738,14 +5736,14 @@ something like &apos;"the website for web design for everyone.&apos;"
 
 The second thing you want to make sure you do is click on this little
 button down here that says, &apos;"Initialize this repository with a
-README&apos;". That&apos;'s it. I&apos;'m going to click &apos;"Create,&apos;" and it takes
+README&apos;". That&apos;s it. I&apos;m going to click &apos;"Create,&apos;" and it takes
 sometimes a few seconds. Just to make me everyone can see that README
 that I clicked on that I created, it automatically generate a site
 called, &apos;"webdesigner4everyone.github.io.&apos;" I messed up. I need to
-rename this because it was supposed to be, &apos;"Web.&apos;" Now, it&apos;'s time to
-check to see if I&apos;'ve made a live website for everyone to see. I&apos;'m
+rename this because it was supposed to be, &apos;"Web.&apos;" Now, it&apos;s time to
+check to see if I&apos;ve made a live website for everyone to see. I&apos;m
 going to copy this link right here;
-&apos;"**webdesigner4everyone.github.io**.&apos;" I&apos;'m going to copy it, and I am
+&apos;"**webdesigner4everyone.github.io**.&apos;" I&apos;m going to copy it, and I am
 going to see what happens if we go here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5757,20 +5755,20 @@ going to see what happens if we go here.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Look, I actually have a website that&apos;'s live to everyone. I didn&apos;'t have
-to pay for anything. I didn&apos;'t have to sign up for anything and GitHub
+Look, I actually have a website that&apos;s live to everyone. I didn&apos;t have
+to pay for anything. I didn&apos;t have to sign up for anything and GitHub
 Pages is generally accepted by everyone as a fairly secure place to put
 your code.
 
-Now, I haven&apos;'t put any real code yet. I&apos;'m going to cover that in a
+Now, I haven&apos;t put any real code yet. I&apos;m going to cover that in a
 separate lesson because I want to keep the two ideas separate; creating
 your GitHub account which you only have to do once, and then uploading
-your code to GitHub which you&apos;'ll have to do multiple times. Now, just a
+your code to GitHub which you&apos;ll have to do multiple times. Now, just a
 few notes. Take a few seconds between each step that I covered here.
 GitHub can get very busy and sometimes it might take a few minutes for
 something to happen between you clicking okay or accept or upload. But
-hopefully, from here, you won&apos;'t have too much problems. In the
-readings, I&apos;'ll include links to other places you can look for help in
+hopefully, from here, you won&apos;t have too much problems. In the
+readings, I&apos;ll include links to other places you can look for help in
 creating your GitHub Pages account.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5784,10 +5782,10 @@ creating your GitHub Pages account.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s say you&apos;'ve come up with a pretty nice site. I&apos;'ve got one right
-here. I&apos;'m going to click on my &apos;"**index.html**&apos;" file, and I&apos;'ve got
+Let&apos;s say you&apos;ve come up with a pretty nice site. I&apos;ve got one right
+here. I&apos;m going to click on my &apos;"**index.html**&apos;" file, and I&apos;ve got
 some images in it. I have a special file called CSS that you might not
-be familiar with yet, but that&apos;'s okay.
+be familiar with yet, but that&apos;s okay.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5798,14 +5796,14 @@ be familiar with yet, but that&apos;'s okay.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-But let&apos;'s just see what my site looks like. Here we go, up. Here is a
+But let&apos;s just see what my site looks like. Here we go, up. Here is a
 little page I made about me with a little bit of formatting. But if you
 check and look in the upper corner, you can see that this site is not
 live. The fact that it says, &apos;"file:,&apos;" so forward forward forward, I
-can&apos;'t share it with other people live. I can email them my code, I
+can&apos;t share it with other people live. I can email them my code, I
 could say to somebody, &apos;"Oh look, I made a web page,&apos;" and then I could
 send them this file and all the images and everything like that, but
-that&apos;'s kind of a pain.
+that&apos;s kind of a pain.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5816,11 +5814,11 @@ that&apos;'s kind of a pain.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Let&apos;'s make this site go live on my GitHub Pages account. First, go back
-here, to my GitHub account which if you haven&apos;'t created yet, that&apos;'s
-okay. I&apos;'ve got another lesson. Go create your account and come back
-here and meet up with us. But other than that, I&apos;'m going to make my
-first live account. Once again, I&apos;'m going to go up and do a plus for a
+Let&apos;s make this site go live on my GitHub Pages account. First, go back
+here, to my GitHub account which if you haven&apos;t created yet, that&apos;s
+okay. I&apos;ve got another lesson. Go create your account and come back
+here and meet up with us. But other than that, I&apos;m going to make my
+first live account. Once again, I&apos;m going to go up and do a plus for a
 new repository. Basically, consider a new folder full of code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5833,11 +5831,11 @@ new repository. Basically, consider a new folder full of code.
 </p>
 
 Last time I needed to be very careful with my repository name, not this
-time. I&apos;'m just going to call this one, let&apos;'s say &apos;"sample,&apos;" I try
+time. I&apos;m just going to call this one, let&apos;s say &apos;"sample,&apos;" I try
 very hard to keep it to all lowercase. You can include the little like
 dash, but no special characters.
 
-I&apos;'m going to click on, &apos;"Initialize this repository with a README,&apos;"
+I&apos;m going to click on, &apos;"Initialize this repository with a README,&apos;"
 and I click on that, then &apos;"Create repository.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5850,9 +5848,9 @@ and I click on that, then &apos;"Create repository.&apos;"
 </p>
 
 GitHub right now is creating a new site for me to upload my code. Now,
-people who use GitHub for, I&apos;'m going to say like real, are actually
+people who use GitHub for, I&apos;m going to say like real, are actually
 doing a lot of things from command lines and they have to memorize a lot
-of stuff. We&apos;'re not doing that. We&apos;'re just using GitHub Pages to host
+of stuff. We&apos;re not doing that. We&apos;re just using GitHub Pages to host
 our code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5864,11 +5862,11 @@ our code.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Next, let&apos;'s click on &apos;"Upload files.&apos;" Now, here&apos;'s a tricky part, if I
+Next, let&apos;s click on &apos;"Upload files.&apos;" Now, here&apos;s a tricky part, if I
 were to click on &apos;"Choose your files,&apos;" I could do that and I could go
 through and pick, well, you know I need this file and that one, but it
-won&apos;'t let me upload entire folders. See if I click on CSS and I click
-on open, it&apos;'s like, &apos;"Oh, is this the file you want?&apos;", I don&apos;'t want
+won&apos;t let me upload entire folders. See if I click on CSS and I click
+on open, it&apos;s like, &apos;"Oh, is this the file you want?&apos;", I don&apos;t want
 this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5880,8 +5878,8 @@ this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-What I&apos;'m going to do is go over here, and I&apos;'m just going to go back
-up, one, and I&apos;'m going to drag this whole folder, and this is going to
+What I&apos;m going to do is go over here, and I&apos;m just going to go back
+up, one, and I&apos;m going to drag this whole folder, and this is going to
 let me upload as many files as I want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5908,10 +5906,10 @@ complete.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-While that&apos;'s going on, I&apos;'m going to go up, and I&apos;'m going to click on
+While that&apos;s going on, I&apos;m going to go up, and I&apos;m going to click on
 &apos;"Settings.&apos;" Alright. Now, what I need to do is to say, &apos;"Hey, if
-somebody wants to see my site, I don&apos;'t want them to see my code. I want
-them to see my actual page.&apos;" I&apos;'m going to scroll down, and I&apos;'m
+somebody wants to see my site, I don&apos;t want them to see my code. I want
+them to see my actual page.&apos;" I&apos;m going to scroll down, and I&apos;m
 looking for a site that says, &apos;"GitHub pages.&apos;" Go to none and choose
 &apos;"master branch&apos;" and &apos;"save.&apos;" Alright. You never really know if it
 worked or not.
@@ -5925,10 +5923,10 @@ worked or not.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-I&apos;'m going to go back down to GitHub pages, it will now tell me, &apos;"Hey,
-your code is now right here.&apos;" I&apos;'m going to click on this, and it&apos;'s
-not uncommon for to say, &apos;"hey, you don&apos;'t have anything yet&apos;" or
-something like that. What I&apos;'m going to do next is, go back to my code
+I&apos;m going to go back down to GitHub pages, it will now tell me, &apos;"Hey,
+your code is now right here.&apos;" I&apos;m going to click on this, and it&apos;s
+not uncommon for to say, &apos;"hey, you don&apos;t have anything yet&apos;" or
+something like that. What I&apos;m going to do next is, go back to my code
 and say, &apos;"Okay. What was the name of that folder I dragged up? Oh it
 was sampler, and what was the name of my file?&apos;" Hopefully, it was
 **index.html** and it is, great.
@@ -5942,12 +5940,12 @@ was sampler, and what was the name of my file?&apos;" Hopefully, it was
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Now, I&apos;'m going to hit enter and there&apos;'s my site. Alright. The two
+Now, I&apos;m going to hit enter and there&apos;s my site. Alright. The two
 steps for creating this GitHub account is to upload your file and then
 change that kind of link for GitHub Pages to turn it on. After that, you
 can upload as many things as you want. I am going to do one more thing
-with you real quick though. I&apos;'m going to go back to my GitHub account
-and I&apos;'m going to do this one more time but slightly different. I want
+with you real quick though. I&apos;m going to go back to my GitHub account
+and I&apos;m going to do this one more time but slightly different. I want
 to go to github.com.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5959,10 +5957,10 @@ to go to github.com.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-I&apos;'m going to make one more repository. I&apos;'m going to call this one,
-&apos;"sample two,&apos;" and this time, I&apos;'m going to forget and I&apos;'m
-**[not]{.mark}** going to click on this README. We&apos;'ll click on the
-repository. Oh! Well, now there&apos;'s no place for me to click on that
+I&apos;m going to make one more repository. I&apos;m going to call this one,
+&apos;"sample two,&apos;" and this time, I&apos;m going to forget and I&apos;m
+**[not]{.mark}** going to click on this README. We&apos;ll click on the
+repository. Oh! Well, now there&apos;s no place for me to click on that
 upload files, and you feel kind of stuck. If you forget, just scroll
 right up to the README link on the page, and you click on it and it
 creates the README. Just so you know, commit new file is the equivalent
@@ -5977,23 +5975,23 @@ of save files for what we do in our desktop. Now, I can upload files.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-I&apos;'m going to do it one more time to show you another easier way. I&apos;'m
+I&apos;m going to do it one more time to show you another easier way. I&apos;m
 going to go back here. Before I dragged the entire &apos;"sampler&apos;" folder,
-this time I&apos;'m just going to grab here. They&apos;'re all uploading. I&apos;'m
+this time I&apos;m just going to grab here. They&apos;re all uploading. I&apos;m
 going to click on, &apos;"Commit Changes.&apos;" While this is happening, I want
 you to think, &apos;"Alright, what was that second step? What was that next
 step she said I had to do?&apos;" That step is to go into &apos;"settings&apos;" and
-add the GitHub Pages. Let&apos;'s go up to &apos;"settings.&apos;" Now, scroll down to
+add the GitHub Pages. Let&apos;s go up to &apos;"settings.&apos;" Now, scroll down to
 &apos;"Master branch&apos;" and &apos;"save,&apos;" and then since I want to be a little
-lazy, I&apos;'m just going to scroll down here again, and be like, &apos;"Oh
-great, here&apos;'s the link to my site.&apos;" I&apos;'m going to click on it.
+lazy, I&apos;m just going to scroll down here again, and be like, &apos;"Oh
+great, here&apos;s the link to my site.&apos;" I&apos;m going to click on it.
 
-Again, when you get the 404 error, there&apos;'s usually two reasons: either
-you spelled something wrong which isn&apos;'t the case here because we
-clicked on it, we didn&apos;'t type anything in. Or you need to give GitHub a
+Again, when you get the 404 error, there&apos;s usually two reasons: either
+you spelled something wrong which isn&apos;t the case here because we
+clicked on it, we didn&apos;t type anything in. Or you need to give GitHub a
 few more minutes to upload everything, or the third one is sometimes,
-I&apos;'m not exactly sure why, but sometimes, GitHub seems to almost forget
-to look for &apos;"**index.html**&apos;" file. So, I&apos;'ll hit &apos;"Enter,&apos;" and there
+I&apos;m not exactly sure why, but sometimes, GitHub seems to almost forget
+to look for &apos;"**index.html**&apos;" file. So, I&apos;ll hit &apos;"Enter,&apos;" and there
 we go. GitHub Pages is a great free way for you to host your code and
 share it with everyone who you think will be impressed with your
 incredible work.
@@ -6009,8 +6007,8 @@ incredible work.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-As we reach the end of this course, it&apos;'s going to be time for you to
-make your final project and share the things that you&apos;'ve learned with
+As we reach the end of this course, it&apos;s going to be time for you to
+make your final project and share the things that you&apos;ve learned with
 your fellow peers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6024,7 +6022,7 @@ your fellow peers.
 
 What I have here is an earlier, long ago example that we made with my
 favorite movies from 80s, on **Replit**. If you remember, on the
-left-hand side, we have the code as I&apos;'m creating it. On the right-hand
+left-hand side, we have the code as I&apos;m creating it. On the right-hand
 side, we get to see this live version of the page, including the **URL**
 that you can share with somebody if you want them to see the page.
 
@@ -6037,10 +6035,10 @@ that you can share with somebody if you want them to see the page.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-What I&apos;'m going to do is copy this URL and open up a new what&apos;'s called
-an incognito browser, right? It&apos;'s Chrome, but it&apos;'s Chrome that
-doesn&apos;'t know who I am, all right? I&apos;'m not logged in and I&apos;'m going to
-copy and paste that **URL**. This is great that **Replit** doesn&apos;'t know
+What I&apos;m going to do is copy this URL and open up a new what&apos;s called
+an incognito browser, right? It&apos;s Chrome, but it&apos;s Chrome that
+doesn&apos;t know who I am, all right? I&apos;m not logged in and I&apos;m going to
+copy and paste that **URL**. This is great that **Replit** doesn&apos;t know
 who I am. It could be me, could be my grandma, could be my third cousin.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6067,28 +6065,28 @@ better.
 </p>
 
 When you go and submit your code for grading, instead of submitting the
-link to what we call the &apos;"deployed page,&apos;" let&apos;'s go back to
-**Replit**. And instead of sharing this link right here, I&apos;'m going to
+link to what we call the &apos;"deployed page,&apos;" let&apos;s go back to
+**Replit**. And instead of sharing this link right here, I&apos;m going to
 share the link that starts with &apos;"**replit.com**,&apos;" alright? So instead
-of starting with my file name, it&apos;'s going to start with
-&apos;"**replit.com**,&apos;" and let&apos;'s see what it looks like when I share that
+of starting with my file name, it&apos;s going to start with
+&apos;"**replit.com**,&apos;" and let&apos;s see what it looks like when I share that
 link instead. Now, I can still see the page and I can still run it, but
-it gives people the option to actually show the code to see what you&apos;'ve
-made. I&apos;'m going to click on &apos;"Show Code.&apos;" And now your peers, it&apos;'s
-going to be easier for them to see the files that you&apos;'ve created and
-take a look and check your code, right? They could, even if they&apos;'d
+it gives people the option to actually show the code to see what you&apos;ve
+made. I&apos;m going to click on &apos;"Show Code.&apos;" And now your peers, it&apos;s
+going to be easier for them to see the files that you&apos;ve created and
+take a look and check your code, right? They could, even if they&apos;d
 like, just so click on this &apos;"fork&apos;" button and get their very own
 version of your code.
 
-In this class, when you make a page in **Replit**, it&apos;'s great to share
+In this class, when you make a page in **Replit**, it&apos;s great to share
 what we call your deployed page with your friends and family. But when
 it comes time for you to submit a link for us to do the grading of your
 work, and vice versa, make sure that you are sharing the link that
 starts with &apos;"**replit.com**&apos;" instead of the one that ends in
-&apos;"**replit.co**.&apos;" Don&apos;'t worry if you can&apos;'t quite remember this, you
+&apos;"**replit.co**.&apos;" Don&apos;t worry if you can&apos;t quite remember this, you
 can jump on the forums. People will be there to give you help. But we
 always want to give people the greatest chance possible to look at your
-code and see how it&apos;'s all working together, good luck.
+code and see how it&apos;s all working together, good luck.
 
 ### 3.05 Sharing Your Page from Replit
 
@@ -6292,7 +6290,7 @@ they will be grading your work as well.
 
 Please note that you must get this COMPLETELY correct to receive credit.
 You will get frustrated. You will put in silly mistakes. But hang in
-there. And don&apos;'t forget to reach out for help if you need it.
+there. And don&apos;t forget to reach out for help if you need it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Final Project Demo (5:48)</h2>
@@ -6305,7 +6303,7 @@ there. And don&apos;'t forget to reach out for help if you need it.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hi everyone. Welcome to the Final Project. One of the things I&apos;'ve
+Hi everyone. Welcome to the Final Project. One of the things I&apos;ve
 learned as a teacher is that it is so important for students to take
 that time and create something on their own.
 
@@ -6318,13 +6316,13 @@ that time and create something on their own.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Today I&apos;'m going to do a demo of what we would like you to do for the
+Today I&apos;m going to do a demo of what we would like you to do for the
 final project. This demo, though, is just a guideline. What we really
-want you to do is create a topic and content that&apos;'s important to you or
+want you to do is create a topic and content that&apos;s important to you or
 interesting to you, or maybe something that you have to do for another
-class. I don&apos;'t mind double dipping. This final project is really about
+class. I don&apos;t mind double dipping. This final project is really about
 you having that chance to do something unique. While I say that, there
-are some requirements that we&apos;'re going to have just to help you do some
+are some requirements that we&apos;re going to have just to help you do some
 grading.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6337,27 +6335,27 @@ grading.
 </p>
 
 Those requirements, of course, include creating a full page, and I want
-that page to have all those things we&apos;'ve been talking about this entire
-class. You&apos;'re going to start off, and I want you to have that doc type
-that says, &apos;"I code in HTML5.&apos;" You&apos;'re going to have the header,
-you&apos;'ll have your metadata, and the body. Inside the body, make sure
-that you&apos;'re using some semantic tags. At a minimum, we want you to
+that page to have all those things we&apos;ve been talking about this entire
+class. You&apos;re going to start off, and I want you to have that doc type
+that says, &apos;"I code in HTML5.&apos;" You&apos;re going to have the header,
+you&apos;ll have your metadata, and the body. Inside the body, make sure
+that you&apos;re using some semantic tags. At a minimum, we want you to
 include an **h1** tag and a main tag. Include a list with at least three
-items. I don&apos;'t care if it&apos;'s an unordered list or an ordered list. Do
+items. I don&apos;t care if it&apos;s an unordered list or an ordered list. Do
 whatever you would like. And of course, because it always makes things a
 little bit more interesting, when we have some visual components, I want
 you to include at least three images.
 
-So you&apos;'re going to start off, you&apos;'re going to code, you&apos;'re going to
-add things, you&apos;'re going to make some mistakes, and it&apos;'s going to look
-really great. That&apos;'s when I want you to stop. And if you haven&apos;'t
+So you&apos;re going to start off, you&apos;re going to code, you&apos;re going to
+add things, you&apos;re going to make some mistakes, and it&apos;s going to look
+really great. That&apos;s when I want you to stop. And if you haven&apos;t
 already, you need to go in and validate your site. Validation is so
 important for accessibility. When you have everything looking the way
-you want it to, you&apos;'re going to host and share your site not only so
+you want it to, you&apos;re going to host and share your site not only so
 that your friends and family can see it but also so that your peers in
 this course can give you a review.
 
-I&apos;'ve come up with three examples, and I&apos;'m really hoping that these
+I&apos;ve come up with three examples, and I&apos;m really hoping that these
 will inspire you to make something unique or even inspire you to say,
 mine is not going to look like that at all.
 
@@ -6391,7 +6389,7 @@ universities rankings.
 </p>
 
 Hopefully, if you can see this, as I put my mouse over it, you can see
-that this is a link. And as I continue to go through, you can see I&apos;'ve
+that this is a link. And as I continue to go through, you can see I&apos;ve
 included at least three images and something down at the very bottom
 that says &apos;"back to top.&apos;"
 
@@ -6404,7 +6402,7 @@ that says &apos;"back to top.&apos;"
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-In our second example, we&apos;'ve focused on images and on links and on list
+In our second example, we&apos;ve focused on images and on links and on list
 items. I have here a site with the five best movies of all time. Each
 one of these movies you can get to with your mouse, or you can get to it
 by clicking on a link, which is great for accessibility. These images
@@ -6425,15 +6423,15 @@ in and compared Apples and Windows laptops. In this case, they included
 an unordered list where we include all of the different attributes and
 an image for each one. You might be wondering what this &apos;"skip to main
 content&apos;" link is that has been appearing on each one of our pages.
-It&apos;'s not required, but it&apos;'s something I always encourage because it
-helps for accessibility. If you have a really big page, or perhaps, I&apos;'m
-going to show you right here, you&apos;'ve zoomed in. You can always use this
+It&apos;s not required, but it&apos;s something I always encourage because it
+helps for accessibility. If you have a really big page, or perhaps, I&apos;m
+going to show you right here, you&apos;ve zoomed in. You can always use this
 &apos;"skip to main content&apos;" to jump down to the main part of your page. All
 right, so I have here, again our three different examples, and we are
 not looking for something that looks exactly like this.
 
 What we are looking for is your ability to go back, look at some of the
-things we&apos;'ve done so far, and make something your own.
+things we&apos;ve done so far, and make something your own.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6444,7 +6442,7 @@ things we&apos;'ve done so far, and make something your own.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-I mentioned earlier that it&apos;'s very important to validate your site. We
+I mentioned earlier that it&apos;s very important to validate your site. We
 expect you to use, at a minimum, the W3 validator to check your syntax,
 and the WAVE validator from WebAIM to check for accessibility.
 
@@ -6458,8 +6456,8 @@ and the WAVE validator from WebAIM to check for accessibility.
 </p>
 
 The best part about making a website is sharing your website. So if
-you&apos;'re using **Replit**, it&apos;'s pretty easy for you to share your site
-using the same steps we&apos;'ve been using in this class. If you&apos;'re using
+you&apos;re using **Replit**, it&apos;s pretty easy for you to share your site
+using the same steps we&apos;ve been using in this class. If you&apos;re using
 something other than **Replit**, you can still utilize some of the
 lessons from this course to learn about other ways to host and share
 your site.
@@ -6473,7 +6471,7 @@ your site.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-However, it&apos;'s very important that you have a way to share your site so
+However, it&apos;s very important that you have a way to share your site so
 that the peer reviews can be done successfully. You will need to do at
 least three peer reviews to receive credit for this assignment. The
 expectation is that everyone will participate, but if you are not a paid
@@ -6481,8 +6479,8 @@ learner and you would still like to get feedback, consider putting your
 link to your site in a forum. And I hope people will help each other out
 and give each other great feedback.
 
-Again, I&apos;'m super proud of you for making it this far in the class. And
-this project is not supposed to be something where we&apos;'re going to grade
+Again, I&apos;m super proud of you for making it this far in the class. And
+this project is not supposed to be something where we&apos;re going to grade
 you or judge you harshly. This is just a celebration of you learning
 something new and taking that time to learn about HTML, the web
 accessibility and just tech in general. Good luck.
@@ -6518,7 +6516,7 @@ techniques and best practices for adding interaction to your site.
 
 Responsive design is the ability to design a site with multiple screen
 sizes (or &apos;"platforms&apos;") in mind. We have all been to a site that
-doesn&apos;'t really work from a mobile device, or other sites that waste
+doesn&apos;t really work from a mobile device, or other sites that waste
 space by using small text on a big screen. In this course you will learn
 to design your site to automatically respond to the platform it is
 viewed on. Techniques include determining specific screen sizes
@@ -6536,9 +6534,9 @@ handle the responsive aspects for you.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Hi everybody. I&apos;'m not sure if I should say welcome back or goodbye.
+Hi everybody. I&apos;m not sure if I should say welcome back or goodbye.
 Because this is the end of the class. I know that you might be a little
-bit surprised like, what that&apos;'s it? I don&apos;'t feel like I&apos;'m ready to be
+bit surprised like, what that&apos;s it? I don&apos;t feel like I&apos;m ready to be
 a web developer yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6550,13 +6548,13 @@ a web developer yet.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Well I&apos;'m here to tell you, you&apos;'re not ready to be a web developer. But
+Well I&apos;m here to tell you, you&apos;re not ready to be a web developer. But
 what you have learned is that with the exception of a few things called
 forms and a little bit about graphics, you have learned the bulk of the
-HTML5 tags. You&apos;'ve learned their syntax and their semantics. With that
+HTML5 tags. You&apos;ve learned their syntax and their semantics. With that
 information, you are now ready to go off and learn even more about the
-areas that really interest you in particular. Whether that&apos;'s design,
-accessibility, user experience. And it&apos;'s very important that you have
+areas that really interest you in particular. Whether that&apos;s design,
+accessibility, user experience. And it&apos;s very important that you have
 this basic understanding before you go onto these other ideas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6568,12 +6566,12 @@ this basic understanding before you go onto these other ideas.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;'s think about some of the things you&apos;'ve learned. One of the first
-tools that&apos;'s now in your toolbox is that you can view and edit code,
+Let&apos;s think about some of the things you&apos;ve learned. One of the first
+tools that&apos;s now in your toolbox is that you can view and edit code,
 which is something a lot of people have difficulty with. You can use
 that editor to modify an existing HTML file. You can create one from
-scratch. There&apos;'s a lot of different things that you can do using the
-editors that you&apos;'ve now mastered.
+scratch. There&apos;s a lot of different things that you can do using the
+editors that you&apos;ve now mastered.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6584,12 +6582,12 @@ editors that you&apos;'ve now mastered.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-You also know the different options for opening a file. I&apos;'m not sure if
+You also know the different options for opening a file. I&apos;m not sure if
 you remember, but just a few short weeks ago when you saw an HTML file,
 probably the only thing you could do was open it in a browser. Now you
 know how to do many more things than that. You also are at the very
 beginning of learning how to evaluate for accessibility. From the first
-step of viewing other people&apos;'s source code and looking for those
+step of viewing other people&apos;s source code and looking for those
 semantic tags, you know the importance that these tags have for people
 who want to access your page.
 
@@ -6611,12 +6609,12 @@ more and more people to know.
 Finally, you also, hopefully, know how to publish your site or at the
 very least, you know the basics if you do decide to publish in the
 future. You know about domain names, you know about hosting, and you
-know that you really don&apos;'t want to buy that one domain name they keep
-trying to sell you in the Super Bowl unless you&apos;'re also willing to buy
-a host. You&apos;'ve also achieved some familiarity, no matter how small,
-with so many systems that are out there. You&apos;'ve learned about cPanel,
-you&apos;'ve learned about FTP, you&apos;'ve learned about different browsers, and
-you&apos;'ve learned about different types of editors. And this is all
+know that you really don&apos;t want to buy that one domain name they keep
+trying to sell you in the Super Bowl unless you&apos;re also willing to buy
+a host. You&apos;ve also achieved some familiarity, no matter how small,
+with so many systems that are out there. You&apos;ve learned about cPanel,
+you&apos;ve learned about FTP, you&apos;ve learned about different browsers, and
+you&apos;ve learned about different types of editors. And this is all
 information you can use to expand your knowledge in other areas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6628,29 +6626,29 @@ information you can use to expand your knowledge in other areas.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-What should you do next? If you&apos;'ve found this course interesting, what
+What should you do next? If you&apos;ve found this course interesting, what
 you want to do is you want to practice you skills. Keep writing code,
-keep using tags. It there is a tag you&apos;'re not sure about. That is
+keep using tags. It there is a tag you&apos;re not sure about. That is
 especially the one that you want to practice with. You want to get
-comfortable with multiple editors. If you&apos;'ve been using Notepad++, try
-Sublime. If you&apos;'ve been using Sublime try Textwrangler. Keep working
-with different editors, and while you&apos;'re at it, try different browsers
+comfortable with multiple editors. If you&apos;ve been using Notepad++, try
+Sublime. If you&apos;ve been using Sublime try Textwrangler. Keep working
+with different editors, and while you&apos;re at it, try different browsers
 too. Try uploading your code.
 
-If you didn&apos;'t host your site, I encourage you to find a free hosting
+If you didn&apos;t host your site, I encourage you to find a free hosting
 service and try putting it out there. Because once you can share your
 code with other people you get much more motivated to do new things.
 
 And finally, the most important thing you probably wanna do, is learn
-about Cascading Style Sheets. Cascading Style Sheets is a method you&apos;'re
+about Cascading Style Sheets. Cascading Style Sheets is a method you&apos;re
 gonna use to take your plain, everyday HTML file and make it look like
 something special. Of course, I happen to be offering a course in CSS3,
-and I hope you&apos;'ll join me for that. But if you decided you just don&apos;'t
+and I hope you&apos;ll join me for that. But if you decided you just don&apos;t
 have the time to do that, I want to let you know that when this course
-is over and after you&apos;'ve submitted your final project, I will be
+is over and after you&apos;ve submitted your final project, I will be
 sending you a link to what I call my secret lecture. And in that secret
 lecture, I want to show you ways that you can style your page in very
-simple steps. And I hope it&apos;'s something you&apos;'ll enjoy and help you to
+simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
 the end...2/17/2024 last updated &/or reviewed.
