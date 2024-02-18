@@ -3407,7 +3407,7 @@ Earlier, we made a very simple web page using **Replit**, but now let\'s
 make something that\'s a little bit more involved using the tags that
 you\'ve been learning about.
 
-![](./2-17/media/image143.png){width="4.0in"
+![](./images/image143.png){width="4.0in"
 height="2.258974190726159in"}
 
 What I want you to do is create a page called \"**index.html**.\" Your
@@ -3419,7 +3419,7 @@ times we wait until the end and it can be overwhelming to pick up on the
 mistakes that we\'ve made. I\'m going to encourage you to save as
 you\'re developing and keep validating the page.
 
-![](./2-17/media/image144.png){width="4.0in"
+![](./images/image144.png){width="4.0in"
 height="2.258974190726159in"}
 
 With every website, we start with a shell. That shell is going to
@@ -3430,8 +3430,8 @@ links to CSS files, to JavaScript, or perhaps to Favicons. Finally,
 today you\'re going to focus on the displayable content, adding in
 paragraphs or lists, eventually we\'ll be adding images.
 
-![](./2-17/media/image145.png){width="3.5in"
-height="1.9766021434820646in"}![](./2-17/media/image146.png){width="3.5in"
+![](./images/image145.png){width="3.5in"
+height="1.9766021434820646in"}![](./images/image146.png){width="3.5in"
 height="1.9766021434820646in"}
 
 Let\'s open up **Replit** and create, test, share, and validate it. I\'m
@@ -3442,7 +3442,7 @@ so many files in the same place, but let\'s go ahead and go with it
 right here. So, I\'ve got it\'s an HTML, CSS, JavaScript file, I\'ve
 named it \"**index.html**\" and now I\'m going to click on \"Create.\"
 
-![](./2-17/media/image147.png){width="5.0in"
+![](./images/image147.png){width="5.0in"
 height="2.823718285214348in"}
 
 Right away, **Replit** is going to fill in that data that we had talked
@@ -3475,8 +3475,8 @@ best of luck with that, but let\'s go ahead and try it and see if it
 works right here. Your other option, just so you know if it doesn\'t
 work for you, is to copy and paste this link right here, all right?
 
-![](./2-17/media/image148.png){width="3.5in"
-height="1.9766021434820646in"}![](./2-17/media/image149.png){width="3.5in"
+![](./images/image148.png){width="3.5in"
+height="1.9766021434820646in"}![](./images/image149.png){width="3.5in"
 height="1.9766021434820646in"}
 
 I know what my **URL** is, I\'m going to put it into the **Wave
@@ -3486,7 +3486,7 @@ they\'re saying it\'s definitely a problem.\" We want to add in what the
 language is, all right, so let\'s go ahead and go back, and I\'m going
 to put \"language=es.\"
 
-![](./2-17/media/image150.png){width="5.0in"
+![](./images/image150.png){width="5.0in"
 height="2.823718285214348in"}
 
 All right, so I put that in. I\'m going to go up here again, I\'m going
@@ -3494,7 +3494,7 @@ to refresh the page, give it a second, and you can see that the error is
 gone, all right? This was a lot of work just to get us started, we
 haven\'t even made anything ourselves yet.
 
-![](./2-17/media/image151.png){width="5.0in"
+![](./images/image151.png){width="5.0in"
 height="2.823718285214348in"}
 
 Let\'s start adding that extra information. Maybe I want to talk to them
@@ -3514,7 +3514,7 @@ unordered list and include three things. Number one, we can\'t forget
 the good old \"Goonies,\" all right? Style number two, I will do \"Back
 to the Future,\" and we\'ll just do those two for right now.
 
-![](./2-17/media/image152.png){width="5.0in"
+![](./images/image152.png){width="5.0in"
 height="2.823718285214348in"}
 
 I\'m going to go ahead and do a save, which I should have done a while
@@ -3522,13 +3522,13 @@ ago, and you can see that it has automatically updated my page. I\'m
 going to go ahead and add a footer, because we said it\'s good to add a
 footer to your page, and I\'ll put in \"Copyright Colleen.\"
 
-![](./2-17/media/image153.png){width="5.0in"
+![](./images/image153.png){width="5.0in"
 height="2.823718285214348in"}
 
 When I save that, you can see it added a little \"Copyright Colleen\"
 right here off to the side, everything looks great.
 
-![](./2-17/media/image154.png){width="5.0in"
+![](./images/image154.png){width="5.0in"
 height="2.823718285214348in"}
 
 It doesn\'t matter that everything looks great, we always want to go in
@@ -3639,7 +3639,7 @@ that does and then using the app to link to it.
 
 # 2.06 Images (9:28) {#images-928 .unnumbered}
 
-![](./2-17/media/image155.png){width="4.0in"
+![](./images/image155.png){width="4.0in"
 height="2.2666666666666666in"}
 
 It may be hard to believe, but when you think about the early days of
@@ -3649,7 +3649,7 @@ add images to your page, we want to make sure that you do it the right
 way. Not just by writing good, accessible, clean code, but also making
 sure your images look the way that you want them to look.
 
-![](./2-17/media/image156.png){width="4.0in"
+![](./images/image156.png){width="4.0in"
 height="2.258974190726159in"}
 
 The image tag really has a lot of things going on with it. Many file
@@ -3671,7 +3671,7 @@ definitely be a factor. Every image requires its own **HTTP** Request,
 so if those images are broken, if they don\'t belong to you, if they\'re
 behind a paywall, it can all mess up your page.
 
-![](./2-17/media/image157.png){width="4.0in"
+![](./images/image157.png){width="4.0in"
 height="2.258974190726159in"}
 
 The first thing you need to realize is that when you link an image, your
@@ -3683,7 +3683,7 @@ never really fits. Or if someone texts it to me, it\'s so tiny I can
 barely see it. The quick solution for that is you can either change the
 file or we can use something called width and height attributes.
 
-![](./2-17/media/image158.png){width="4.0in"
+![](./images/image158.png){width="4.0in"
 height="2.258974190726159in"}
 
 If you decide to use an editor to permanently change the style of the
@@ -3695,7 +3695,7 @@ your local images. You can use something like preview or Paint to open
 it up and adjust the size to how you would like it to fit not only the
 size, but you can also crop it to different dimensions.
 
-![](./2-17/media/image159.png){width="4.0in"
+![](./images/image159.png){width="4.0in"
 height="2.258974190726159in"}
 
 However, more and more people are using these, what we call attributes
@@ -3708,7 +3708,7 @@ at least the **width** attribute. And what that will do is it means when
 your page is loaded, it\'ll keep the pictures from flashing and
 flickering as they adjust to different sizes.
 
-![](./2-17/media/image160.png){width="4.0in"
+![](./images/image160.png){width="4.0in"
 height="2.258974190726159in"}
 
 Let\'s look at what I\'m talking about. What I have here is a
@@ -3722,7 +3722,7 @@ That\'s not great alternative text. A better alternative text would be a
 visual description of my house, but that doesn\'t fit on a slide very
 well. You\'ll have to forgive me on this one.
 
-![](./2-17/media/image161.png){width="4.0in"
+![](./images/image161.png){width="4.0in"
 height="2.258974190726159in"}
 
 You can also, if you\'d like, set the **width** of that picture. If the
@@ -3738,14 +3738,14 @@ a phone, on a tablet, on a really large screen.
 What looks good on one screen may not look good on another. 500 pixels
 may be too big for my phone and too small for my giant screen.
 
-![](./2-17/media/image162.png){width="4.0in"
+![](./images/image162.png){width="4.0in"
 height="2.258974190726159in"}
 
 One of the things we could do is set the height to match our screen
 size. But that\'s often going to skew our image size, right? It\'s just
 not going to look good.
 
-![](./2-17/media/image163.png){width="4.0in"
+![](./images/image163.png){width="4.0in"
 height="2.258974190726159in"}
 
 A better idea is to use **percentages**. In this example, I\'ve done
@@ -3759,7 +3759,7 @@ picture will get bigger. As you make the screen smaller, the picture
 will get smaller. It\'s a nice way to make the picture fluid. We call it
 fluid measurements and to be reactive and responsive to people.
 
-![](./2-17/media/image164.png){width="4.0in"
+![](./images/image164.png){width="4.0in"
 height="2.258974190726159in"}
 
 In addition to regular images that use the image tag, people like to use
@@ -3773,7 +3773,7 @@ using the image tag, what I have here is link, what type of relationship
 I have. This is going to be an icon. It\'s going to be a PNG file, and
 that PNG file is located in my images folder.
 
-![](./2-17/media/image165.png){width="4.0in"
+![](./images/image165.png){width="4.0in"
 height="2.258974190726159in"}
 
 I can\'t stress enough that when you use images, it\'s very, very, very
@@ -3792,7 +3792,7 @@ for search engines. So, if you have a business and you would like to
 promote that business, alternative text has these kind of sneaky side
 benefits as well as just being, you know, a decent human being.
 
-![](./2-17/media/image166.png){width="4.0in"
+![](./images/image166.png){width="4.0in"
 height="2.258974190726159in"}
 
 As you start to do images, they\'re going to be great, but you\'re going
@@ -3842,7 +3842,7 @@ equity, and inclusion.
 
 # 2.07 Accessible Images (7:43) {#accessible-images-743 .unnumbered}
 
-![](./2-17/media/image167.png){width="4.0in"
+![](./images/image167.png){width="4.0in"
 height="2.2666666666666666in"}
 
 I know we\'ve talked about images in the past, but I\'d really like to
@@ -3852,7 +3852,7 @@ about, is there a way to also have a picture, say, maybe 10 or 11 words,
 a way to describe what you were hoping to represent by including that
 image on your page?
 
-![](./2-17/media/image168.png){width="4.0in"
+![](./images/image168.png){width="4.0in"
 height="2.258974190726159in"}
 
 And that\'s what brings us to the alternative text attribute.
@@ -3874,7 +3874,7 @@ are all things, though, that I\'ve mentioned before, so I really want to
 talk to you a little bit more in depth into how to create alternative
 text attributes.
 
-![](./2-17/media/image169.png){width="4.0in"
+![](./images/image169.png){width="4.0in"
 height="2.258974190726159in"}
 
 A key to creating good **alt** text is to be accurate and succinct. You
@@ -3888,7 +3888,7 @@ having fun?\" Should it be, \"my children being idiots,\" right? Why did
 I put the picture there? That\'s what you want to think about when
 you\'re creating good **alt** text.
 
-![](./2-17/media/image170.png){width="4.0in"
+![](./images/image170.png){width="4.0in"
 height="2.258974190726159in"}
 
 Sometimes a picture is just there because you kind of just had some
@@ -3899,7 +3899,7 @@ to somebody, hey, we know that alternative text is important, and we
 want you to know that this picture just doesn\'t have any important
 extra meaning.
 
-![](./2-17/media/image171.png){width="4.0in"
+![](./images/image171.png){width="4.0in"
 height="2.258974190726159in"}
 
 For some images, especially infographics, right? Like and the charts and
@@ -3912,7 +3912,7 @@ the details of the infographic and just link to it. So when someone gets
 to the page, if it has a lot of complicated information, they can take
 that time to digest it.
 
-![](./2-17/media/image172.png){width="4.0in"
+![](./images/image172.png){width="4.0in"
 height="2.258974190726159in"}
 
 You\'ve decided that you\'re going to include images on your page,
@@ -3930,7 +3930,7 @@ to make money. Another option which is becoming extremely popular is to
 use icons. Icons are those almost little cartoonish looking infographics
 that you can use on your page.
 
-![](./2-17/media/image173.png){width="4.0in"
+![](./images/image173.png){width="4.0in"
 height="2.258974190726159in"}
 
 Speaking of icons, a lot of times people will talk about emojis and
@@ -3949,7 +3949,7 @@ Pinterest. If I had basically any icon at all, think about what would
 you like someone to say out loud to you if you wanted to describe what
 that icon is representing?
 
-![](./2-17/media/image174.png){width="4.0in"
+![](./images/image174.png){width="4.0in"
 height="2.258974190726159in"}
 
 When you use images, I\'d like you to also think about where those
@@ -3974,7 +3974,7 @@ to use images in the most impactful way possible. And so I\'m putting
 into some of the resources, places that I have discovered you can look
 to try to improve kind of your own outlook.
 
-![](./2-17/media/image175.png){width="4.0in"
+![](./images/image175.png){width="4.0in"
 height="2.258974190726159in"}
 
 I want to finish with some tips. One is, there\'s a great website called
@@ -4036,14 +4036,14 @@ to create your **alt** text.
 
 # 2.08 Hyperlinks (9:23) {#hyperlinks-923 .unnumbered}
 
-![](./2-17/media/image176.png){width="4.0in"
+![](./images/image176.png){width="4.0in"
 height="2.2666666666666666in"}
 
 Hi, today we\'re going to be talking about hyperlinks, or links, as
 they\'re more commonly called. And how you can use them to link your
 document with others out there.
 
-![](./2-17/media/image177.png){width="4.0in"
+![](./images/image177.png){width="4.0in"
 height="2.258974190726159in"}
 
 Now, links are really what make the web a web. It\'s this whole idea
@@ -4052,7 +4052,7 @@ search engines or you yourself can gain by going from page to page to
 page, and with hopefully related material. So, let\'s get right into how
 you create a link on your page.
 
-![](./2-17/media/image178.png){width="4.0in"
+![](./images/image178.png){width="4.0in"
 height="2.258974190726159in"}
 
 Links are called anchor links and that\'s where we get the a for in the
@@ -4067,14 +4067,14 @@ what we call the clickable part. In this case, it\'s text. I would
 actually click on an underlined text that says, University of Michigan.
 But in some cases, it might be an image instead.
 
-![](./2-17/media/image179.png){width="4.0in"
+![](./images/image179.png){width="4.0in"
 height="2.258974190726159in"}
 
 So what types of links can we have? Some of the most common are called
 absolute links. We also have relative links. Internal links and
 graphical links and I\'m gonna show you examples of each one of those.
 
-![](./2-17/media/image180.png){width="4.0in"
+![](./images/image180.png){width="4.0in"
 height="2.258974190726159in"}
 
 With an absolute reference in the href section we need to put a fully
@@ -4084,7 +4084,7 @@ there\'s three parts to **URL**, you have the protocol, the host, and
 the document. You need to include all of those if you have an absolute
 reference, right? Everything else is still pretty much the same.
 
-![](./2-17/media/image181.png){width="4.0in"
+![](./images/image181.png){width="4.0in"
 height="2.258974190726159in"}
 
 For a relative reference, we slightly change what goes in to the href.
@@ -4101,7 +4101,7 @@ ID tag. So when you have href equals hash pound or history, we\'re
 saying there\'s another location inside the same file and it\'s called
 \"history.\"
 
-![](./2-17/media/image182.png){width="4.0in"
+![](./images/image182.png){width="4.0in"
 height="2.258974190726159in"}
 
 Absolute versus relative links. When would you use absolute links versus
@@ -4126,7 +4126,7 @@ would be able to access pages that are on your computer. So never ever
 have a reference that includes something local to your machine. All
 right?
 
-![](./2-17/media/image183.png){width="4.0in"
+![](./images/image183.png){width="4.0in"
 height="2.258974190726159in"}
 
 One of the other things that you can do is you can use images as the
@@ -4143,7 +4143,7 @@ In another case I\'ve done something very similar, the only difference
 is, instead of using a local reference right here for the image, I\'ve
 used an absolute reference. I\'ve put in the entire **URL**.
 
-![](./2-17/media/image184.png){width="4.0in"
+![](./images/image184.png){width="4.0in"
 height="2.258974190726159in"}
 
 Let\'s talk usability issues and accessibility issues. If you\'re going
@@ -4160,14 +4160,14 @@ clickable portion of your link. That image needs to have some sort of
 **alt** text or other information available to those who can\'t see the
 image.
 
-![](./2-17/media/image185.png){width="5.0in"
+![](./images/image185.png){width="5.0in"
 height="2.823718285214348in"}
 
 Let me show you some coded example of those types of links. As you can
 see here, I have a reference to absolute references, relative
 references, images as links, and then some embedded links, as well.
 
-![](./2-17/media/image186.png){width="5.0in"
+![](./images/image186.png){width="5.0in"
 height="2.823718285214348in"}
 
 If I were to click on \"Washtenaw Dairy\" or \"Rosie\'s Coffee Bar and
@@ -4181,8 +4181,8 @@ if you\'re ever hovering over a link, and the information you see at the
 bottom of the page doesn\'t match what you expect, I wouldn\'t click on
 it. So absolute references take you away from your site.
 
-![](./2-17/media/image187.png){width="3.5in"
-height="1.9766021434820646in"}![](./2-17/media/image188.png){width="3.5in"
+![](./images/image187.png){width="3.5in"
+height="1.9766021434820646in"}![](./images/image188.png){width="3.5in"
 height="1.9766021434820646in"}
 
 Relative references can take you to something that\'s within your
@@ -4193,7 +4193,7 @@ as well. Instead of writing \"Doughnuts from the Squire Shop,\" I went
 ahead and made it so you can click on the image to get to the larger
 view.
 
-![](./2-17/media/image189.png){width="5.0in"
+![](./images/image189.png){width="5.0in"
 height="2.82371719160105in"}
 
 This last idea of embedded links is a little bit interesting. So let me
@@ -4206,7 +4206,7 @@ can click on any of these and navigate within the same page. So I\'m not
 gonna go to a different page. I\'m not gonna open up a new tab. Instead
 I\'m gonna jump to different places within the page.
 
-![](./2-17/media/image190.png){width="5.0in"
+![](./images/image190.png){width="5.0in"
 height="2.823718285214348in"}
 
 So I went to Absolute. I went to Relative now if I try to do Embedded
@@ -4215,14 +4215,14 @@ that we\'re already there. All right, so that is how these kind of
 embedded or internal links work, right? Now if at any time you get
 confused about how code is working.
 
-![](./2-17/media/image191.png){width="5.0in"
+![](./images/image191.png){width="5.0in"
 height="2.823718285214348in"}
 
 I just want to remind you that you can always go to \"view.\"
 \"Developer\" and \"view source\" to really get a better idea of how
 people are creating their pages and their links.
 
-![](./2-17/media/image192.png){width="4.0in"
+![](./images/image192.png){width="4.0in"
 height="2.258974190726159in"}
 
 Next, let\'s talk about targets, all right? Anchors can take a different
@@ -4246,7 +4246,7 @@ here, but you can see them in the reading, and those are **top** and
 **parent**, and that deals with if you\'re really getting into the idea
 of having multiple windows, frames, etc. open.
 
-![](./2-17/media/image193.png){width="4.0in"
+![](./images/image193.png){width="4.0in"
 height="2.258974190726159in"}
 
 Let\'s review, because making sure that you understand links is vitally
@@ -4326,7 +4326,7 @@ everything on your page (until the next tag) into a big underlined link.
 
 # 2.09 Useful Tags (11:41) {#useful-tags-1141 .unnumbered}
 
-![](./2-17/media/image194.png){width="4.0in"
+![](./images/image194.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, today we\'re gonna talk about some of the tags that you may find
@@ -4339,7 +4339,7 @@ not supposed to memorize them all by the end of this lecture. Instead,
 I\'m really just trying to give you a taste for what\'s out there so you
 can start playing with your own code.
 
-![](./2-17/media/image195.png){width="4.0in"
+![](./images/image195.png){width="4.0in"
 height="2.258974190726159in"}
 
 One of the first things you need to decide when you\'re coding is, which
@@ -4354,7 +4354,7 @@ as **&lt;header&gt;** (**\<header\>**) and **&lt;nav&gt; (\<nav\>),**
 **&lt;footer&gt; (\<footer\>)** and **&lt;figure&gt; (\<figure\>).** And
 we talked about those in an earlier lesson.
 
-![](./2-17/media/image196.png){width="4.0in"
+![](./images/image196.png){width="4.0in"
 height="2.258974190726159in"}
 
 Some of the other **block** tags that you may not be familiar with are
@@ -4394,7 +4394,7 @@ Alright, so there\'s **&lt;hr&gt; (\<hr\>), &lt;address&gt;
 guess is, you still have no idea what they really do, so let\'s take a
 look at a quick example.
 
-![](./2-17/media/image197.png){width="5.0in"
+![](./images/image197.png){width="5.0in"
 height="2.823718285214348in"}
 
 Here would be an example of the hr element. It\'s just a simple line
@@ -4418,7 +4418,7 @@ The last one, details, is combined with a summary tag. I\'m going to
 click the arrow and see that it opens and closes. The default is to have
 it closed and then open up when someone clicks on the little arrow icon.
 
-![](./2-17/media/image198.png){width="4.0in"
+![](./images/image198.png){width="4.0in"
 height="2.258974190726159in"}
 
 Let\'s go back to some other tags that aren\'t **block** tags. These are
@@ -4435,7 +4435,7 @@ In addition, we have **&lt;cite&gt;** (**\<cite\>**), **&lt;abbr&gt;**
 have noticed I left a typo after abbreviation there. So make sure you
 put in the greater than sign. Let\'s look at examples of this code.
 
-![](./2-17/media/image199.png){width="5.0in"
+![](./images/image199.png){width="5.0in"
 height="2.823718285214348in"}
 
 Here I have my inline elements. The **&lt;cite&gt;** (**\<cite\>**)
@@ -4448,7 +4448,7 @@ Another new tag that has come along recently is the **&lt;abbr&gt;
 (\<abbr\>)** tag. If you notice, right along here, I\'ve included
 abbreviation inside the box.
 
-![](./2-17/media/image200.png){width="5.0in"
+![](./images/image200.png){width="5.0in"
 height="2.823718285214348in"}
 
 Now, if you can, watch what happens when I put my mouse over the Sunday,
@@ -4469,7 +4469,7 @@ numeric time, it is a time. By putting in different time tags, it\'s
 also more likely that if someone is accessing your site on a mobile
 phone, it\'ll pop up as knowing that it\'s a date.
 
-![](./2-17/media/image201.png){width="5.0in"
+![](./images/image201.png){width="5.0in"
 height="2.823718285214348in"}
 
 Sometimes you would like to be able to identify parts of your code as
@@ -4491,7 +4491,7 @@ It\'s really weird to use these tags unless you\'re also incorporating
 them with JavaScript or some other elements that you probably don\'t
 know a lot with yet.
 
-![](./2-17/media/image202.png){width="4.0in"
+![](./images/image202.png){width="4.0in"
 height="2.258974190726159in"}
 
 These include the **&lt;button&gt; (\<button\>)**, the **&lt;meter&gt;
@@ -4504,7 +4504,7 @@ quick example. But I\'m not going to include the fancy add-ons you would
 need to use then. That\'s not what this course is about. Right now,
 we\'re just learning these tags.
 
-![](./2-17/media/image203.png){width="5.0in"
+![](./images/image203.png){width="5.0in"
 height="2.823718285214348in"}
 
 Let\'s take a look at them so you can see what they look like visually
@@ -4515,7 +4515,7 @@ included some open and close buttons. They don\'t do anything but they
 look really nice. So go ahead and put them in if you want but it may
 confuse people that there not actually operational.
 
-![](./2-17/media/image204.png){width="5.0in"
+![](./images/image204.png){width="5.0in"
 height="2.823718285214348in"}
 
 The next one is **&lt;meter&gt; (\<meter\>)**, and you\'ve probably seen
@@ -4529,7 +4529,7 @@ Here I just want to show you that it doesn\'t always have to be 0 to
 100. You can start at 5 and go to 10, and I\'ve set it to 8, which is
 60%. That\'s how the **&lt;meter&gt; (\<meter\>)** works.
 
-![](./2-17/media/image203.png){width="5.0in"
+![](./images/image203.png){width="5.0in"
 height="2.823718285214348in"}
 
 **&lt;progress&gt;** (**\<progress\>**) is very similar to
@@ -4541,7 +4541,7 @@ bar fills in. Again both **&lt;meter&gt; (\<meter\>)** and
 **&lt;progress&gt;** (**\<progress\>**) tend to use JavaScript to update
 them.
 
-![](./2-17/media/image205.png){width="5.0in"
+![](./images/image205.png){width="5.0in"
 height="2.823718285214348in"}
 
 The next one I was going to show you is **&lt;iframe&gt; (\<iframe\>).
@@ -4550,20 +4550,20 @@ It is not equally well supported by all the browsers, so you want to
 explore who can use it and the best way to use it. And you would want to
 look into options, such as height and width.
 
-![](./2-17/media/image206.png){width="5.0in" height="2.8125in"}
+![](./images/image206.png){width="5.0in" height="2.8125in"}
 
 Right here in my **iframe**, I\'ve said hey, let\'s link back to my
 page. And it puts my whole web page inside this little block of the
 page.
 
-![](./2-17/media/image207.png){width="5.0in" height="2.8125in"}
+![](./images/image207.png){width="5.0in" height="2.8125in"}
 
 Down here, I went ahead and said hey, let\'s do that iframe again, but
 this time let\'s go ahead and have it take up a much bigger width, all
 right? Now, one thing to notice is I can still click in here. I can do
 all the things. It\'s as if I have a webpage inside of a webpage.
 
-![](./2-17/media/image208.png){width="5.0in" height="2.8125in"}
+![](./images/image208.png){width="5.0in" height="2.8125in"}
 
 The last one. Let\'s go down here. I want to show you is the
 **bidirectional orientation**. And this one would be something you would
@@ -4576,7 +4576,7 @@ didn\'t really give examples of the map with the area. Because, again,
 this is one where you would really need to understand JavaScript to
 really embrace what it\'s doing.
 
-![](./2-17/media/image209.png){width="4.0in" height="2.25in"}
+![](./images/image209.png){width="4.0in" height="2.25in"}
 
 I realize I went over a lot of tags with you just right now. And some of
 the code, you probably understood and some of it, you didn\'t. But all
@@ -4656,7 +4656,7 @@ code so you will be writing the code on your own!)
 
 # 3.01 Accessibility (11:01) {#accessibility-1101 .unnumbered}
 
-![](./2-17/media/image210.png){width="4.0in"
+![](./images/image210.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One of the things that I\'m constantly talking about in my courses is
@@ -4665,7 +4665,7 @@ talk about this as much as I want but it\'s really up to me to show to
 you why it\'s so important for you to make the Web as accessible as
 possible for others.
 
-![](./2-17/media/image211.png){width="4.0in" height="2.25in"}
+![](./images/image211.png){width="4.0in" height="2.25in"}
 
 Today we\'re going to talk about three things. First, I would like to
 explain what a Web accessibility professional does. Second, we\'re going
@@ -4684,7 +4684,7 @@ who have issues, and work together with people who are in technology.
 And that\'s exactly the type of thing a Web accessibility coordinator
 will do.
 
-![](./2-17/media/image212.png){width="4.0in" height="2.25in"}
+![](./images/image212.png){width="4.0in" height="2.25in"}
 
 First, one thing they might do is help guide policy and purchasing
 decisions, on what kind of software is most accessible to the widest
@@ -4700,7 +4700,7 @@ will always have a job if you can find a way to combine your love with
 helping people with the different tools that are being used. Let\'s talk
 specifics.
 
-![](./2-17/media/image213.png){width="4.0in" height="2.25in"}
+![](./images/image213.png){width="4.0in" height="2.25in"}
 
 According to the 2012 U.S. Census, 1 in 5 people in the U.S. have a
 disability. That means that there are 60 million people in the U.S. who
@@ -4709,7 +4709,7 @@ are impeded from using the Internet. So we will talk briefly about four
 issues that tend to pop up the most when dealing with disabilities and
 the Internet. Visual issues, hearing, motor and cognitive.
 
-![](./2-17/media/image214.png){width="4.0in" height="2.25in"}
+![](./images/image214.png){width="4.0in" height="2.25in"}
 
 When you talk about accessibility almost everyone thinks about screen
 readers. They design and say, oh I\'m gonna make sure that my page will
@@ -4721,7 +4721,7 @@ designing is more than just font size, we also need to think about color
 contrast. Your different font style. Can someone really see your page as
 easily as possible?
 
-![](./2-17/media/image215.png){width="4.0in" height="2.25in"}
+![](./images/image215.png){width="4.0in" height="2.25in"}
 
 We also want to think about hearing disabilities. We\'re talking about
 from partial to total deafness. So 8 million people have difficulty
@@ -4742,7 +4742,7 @@ put on your page. This is going to help people with hearing disabilities
 feel that they are in command of the technology, not that the
 technology\'s in command of them.
 
-![](./2-17/media/image216.png){width="4.0in" height="2.25in"}
+![](./images/image216.png){width="4.0in" height="2.25in"}
 
 One of my own personal issues is that of motor disabilities. There are
 many, many people who are unable to use a mouse or a physical keyboard.
@@ -4760,7 +4760,7 @@ people like to add flashy and cool graphics and animations to the their
 page. But I know that I personally have been frustrated at trying to
 click a button while the button keeps moving around the screen.
 
-![](./2-17/media/image217.png){width="4.0in" height="2.25in"}
+![](./images/image217.png){width="4.0in" height="2.25in"}
 
 Another issue is cognitive disabilities and when we talk about cognitive
 disabilities, there\'s a very wide range of issues we might be talking
@@ -4783,7 +4783,7 @@ disabilities combined. So it\'s something that you want to think about
 when you\'re designing your page, or even if you\'re just help other
 people design theirs.
 
-![](./2-17/media/image218.png){width="4.0in" height="2.25in"}
+![](./images/image218.png){width="4.0in" height="2.25in"}
 
 Let\'s get the specific stats because nothing helps me convince people
 more that they want to design for the Web than showing them the numbers.
@@ -4797,7 +4797,7 @@ are out there. Many times there are roadblocks put up there that they
 can\'t get through in order to do jobs that they are very well qualified
 for.
 
-![](./2-17/media/image219.png){width="4.0in" height="2.25in"}
+![](./images/image219.png){width="4.0in" height="2.25in"}
 
 The Web offers unprecedented opportunities for the disabled. Here we are
 right now all taking a class online. Education has the benefit in that
@@ -4816,7 +4816,7 @@ commerce or social interaction, are now able to do that. The Web is an
 enabling technology and we want to make sure that we continue to make it
 so.
 
-![](./2-17/media/image220.png){width="4.0in" height="2.25in"}
+![](./images/image220.png){width="4.0in" height="2.25in"}
 
 Hopefully I convinced you just from a human standpoint that it\'s
 important to make your Web pages accessible, but there are of course
@@ -4831,7 +4831,7 @@ filed civil complaints against universities, companies because they feel
 that their products are not accessible to people in a way that it should
 be.
 
-![](./2-17/media/image221.png){width="4.0in" height="2.25in"}
+![](./images/image221.png){width="4.0in" height="2.25in"}
 
 Let\'s just review this for a second. What is Web accessibility? What it
 is is making sure that you\'re making your Web accessible for the widest
@@ -4845,7 +4845,7 @@ Optimization, mobile technology, and usability. Improve one of these
 things and you can improve all the others. So what\'s the best way to
 accomplish accessibility? It\'s adherence to standards.
 
-![](./2-17/media/image222.png){width="4.0in" height="2.25in"}
+![](./images/image222.png){width="4.0in" height="2.25in"}
 
 As you start now, you\'re at the very beginning of your Web career.
 It\'s the perfect time for you to learn the best possible tags and the
@@ -4859,7 +4859,7 @@ Is my site perceivable, is it operable, is it understandable, and is it
 robust? We\'ll be talking about these four principles throughout our
 entire course.
 
-![](./2-17/media/image223.png){width="4.0in" height="2.25in"}
+![](./images/image223.png){width="4.0in" height="2.25in"}
 
 Let\'s review quickly. I know that right now you\'re starting your Web
 design career, and it can be overwhelming. But I\'m hoping that one of
@@ -4880,7 +4880,7 @@ using assistive devices to understand the content of your page. Together
 we can make sure that the next generation of Web developers are
 designing for the greatest possible audience.
 
-![](./2-17/media/image224.png){width="7.0in"
+![](./images/image224.png){width="7.0in"
 height="2.5741458880139985in"}
 
 Goto <http://wave.webaim.org> & enter the URL of a website of your
@@ -4908,18 +4908,18 @@ https://html5accessibility.com/ also tests which HTML5 features are
 supported by major browsers. This includes if they are keyboard
 accessible and if any accessibility related features are supported.
 
-![](./2-17/media/image225.png){width="7.0in"
+![](./images/image225.png){width="7.0in"
 height="3.1455129046369206in"}
 
 # 3.02 Validating Your Site (4:10) {#validating-your-site-410 .unnumbered}
 
-![](./2-17/media/image226.png){width="4.0in"
+![](./images/image226.png){width="4.0in"
 height="2.2427351268591424in"}
 
 I know that I\'ve been saying validate your code over and over again,
 but let\'s talk about why it\'s so important.
 
-![](./2-17/media/image227.png){width="4.0in"
+![](./images/image227.png){width="4.0in"
 height="2.2470089676290463in"}
 
 Browsers are basically the helicopter parents of programming. You can
@@ -4933,7 +4933,7 @@ areas where you have bad code, can be absolutely devastating to
 accessibility tools because they don\'t know what to do with that broken
 code.
 
-![](./2-17/media/image228.png){width="4.0in"
+![](./images/image228.png){width="4.0in"
 height="2.258546587926509in"}
 
 There are basically three approaches to using a syntactic accessibility
@@ -4953,7 +4953,7 @@ My own personal favorite is to validate by direct input, where you copy
 the entire HTML file and put it in so it can check it line by line for
 you to see just if you\'ve made some little mistakes.
 
-![](./2-17/media/image229.png){width="4.0in"
+![](./images/image229.png){width="4.0in"
 height="2.258546587926509in"}
 
 When you do this, just relax, alright? Because more than likely, you\'re
@@ -4969,7 +4969,7 @@ Internet, right? You can search for solutions online and in forums.
 Usually your best bet is to just copy and paste that error and put it
 into the search bar, okay? You can do it.
 
-![](./2-17/media/image230.png){width="4.0in"
+![](./images/image230.png){width="4.0in"
 height="2.258546587926509in"}
 
 In addition to syntactical validation, we also want to talk about
@@ -4989,7 +4989,7 @@ be using Braille readers. There are so many different options out there.
 It\'s really pretty exciting if you take the time to look at what people
 are using.
 
-![](./2-17/media/image231.png){width="4.0in"
+![](./images/image231.png){width="4.0in"
 height="2.258546587926509in"}
 
 Finally important thing to know is that validated sites are more robust
@@ -5010,7 +5010,7 @@ your mind and host them later.
 
 # 3.03 Hosting Your Site (4:19) {#hosting-your-site-419 .unnumbered}
 
-![](./2-17/media/image232.png){width="4.0in"
+![](./images/image232.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi, everybody. Today we\'re going to talk about hosting your site. And
@@ -5022,7 +5022,7 @@ first, a domain name. That\'s the name that people look at in your
 a hosting service, and they are going to be the ones who act as the
 server for your files to let other people see them.
 
-![](./2-17/media/image233.png){width="4.0in"
+![](./images/image233.png){width="4.0in"
 height="2.258546587926509in"}
 
 So first, let\'s talk about domain names. Usually when you go to buy a
@@ -5049,7 +5049,7 @@ the protocol is \"file.\" We don\'t want that. We don\'t want it to be
 \"file,\" or \"C:\" or \"My Documents.\" We want it to be something that
 looks like www, and that\'s where the hosting company comes in.
 
-![](./2-17/media/image234.png){width="4.0in"
+![](./images/image234.png){width="4.0in"
 height="2.258546587926509in"}
 
 What you need is a registered **IP address** to connect your domain name
@@ -5059,7 +5059,7 @@ decide what kind of hosting service best fits you. To be honest, I
 usually recommend free when you\'re getting started, and then make your
 way up. But let\'s talk about the pros and cons of each one.
 
-![](./2-17/media/image235.png){width="4.0in"
+![](./images/image235.png){width="4.0in"
 height="2.258546587926509in"}
 
 With free services, you really have little or no control over your
@@ -5085,7 +5085,7 @@ how to do your hosting on it, you can pretty much rest assured that
 you\'re going to be able to manipulate your files on any other free
 service as well.
 
-![](./2-17/media/image236.png){width="4.0in"
+![](./images/image236.png){width="4.0in"
 height="2.258546587926509in"}
 
 So let\'s talk about paid services, both the mid-range and the full.
@@ -5111,13 +5111,13 @@ out on the web. Good luck.
 
 # 3.04a Creating a GitHub Pages Account (5:29) {#a-creating-a-github-pages-account-529 .unnumbered}
 
-![](./2-17/media/image237.png){width="4.0in"
+![](./images/image237.png){width="4.0in"
 height="2.2427351268591424in"}
 
 One way that you can share your webpage with everyone is by hosting it
 on GitHub.
 
-![](./2-17/media/image238.png){width="5.0in"
+![](./images/image238.png){width="5.0in"
 height="2.823183508311461in"}
 
 The first step is making a GitHub Pages account. I\'m going to go in
@@ -5129,7 +5129,7 @@ simple. Not a lot of upper or lowercase. Something that describes why
 you\'re building your site. Go ahead and put in an email, and a
 password.
 
-![](./2-17/media/image239.png){width="5.0in"
+![](./images/image239.png){width="5.0in"
 height="2.823183508311461in"}
 
 Once you\'ve logged in, what you want to do is you want to create your
@@ -5137,7 +5137,7 @@ account (bottom left). When you click on \"create an account,\" what\'s
 going to happen is that they\'re going to decide what kind of plan you
 want.
 
-![](./2-17/media/image240.png){width="5.0in"
+![](./images/image240.png){width="5.0in"
 height="2.823183508311461in"}
 
 We\'re going to go with the free plan. We don\'t need anything special,
@@ -5154,7 +5154,7 @@ you\'ve made a folder called HTML where you\'ve been putting all your
 files, this is the name of the folder that we\'re going to put up on the
 web. It is important that you follow the rules precisely.
 
-![](./2-17/media/image241.png){width="5.0in"
+![](./images/image241.png){width="5.0in"
 height="2.823183508311461in"}
 
 The first thing I\'m going to do is I\'m going to go up to the very top
@@ -5168,7 +5168,7 @@ be the same as your account name. In my case, it\'s
 \"**webdesigner4everyone.github.io**.\" In my description, I can put
 something like \"the website for web design for everyone.\"
 
-![](./2-17/media/image242.png){width="5.0in"
+![](./images/image242.png){width="5.0in"
 height="2.823183508311461in"}
 
 The second thing you want to make sure you do is click on this little
@@ -5183,7 +5183,7 @@ going to copy this link right here;
 \"**webdesigner4everyone.github.io**.\" I\'m going to copy it, and I am
 going to see what happens if we go here.
 
-![](./2-17/media/image243.png){width="4.0in"
+![](./images/image243.png){width="4.0in"
 height="2.258546587926509in"}
 
 Look, I actually have a website that\'s live to everyone. I didn\'t have
@@ -5204,7 +5204,7 @@ creating your GitHub Pages account.
 
 # 3.04b Uploading to GitHub Pages (8:25) {#b-uploading-to-github-pages-825 .unnumbered}
 
-![](./2-17/media/image244.png){width="4.0in"
+![](./images/image244.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Let\'s say you\'ve come up with a pretty nice site. I\'ve got one right
@@ -5212,7 +5212,7 @@ here. I\'m going to click on my \"**index.html**\" file, and I\'ve got
 some images in it. I have a special file called CSS that you might not
 be familiar with yet, but that\'s okay.
 
-![](./2-17/media/image245.png){width="5.0in"
+![](./images/image245.png){width="5.0in"
 height="2.823183508311461in"}
 
 But let\'s just see what my site looks like. Here we go, up. Here is a
@@ -5224,7 +5224,7 @@ could say to somebody, \"Oh look, I made a web page,\" and then I could
 send them this file and all the images and everything like that, but
 that\'s kind of a pain.
 
-![](./2-17/media/image246.png){width="5.0in"
+![](./images/image246.png){width="5.0in"
 height="2.8226498250218723in"}
 
 Let\'s make this site go live on my GitHub Pages account. First, go back
@@ -5234,7 +5234,7 @@ here and meet up with us. But other than that, I\'m going to make my
 first live account. Once again, I\'m going to go up and do a plus for a
 new repository. Basically, consider a new folder full of code.
 
-![](./2-17/media/image247.png){width="5.0in"
+![](./images/image247.png){width="5.0in"
 height="2.8226498250218723in"}
 
 Last time I needed to be very careful with my repository name, not this
@@ -5245,7 +5245,7 @@ dash, but no special characters.
 I\'m going to click on, \"Initialize this repository with a README,\"
 and I click on that, then \"Create repository.\"
 
-![](./2-17/media/image248.png){width="5.0in"
+![](./images/image248.png){width="5.0in"
 height="2.8226498250218723in"}
 
 GitHub right now is creating a new site for me to upload my code. Now,
@@ -5254,7 +5254,7 @@ doing a lot of things from command lines and they have to memorize a lot
 of stuff. We\'re not doing that. We\'re just using GitHub Pages to host
 our code.
 
-![](./2-17/media/image249.png){width="5.0in"
+![](./images/image249.png){width="5.0in"
 height="2.8226498250218723in"}
 
 Next, let\'s click on \"Upload files.\" Now, here\'s a tricky part, if I
@@ -5264,14 +5264,14 @@ won\'t let me upload entire folders. See if I click on CSS and I click
 on open, it\'s like, \"Oh, is this the file you want?\", I don\'t want
 this, I want everything, not just files. So, I clicked on \"Add\".
 
-![](./2-17/media/image250.png){width="5.0in"
+![](./images/image250.png){width="5.0in"
 height="2.8226498250218723in"}
 
 What I\'m going to do is go over here, and I\'m just going to go back
 up, one, and I\'m going to drag this whole folder, and this is going to
 let me upload as many files as I want.
 
-![](./2-17/media/image251.png){width="5.0in"
+![](./images/image251.png){width="5.0in"
 height="2.8226498250218723in"}
 
 The next mistake I make all the time is that I forget to go all the way
@@ -5280,7 +5280,7 @@ out of two steps required to make your site go live. The first step is
 just to upload your files. Again, this may take a few minutes to
 complete.
 
-![](./2-17/media/image252.png){width="5.0in"
+![](./images/image252.png){width="5.0in"
 height="2.8226498250218723in"}
 
 While that\'s going on, I\'m going to go up, and I\'m going to click on
@@ -5291,7 +5291,7 @@ looking for a site that says, \"GitHub pages.\" Go to none and choose
 \"master branch\" and \"save.\" Alright. You never really know if it
 worked or not.
 
-![](./2-17/media/image253.png){width="5.0in"
+![](./images/image253.png){width="5.0in"
 height="2.822115048118985in"}
 
 I\'m going to go back down to GitHub pages, it will now tell me, \"Hey,
@@ -5302,7 +5302,7 @@ and say, \"Okay. What was the name of that folder I dragged up? Oh it
 was sampler, and what was the name of my file?\" Hopefully, it was
 **index.html** and it is, great.
 
-![](./2-17/media/image254.png){width="5.0in"
+![](./images/image254.png){width="5.0in"
 height="2.822115048118985in"}
 
 Now, I\'m going to hit enter and there\'s my site. Alright. The two
@@ -5313,7 +5313,7 @@ with you real quick though. I\'m going to go back to my GitHub account
 and I\'m going to do this one more time but slightly different. I want
 to go to github.com.
 
-![](./2-17/media/image255.png){width="5.0in"
+![](./images/image255.png){width="5.0in"
 height="2.822115048118985in"}
 
 I\'m going to make one more repository. I\'m going to call this one,
@@ -5325,7 +5325,7 @@ right up to the README link on the page, and you click on it and it
 creates the README. Just so you know, commit new file is the equivalent
 of save files for what we do in our desktop. Now, I can upload files.
 
-![](./2-17/media/image256.png){width="5.0in"
+![](./images/image256.png){width="5.0in"
 height="2.822115048118985in"}
 
 I\'m going to do it one more time to show you another easier way. I\'m
@@ -5351,14 +5351,14 @@ incredible work.
 
 # 3.05 Sharing Your Page from Replit (3:06) {#sharing-your-page-from-replit-306 .unnumbered}
 
-![](./2-17/media/image257.png){width="4.0in"
+![](./images/image257.png){width="4.0in"
 height="2.2427351268591424in"}
 
 As we reach the end of this course, it\'s going to be time for you to
 make your final project and share the things that you\'ve learned with
 your fellow peers.
 
-![](./2-17/media/image258.png){width="5.0in"
+![](./images/image258.png){width="5.0in"
 height="2.822115048118985in"}
 
 What I have here is an earlier, long ago example that we made with my
@@ -5367,7 +5367,7 @@ left-hand side, we have the code as I\'m creating it. On the right-hand
 side, we get to see this live version of the page, including the **URL**
 that you can share with somebody if you want them to see the page.
 
-![](./2-17/media/image259.png){width="4.0in"
+![](./images/image259.png){width="4.0in"
 height="2.2576924759405075in"}
 
 What I\'m going to do is copy this URL and open up a new what\'s called
@@ -5376,7 +5376,7 @@ doesn\'t know who I am, all right? I\'m not logged in and I\'m going to
 copy and paste that **URL**. This is great that **Replit** doesn\'t know
 who I am. It could be me, could be my grandma, could be my third cousin.
 
-![](./2-17/media/image260.png){width="5.0in"
+![](./images/image260.png){width="5.0in"
 height="2.822115048118985in"}
 
 If I wanted to see the code that created this page, technically I could
@@ -5384,7 +5384,7 @@ do a right-click and I could do \"View Page Source,\" and then I could
 see the code that made up this page. But **Replit** actually does it one
 better.
 
-![](./2-17/media/image261.png){width="5.0in"
+![](./images/image261.png){width="5.0in"
 height="2.822115048118985in"}
 
 When you go and submit your code for grading, instead of submitting the
@@ -5435,13 +5435,13 @@ host it so that other people can see what you have created.
     email
 
 ![The Create a Replit account
-screen.](./2-17/media/image262.png){width="4.0in"
+screen.](./images/image262.png){width="4.0in"
 height="1.6423075240594927in"}
 
 ### 3.05 Creating a repl {#creating-a-repl-1 .unnumbered}
 
 ![The + Create button under the heading My
-Repls.](./2-17/media/image88.png){width="4.0in"
+Repls.](./images/image088.png){width="4.0in"
 height="1.7692311898512685in"}
 
 1.  If you search the page you should find a heading titled: My Repls.
@@ -5460,7 +5460,7 @@ height="1.7692311898512685in"}
 3.  Click \[+ Create Repl\]
 
 ![Information to fill in on the create a repl screen: template, title,
-and public.](./2-17/media/image89.png){width="4.0in"
+and public.](./images/image089.png){width="4.0in"
 height="2.308546587926509in"}
 
 ### Congrats!  {#congrats-1 .unnumbered}
@@ -5470,7 +5470,7 @@ out what the different parts of the **IDE** are. But for now the
 important thing is that you should be able to find three things: the
 Files section, the Coding Environment, and the View window.
 
-![The files section](./2-17/media/image263.png){width="2.0in"
+![The files section](./images/image263.png){width="2.0in"
 height="1.562179571303587in"}
 
 ### 3.05 File Section {#file-section-1 .unnumbered}
@@ -5493,7 +5493,7 @@ is where you can:
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
-![A code editor](./2-17/media/image264.png){width="4.0in"
+![A code editor](./images/image264.png){width="4.0in"
 height="2.3675218722659666in"}
 
 ### 3.05 View Window {#view-window-1 .unnumbered}
@@ -5508,7 +5508,7 @@ This is also where you can find the **URL** to share your site - it will
 be a combination of your username and the project name you chose when
 you created your repl.
 
-![The view window](./2-17/media/image265.png){width="3.0in"
+![The view window](./images/image265.png){width="3.0in"
 height="2.9291666666666667in"}
 
 ### 3.05 More information {#more-information-1 .unnumbered}
@@ -5585,14 +5585,14 @@ there. And don\'t forget to reach out for help if you need it.
 
 # 3.06 Final Project Demo (5:48) {#final-project-demo-548 .unnumbered}
 
-![](./2-17/media/image266.png){width="4.0in"
+![](./images/image266.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everyone. Welcome to the Final Project. One of the things I\'ve
 learned as a teacher is that it is so important for students to take
 that time and create something on their own.
 
-![](./2-17/media/image267.png){width="4.0in"
+![](./images/image267.png){width="4.0in"
 height="2.2576924759405075in"}
 
 Today I\'m going to do a demo of what we would like you to do for the
@@ -5604,7 +5604,7 @@ you having that chance to do something unique. While I say that, there
 are some requirements that we\'re going to have just to help you do some
 grading.
 
-![](./2-17/media/image268.png){width="4.0in"
+![](./images/image268.png){width="4.0in"
 height="2.2576924759405075in"}
 
 Those requirements, of course, include creating a full page, and I want
@@ -5632,7 +5632,7 @@ I\'ve come up with three examples, and I\'m really hoping that these
 will inspire you to make something unique or even inspire you to say,
 mine is not going to look like that at all.
 
-![](./2-17/media/image269.png){width="5.0in"
+![](./images/image269.png){width="5.0in"
 height="2.822115048118985in"}
 
 Example one is, of course, the University of Michigan. Go blue! You can
@@ -5642,9 +5642,9 @@ can see as we go through. I have an unordered list with some of our
 famous alumni. We also have an ordered list of the different
 universities rankings.
 
-![](./2-17/media/image270.png){width="3.5in"
+![](./images/image270.png){width="3.5in"
 height="1.9754800962379702in"}
-![](./2-17/media/image271.png){width="3.5in"
+![](./images/image271.png){width="3.5in"
 height="1.9754811898512685in"}
 
 Hopefully, if you can see this, as I put my mouse over it, you can see
@@ -5652,7 +5652,7 @@ that this is a link. And as I continue to go through, you can see I\'ve
 included at least three images and something down at the very bottom
 that says \"back to top.\"
 
-![](./2-17/media/image272.png){width="5.0in"
+![](./images/image272.png){width="5.0in"
 height="2.822115048118985in"}
 
 In our second example, we\'ve focused on images and on links and on list
@@ -5662,7 +5662,7 @@ by clicking on a link, which is great for accessibility. These images
 are embedded inside of a list. So you can see right here so it looks
 very different, but it still fulfills all of the requirements.
 
-![](./2-17/media/image273.png){width="5.0in"
+![](./images/image273.png){width="5.0in"
 height="2.822115048118985in"}
 
 The third example is from one of my tech loving students where they went
@@ -5680,14 +5680,14 @@ not looking for something that looks exactly like this.
 What we are looking for is your ability to go back, look at some of the
 things we\'ve done so far, and make something your own.
 
-![](./2-17/media/image274.png){width="4.0in"
+![](./images/image274.png){width="4.0in"
 height="2.2576924759405075in"}
 
 I mentioned earlier that it\'s very important to validate your site. We
 expect you to use, at a minimum, the W3 validator to check your syntax,
 and the WAVE validator from WebAIM to check for accessibility.
 
-![](./2-17/media/image275.png){width="4.0in"
+![](./images/image275.png){width="4.0in"
 height="2.2576924759405075in"}
 
 The best part about making a website is sharing your website. So if
@@ -5697,7 +5697,7 @@ something other than **Replit**, you can still utilize some of the
 lessons from this course to learn about other ways to host and share
 your site.
 
-![](./2-17/media/image276.png){width="4.0in"
+![](./images/image276.png){width="4.0in"
 height="2.2576924759405075in"}
 
 However, it\'s very important that you have a way to share your site so
@@ -5754,7 +5754,7 @@ handle the responsive aspects for you.
 
 # 3.07 Closing (3:54) {#closing-354 .unnumbered}
 
-![](./2-17/media/image277.png){width="4.0in"
+![](./images/image277.png){width="4.0in"
 height="2.2427351268591424in"}
 
 Hi everybody. I\'m not sure if I should say welcome back or goodbye.
@@ -5762,7 +5762,7 @@ Because this is the end of the class. I know that you might be a little
 bit surprised like, what that\'s it? I don\'t feel like I\'m ready to be
 a web developer yet.
 
-![](./2-17/media/image278.png){width="4.0in"
+![](./images/image278.png){width="4.0in"
 height="2.2576924759405075in"}
 
 Well I\'m here to tell you, you\'re not ready to be a web developer. But
@@ -5774,7 +5774,7 @@ areas that really interest you in particular. Whether that\'s design,
 accessibility, user experience. And it\'s very important that you have
 this basic understanding before you go onto these other ideas.
 
-![](./2-17/media/image279.png){width="4.0in"
+![](./images/image279.png){width="4.0in"
 height="2.2576924759405075in"}
 
 Let\'s think about some of the things you\'ve learned. One of the first
@@ -5784,7 +5784,7 @@ that editor to modify an existing HTML file. You can create one from
 scratch. There\'s a lot of different things that you can do using the
 editors that you\'ve now mastered.
 
-![](./2-17/media/image280.png){width="4.0in"
+![](./images/image280.png){width="4.0in"
 height="2.2576924759405075in"}
 
 You also know the different options for opening a file. I\'m not sure if
@@ -5802,7 +5802,7 @@ semantic structure that people may or may not be using in their code.
 Again, the ability to evaluate accessibility is something that we need
 more and more people to know.
 
-![](./2-17/media/image281.png){width="4.0in"
+![](./images/image281.png){width="4.0in"
 height="2.2576924759405075in"}
 
 Finally, you also, hopefully, know how to publish your site or at the
@@ -5816,7 +5816,7 @@ you\'ve learned about FTP, you\'ve learned about different browsers, and
 you\'ve learned about different types of editors. And this is all
 information you can use to expand your knowledge in other areas.
 
-![](./2-17/media/image282.png){width="4.0in"
+![](./images/image282.png){width="4.0in"
 height="2.2576924759405075in"}
 
 What should you do next? If you\'ve found this course interesting, what
