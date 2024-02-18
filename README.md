@@ -5648,7 +5648,7 @@ going to take that next step and that you want to go and post your work
 out on the web. Good luck.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch3-04a>3.04a Creating a GitHub Pages Account (5:29)</h2>
+<h2 id="ch3-04a">3.04a Creating a GitHub Pages Account (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 237. creating a github pages account (3.04a) (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
