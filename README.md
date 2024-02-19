@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/17/2024 4+pm"
+date last editted: "2/18/2024 4+pm"
 output: 
   markdown:
     with some style
@@ -3210,12 +3210,14 @@ It can be very frustrating at first to master folder structure. However,
 understanding folder structures will help you, even if you never code
 again.
 
-<h2 id="ch2-04">2.04. Template Page in Visual Studio Code (8:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 130.  (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 id="ch2-04">2.04 Template Page in Visual Studio Code (8:13)</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 130. template page in visual studio code (2.04) (91) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.png" 
-  alt="." 
+  title="2.04 Template Page in Visual Studio Code"
+  alt="2.04 Template Page in Visual Studio Code."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3395,12 +3397,12 @@ to see that it&apos;s really important to go slowly, save often, check
 often, and make sure that you&apos;re writing code that you can be proud of
 that&apos;s accessible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h2 id="ch2-05">2.05. Template Page in Replit (8:04)</h2>
+<h2 id="ch2-05">2.05 Template Page in Replit (8:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 142.  (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 142. template page in replit (2.05) (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image142.png" 
-  alt="." 
+  alt="2.05 Template Page in Replit." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 Earlier, we made a very simple web page using **Replit**, but now let&apos;s
@@ -3695,7 +3697,8 @@ that does and then using the app to link to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. images (2.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image155.png" 
-  alt="2.06 Images." 
+  title="2.06 Images"
+  alt="2.06 Images."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4582,11 +4585,11 @@ everything on your page (until the next tag) into a big underlined link.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-09">2.09 Useful Tags (11:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. useful tags (2.09) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image194.png" 
-  title=""
-  alt="."
+  title="2.09 Useful Tags"
+  alt="2.09 Useful Tags."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6012,11 +6015,11 @@ make your final project and share the things that you&apos;ve learned with
 your fellow peers.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 258.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 258. replit example, movies of the 80's (175) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image258.png" 
-  title=""
-  alt="."
+  title="Replit Example, Movies of the 80's"
+  alt="Replit Example, Movies of the 80's."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6027,11 +6030,11 @@ side, we get to see this live version of the page, including the **URL**
 that you can share with somebody if you want them to see the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259. url of replit example (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image259.png" 
-  title=""
-  alt="."
+  title="URL of Replit Example"
+  alt="URL of Replit Example."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6042,11 +6045,11 @@ copy and paste that **URL**. This is great that **Replit** doesn&apos;t know
 who I am. It could be me, could be my grandma, could be my third cousin.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 260.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 260. right-click, view page source (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image260.png" 
-  title=""
-  alt="."
+  title="Right-click, view page source"
+  alt="Right-click, view page source."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6056,15 +6059,15 @@ see the code that made up this page. But **Replit** actually does it one
 better.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. replit example (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image261.png" 
-  title=""
-  alt="."
+  title="Replit Example"
+  alt="Replit Example."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-When you go and submit your code for grading, instead of submitting the
+When you submit your code for grading, instead of submitting the
 link to what we call the &apos;"deployed page,&apos;" let&apos;s go back to
 **Replit**. And instead of sharing this link right here, I&apos;m going to
 share the link that starts with &apos;"**replit.com**,&apos;" alright? So instead
@@ -6112,21 +6115,21 @@ host it so that other people can see what you have created.
     email
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 262.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. create a replit account (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image262.png" 
-  title=""
-  alt="The Create a Replit account screen."
+  title="Create a Replit account screen"
+  alt="Create a Replit account screen."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
 ### 3.05 Creating a repl
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 088.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88. my repls (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image088.png" 
-  title=""
+  title="The + button under the heading 'My Repls'"
   alt="The + button under the heading 'My Repls'."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -6147,7 +6150,7 @@ host it so that other people can see what you have created.
 3.  Click &apos;[+ Create Repl&apos;]
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~ 089. info to fill in on the create repl screen; template, title & public (xx) ~~~~~~~-->
+<!--~~~~~~ 089. info to fill in on the create repl screen; template, title & public (178) ~~~~~~-->
 <p align="center">
   <img src="./images/image089.png" 
   title="Information to fill in on the create a repl screen; template, title and public"
@@ -6163,7 +6166,7 @@ important thing is that you should be able to find three things: the
 Files section, the Coding Environment, and the View window.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. the files section (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. the files section (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image263.png" 
   title="The files section"
@@ -6192,11 +6195,11 @@ The coding environment is located in the middle of the screen and is
 where you can edit your code. 
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. coding environment (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image264.png" 
-  title=""
-  alt="."
+  title="Coding Environment"
+  alt="Coding Environment."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6212,10 +6215,10 @@ This is also where you can find the **URL** to share your site - it will
 be a combination of your username and the project name you chose when
 you created your repl.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. the view windows (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. the view windows (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image265.png" 
-  title=""
+  title="The view window"
   alt="The view window."
   style="border: 2px solid #000000; width:30%" />
 </p>
@@ -6295,7 +6298,7 @@ there. And don&apos;t forget to reach out for help if you need it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-06">3.06 Final Project Demo (5:48)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. final project demo (3.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. final project demo (3.06) (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image266.png" 
   title="3.06 Final Project Demo"
@@ -6308,11 +6311,11 @@ learned as a teacher is that it is so important for students to take
 that time and create something on their own.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. final project (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image267.png" 
-  title=""
-  alt="The Create a Replit account screen."
+  title="Final Project"
+  alt="Final Project."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6326,11 +6329,11 @@ are some requirements that we&apos;re going to have just to help you do some
 grading.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 268.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 268. requirements, final project (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image268.png" 
-  title=""
-  alt="The Create a Replit account screen."
+  title="Requirements, Final Project"
+  alt="Requirements, Final Project."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6360,11 +6363,11 @@ will inspire you to make something unique or even inspire you to say,
 mine is not going to look like that at all.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 269.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. final project, demo one (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image269.png" 
-  title=""
-  alt="The Create a Replit account screen."
+  title="Final Project, Demo One"
+  alt="Final Project, Demo One."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6376,15 +6379,16 @@ famous alumni. We also have an ordered list of the different
 universities rankings.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 270/271.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 270/271. final project, demo one sample screens (184) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image270.png" 
-  title=""
-  alt="."
+  title="Final Project, Demo Sample One, Quick Facts/Gallery"
+  alt="Final Project, Demo Sample One, Quick Facts/Gallery."
   style="border: 2px solid #000000; width:45%" />
 <img src="./images/image271.png" 
   title=""
-  alt="."
+  title="Final Project, Demo Sample One, Quick Facts/Gallery - Back to Top"
+  alt="Final Project, Demo Sample One, Quick Facts/Gallery - Back to Top."
   style="border: 2px solid #000000; width:45%" />
 </p>
 
@@ -6394,11 +6398,11 @@ included at least three images and something down at the very bottom
 that says &apos;"back to top.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 272.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. final project, demo two (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image272.png" 
-  title=""
-  alt="The Create a Replit account screen."
+  title="Final Project, Demo Sample Two"
+  alt="Final Project, Demo Sample Two."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6410,11 +6414,11 @@ are embedded inside of a list. So you can see right here so it looks
 very different, but it still fulfills all of the requirements.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 273.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 273. final project, demo three (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image273.png" 
-  title=""
-  alt="."
+  title="Final Project, Demo Sample Three"
+  alt="Final Project, Demo Sample Three."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6434,11 +6438,11 @@ What we are looking for is your ability to go back, look at some of the
 things we&apos;ve done so far, and make something your own.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. validate your site (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image274.png" 
-  title=""
-  alt="."
+  title="Validate Your Site"
+  alt="Validate Your Site."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6447,11 +6451,11 @@ expect you to use, at a minimum, the W3 validator to check your syntax,
 and the WAVE validator from WebAIM to check for accessibility.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. share your site (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image275.png" 
-  title=""
-  alt="."
+  title="Share Your Site"
+  alt="Share Your Site."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6463,11 +6467,11 @@ lessons from this course to learn about other ways to host and share
 your site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 276.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 276. peer reviews (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image276.png" 
-  title=""
-  alt="."
+  title="Peer Reviews"
+  alt="Peer Reviews."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6526,7 +6530,7 @@ handle the responsive aspects for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-07">3.07 Closing (3:54)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. closing (3.07) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. closing (3.07) (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image277.png" 
   title="3.07 Closing"
@@ -6651,5 +6655,5 @@ lecture, I want to show you ways that you can style your page in very
 simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
-the end...2/17/2024 last updated &/or reviewed.
+the end...2/18/2024 last updated &/or reviewed.
 
