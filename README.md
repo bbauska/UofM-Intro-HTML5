@@ -3467,15 +3467,15 @@ today you&apos;re going to focus on the displayable content, adding in
 paragraphs or lists, eventually we&apos;ll be adding images.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 145/146.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 145/146. open replit; create, test, share & validate (100) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img src="./images/image145.png" 
-  title=""
-  alt="."
+<img src="./images/image145.png"
+  title="Open Replit; Create, Test, Share & Validate"
+  alt="Open Replit, Create, Test, Share & Validate."
   style="border: 2px solid #000000; width:45%" />
 <img src="./images/image146.png" 
-  title=""
-  alt="."
+  title="Create a Repl in Replit"
+  alt="Create a Repl in Replit."
   style="border: 2px solid #000000; width:45%" />
 </p>
 
@@ -3488,11 +3488,11 @@ right here. So, I&apos;ve got it&apos;s an HTML, CSS, JavaScript file, I&apos;ve
 named it &apos;"**index.html**&apos;" and now I&apos;m going to click on &apos;"Create.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 147.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. validate replit template (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image147.png" 
-  title=""
-  alt="."
+  title="Validate Replit Template"
+  alt="Validate Replit Template."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3527,15 +3527,15 @@ works right here. Your other option, just so you know if it doesn&apos;t
 work for you, is to copy and paste this link right here, all right?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 148/149.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 148/149. test, wave accessiblity (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image148.png" 
-  title=""
-  alt="."
+  title="Test, WAVE Accessibility"
+  alt="Test, WAVE Accessibility."
   style="border: 2px solid #000000; width:45%" />
 <img src="./images/image149.png" 
-  title=""
-  alt="."
+  title="Review WAVE output"
+  alt="Review WAVE output."
   style="border: 2px solid #000000; width:45%" />
 </p>
 
@@ -3547,10 +3547,11 @@ language is, all right, so let&apos;s go ahead and go back, and I&apos;m going
 to put &apos;"language=es.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 150.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. initialized replit (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image150.png" 
-  alt="." 
+  title="Initialized Replit"
+  alt="Initialized Replit."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3560,10 +3561,11 @@ gone, all right? This was a lot of work just to get us started, we
 haven&apos;t even made anything ourselves yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 151.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 151. add body with h1 to index.html (103) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image151.png" 
-  alt="." 
+  <img src="./images/image151.png"
+  title="Add body and h1 to index.html"
+  alt="Add body and h1 to index.html."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3585,10 +3587,11 @@ the good old &apos;"Goonies,&apos;" all right? Style number two, I will do &apos
 to the Future,&apos;" and we&apos;ll just do those two for right now.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 152.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 152. add unordered list with 2 list items (104) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image152.png" 
-  alt="." 
+  <img src="./images/image152.png"
+  title="Add ul - unordered list with two li's (list items)"
+  alt="Add ul - unordered list with two li's (list items)."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3598,10 +3601,11 @@ going to go ahead and add a footer, because we said it&apos;s good to add a
 footer to your page, and I&apos;ll put in &apos;"Copyright Colleen.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 153.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. add copyright to footer (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image153.png" 
-  alt="." 
+  title="Add copyright to footer"
+  alt="Add copyright to footer." 
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3609,10 +3613,11 @@ When I save that, you can see it added a little &apos;"Copyright Colleen&apos;"
 right here off to the side, everything looks great.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 154.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 154. validate using validator.w3.org (105) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image154.png" 
-  alt="." 
+  <img src="./images/image154.png"
+  title="Validate website using validator.w3.org"
+  alt="Validate website using validator.w3.org."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -3716,7 +3721,7 @@ that does and then using the app to link to it.
 
 <h2 id="ch2-06">2.06 Images (9:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. images (2.06) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. images (2.06) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image155.png" 
   title="2.06 Images"
@@ -3732,10 +3737,11 @@ way. Not just by writing good, accessible, clean code, but also making
 sure your images look the way that you want them to look.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 156.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 156. images - its more than the tag (108) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image156.png" 
-  alt="." 
+  <img src="./images/image156.png"
+  title="Images - its more than the tag"
+  alt="Images - its more than the tag."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3759,10 +3765,11 @@ so if those images are broken, if they don&apos;t belong to you, if they&apos;re
 behind a paywall, it can all mess up your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 157.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. image sizes (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image157.png" 
-  alt="." 
+  title="Images Sizes"
+  alt="Images Sizes."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3776,10 +3783,11 @@ barely see it. The quick solution for that is you can either change the
 file or we can use something called width and height attributes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 158.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. using an editor (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image158.png" 
-  alt="." 
+  title="Using an Editor"
+  alt="Using an Editor."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3793,10 +3801,11 @@ it up and adjust the size to how you would like it to fit not only the
 size, but you can also crop it to different dimensions.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 159.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. using attributes (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image159.png" 
-  alt="." 
+  title="Using Attributes"
+  alt="Using Attributes."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3811,10 +3820,11 @@ your page is loaded, it&apos;ll keep the pictures from flashing and
 flickering as they adjust to different sizes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 160.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 160. example, figure - default image size (110) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image160.png" 
-  alt="." 
+  title="Example, figure, img src, figcaption - default image size"
+  alt="Example, figure, img src, figcaption - default image size."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3830,10 +3840,11 @@ visual description of my house, but that doesn&apos;t fit on a slide very
 well. You&apos;ll have to forgive me on this one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 161.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 161. example, using width in pixels (110) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image161.png" 
-  alt="." 
+  title="Example, using width in pixels"
+  alt="Example, using width in pixels."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3851,10 +3862,11 @@ What looks good on one screen may not look good on another. 500 pixels
 may be too big for my phone and too small for my giant screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 162.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 162. example, using width and height (111) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image162.png" 
-  alt="." 
+  <img src="./images/image162.png"
+  title="Example, using width and height"
+  alt="Example, using width and height."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3863,10 +3875,11 @@ size. But that&apos;s often going to skew our image size, right? It&apos;s just
 not going to look good.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 163.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 163. example, using percentages (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image163.png" 
-  alt="." 
+  <img src="./images/image163.png"
+  title="Example, using percentages"
+  alt="Example, using percentages."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
