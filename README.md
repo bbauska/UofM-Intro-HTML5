@@ -2535,10 +2535,11 @@ surprisingly because I knew I was going to be taping this, it
 successfully checked. Don&apos;t worry about warnings. Warnings are usually
 in to cover themselves.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 103.  (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. validator.w3.org options (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image103.png"
-  alt="." 
+  title="validator.w3.org options"
+  alt="validator.w3.org options."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2549,10 +2550,11 @@ and I want to check it. I want to point out to you that I went in and I
 changed the file and I put in an intentional typo. I spelled the closing
 tag for title incorrectly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 104.  (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 104. validate by direct input & click 'check' (71) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image104.png"
-  alt="." 
+  title="Validate by direct input, then click 'check'"
+  alt="Validate by direct input, then click 'check'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2571,10 +2573,11 @@ reason that happened is let&apos;s check out error number 2, it tells us,
 &quot;Oh you forgot to close the title tag.&quot; So sometimes one error can
 cause a lot of error messages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 105.  (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 105. check again, no errors or warnings (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image105.png"
-  alt="." 
+  title="Check again, no errors or warnings"
+  alt="Check again, no errors or warnings."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2582,11 +2585,12 @@ I&apos;m going to go back over to my code, I&apos;m going to fix it and put that
 title in and save it. Copy it again, put it in and I&apos;m going to check
 again. This time, checking complete, no errors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 106.  (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. review the 'dom' (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image106.png"
-  alt="." 
-  style="border: 2px solid #000000; width:30%" />
+  title="Review the 'Document Object Model' (DOM)"
+  alt="Review the 'Document Object Model' (DOM)."
+  style="border: 2px solid #000000; width:40%" />
 </p>
 
 Just to review, you really want to follow <b>DOM</b> structure if you want
@@ -2886,21 +2890,18 @@ Style is an attribute that used to be very widely used. Style lets you apply
 visual style. So you can put in special colors or spacing and things
 like that. 
 
-The next one is called accesskey, and an accesskey is very
-important for accessibility. It allows a shortcut key to kind of
-activate, or put into focus, an element. So, maybe you have a big page
-and you have a form or something on it, and you want someone to be able
-to quickly get to a certain part of your page. You can give them an
-accesskey. 
+<div class="accesskey"><p>
+The next one is called <b>accesskey</b>, and an <b>accesskey</b> is very important 
+for accessibility. It allows a shortcut key to activate, or put into focus, an element. 
+Maybe you have a big page and you have a form on it, and you want someone to be able to 
+quickly get to a certain part of your page. You can give them an <b>accesskey</b>.</p></div>
 
-In the same way, some people may be accessing your page and
-only using the tab button to navigate through your page. If you do that,
-you&apos;re gonna wanna be careful about putting what&apos;s called a tabindex,
-and it lets you actually specify which order people get to different
-elements in your page. So even though something may come later in the
-page, if you feel it&apos;s really important you can put a high tabindex and
-them get there quickly. 
-
+<div class="tabindex"><p>In the same way, some people may be accessing your page and only 
+using the tab button to navigate through your page. If you do that, you&apos;re gonna wanna 
+be careful about putting what&apos;s called a tabindex, and it lets you actually specify 
+which order people get to different elements in your page. So even though something may 
+come later in the page, if you feel it&apos;s really important you can put a high tabindex 
+and they get there quicker.</p></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. special entities (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -2997,7 +2998,7 @@ Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-03">2.03 Semantic Tags (6:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. semantic tags (2.03) (84) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. semantic tags (2.03) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image120.png" 
   title="2.03 Semantic Tags"
@@ -3010,7 +3011,7 @@ HTML5 tags that I like to refer to as the semantic tags. This is going
 to continue our conversation about how we&apos;re trying to make our
 webpages the most accessible as possible to as many people. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. how to design (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. how to design (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image121.png" 
   title="How to Design"
@@ -3029,10 +3030,11 @@ create before you can begin coding in earnest.
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 122.  (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. how to design semantically (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image122.png" 
-  alt="." 
+  title="How to Design Semantically"
+  alt="How to Design Semantically."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3041,10 +3043,11 @@ shows that I would like to have a header section, a footer section, and a few ot
 sections embedded in between the two of them. Once I know that that&apos;s
 the kind of design I want, I can begin coding. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 123.  (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 123. using semantic tags - old div (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image123.png" 
-  alt="." 
+  title="Using Semantic Tags - old 'div'"
+  alt="Using Semantic Tags - old 'div'."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3057,10 +3060,11 @@ one div might have the class of header, another the section, another the
 footer. This way, you could back to your design and really break it up
 in a way that worked best for you. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 124.  (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. example, header tag (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image124.png"
-  alt="." 
+  title="Example, header tag"
+  alt="Example, header tag."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3083,10 +3087,11 @@ tags. This is going to happen to you a lot. Just remember that the
 <b>&lt;head&gt;</b> tag is for metadata, and the <b>&lt;header&gt;</b> tag is
 more of just an aid. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 125.  (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 125. example, nav tag (navigation) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image125.png" 
-  alt="." 
+  title="Example, the navigation tag (nav)"
+  alt="Example, the navigation tag (nav)."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3102,10 +3107,11 @@ whether or not your <b>&lt;nav&gt;</b> tags should be using lists, but the impor
 is to include the <b>&lt;nav&gt;</b> tag to help people navigate through your page. 
 Oftentimes, you&apos;ll find the <b>&lt;nav&gt;</b> tag embedded inside the <b>&lt;header&gt;</b> tag. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 126.  (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. example, footer tag (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image126.png" 
-  alt="." 
+  title="Example, footer tag"
+  alt="Example, footer tag."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3122,10 +3128,11 @@ to make the copyright symbol, and then my name with a line break. And
 then I&apos;ve also included a link back to my main site. Some of our other
 semantic tags have a little bit more oomph to them. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 127.  (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. example, figure tag (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image127.png" 
-  alt="." 
+  title="Example, figure tag"
+  alt="Example, figure tag."
   style="border: 2px solid #000000; width:40%" />
 </p>
 For instance, one of the new tags is the <b>&lt;figure&gt;</b> tag, and it has a lot more
@@ -3134,16 +3141,20 @@ can include additional information. So you can include an image, you can
 include multimedia, you can include a combination of all of them. But it
 also has some additional tags such as the figcaption. So what this is
 going to do is somebody who, it provides additional information for
-somebody who may not be able to see it. So the picture normally just
-floats by itself when its in an image tag, this lets you say, this text
-goes specifically with this image. Now again, we do have the
-<b>&lt;alt&gt;</b> tag, which helps describe the picture, but you have to
-remember, most of us will never see that. 
+somebody who may not be able to see it. So the picture normally floats by itself 
+when its in an image tag, this lets you say, this text goes specifically with 
+this image. Now again, we do have the <b>&lt;alt&gt;</b> tag, which helps describe 
+the picture, but you have to remember, most of us will never see that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 128.  (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. other new tags (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image128.png" 
-  alt="." 
+  title="Other New Tags; article, aside, main, menuitem, summary, section, datalist,
+    keygen, output, color, date, eail, list, canvas, svg, audio, embed, source, 
+	track &amp; video"
+  alt="Other New Tags; article, aside, main, menuitem, summary, section, datalist,
+    keygen, output, color, date, eail, list, canvas, svg, audio, embed, source, 
+	track &amp; video."
   style="border: 2px solid #000000; width:40%" />
 </p>
 There are a number of other new tags in HTML5, and it&apos;s not really possible for me to go over all
@@ -3179,7 +3190,7 @@ The most common organization is to have one main folder with your html
 files in it. There are also subfolders (folders inside the main folder)
 for your image files. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 129.  (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 129. folder/subfolder code placement (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image129.png" 
   alt="Folder with list of documents nested within." 
@@ -3213,7 +3224,7 @@ again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-04">2.04 Template Page in Visual Studio Code (8:13)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~ 130. template page in visual studio code (2.04) (91) ~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 130. template page in visual studio code (2.04) (92) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image130.png" 
   title="2.04 Template Page in Visual Studio Code"
@@ -3225,10 +3236,11 @@ Earlier, I showed you how you can open the Visual Studio Code editor.
 Let&apos;s go ahead and go back and actually create something real that has
 been using the tags that we&apos;ve been talking about. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 131.  (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 131. minimum requirements; lab assignment (93) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image131.png" 
-  alt="." 
+  title="Minimum requirements; lab assignment"
+  alt="Minimum requirements; lab assignment."
   style="border: 2px solid #000000; width:40%" />
 </p>
 The minimum requirements that I&apos;m going to want you to have is one, create a real
@@ -3241,24 +3253,26 @@ always, want you to make sure that your page validates. Go in to the W3
 validator and/or the WAVE validator to take a look and see what&apos;s going
 on. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 132.  (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~ 132. start with a shell; doctype, meta-data & displayable content (93) ~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image132.png" 
-  alt="." 
+  title="Start with a Shell; Doctype, meta-data &amp; displayable content"
+  alt="Start with a Shell; Doctype, meta-data &amp; displayable content."
   style="border: 2px solid #000000; width:40%" />
 </p>
 Make sure to start with the shell. The shell includes your doctype,
-any metadata, that&apos;s the head section, as well as your displayable
+any meta-data, that&apos;s the head section, as well as your displayable
 content. In the past, it was up to you to remember how to put that all
 in. But thanks to Visual Studio Code and Replit, this will all be
 built-in to the shell when you open up your editor. I&apos;m going to give
 you some examples, but I really encourage you to take what I&apos;m about to
 do and make it your own. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 133.  (92) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. create new file; index.html (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image133.png" 
-  alt="." 
+  <img src="./images/image133.png"
+  title="Create new file; index.html"
+  alt="Create new file; index.html."
   style="border: 2px solid #000000; width:40%" />
 </p>
 The first step is to create a new file. I&apos;m
@@ -3267,10 +3281,11 @@ then we&apos;ve got it. Step 2 is show off those super programming skills.
 Makes you feel like you&apos;re in some sort of movie where they&apos;re typing
 a little bit and amazing things are happening. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 134.  (93) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 134. exclamation + tab to load shell (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image134.png" 
-  alt="." 
+  title="Enter Exclamation &amp; tab to automatically load shell program"
+  alt="Enter Exclamation &amp; tab to automatically load shell program."
   style="border: 2px solid #000000; width:50%" />
 </p>
 I&apos;m going to type the
@@ -3305,10 +3320,11 @@ trying to remember. They also had really good chicken nuggets. You can
 see, I had very sophisticated taste in food. I have done a lot of typing
 so far. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 135.  (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. control-s to save document (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image135.png" 
-  alt="." 
+  title="Control-S to save document"
+  alt="Control-S to save document."
   style="border: 2px solid #000000; width:50%" />
 </p>
 One of the things I want to remind everybody is never do this
@@ -3319,10 +3335,11 @@ see if people remember. I can see my code. How can I also see my
 deployed page? One option is to go in and find &quot;index.html&quot; on your
 folder and open it up. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 136.  (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 136. bottom right click 'go live' (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image136.png" 
-  alt="." 
+  title="Bottom right, click 'go live'"
+  alt="Bottom right, click 'go live'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 But instead, I&apos;m going to click on &quot;Go Live.&quot;
@@ -3331,10 +3348,11 @@ make it a little bit bigger so you can see everything. I also wanted to
 have a footer, so let&apos;s add a footer in here. My footer is going to be
 &quot;Copyright Colleen van Lent.&quot; 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137.  (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. website with footer added (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image137.png" 
-  alt="." 
+  title="Add footer and copyright to website"
+  alt="Add footer and copyright to website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 I&apos;m going to save my page, and you can
@@ -3356,36 +3374,39 @@ footer, I called it a foote. Let&apos;s go ahead and fix that up. And so now
 that looks better. Let&apos;s go back and save it. I can just do live server
 again, and it looks better.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 138.  (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 138. run wave accessibility checker (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image138.png" 
-  alt="." 
+  title="Run WAVE accessiblity checker on website"
+  alt="Run WAVE accessiblity checker on website."
   style="border: 2px solid #000000; width:50%" />
 </p>
-So, let&apos;s do another check. Let&apos;s take
-this site and we would like to go to the WAVE accessibility checker and
-check this site as well. But again, we have a problem that it wants to
-know what the URL of our code is and we don&apos;t have a URL because we&apos;re
-using Visual Studio Code. So you do have a few options. One is that you
-can click on &quot;Browser Extensions.&quot; I&apos;m going to add this to my page.
+Let&apos;s do another check. Let&apos;s take this site and we would like to go to the WAVE 
+accessibility checker and check this site as well. But again, we have a problem that it 
+wants to know what the URL of our code is and we don&apos;t have a URL because we&apos;re
+using Visual Studio Code. So you do have a few options. One is that you can click on 
+&quot;Browser Extensions.&quot; I&apos;m going to add this to my page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 139/140.  (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 139/140. add wave to chrome extension then 'wave this page' (98) ~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image139.png" 
-  alt="." 
+  title="Add WAVE as a Chrome extension"
+  alt="Add WAVE as a Chrome extension."
   style="border: 2px solid #000000; width:45%" />
 <img src="./images/image140.png" 
-  alt="." 
+  title="WAVE your website page"
+  alt="WAVE your website page."
   style="border: 2px solid #000000; width:45%" />
 </p>
 I&apos;m going to take a quick look and see if this will go for me. I&apos;m
 going to go back to my page, I&apos;m going to refresh just in case, I&apos;m
 going to right-click, and you can see it says &quot;WAVE this page.&quot; 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 141.  (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. test, wave this page (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image141.png" 
-  alt="." 
+  title="Test, WAVE this page"
+  alt="Test, WAVE this page."
   style="border: 2px solid #000000; width:50%" />
 </p>
 You can see it went through and it said, excellent. Boom. It went through
@@ -3399,10 +3420,11 @@ that&apos;s accessible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-05">2.05 Template Page in Replit (8:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 142. template page in replit (2.05) (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 142. template page in replit (2.05) (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image142.png" 
-  alt="2.05 Template Page in Replit." 
+  title="2.05 Template Page in Replit"
+  alt="2.05 Template Page in Replit."
   style="border: 2px solid #000000; width:40%" />
 </p>
 Earlier, we made a very simple web page using **Replit**, but now let&apos;s
@@ -3410,11 +3432,11 @@ make something that&apos;s a little bit more involved using the tags that
 you&apos;ve been learning about.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. minimum requirements; lab (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image143.png" 
-  title=""
-  alt="."
+  title="Minimum requirements, lab-header, main &amp; footer"
+  alt="Minimum requirements, lab-header, main &amp; footer."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3428,11 +3450,11 @@ mistakes that we&apos;ve made. I&apos;m going to encourage you to save as
 you&apos;re developing and keep validating the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. start with a shell (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image144.png" 
   title=""
-  alt="."
+  alt="Start with a shell."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5436,7 +5458,7 @@ the entire HTML file and put it in so it can check it line by line for
 you to see just if you&apos;ve made some little mistakes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. don't freak out! (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image229.png" 
   title=""
@@ -5458,11 +5480,12 @@ Usually your best bet is to just copy and paste that error and put it
 into the search bar, okay? You can do it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 230.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 230. wave.webaim.org accessibility validation (158) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image230.png" 
   title=""
-  alt="."
+  title="wave.webaim.org - Accessibility Validation"
+  alt="wave.webaim.org - Accessibility Validation."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5484,11 +5507,11 @@ It&apos;s really pretty exciting if you take the time to look at what people
 are using.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 231.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. review; validating sites (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image231.png" 
-  title=""
-  alt="."
+  title="Review; Validating Sites"
+  alt="Review; Validating Sites."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5511,7 +5534,7 @@ your mind and host them later.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-03">3.03 Hosting Your Site (4:19)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. hosting your site (3.03) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. hosting your site (3.03) (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image232.png" 
   title="3.03 Hosting Your Site"
@@ -5529,11 +5552,11 @@ a hosting service, and they are going to be the ones who act as the
 server for your files to let other people see them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. domain names (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. domain names (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image233.png" 
-  title="Domain names"
-  alt="Domain names."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5562,11 +5585,11 @@ the protocol is &apos;"file.&apos;" We don&apos;t want that. We don&apos;t want 
 looks like www, and that&apos;s where the hosting company comes in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. hosting (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. hosting (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image234.png" 
-  title="Hosting, from free to full-service"
-  alt="Hosting, from free to full-service."
+  title="Hosting"
+  alt="Hosting."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5578,11 +5601,11 @@ usually recommend free when you&apos;re getting started, and then make your
 way up. But let&apos;s talk about the pros and cons of each one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. free services (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. free services (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image235.png" 
-  title=""
-  alt="Free services=."
+  title="Free services"
+  alt="Free services."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5610,11 +5633,11 @@ you&apos;re going to be able to manipulate your files on any other free
 service as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 236. paid services, mid range & full (162) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. paid services (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image236.png" 
-  title="Paid Services, mid and full-range"
-  alt="Paid Services, mid and full-range."
+  title="Paid services"
+  alt="Paid services."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5654,11 +5677,11 @@ One way that you can share your webpage with everyone is by hosting it
 on GitHub.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. pick a unique username (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.png" 
-  title="Pick a unique username"
-  alt="Pick a unique username."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5672,11 +5695,11 @@ you&apos;re building your site. Go ahead and put in an email, and a
 password.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 239. click 'create an account' (bottom left) (164) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.png" 
-  title="Click 'Create an Account' (bottom left)"
-  alt="Click 'Create an Account' (bottom left)."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5686,11 +5709,11 @@ going to happen is that they&apos;re going to decide what kind of plan you
 want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. select free or developer (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.png" 
-  title="Select free or developer ($7.00 per month for privacy)"
-  alt="Select free or developer ($7.00 per month for privacy)."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5709,11 +5732,11 @@ files, this is the name of the folder that we&apos;re going to put up on the
 web. It is important that you follow the rules precisely.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 241. top right, select 'new repository' (165) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.png" 
-  title="Top right, select 'New repository'"
-  alt="Top right, select 'New repository'."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5729,11 +5752,11 @@ be the same as your account name. In my case, it&apos;s
 something like &apos;"the website for web design for everyone.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~ 242. initialize this repository with a readme, create repository (166) ~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.png" 
-  title="Next, select 'initialize this repository with a README', then click 'create repository'"
-  alt="Next, select 'initialize this repository with a README', then click 'create repository'."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5750,11 +5773,11 @@ going to copy this link right here;
 going to see what happens if we go here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 243. your new website on github (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.png" 
-  title="Your new live repository on GitHub"
-  alt="Your new live repository on GitHub."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5791,28 +5814,29 @@ some images in it. I have a special file called CSS that you might not
 be familiar with yet, but that&apos;s okay.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245. my non-live website (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.png" 
-  title="My non-live website"
-  alt="My non-live website."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-But let&apos;s just see what my site looks like. Here is a little page I made about 
-me with a little bit of formatting. But if you look in the upper left corner, 
-you can see that this site is not live. The fact that it says, &apos;"file:,&apos;" 
-so forward forward forward, I can&apos;t share it with other people live. I can 
-email them my code, I could say to somebody, &apos;"Oh look, I made a web 
-page,&apos;" and then I could send them this file and all the images and everything 
-like that, but that&apos;s kind of a pain.
+But let&apos;s just see what my site looks like. Here we go, up. Here is a
+little page I made about me with a little bit of formatting. But if you
+check and look in the upper corner, you can see that this site is not
+live. The fact that it says, &apos;"file:,&apos;" so forward forward forward, I
+can&apos;t share it with other people live. I can email them my code, I
+could say to somebody, &apos;"Oh look, I made a web page,&apos;" and then I could
+send them this file and all the images and everything like that, but
+that&apos;s kind of a pain.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 246. top right, + new repository (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image246.png" 
-  title="Top right, click '+', New repository"
-  alt="Top right, click '+', New repository."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5824,11 +5848,11 @@ first live account. Once again, I&apos;m going to go up and do a plus for a
 new repository. Basically, consider a new folder full of code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~ 247. enter a repository name, initialize readme, 'create repository' (169) ~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image247.png" 
-  title="Enter a unique repository name, select initialize with a README, then click 'Create repository'"
-  alt="Enter a unique repository name, select initialize with a README, then click 'Create repository'."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5841,11 +5865,11 @@ I&apos;m going to click on, &apos;"Initialize this repository with a README,&apo
 and I click on that, then &apos;"Create repository.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 248. your website repository on github pages (169) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image248.png" 
-  title="Your website repository on GitHub pages"
-  alt="Your website repository on GitHub pages."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5856,11 +5880,11 @@ of stuff. We&apos;re not doing that. We&apos;re just using GitHub Pages to host
 our code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. click on 'upload files' (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image249.png" 
-  title="Click on 'Upload Files'"
-  alt="Click on 'Upload Files'."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5872,11 +5896,11 @@ on open, it&apos;s like, &apos;"Oh, is this the file you want?&apos;", I don&apo
 this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 250. click & drag folder(s) to github (170) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image250.png" 
-  title="Click &amp; drag folder(s) to github"
-  alt="Click &amp; drag folder(s) to github."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5885,11 +5909,11 @@ up, one, and I&apos;m going to drag this whole folder, and this is going to
 let me upload as many files as I want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 251. scroll to the bottom, commit (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.png" 
-  title="Scroll to the bottom, click commit changes"
-  alt="Scroll to the bottom, click commit changes."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5900,7 +5924,7 @@ just to upload your files. Again, this may take a few minutes to
 complete.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~ 252. github pages, source: master branch, save/commit (171) ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image252.png" 
   title=""
@@ -5917,11 +5941,11 @@ looking for a site that says, &apos;"GitHub pages.&apos;" Go to none and choose
 worked or not.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 253. your site is ready to be published (172) ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.png" 
-  title="Your site is ready to be published"
-  alt="Your site is ready to be published."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5934,11 +5958,11 @@ was sampler, and what was the name of my file?&apos;" Hopefully, it was
 **index.html** and it is, great.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~ 254. two-step github, publish website (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image254.png" 
-  title="Two-step GitHub, publish your website"
-  alt="Two-step GitHub, publish your website."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5951,29 +5975,28 @@ and I&apos;m going to do this one more time but slightly different. I want
 to go to github.com.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~ 255. scroll to & click readme.md (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image255.png" 
-  title="Scroll to &amp; click the README.md box"
-  alt="Scroll to &amp; click the README.md box."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-I&apos;m going to make one more repository. I&apos;m going to call this one,
-&apos;"sample two,&apos;" and this time, I&apos;m going to forget and I&apos;m
-**[not]{.mark}** going to click on this README. We&apos;ll click on the
-repository. Oh! Well, now there&apos;s no place for me to click on that
-upload files, and you feel kind of stuck. If you forget, just scroll
-right up to the README link on the page, and you click on it and it
-creates the README. Just so you know, commit new file is the equivalent
-of save files for what we do in our desktop. Now, I can upload files.
+I&apos;m going to make one more repository. I&apos;m going to call this one, &apos;"sample 
+two,&apos;" and this time, I&apos;m going to forget and I&apos;m **[not]** going to click 
+on this README. We&apos;ll click on the repository. Oh! Well, now there&apos;s no place 
+for me to click on that upload files, and you feel kind of stuck. If you forget, just 
+scroll right up to the README link on the page, and you click on it and it creates the 
+README. Just so you know, commit new file is the equivalent of save files for what we 
+do in our desktop. Now, I can upload files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~ 256. github pages, select source: master branch, commit (173) ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256.  (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image256.png" 
-  title="In GitHub pages, select source: Master Branch. Then commit"
-  alt="In GitHub pages, select source: Master Branch. Then commit."
+  title=""
+  alt="."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6543,11 +6566,11 @@ bit surprised like, what that&apos;s it? I don&apos;t feel like I&apos;m ready t
 a web developer yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. wait what? that it? (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. wait what? that's it? (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image278.png" 
-  title="Wait what? That it?"
-  alt="Wait what? That it?"
+  title="Wait what? That's it?"
+  alt="Wait what? That's it?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6621,11 +6644,11 @@ you&apos;ve learned about different types of editors. And this is all
 information you can use to expand your knowledge in other areas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. what next? (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. what next? (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.png" 
-  title="What Next?"
-  alt="What Next?"
+  title="What next?"
+  alt="What next?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6655,3 +6678,4 @@ simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
 the end...2/20/2024 last updated &/or reviewed.
+
