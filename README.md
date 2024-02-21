@@ -3895,10 +3895,11 @@ will get smaller. It&apos;s a nice way to make the picture fluid. We call it
 fluid measurements and to be reactive and responsive to people.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 164.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. favicons (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image164.png" 
-  alt="." 
+  title="Favicons"
+  alt="Favicons."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3914,10 +3915,11 @@ I have. This is going to be an icon. It&apos;s going to be a PNG file, and
 that PNG file is located in my images folder.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 165.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. alternative text attribute (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image165.png" 
-  alt="." 
+  <img src="./images/image165.png"
+  title="Alternative Text Attribute"
+  alt="Alternative Text Attribute."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3938,10 +3940,11 @@ promote that business, alternative text has these kind of sneaky side
 benefits as well as just being, you know, a decent human being.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 166.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. review; extension & style (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image166.png" 
-  alt="." 
+  title="Review; file extensions and style with height/width"
+  alt="Review; file extensions and style with height/width." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -3993,10 +3996,10 @@ equity, and inclusion.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-07">2.07 Accessible Images (7:43)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 167.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. accessible images (2.07) (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image167.png" 
-  alt="." 
+  alt="2.07 Accessible Images."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4008,10 +4011,11 @@ a way to describe what you were hoping to represent by including that
 image on your page?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 168.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. alternative text attribute (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image168.png" 
-  alt="." 
+  <img src="./images/image168.png"
+  title="Alternative Text Attribute"
+  alt="Alternative Text Attribute."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4035,10 +4039,11 @@ talk to you a little bit more in depth into how to create alternative
 text attributes.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 169.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. creating good alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image169.png" 
-  alt="." 
+  title="Creating Good alt text"
+  alt="Creating Good alt text."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4054,10 +4059,11 @@ I put the picture there? That&apos;s what you want to think about when
 you&apos;re creating good **alt** text.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. empty alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image170.png" 
-  alt="." 
+  title="Empty alt text"
+  alt="Empty alt text."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4070,10 +4076,11 @@ want you to know that this picture just doesn&apos;t have any important
 extra meaning.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 171.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. long alt text (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image171.png" 
-  alt="." 
+  title="Long alt Text"
+  alt="Long alt Text."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4088,10 +4095,11 @@ to the page, if it has a lot of complicated information, they can take
 that time to digest it.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 172.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. finding usable images (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image172.png" 
-  alt="." 
+  title="Finding Usable Images"
+  alt="Finding Usable Images."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4111,10 +4119,11 @@ use icons. Icons are those almost little cartoonish looking infographics
 that you can use on your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 173.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. example, emojis & icons (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image173.png" 
-  alt="." 
+  title="Example, Emojis & Icons"
+  alt="Example, Emojis & Icons."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4135,10 +4144,11 @@ you like someone to say out loud to you if you wanted to describe what
 that icon is representing?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 174.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. images for impact (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image174.png" 
-  alt="." 
+  title="Images for Impact"
+  alt="Images for Impact."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4165,10 +4175,11 @@ into some of the resources, places that I have discovered you can look
 to try to improve kind of your own outlook.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 175.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. example, tips (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image175.png" 
-  alt="." 
+  title="Example, Tips"
+  alt="Example, Tips."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4232,7 +4243,7 @@ to create your **alt** text.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-08">2.08 Hyperlinks (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. hyperlinks (2.08) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. hyperlinks (2.08) (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image176.png" 
   title="2.08 Hyperlinks"
@@ -4245,10 +4256,11 @@ they&apos;re more commonly called. And how you can use them to link your
 document with others out there.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 177.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image177.png" 
-  alt="." 
+  title="Links"
+  alt="Links."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4259,10 +4271,11 @@ page, and with hopefully related material. So, let&apos;s get right into how
 you create a link on your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 178.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. example, anchor links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image178.png" 
-  alt="." 
+  title="Example, Anchor links"
+  alt="Example, Anchor links." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4279,10 +4292,11 @@ actually click on an underlined text that says, University of Michigan.
 But in some cases, it might be an image instead.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 179.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. types of links (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image179.png" 
-  alt="." 
+  title="Types of links; Absolute, Relative, Internal and Graphical"
+  alt="Types of links; Absolute, Relative, Internal and Graphical."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4291,7 +4305,7 @@ absolute links. We also have relative links. Internal links and
 graphical links and I&apos;m gonna show you examples of each one of those.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 180.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. example, absolute reference (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image180.png" 
   alt="." 
@@ -4306,11 +4320,11 @@ the document. You need to include all of those if you have an absolute
 reference, right? Everything else is still pretty much the same.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 181.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 181. example, relative references (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image181.png" 
-  title=""
-  alt="."
+  title="Example, Relative References"
+  alt="Example, Relative References."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4329,11 +4343,11 @@ saying there&apos;s another location inside the same file and it&apos;s called
 &apos;"history.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. absolute vs relative (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image182.png" 
-  title=""
-  alt="."
+  title="Absolute vs Relative"
+  alt="Absolute vs Relative."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4360,11 +4374,11 @@ have a reference that includes something local to your machine. All
 right?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 183.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 183. example, using images as the link (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image183.png" 
-  title=""
-  alt="."
+  title="Example, Using images as the link"
+  alt="Example, Using images as the link."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4383,11 +4397,11 @@ is, instead of using a local reference right here for the image, I&apos;ve
 used an absolute reference. I&apos;ve put in the entire **URL**.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. usability issues (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image184.png" 
-  title=""
-  alt="."
+  title="Usability Issues"
+  alt="Usability Issues."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5690,11 +5704,11 @@ One way that you can share your webpage with everyone is by hosting it
 on GitHub.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. make a github pages account (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.png" 
-  title=""
-  alt="."
+  title="Make a GitHub pages account"
+  alt="Make a GitHub pages account."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5708,11 +5722,12 @@ you&apos;re building your site. Go ahead and put in an email, and a
 password.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 239. click 'create an account' (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.png" 
   title=""
-  alt="."
+  title="Click 'Create an account'"
+  alt="Click 'Create an account'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5722,11 +5737,11 @@ going to happen is that they&apos;re going to decide what kind of plan you
 want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. github, select free plan (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.png" 
-  title=""
-  alt="."
+  title="GitHub, select free plan"
+  alt="GitHub, select free plan."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5745,11 +5760,11 @@ files, this is the name of the folder that we&apos;re going to put up on the
 web. It is important that you follow the rules precisely.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. github, + new repository (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.png" 
-  title=""
-  alt="."
+  title="GitHub, + New repository"
+  alt="GitHub, + New repository."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5765,11 +5780,11 @@ be the same as your account name. In my case, it&apos;s
 something like &apos;"the website for web design for everyone.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 242. initialize website with readme (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.png" 
   title=""
-  alt="."
+  alt="GitHub, initialize website with README."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5786,11 +5801,11 @@ going to copy this link right here;
 going to see what happens if we go here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 243. github, new live lame website (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.png" 
-  title=""
-  alt="."
+  title="GitHub, new live lame website"
+  alt="GitHub, new live lame website."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5813,7 +5828,7 @@ creating your GitHub Pages account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04b">3.04b Uploading to GitHub Pages (8:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. uploading to github pages (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 244. uploading to github pages (3.04b) (167) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image244.png" 
   title="3.04b Uploading to GitHub Pages"
@@ -5827,11 +5842,11 @@ some images in it. I have a special file called CSS that you might not
 be familiar with yet, but that&apos;s okay.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 245. github, new website but not live (168) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.png" 
-  title=""
-  alt="."
+  title="GitHub, new website but not live"
+  alt="GitHub, new website but not live."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5845,11 +5860,11 @@ send them this file and all the images and everything like that, but
 that&apos;s kind of a pain.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 246. github, create 1st live website (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image246.png" 
   title=""
-  alt="."
+  alt="GitHub, create 1st live website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5861,11 +5876,11 @@ first live account. Once again, I&apos;m going to go up and do a plus for a
 new repository. Basically, consider a new folder full of code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 247. github, name & initialize repository (169) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image247.png" 
-  title=""
-  alt="."
+  title="GitHub, name then initialize new repository"
+  alt="GitHub, name then initialize new repository."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5878,11 +5893,11 @@ I&apos;m going to click on, &apos;"Initialize this repository with a README,&apo
 and I click on that, then &apos;"Create repository.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. github website built (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image248.png" 
-  title=""
-  alt="."
+  title="GitHub website built"
+  alt="GitHub website built."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5893,11 +5908,11 @@ of stuff. We&apos;re not doing that. We&apos;re just using GitHub Pages to host
 our code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 249. github, choose & upload files (170) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image249.png" 
-  title=""
-  alt="."
+  title="GitHub, choose &amp; upload files for website"
+  alt="GitHub, choose &amp; upload files for website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5909,11 +5924,11 @@ on open, it&apos;s like, &apos;"Oh, is this the file you want?&apos;", I don&apo
 this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 250. drag & drop whole website (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image250.png" 
-  title=""
-  alt="."
+  title="Drag &amp; drop whole website data sources"
+  alt="Drag &amp; drop whole website data sources."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5922,11 +5937,11 @@ up, one, and I&apos;m going to drag this whole folder, and this is going to
 let me upload as many files as I want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 251. github pages, upload & commit (171) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.png" 
-  title=""
-  alt="."
+  title="GitHub pages, upload web code, then commit at bottom of screen"
+  alt="GitHub pages, upload web code, then commit at bottom of screen."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5937,11 +5952,12 @@ just to upload your files. Again, this may take a few minutes to
 complete.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 252. github, choose master branch (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image252.png" 
   title=""
-  alt="."
+  title="GitHub, choose master branch as GitHub pages source"
+  alt="GitHub, choose master branch as GitHub pages source."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5954,11 +5970,12 @@ looking for a site that says, &apos;"GitHub pages.&apos;" Go to none and choose
 worked or not.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 253. github, your site is published (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.png" 
   title=""
-  alt="."
+  title="GitHub, your site is ready to be published"
+  alt="GitHub, your site is ready to be published."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5971,11 +5988,11 @@ was sampler, and what was the name of my file?&apos;" Hopefully, it was
 **index.html** and it is, great.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 254. sample, github web site (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image254.png" 
-  title=""
-  alt="."
+  title="Sample, GitHub website"
+  alt="Sample, GitHub website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5988,11 +6005,12 @@ and I&apos;m going to do this one more time but slightly different. I want
 to go to github.com.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 255. add repository without readme (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image255.png" 
   title=""
-  alt="."
+  title="Create new repository without a README"
+  alt="Create new repository without a README."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6005,11 +6023,11 @@ README. Just so you know, commit new file is the equivalent of save files for wh
 do in our desktop. Now, I can upload files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256.  (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 256. github pages, select master branch & commit (173) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image256.png" 
-  title=""
-  alt="."
+  title="GitHub pages, settings, add GitHub Pages master branch, commit/save"
+  alt="GitHub pages, settings, add GitHub Pages master branch, commit/save."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
