@@ -4393,11 +4393,11 @@ clickable portion of your link. That image needs to have some sort of
 image.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 185.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ 185. examples; absolute, relative & embedded links (126) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image185.png" 
-  title=""
-  alt="."
+  title="Example; absolute, relative and embedded links"
+  alt="Example; absolute, relative and embedded links."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4406,11 +4406,11 @@ see here, I have a reference to absolute references, relative
 references, images as links, and then some embedded links, as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 186.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 186. bottom screen shows url as you hover (127) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image186.png" 
   title=""
-  alt="."
+  alt="URL displayed on bottom when you hover over a link."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4426,15 +4426,15 @@ bottom of the page doesn&apos;t match what you expect, I wouldn&apos;t click on
 it. So absolute references take you away from your site.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~ 187/188.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~ 187/188. relative references within your folder (127) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image187.png" 
-  title=""
-  alt="."
+  title="Relative reference within your folder"
+  alt="Relative reference within your folder."
   style="border: 2px solid #000000; width:45%" />
 <img src="./images/image188.png" 
-  title=""
-  alt="."
+  title="Click image for larger viewing"
+  alt="Click image for larger viewing."
   style="border: 2px solid #000000; width:45%" />
 </p>
 
@@ -4446,11 +4446,11 @@ as well. Instead of writing &apos;"Doughnuts from the Squire Shop,&apos;" I went
 ahead and made it so you can click on the image to get to the larger
 view.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. embedded links (128) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image189.png" 
-  title=""
-  alt="."
+  title="Embedded links"
+  alt="Embedded links."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4463,11 +4463,11 @@ gonna go to a different page. I&apos;m not gonna open up a new tab. Instead
 I&apos;m gonna jump to different places within the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. embedded references (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image190.png" 
-  title=""
-  alt="."
+  title="Embedded References"
+  alt="Embedded References."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4478,11 +4478,11 @@ embedded or internal links work, right? Now if at any time you get
 confused about how code is working.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. view developer source (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image191.png" 
-  title=""
-  alt="."
+  title="View Developer Source"
+  alt="View Developer Source."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4491,11 +4491,11 @@ I just want to remind you that you can always go to &apos;"view.&apos;"
 people are creating their pages and their links.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 192.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 192. targets; _self, _blank, _top & _parent (130) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image192.png" 
   title=""
-  alt="."
+  alt="Target; May be _self, _blank, _top, or _parent."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4521,11 +4521,11 @@ here, but you can see them in the reading, and those are **top** and
 of having multiple windows, frames, etc. open.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 193.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 193. review; links can be absolute, relative and internal (131) ~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image193.png" 
-  title=""
-  alt="."
+  title="Review; Links can be absolute, relative and internal"
+  alt="Review; Links can be absolute, relative and internal."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4607,7 +4607,7 @@ everything on your page (until the next tag) into a big underlined link.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-09">2.09 Useful Tags (11:41)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. useful tags (2.09) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. useful tags (2.09) (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image194.png" 
   title="2.09 Useful Tags"
@@ -4626,11 +4626,11 @@ I&apos;m really just trying to give you a taste for what&apos;s out there so you
 can start playing with your own code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 195.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 195. choosing your tag; generic & semantic (133) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image195.png" 
   title=""
-  alt="."
+  alt="Choosing your tag; generic &amp; semantic."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4647,11 +4647,11 @@ as **&lt;header&gt;** and **&lt;nav&gt;,**
 we talked about those in an earlier lesson.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. list of block tags (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image196.png" 
-  title=""
-  alt="."
+  title="List of block tags"
+  alt="List of block tags."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4691,11 +4691,11 @@ guess is, you still have no idea what they really do, so let&apos;s take a
 look at a quick example.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. some common block tags (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image197.png" 
-  title=""
-  alt="."
+  title="Common block tags; hr, address, blockquote and details/summary"
+  alt="Common block tags; hr, address, blockquote and details/summary."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4721,11 +4721,11 @@ click the arrow and see that it opens and closes. The default is to have
 it closed and then open up when someone clicks on the little arrow icon.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. list of inline tags (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image198.png" 
-  title=""
-  alt="."
+  title="List of inline tags"
+  alt="List of inline tags."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4742,11 +4742,11 @@ have noticed I left a typo after abbreviation there. So make sure you
 put in the greater than sign. Let&apos;s look at examples of this code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 199.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 199. inline elements; cite and abbr (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image199.png" 
-  title=""
-  alt="."
+  title="Inline elements; cite and abbr"
+  alt="Inline elements; cite and abbr."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4760,11 +4760,11 @@ Another new tag that has come along recently is the **&lt;abbr&gt;** tag.
 If you notice, right along here, I&apos;ve included abbreviation inside the box.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. example, title tag (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image200.png" 
-  title=""
-  alt="."
+  title="Example, title tag"
+  alt="Example, title tag."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4787,11 +4787,11 @@ also more likely that if someone is accessing your site on a mobile
 phone, it&apos;ll pop up as knowing that it&apos;s a date.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 201.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. tags; code, sub and sup (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image201.png" 
-  title=""
-  alt="."
+  title="Tags; code, sub and sup"
+  alt="Tags; code, sub and sup."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4814,11 +4814,11 @@ them with JavaScript or some other elements that you probably don&apos;t
 know a lot with yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. tags that need 'more' (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image202.png" 
-  title=""
-  alt="."
+  title="List of tags that need 'more'"
+  alt="List of tags that need 'more'."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4832,11 +4832,11 @@ need to use then. That&apos;s not what this course is about. Right now,
 we&apos;re just learning these tags.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 203. button, meter, progress & iframe (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image203.png" 
-  title=""
-  alt="."
+  title="Special tags; button, meter, progress &amp; iframe"
+  alt="Special tags; button, meter, progress &amp; iframe."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4849,11 +4849,11 @@ look really nice. So go ahead and put them in if you want but it may
 confuse people that there not actually operational.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. meter tag (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image203.png" 
-  title=""
-  alt="."
+  title="meter tag"
+  alt="meter tag."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4869,11 +4869,11 @@ Here I just want to show you that it doesn&apos;t always have to be 0 to
 60%. That&apos;s how the **&lt;meter&gt;** works.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 204.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 204. special tags; button, meter, progress (140) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image204.png" 
-  title=""
-  alt="."
+  title="Special tags; button, meter and progress"
+  alt="Special tags; button, meter and progress."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4885,11 +4885,11 @@ bar fills in. Again both **&lt;meter&gt;** and
 **&lt;progress&gt;** tend to use JavaScript to update them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 205.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. iframe - content nesting (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image205.png" 
-  title=""
-  alt="."
+  title="iframe for content nesting"
+  alt="iframe for content nesting."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4900,24 +4900,23 @@ explore who can use it and the best way to use it. And you would want to
 look into options, such as height and width.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 206.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 206. iframe is used to nest content (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image206.png" 
-  title=""
-  alt="."
+  title="The iframe is used to nest content"
+  alt="The iframe is used to nest content."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
 Right here in my **iframe**, I&apos;ve said hey, let&apos;s link back to my
-page. And it puts my whole web page inside this little block of the
-page.
+page. And it puts my whole web page inside this little block of the page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 207.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 207. iframe; webpage within a webpage (142) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image207.png" 
-  title=""
-  alt="."
+  title="iframe; webpage within a webpage"
+  alt="iframe; webpage within a webpage."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4927,11 +4926,11 @@ right? Now, one thing to notice is I can still click in here. I can do
 all the things. It&apos;s as if I have a webpage inside of a webpage.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 208.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 208. bdo; bidirectional orientation (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image208.png" 
-  title=""
-  alt="."
+  title="BDO; Bidirectional Orientation"
+  alt="BDO; Bidirectional Orientation."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -4947,11 +4946,11 @@ this is one where you would really need to understand JavaScript to
 really embrace what it&apos;s doing.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. review; useful tags (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image209.png" 
-  title=""
-  alt="."
+  title="Review; Useful Tags"
+  alt="Review; Useful Tags."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5034,7 +5033,7 @@ code so you will be writing the code on your own!)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 Accessibility (11:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. accessibility (3.01) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. accessibility (3.01) (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image210.png" 
   title="3.01 Accessibility"
@@ -5049,7 +5048,7 @@ you why it&apos;s so important for you to make the Web as accessible as
 possible for others.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. accessibility goals (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image211.png" 
   title=""
@@ -5075,11 +5074,11 @@ And that&apos;s exactly the type of thing a Web accessibility coordinator
 will do.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 212.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 212. what does a 'web accessibility coordinator' do? (146) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image212.png" 
-  title=""
-  alt="."
+  title="What does a 'Web Accessibility Coordinator' do?"
+  alt="What does a 'Web Accessibility Coordinator' do?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5098,11 +5097,11 @@ helping people with the different tools that are being used. Let&apos;s talk
 specifics.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 213.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 213. 1 in 5 people have a disability (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image213.png" 
-  title=""
-  alt="."
+  title="1 in 5 people have a disability"
+  alt="1 in 5 people have disability."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5114,11 +5113,11 @@ issues that tend to pop up the most when dealing with disabilities and
 the Internet. Visual issues, hearing, motor and cognitive.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. visual disabilities (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image214.png" 
-  title=""
-  alt="."
+  title="Visual Disabilities"
+  alt="Visual Disabilities."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5133,11 +5132,11 @@ contrast. Your different font style. Can someone really see your page as
 easily as possible?
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. hearing disabilities (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image215.png" 
-  title=""
-  alt="."
+  title="Hearing Disabilities"
+  alt="Hearing Disabilities."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5161,11 +5160,11 @@ feel that they are in command of the technology, not that the
 technology&apos;s in command of them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216. motor disabilities (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image216.png" 
-  title=""
-  alt="."
+  title="Motor Disabilities"
+  alt="Motor Disabilities."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5186,11 +5185,11 @@ page. But I know that I personally have been frustrated at trying to
 click a button while the button keeps moving around the screen.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. cognitive disabilities (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image217.png" 
-  title=""
-  alt="."
+  title="Cognitive Disabilities"
+  alt="Cognitive Disabilities."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5216,11 +5215,11 @@ when you&apos;re designing your page, or even if you&apos;re just help other
 people design theirs.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 218.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 218. more stats on accessibility (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image218.png" 
-  title=""
-  alt="."
+  title="More Stats on Accessibility"
+  alt="More Stats on Accessibility."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5237,11 +5236,11 @@ can&apos;t get through in order to do jobs that they are very well qualified
 for.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 219.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~ 219. the web offers unprecendented opportunities for disabled (150) ~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image219.png" 
-  title=""
-  alt="."
+  title="The web offers unprecedented opportunities for disabled"
+  alt="The web offers unprecedented opportunities for disabled."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5263,11 +5262,11 @@ enabling technology and we want to make sure that we continue to make it
 so.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 220.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 220. legal - web accessibility (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image220.png" 
-  title=""
-  alt="."
+  title="Legal - Web Accessibility"
+  alt="Legal - Web Accessibility."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5285,11 +5284,11 @@ that their products are not accessible to people in a way that it should
 be.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 221.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 221. what is web accessibility? (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image221.png" 
-  title=""
-  alt="."
+  title="What is Web Accessibility?"
+  alt="What is Web Accessibility?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5306,11 +5305,11 @@ things and you can improve all the others. So what&apos;s the best way to
 accomplish accessibility? It&apos;s adherence to standards.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 222.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~ 222. w3c wcag 2.0-content accessibility guidelines (152) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image222.png" 
-  title=""
-  alt="."
+  title="W3Cx WCAG 2.0 - Content Accessibility Guidelines"
+  alt="W3Cx WCAG 2.0 - Content Accessibility Guidelines."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5327,11 +5326,11 @@ robust? We&apos;ll be talking about these four principles throughout our
 entire course.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 223.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 223. review; accessible with semantics (153) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image223.png" 
-  title=""
-  alt="."
+  title="Review; Accessible with Semantics"
+  alt="Review; Accessible with Semantics."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5355,11 +5354,11 @@ we can make sure that the next generation of Web developers are
 designing for the greatest possible audience.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 224.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 224. wave.webaim.org - web accessibility (154) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image224.png" 
-  title=""
-  alt="."
+  title="wave.webaim.org - web accessibility"
+  alt="wave.webaim.org - web accessibility."
   style="border: 2px solid #000000; width:70%" />
 </p>
 
@@ -5389,18 +5388,18 @@ supported by major browsers. This includes if they are keyboard
 accessible and if any accessibility related features are supported.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. compare up to 5 browsers (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image225.png" 
-  title=""
-  alt="."
+  title="Compare up to five browsers"
+  alt="Compare up to five browsers."
   style="border: 2px solid #000000; width:70%" />
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-02">3.02 Validating Your Site (4:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. validating your site (3.02) (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. validating your site (3.02) (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image226.png" 
   title="3.02 Validating Your Site"
@@ -5412,11 +5411,11 @@ I know that I&apos;ve been saying validate your code over and over again,
 but let&apos;s talk about why it&apos;s so important.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. why validate? (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image227.png" 
-  title=""
-  alt="."
+  title="Why Validate?"
+  alt="Why Validate?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5432,11 +5431,12 @@ accessibility tools because they don&apos;t know what to do with that broken
 code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 228.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 228. three approaches to validation (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image228.png" 
   title=""
-  alt="."
+  title="Three Approaches to Validation"
+  alt="Three Approaches to Validation."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
