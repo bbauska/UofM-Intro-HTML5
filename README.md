@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/18/2024 4+pm"
+date last editted: "2/20/2024 5+pm"
 output: 
   markdown:
     with some style
@@ -5529,11 +5529,11 @@ a hosting service, and they are going to be the ones who act as the
 server for your files to let other people see them.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. domain names (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image233.png" 
-  title=""
-  alt="."
+  title="Domain names"
+  alt="Domain names."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5562,11 +5562,11 @@ the protocol is &apos;"file.&apos;" We don&apos;t want that. We don&apos;t want 
 looks like www, and that&apos;s where the hosting company comes in.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. hosting (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image234.png" 
-  title=""
-  alt="."
+  title="Hosting, from free to full-service"
+  alt="Hosting, from free to full-service."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5578,11 +5578,11 @@ usually recommend free when you&apos;re getting started, and then make your
 way up. But let&apos;s talk about the pros and cons of each one.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. free services (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image235.png" 
   title=""
-  alt="."
+  alt="Free services=."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5610,11 +5610,11 @@ you&apos;re going to be able to manipulate your files on any other free
 service as well.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~ 236. paid services, mid range & full (162) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image236.png" 
-  title=""
-  alt="."
+  title="Paid Services, mid and full-range"
+  alt="Paid Services, mid and full-range."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5642,7 +5642,7 @@ out on the web. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04a">3.04a Creating a GitHub Pages Account (5:29)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~ 237. creating a github pages account (3.04a) (xx) ~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 237. creating a github pages account (3.04a) (163) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image237.png" 
   title="3.04a Creating a GitHub Pages Account"
@@ -5654,11 +5654,11 @@ One way that you can share your webpage with everyone is by hosting it
 on GitHub.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. pick a unique username (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image238.png" 
-  title=""
-  alt="."
+  title="Pick a unique username"
+  alt="Pick a unique username."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5672,11 +5672,11 @@ you&apos;re building your site. Go ahead and put in an email, and a
 password.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 239.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 239. click 'create an account' (bottom left) (164) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image239.png" 
-  title=""
-  alt="."
+  title="Click 'Create an Account' (bottom left)"
+  alt="Click 'Create an Account' (bottom left)."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5686,11 +5686,11 @@ going to happen is that they&apos;re going to decide what kind of plan you
 want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 240.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 240. select free or developer (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image240.png" 
-  title=""
-  alt="."
+  title="Select free or developer ($7.00 per month for privacy)"
+  alt="Select free or developer ($7.00 per month for privacy)."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5709,11 +5709,11 @@ files, this is the name of the folder that we&apos;re going to put up on the
 web. It is important that you follow the rules precisely.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 241.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 241. top right, select 'new repository' (165) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image241.png" 
-  title=""
-  alt="."
+  title="Top right, select 'New repository'"
+  alt="Top right, select 'New repository'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5729,11 +5729,11 @@ be the same as your account name. In my case, it&apos;s
 something like &apos;"the website for web design for everyone.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 242.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~ 242. initialize this repository with a readme, create repository (166) ~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image242.png" 
-  title=""
-  alt="."
+  title="Next, select 'initialize this repository with a README', then click 'create repository'"
+  alt="Next, select 'initialize this repository with a README', then click 'create repository'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5750,11 +5750,11 @@ going to copy this link right here;
 going to see what happens if we go here.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 243.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~ 243. your new website on github (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image243.png" 
-  title=""
-  alt="."
+  title="Your new live repository on GitHub"
+  alt="Your new live repository on GitHub."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5777,7 +5777,7 @@ creating your GitHub Pages account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-04b">3.04b Uploading to GitHub Pages (8:25)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. uploading to github pages (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 244. uploading to github pages (167) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image244.png" 
   title="3.04b Uploading to GitHub Pages"
@@ -5791,29 +5791,28 @@ some images in it. I have a special file called CSS that you might not
 be familiar with yet, but that&apos;s okay.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 245. my non-live website (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image245.png" 
-  title=""
-  alt="."
+  title="My non-live website"
+  alt="My non-live website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-But let&apos;s just see what my site looks like. Here we go, up. Here is a
-little page I made about me with a little bit of formatting. But if you
-check and look in the upper corner, you can see that this site is not
-live. The fact that it says, &apos;"file:,&apos;" so forward forward forward, I
-can&apos;t share it with other people live. I can email them my code, I
-could say to somebody, &apos;"Oh look, I made a web page,&apos;" and then I could
-send them this file and all the images and everything like that, but
-that&apos;s kind of a pain.
+But let&apos;s just see what my site looks like. Here is a little page I made about 
+me with a little bit of formatting. But if you look in the upper left corner, 
+you can see that this site is not live. The fact that it says, &apos;"file:,&apos;" 
+so forward forward forward, I can&apos;t share it with other people live. I can 
+email them my code, I could say to somebody, &apos;"Oh look, I made a web 
+page,&apos;" and then I could send them this file and all the images and everything 
+like that, but that&apos;s kind of a pain.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 246.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 246. top right, + new repository (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image246.png" 
-  title=""
-  alt="."
+  title="Top right, click '+', New repository"
+  alt="Top right, click '+', New repository."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5825,11 +5824,11 @@ first live account. Once again, I&apos;m going to go up and do a plus for a
 new repository. Basically, consider a new folder full of code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 247.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~ 247. enter a repository name, initialize readme, 'create repository' (169) ~~~~~~~~~-->
 <p align="center">
   <img src="./images/image247.png" 
-  title=""
-  alt="."
+  title="Enter a unique repository name, select initialize with a README, then click 'Create repository'"
+  alt="Enter a unique repository name, select initialize with a README, then click 'Create repository'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5842,11 +5841,11 @@ I&apos;m going to click on, &apos;"Initialize this repository with a README,&apo
 and I click on that, then &apos;"Create repository.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~ 248. your website repository on github pages (169) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image248.png" 
-  title=""
-  alt="."
+  title="Your website repository on GitHub pages"
+  alt="Your website repository on GitHub pages."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5857,11 +5856,11 @@ of stuff. We&apos;re not doing that. We&apos;re just using GitHub Pages to host
 our code.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 249.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 249. click on 'upload files' (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image249.png" 
-  title=""
-  alt="."
+  title="Click on 'Upload Files'"
+  alt="Click on 'Upload Files'."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5873,11 +5872,11 @@ on open, it&apos;s like, &apos;"Oh, is this the file you want?&apos;", I don&apo
 this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 250.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 250. click & drag folder(s) to github (170) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image250.png" 
-  title=""
-  alt="."
+  title="Click &amp; drag folder(s) to github"
+  alt="Click &amp; drag folder(s) to github."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5886,11 +5885,11 @@ up, one, and I&apos;m going to drag this whole folder, and this is going to
 let me upload as many files as I want.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 251.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 251. scroll to the bottom, commit (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image251.png" 
-  title=""
-  alt="."
+  title="Scroll to the bottom, click commit changes"
+  alt="Scroll to the bottom, click commit changes."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5901,7 +5900,7 @@ just to upload your files. Again, this may take a few minutes to
 complete.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 252.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~ 252. github pages, source: master branch, save/commit (171) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image252.png" 
   title=""
@@ -5918,11 +5917,11 @@ looking for a site that says, &apos;"GitHub pages.&apos;" Go to none and choose
 worked or not.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 253.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 253. your site is ready to be published (172) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image253.png" 
-  title=""
-  alt="."
+  title="Your site is ready to be published"
+  alt="Your site is ready to be published."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5935,11 +5934,11 @@ was sampler, and what was the name of my file?&apos;" Hopefully, it was
 **index.html** and it is, great.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 254.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~ 254. two-step github, publish website (172) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image254.png" 
-  title=""
-  alt="."
+  title="Two-step GitHub, publish your website"
+  alt="Two-step GitHub, publish your website."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5952,11 +5951,11 @@ and I&apos;m going to do this one more time but slightly different. I want
 to go to github.com.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 255.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~ 255. scroll to & click readme.md (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image255.png" 
-  title=""
-  alt="."
+  title="Scroll to &amp; click the README.md box"
+  alt="Scroll to &amp; click the README.md box."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -5970,11 +5969,11 @@ creates the README. Just so you know, commit new file is the equivalent
 of save files for what we do in our desktop. Now, I can upload files.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 256.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~ 256. github pages, select source: master branch, commit (173) ~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image256.png" 
-  title=""
-  alt="."
+  title="In GitHub pages, select source: Master Branch. Then commit"
+  alt="In GitHub pages, select source: Master Branch. Then commit."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -6002,7 +6001,7 @@ incredible work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-05">3.05 Sharing Your Page from Replit (3:06)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~ 257. sharing your page from replit (3.05) (xx) ~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 257. sharing your page from replit (3.05) (174) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image257.png" 
   title="3.05 Sharing Your Page from Replit"
@@ -6544,11 +6543,11 @@ bit surprised like, what that&apos;s it? I don&apos;t feel like I&apos;m ready t
 a web developer yet.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. wait what? that it? (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image278.png" 
-  title=""
-  alt="."
+  title="Wait what? That it?"
+  alt="Wait what? That it?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6562,11 +6561,11 @@ accessibility, user experience. And it&apos;s very important that you have
 this basic understanding before you go onto these other ideas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 279. edit/view files and code (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image279.png" 
-  title=""
-  alt="."
+  title="Edit/View Files and Code"
+  alt="Edit/View Files and Code."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6578,11 +6577,11 @@ scratch. There&apos;s a lot of different things that you can do using the
 editors that you&apos;ve now mastered.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280. evaluate accessibility (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image280.png" 
-  title=""
-  alt="."
+  title="Evaluate Accessibility"
+  alt="Evaluate Accessibility."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6602,11 +6601,11 @@ Again, the ability to evaluate accessibility is something that we need
 more and more people to know.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281. publish site (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image281.png" 
-  title=""
-  alt="."
+  title="Publish Site"
+  alt="Publish Site."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6622,11 +6621,11 @@ you&apos;ve learned about different types of editors. And this is all
 information you can use to expand your knowledge in other areas.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282.  (xx) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. what next? (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image282.png" 
-  title=""
-  alt="."
+  title="What Next?"
+  alt="What Next?"
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -6655,5 +6654,4 @@ lecture, I want to show you ways that you can style your page in very
 simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
-the end...2/18/2024 last updated &/or reviewed.
-
+the end...2/20/2024 last updated &/or reviewed.
