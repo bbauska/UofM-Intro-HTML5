@@ -30,9 +30,9 @@ How-To's in HTML (a beginner's guide)</a>
 <p align="center">
   <img src="./images/image002.png" 
   <figcaption>University of Michigan &amp; Coursera logo</figcaption>
-  title="University of Michigan and Coursera logo"
-  alt="University of Michigan and Coursera logo." 
-  style="border: 2px solid #000000; width:40%" />
+<!--  title="University of Michigan and Coursera logo" -->
+<!--  alt="University of Michigan and Coursera logo." -->
+<!--  style="border: 2px solid #000000; width:40%" /> -->
 </p>
 </figure>
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
