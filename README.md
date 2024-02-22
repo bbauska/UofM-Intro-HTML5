@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/20/2024 5+pm"
+date last editted: "2/22/2024 2+pm"
 output: 
   markdown:
     with some style
@@ -71,7 +71,8 @@ How-To's in HTML (a beginner's guide)</a>
 
 <h2 name="ch1" style="margin:15px;">WEEK 1 - Learning About the Web</h2>
 
-https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction
+<a href="https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction" target="_blank" rel="noopener noreferrer">IBM's Intermediate Web &amp; Front-End Development</a>
+
 
 <h1 id="ch1">Week 1: Learning about the Web</h1>
 
@@ -136,14 +137,13 @@ the following:
     publish your site if you choose. (And we hope you do and share your
     work with me and others in the class.)
 
-Throughout the entire course there will be an emphasis on the importance
-of good habits and examples of potential pitfalls. This course is about
-learning the proper syntax of HTML5 and <b>styling is not covered</b>. You
-can see an [example Web Design for Everyone
-site](https://intro-webdesign.com/v3/index-html-only.html) for
-reference. However, upon completion of this course you will be ready to
-take the next course in this Web Design for Everybody Specialization,
-Introduction to CSS3.
+Throughout the entire course there will be an emphasis on the importance of good habits 
+and examples of potential pitfalls. This course is about learning the proper syntax of 
+HTML5 and <b>styling is not covered</b>. You can see an 
+<a href="https://intro-webdesign.com/v3/index-html-only.html" target="_blank" 
+rel="noopenner noreferrer">example Web Design for Everyone site</a> for reference. 
+However, upon completion of this course you will be ready to take the next course in 
+this Web Design for Everybody Specialization, Introduction to CSS3.
 
 ### <b>Participation Strategies</b>
 
@@ -271,8 +271,7 @@ Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
 off the platform, as responding to individual questions is virtually
 impossible. We encourage you to direct your questions to the [Course
-Support Discussion
-Forum](https://www.coursera.org/learn/html/discussions/forums/aWM4OyvhEe6u3BIzJLH0cQ),
+Support Discussion Forum](https://www.coursera.org/learn/html/discussions/forums/aWM4OyvhEe6u3BIzJLH0cQ),
 where your question might be answered by a fellow learner or one of our
 course team members. For technical help please contact the [Coursera
 Learner Help Center](https://learner.coursera.help/hc/en-us) support
@@ -342,8 +341,8 @@ Terms of Service](https://ai.umich.edu/software-tos/).
 
 ### Replit
 
-In this course we will assume that students will use
-[Replit](https://replit.com/~) to host their code. Replit is an online
+In this course we will assume that students will use <a href="https://replit.com/~" target="_blank" 
+rel="noopenner noreferrer">Replit</a> to host their code. Replit is an online
 Integrated Development Environment (IDE) for writing and sharing code.
 Once you get the hang of using Replit you will be able to easily share
 your code and your deployed website sites with your family and peers.
@@ -353,18 +352,19 @@ However, students may choose other hosting options if they prefer.
 
 If students choose not to use Replit, they will want to have an editor
 to create their code.  Two common editors that you will see used in this
-course and by others are [Sublime](https://www.sublimetext.com/3) and
-[Visual Studio Code](https://code.visualstudio.com/) (also called
+course and by others are <a href="https://www.sublimetext.com/3" target="_blank" 
+rel="noopenner noreferrer">Sublime</a> and <a href="https://code.visualstudio.com/" target="_blank" 
+rel="noopenner noreferrer">Visual Studio Code</a> (also called
 VSCode).  Both of these programs are free to download and use and there
-are also many online tutorials available to help learn the software.
+are many online tutorials available to help learn the software.
 
 <h3>Hosting</h3>
 
-Replit has free [hosting](https://docs.replit.com/category/hosting)
-built-in -- they will often refer to it as &quot;sharing your repl.&quot;  There
-are other free hosting services as well, including using [Github
-Pages](https://pages.github.com/).  Learning to use Github Pages can
-take some time, but is a useful skill for advanced learners.
+Replit has free <a href="https://docs.replit.com/category/hosting" target="_blank" 
+rel="noopenner noreferrer">hosting</a> built-in -- they will often refer to it as 
+&quot;sharing your repl.&quot;  There are other free hosting services as well, including 
+using <a href="https://pages.github.com/" target="_blank" rel="noopenner noreferrer">Github Pages</a>. 
+Learning to use Github Pages can take some time, but is a useful skill for advanced learners.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-01">1.01 Introduction to HTML5 (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -631,8 +631,7 @@ than I would like to cover but it is a really good start. I do my best
 to direct you to sections that most closely follow what I will be
 covering in each video lecture.
 
-The second resource is the [W3 Schools
-tutorial](https://www.w3schools.com/html/). This tutorial is more of a
+The second resource is the [W3 Schools tutorial](https://www.w3schools.com/html/). This tutorial is more of a
 dictionary of terms where you can quickly find specific topics.
 
 While you are reading, make sure to look closely for code. The Shay Howe
@@ -674,7 +673,7 @@ practicing.
 At the site linked below, you will find html files discussed in the
 lecture videos.
 
--   [HTML code examples ](https://intro-webdesign.com/resources.html)
+-   <a href="https://intro-webdesign.com/resources.html" rel="noopenner noreferrer" target="_blank">HTML code examples</a>
 
 Files with all the code and other text discussed in the videos are
 available in the resources section of the course. These are available in
@@ -690,11 +689,14 @@ pdf and docx format.
     Internet Explorer was a very popular browser. It has been replaced
     by Edge. 
 
--   [Week 1 Lecture Slides.pdf]
+-   <a href="https://github.com/bbauska/UofM-Intro-HTML5/blob/main/lecture-slides/Week-1-Lecture-Slides.pdf" 
+rel="noopenner noreferrer" target="_blank">Week 1 Lecture Slides.pdf</a>
 
--   [Week 2 Lecture Slides.pdf]
+-   <a href="https://github.com/bbauska/UofM-Intro-HTML5/blob/main/lecture-slides/Week-2-Lecture-Slides.pdf" 
+rel="noopenner noreferrer" target="_blank">Week 2 Lecture Slides.pdf</a>
 
--   [Week 3 Lecture Slides.pdf]
+-   <a href="https://github.com/bbauska/UofM-Intro-HTML5/blob/main/lecture-slides/Week-3-Lecture-Slides.pdf" 
+rel="noopenner noreferrer" target="_blank">Week 3 Lecture Slides.pdf</a>
 
 ### Lecture Slides
 
@@ -705,18 +707,15 @@ from the videos since I like to update the slides when things change.
 
 ### 1.01-Week1-Lecture-Slides.pdf
 
-### [Week 1 Lecture Slides.pdf]
-
 ### Code
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
 learning style.
 
-You can find the code at [HTML5 Course
-Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
-by week, so you can check to see if any code is provided for this
-week&apos;s lessons.
+You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code" 
+target="_blank" rel="noopenner noreferrer">HTML5 Course Code</a>. It is organized 
+by week, so you can check to see if any code is provided for this week&apos;s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-02">1.02 The Evolution of HTML (9:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6710,5 +6709,5 @@ lecture, I want to show you ways that you can style your page in very
 simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
-the end...2/20/2024 last updated &/or reviewed.
+the end...2/22/2024 last updated &/or reviewed.
 
