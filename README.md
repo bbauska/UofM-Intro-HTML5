@@ -73,9 +73,6 @@ How-To's in HTML (a beginner's guide)</a>
 
 <a href="https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction" target="_blank" rel="noopener noreferrer">IBM's Intermediate Web &amp; Front-End Development</a>
 
-
-<h1 id="ch1">Week 1: Learning about the Web</h1>
-
 <p>This week we will uncover the &quot;mystery&quot; behind the Internet. What happens when 
 you type a URL into your browser so that a webpage magically appears? What is HTML5 and 
 what happened to HTML 1 - 4? We will also cover some practical concepts that you need to 
@@ -2339,6 +2336,8 @@ by week, so you can check to see if any code is provided for this
 week&apos;s lessons.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 name="ch2" style="margin:15px;">WEEK 2 - Structure of a Web Design</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-01">2.01 The Document Object Model (DOM) (9:58)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 93. the document object model (dom) 2.01 (65) ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2956,7 +2955,9 @@ the kind of things that can really mess up your code when you try to validate it
 and so being cognizant of these ideas in the beginning will really help you write much 
 cleaner code.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-02a">2.02.Cheatsheets</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 There are many online &quot;cheat sheets&quot; for HTML. These files list all of
 the HTML5 tags, and also include information about tags that are common,
@@ -3719,6 +3720,7 @@ end.
 Note, if your app doesn't support alternative text, consider using one
 that does and then using the app to link to it.
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-06">2.06 Images (9:28)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. images (2.06) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5058,7 +5060,8 @@ https://intro-webdesign.com/v3/html5.html#code
 It is organized by week, so you can check to see if any code is provided
 for this week&apos;s lessons.  (Note, for Week 3 there isn&apos;t any starter
 code so you will be writing the code on your own!)
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 name="ch3" style="margin:15px;">WEEK 3 - Hosting &amp; Accessibility</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch3-01">3.01 Accessibility (11:01)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
