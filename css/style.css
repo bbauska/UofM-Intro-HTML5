@@ -1,3 +1,4 @@
+<!-- style.css in uofm-intro-html5 -->
   code{white-space: pre-wrap;}
   span.smallcaps{font-variant: small-caps;}
   div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -37,12 +38,16 @@ body {background-color: #fff; font-family: Bahnschrift, Inter, Helvetic, sans-se
 	  padding: 10px;
 	  border-radius: 1px;}
   #myBtn:hover 
-  {background-color: #555555; }pre {overflow: auto;}pre > code {display: block;margin-left: 15px;padding: 1rem;word-wrap: 
-  normal;}pre, code {font-family: monospace, monospace;font-size: 10px;margin-left: 15px;}pre:hover, pre:focus { width: 
-  min-content; }a.hover {color: #000000; background-color: #ffff00; text-decoration: underline;}a.hover:hover {background-color: 
-  #ffff00; text-decoration: underline;a:link {color: #013220; background-color: transparent;text-decoration: none;}
-  a:visited 
-  {color: #a5682a; background-color: transparent;text-decoration: none;} 
+  {background-color: #555555; 
+  pre {overflow: auto;}
+  pre > code {display: block;margin-left: 15px;padding: 1rem;word-wrap: 
+  normal;}
+  pre, code {font-family: monospace, monospace;font-size: 10px;margin-left: 15px;}
+  pre:hover, pre:focus { width: min-content; }
+  a.hover {color: #000000; background-color: #ffff00; text-decoration: underline;}
+  a.hover:hover {background-color: #ffff00; text-decoration: underline;
+  a:link {color: #013220; background-color: transparent;text-decoration: none;}
+  a:visited {color: #a5682a; background-color: transparent;text-decoration: none;} 
   a:hover {color: #000000;background-color: #ffff00; text-decoration: underline;}
   div {float: left; }
   h1 { font-size: 22px;margin-left: 15px;}
@@ -57,31 +62,36 @@ body {background-color: #fff; font-family: Bahnschrift, Inter, Helvetic, sans-se
   {font-size: 15px;}
   p#mediasize span {font-size: 10px;}
   p:first-child:first-letter{float:left;font-size:400%;margin-top:7px;margin-right:
-  5px;color:#992E00;}
+    5px;color:#992E00;}
   ul li { padding: 10px;line-height: 130%;font-family: Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", 
-  "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";}
+    "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";}
   ol li {padding: 10px;line-height 130%;font-family: 
-  Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVue Sans Mono";}
+    Bahnschrift, Inter, Helvetic, sans-serif, "Andale Mono WT", "Andale Mono", "Lucida Console", 
+    "Lucida Sans Typewriter", "DejaVue Sans Mono";}
   figure {margin-top: 0;}
   figcaption {text-align: center;}
   details {font: 13px Inter, sans-serif, Bahnschrift, Calibri;width: 65%;}
   summary {font: 13px Inter, sans-serif, Bahnschrift, Calibri;width: 65%;}
   details > summary {padding: 2px 6px;width: 15em; background-color: #eee; 
-  border: none;box-shadow: 3px 3px 4px #00008b; cursor: pointer;margin-left: 10px;}
-  details > p {border-radius: 0 0 10px 10px;background-color: #fff; padding: 2px 6px;margin: 0;box-shadow: 3px 3px 4px #00008b; }
+    border: none;box-shadow: 3px 3px 4px #00008b; cursor: pointer;margin-left: 10px;}
+  details > p {border-radius: 0 0 10px 10px;background-color: #fff; 
+    padding: 2px 6px;margin: 0;box-shadow: 3px 3px 4px #00008b; }
   details[open] > summary {background-color: yellow;}
-  .box-wrap {width: 100%;height: auto;margin: 20px 0 0 0;-webkit-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);-moz-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);}
+  .box-wrap {width: 100%;height: auto;margin: 20px 0 0 0;
+  -webkit-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.2);}
   ul, ol {list-style-position:inside;}
-  .box-wrap p {font-family:'Open Sans', Arial, Helvetica, sans-serif;font-size: 15px;padding: 5px 30px;overflow: hidden;text-align: left;width: 640px;height: auto;background: 
-  #ffffff;color: #717171;}
+  .box-wrap p {font-family:'Open Sans', Arial, Helvetica, sans-serif;font-size: 15px;padding: 5px 30px;
+    overflow: hidden;text-align: left;width: 640px;height: auto;
+    background: #ffffff;color: #717171;}
   .box-wrap li {font-family:'Open Sans', Arial, Helvetica, sans-serif;font-size: 15px;padding: 5px 30px;width: 
-  640px;height: auto;background: #ffffff;color: #717171;}
+    640px;height: auto;background: #ffffff;color: #717171;}
   .box-wrap ul li {list-style-type: circle;}}
 
 body {
   font-family: Bahnschrift;
   color: #fff;
-  background-color: #333;
+  background-color: #fff;
 }
 
 .highlight {
