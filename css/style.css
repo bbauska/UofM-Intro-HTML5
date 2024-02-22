@@ -98,17 +98,8 @@ body {
   background-color: yellow;
   color: #333;
 }
-.aligncenter {
-  text-align: center;
-}
 
-img {
-  width: 400px;
+.aligncenter {
+  display: block;
+  margin: 0 auto;
 }
-  .displayed {
-    display: block;
-    margin: 0 auto; 
-  }
-  .border {
-    border: 2px solid #778899;  /* dark grayish blue */
-  }
