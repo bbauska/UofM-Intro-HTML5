@@ -28,7 +28,6 @@ How-To's in HTML (a beginner's guide)</a>
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image002.png" 
-  <figcaption>University of Michigan &amp; Coursera logo</figcaption>
   title="University of Michigan and Coursera logo"
   alt="University of Michigan and Coursera logo."
   style="border: 2px solid #000000; width:40%" />
