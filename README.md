@@ -26,13 +26,15 @@ How-To's in HTML (a beginner's guide)</a>
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
+<figure>
 <p align="center">
   <img src="./images/image002.png" 
+  <figcaption>University of Michigan &amp; Coursera logo</figcaption>
   title="University of Michigan and Coursera logo"
   alt="University of Michigan and Coursera logo." 
   style="border: 2px solid #000000; width:40%" />
 </p>
-
+</figure>
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
 ## [**Week 1: Learning about the Web**](#ch1)
@@ -3192,8 +3194,9 @@ for your image files. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 129. folder/subfolder code placement (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image129.png" 
-  alt="Folder with list of documents nested within." 
+  <img src="./images/image129.png"
+  title="Folder with list of documents nested within"
+  alt="Folder with list of documents nested within."
   style="border: 2px solid #000000; width:20%" />
 </p>
 
@@ -3453,7 +3456,7 @@ you&apos;re developing and keep validating the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. start with a shell (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image144.png" 
-  title=""
+  title="Start with a shell"
   alt="Start with a shell."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -3999,6 +4002,7 @@ equity, and inclusion.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. accessible images (2.07) (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image167.png" 
+  title="2.07 Accessible Images"
   alt="2.07 Accessible Images."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -4308,7 +4312,8 @@ graphical links and I&apos;m gonna show you examples of each one of those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. example, absolute reference (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image180.png" 
-  alt="." 
+  title="Example, Absolute Reference"
+  alt="Example, Absolute Reference." 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -4436,7 +4441,7 @@ references, images as links, and then some embedded links, as well.
 <!--~~~~~~~~~~~~~~~~~~~~~ 186. bottom screen shows url as you hover (127) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image186.png" 
-  title=""
+  title="URL displayed on bottom when you hover over a link"
   alt="URL displayed on bottom when you hover over a link."
   style="border: 2px solid #000000; width:50%" />
 </p>
@@ -4656,7 +4661,7 @@ can start playing with your own code.
 <!--~~~~~~~~~~~~~~~~~~~ 195. choosing your tag; generic & semantic (133) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image195.png" 
-  title=""
+  title="Choosing your tag; generic &amp; semantic"
   alt="Choosing your tag; generic &amp; semantic."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -5078,8 +5083,8 @@ possible for others.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. accessibility goals (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image211.png" 
-  title=""
-  alt="."
+  title="Accessibility Goals"
+  alt="Accessibility Goals."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -5461,7 +5466,6 @@ code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 228. three approaches to validation (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image228.png" 
-  title=""
   title="Three Approaches to Validation"
   alt="Three Approaches to Validation."
   style="border: 2px solid #000000; width:40%" />
@@ -6203,7 +6207,7 @@ host it so that other people can see what you have created.
 3.  Click &apos;[+ Create Repl&apos;]
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~ 089. info to fill in on the create repl screen; template, title & public (178) ~~~~~~-->
+<!--~~~~~~~ 89. info to fill in on the create repl screen; template, title & public (178) ~~~~~~-->
 <p align="center">
   <img src="./images/image089.png" 
   title="Information to fill in on the create a repl screen; template, title and public"
