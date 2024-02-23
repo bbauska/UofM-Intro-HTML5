@@ -110,9 +110,9 @@ p.highlight {
   color: #333;
 }
 
-.displayed {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 100%;
+img {
+    max-width: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
 }
