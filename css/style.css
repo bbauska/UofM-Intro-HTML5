@@ -16,10 +16,10 @@ ul.task-list li input[type="checkbox"] {
   }
 .display.math{display: block; text-align: center; margin: 0.5rem auto;}
 
-body {background-color: #fff; font-family: Bahnschrift, Inter, Helvetic, sans-serif, 
-  Consolas;font-size: 15px; text-align: left;margin: 15px;}
-  .image-container img {transition: transform 0.3s ease-in-out;}
-  .image-container img:hover {transform: scale(1.2);}
+//body {background-color: #fff; font-family: Bahnschrift, Inter, Helvetic, sans-serif, 
+//  Consolas;font-size: 15px; text-align: left;margin: 15px;}
+//  .image-container img {transition: transform 0.3s ease-in-out;}
+//  .image-container img:hover {transform: scale(1.2);}
 
 blockquote {margin: .5em 0 .5em .85em;padding-left: 1em; border-left: 2px solid #e6e6e6; color: #606060; }
 
