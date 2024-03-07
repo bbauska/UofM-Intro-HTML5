@@ -1,7 +1,7 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "2/22/2024 2+pm"
+date last editted: "3/07/2024 2+am"
 output: 
   markdown:
     with some style
@@ -78,7 +78,7 @@ you type a URL into your browser so that a webpage magically appears? What is HT
 what happened to HTML 1 - 4? We will also cover some practical concepts that you need to 
 master before you begin coding your own pages.</p>
 
-### Learning Objectives
+<h3>Learning Objectives</h3>
 
 -   Use a validator to evaluate their code.
 
@@ -94,7 +94,7 @@ master before you begin coding your own pages.</p>
 
 -   Describe how and why HTML has changed.
 
-### Course Syllabus
+<h3>Course Syllabus</h3>
 
 Welcome to Introduction to HTML5. This course is an introduction to how
 web pages are created, sent across the Internet, and viewed on your
@@ -142,7 +142,7 @@ rel="noopenner noreferrer">example Web Design for Everyone site</a> for referenc
 However, upon completion of this course you will be ready to take the next course in 
 this Web Design for Everybody Specialization, Introduction to CSS3.
 
-### <b>Participation Strategies</b>
+<h3>Participation Strategies</h3>
 
 Engaged learning looks different for everybody. In this course, we hope
 you will define your own measures of success and engage with the
@@ -154,7 +154,7 @@ your own goals. While the course provides time estimates for completion,
 you should feel empowered to engage in the material in whatever ways
 make sense to you.
 
-### <b>Community Engagement</b>
+<h3>Community Engagement</h3>
 
 We expect everyone to be mindful of what they say and its potential
 impact on others. The goal is to have respectful discussions that do not
@@ -188,7 +188,7 @@ to an outside study group mentioning the course and claiming to have any
 official connection to U-M or individual instructors, please exercise
 caution as this may be an attempted scam.
 
-### <b>Final Project: Peer Review Assignment</b>
+<h3>Final Project: Peer Review Assignment</h3>
 
 This course will culminate in the creation of an HTML document. You will
 be provided with an example document and asked to style it. This will
@@ -199,7 +199,7 @@ We will be peer grading this assignment which means that you will grade
 the code created by your fellow students and they will grade yours. But
 don&apos;t worry, we all want each other to succeed in my courses!
 
-### <b>Academic Honesty</b>
+<h3>Academic Honesty</h3>
 
 All submitted work should be your own and academic dishonesty is not
 allowed. Academic dishonesty can be defined as:
@@ -216,12 +216,12 @@ allowed. Academic dishonesty can be defined as:
     edit your work and submitting that work as your own, unless you were
     instructed to use AI as part of the assignment
 
-### <b>Tips for Success</b>
+<h3>Tips for Success</h3>
 
 This course assumes absolutely no previous knowledge. In each module you
 will be asked to do the following:
 
-### Watch video lectures
+<h3>Watch video lectures</h3>
 
 The information has been broken down into pieces to help you learn the
 material in the smallest chunks that still give you enough information
@@ -230,7 +230,7 @@ to these during any time you have. You will find that some of the videos
 have material that makes sense to you at once. Sometimes you may want to
 replay other videos to clarify the material. 
 
-### Code with video lectures
+<h3>Code with video lectures</h3>
 
 Some of the videos are not traditional lectures, instead they are videos
 where I demonstrate the concepts from an earlier lecture. I highly
@@ -240,7 +240,7 @@ put these videos in so that you have something specific to practice. It
 is also a great way for you to see how often I mess up when I am
 coding!!
 
-### Change the video speed to one that works best for you 
+<h3>Change the video speed to one that works best for you</h3>
 
 You may find that you can speed the videos up and still retain the
 information. On the other hand, my mom is always telling me I talk too
@@ -248,7 +248,7 @@ quickly so you may want to slow the videos down. The important thing is
 to find something that works well for you. Use the in-­video quizzes to
 help you gauge how your learning is going.
 
-### Readings & optional materials
+<h3>Readings & optional materials</h3>
 
 Each week will include reading material. It is impossible to learn
 everything you need to learn just by listening to the lectures. Some of
@@ -262,7 +262,7 @@ required for the quizzes, but rather provide additional ways for you to
 branch out and learn more about the history of the field or the emerging
 ideas.
 
-### <b>Course Support</b>
+<h3>Course Support</h3>
 
 Questions and discussion of course material should take place within the
 course itself. Please do not contact instructors or teaching assistants
@@ -274,7 +274,7 @@ course team members. For technical help please contact the [Coursera
 Learner Help Center](https://learner.coursera.help/hc/en-us) support
 forums.
 
-### <b>Accessibility </b>
+<h3>Accessibility</h3>
 
 We are committed to developing accessible learning experiences for the
 widest possible audience. We recognize that learners with disabilities
@@ -296,7 +296,7 @@ ensure you are able to participate. In such cases, we may contact you
 for additional information as we investigate ways of removing
 accessibility barriers or to suggest accessible alternatives.
 
-### <b>Diversity, Equity, and Inclusion</b>
+<h3>Diversity, Equity, and Inclusion</h3>
 
 <b>We welcome all learners to this course.</b> People like you are joining
 from all over the world and we value this diversity. We strive to create
@@ -308,7 +308,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you. 
 
-### <b>Technology </b>
+<h3>Technology</h3>
 
 Below is a list of technologies that you will use to participate in this
 course. I recommend that you spend time reading the brief description of
@@ -316,7 +316,7 @@ each technology before jumping into the course. By doing this, you will
 have a better idea of what to expect and can create a plan for how you
 will approach taking this course. 
 
-### Coursera platform
+<h3>Coursera platform</h3>
 
 If you are new to Coursera and you want to familiarize yourself with the
 platform, read the [Help Articles in Coursera Help
@@ -325,7 +325,7 @@ This is a good resource where you can find answers to many basic
 questions such as how to adjust video settings, how to submit
 assignments, and how to gain a course certificate. 
 
-### Gamut Tools
+<h3>Gamut Tools</h3>
 
 This course uses a sharing tool called the Gamut Gallery. Throughout the
 course you will be asked by your instructor to create your own work
@@ -336,7 +336,7 @@ other learners about their work. It will appear as an item titled,
 our courses, please see the Center for Academic Innovation's [Software
 Terms of Service](https://ai.umich.edu/software-tos/).
 
-### Replit
+<h3>Replit</h3>
 
 In this course we will assume that students will use <a href="https://replit.com/~" target="_blank" 
 rel="noopenner noreferrer">Replit</a> to host their code. Replit is an online
@@ -345,7 +345,7 @@ Once you get the hang of using Replit you will be able to easily share
 your code and your deployed website sites with your family and peers.
 However, students may choose other hosting options if they prefer.
 
-### Sublime & Visual Studio Code
+<h3>Sublime & Visual Studio Code</h3>
 
 If students choose not to use Replit, they will want to have an editor
 to create their code.  Two common editors that you will see used in this
@@ -611,9 +611,9 @@ to go work with somebody else to help make their code more accessible, I
 would be thrilled with that. Welcome to the course and I hope you have a
 lot of fun as you learn more about HTML5.
 
-### Required Course Materials
+<h3>Required Course Materials</h3>
 
-### Textbooks
+<h3>Textbooks</h3>
 
 It is really difficult to find a textbook that focuses on just the
 basics. In the past I used a textbook that covered too many &quot;extras&quot;.
@@ -640,7 +640,7 @@ existing HTML code and see (immediately) what it does. So if you would
 like the ability to write and test snippets of code, this is a good
 resource. Don&apos;t forget that you still need to validate your code.
 
-### Software 
+<h3>Software</h3>
 
 The <b>preferred</b> way to code in this class is editor software (Notepad,
 TextWrangler, Sublime, etc). Recently I have been using [Visual Studio
@@ -648,7 +648,7 @@ Code](https://code.visualstudio.com/download) and I really like it. The
 software is free and works on most types of computers. If you are a paid
 learner you will want to use [Replit](https://replit.com/).
 
-### Optional Course Resources
+<h3>Optional Course Resources</h3>
 
 The textbook I link to throughout the course has nice, short chapters
 that go well with nice short lectures. These other (free) online
@@ -656,7 +656,7 @@ resources are just as good if not maybe even a little better in some
 cases. So feel free to read them now or at the end of the class to help
 reinforce what you learn over the next few weeks.
 
-### Codecademy - *Optional and more of a long-term prospect*
+<h3>Codecademy - *Optional and more of a long-term prospect*</h3>
 
 If you are looking for even more hands-on practice many people use the
 [Codecademy](https://www.codecademy.com/) website. This site awards
@@ -665,7 +665,7 @@ required</i></b>. My advice is to make sure you are doing more than just
 trying to &quot;get through,&quot; and focusing on the concepts that you are
 practicing.
 
-### HTML files from lectures
+<h3>HTML files from lectures</h3>
 
 At the site linked below, you will find html files discussed in the
 lecture videos.
@@ -676,7 +676,7 @@ Files with all the code and other text discussed in the videos are
 available in the resources section of the course. These are available in
 pdf and docx format.
 
-### Lecture Slides
+<h3>Lecture Slides</h3>
 
 -   To support learners, accessible lecture slides are provided as
     downloadable PDF files below, and individually within each lecture
@@ -695,16 +695,16 @@ rel="noopenner noreferrer" target="_blank">Week 2 Lecture Slides.pdf</a>
 -   <a href="https://github.com/bbauska/UofM-Intro-HTML5/blob/main/lecture-slides/Week-3-Lecture-Slides.pdf" 
 rel="noopenner noreferrer" target="_blank">Week 3 Lecture Slides.pdf</a>
 
-### Lecture Slides
+<h3>Lecture Slides</h3>
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
 video. Please note, sometimes the slides will look slightly different
 from the videos since I like to update the slides when things change.
 
-### 1.01-Week1-Lecture-Slides.pdf
+<h3>1.01 Week1-Lecture-Slides.pdf</h3>
 
-### Code
+<h3>Code</h3>
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -1333,7 +1333,7 @@ server. So, we&apos;re going to start off small. We&apos;re going to do one file
 at a time, but you can always look ahead to building bigger and bigger
 web applications.
 
-### 1.03.Browsers
+<h3>1.03 Browsers</h3>
 
 Browsers are constantly changing. Changing so much that it is difficult
 to keep up with all of the changes once you pick a favorite. Myself? I
@@ -1916,7 +1916,7 @@ install &quot;Live Server&quot; and then from there we will go and learn how to
 add multiple files, multiple images, and lots of things that is going to
 make your webpage look amazing.
 
-### 1.06.Editors: How to use VS Code
+<h3>1.06 Editors: How to use VS Code</h3>
 
 We highly recommend using [Replit](https://replit.com/) but Visual
 Studio Code (VSCode) is a popular editor that you may want to use as
@@ -2132,7 +2132,7 @@ them lower case? You&apos;ll create files, you&apos;ll edit your files. While
 you edit them, you&apos;ll be able to see what they look like. This is why
 I&apos;m recommending you use Replit.
 
-### 1.07.Editors: How to use Replit
+<h3>1.07 Editors: How to use Replit</h3>
 
 Replit is what we call an Integrated Development Environment -- this is
 a fancy term software that lets you do more than just edit your
@@ -2141,7 +2141,7 @@ other people can see what you have created.
 
 Replit is free, and the first step is to make an account.
 
-### 1.07.Getting started
+<h3>1.07 Getting started</h3>
 
 1.  Go to <https://replit.com/>
 
@@ -2164,7 +2164,7 @@ Replit is free, and the first step is to make an account.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-<h3>1.07.Creating a repl</h3>
+<h3>1.07 Creating a repl</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 88. + create repl button under the heading my repls (60) ~~~~~~~~~~~~~~~~~-->
@@ -2213,7 +2213,7 @@ section, the Coding Environment, and the View window.
   style="border: 2px solid #000000; width:30%" />
 </p>
 
-### 1.07.File Section
+<h3>1.07 File Section</h3>
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -2228,7 +2228,7 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-### 1.07.Coding Environment
+<h3>1.07 Coding Environment</h3>
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
@@ -2241,7 +2241,7 @@ where you can edit your code. 
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-### 1.07.View Window
+<h3>1.07 View Window</h3>
 
 As you make changes you can click the run button and Replit will display
 your index.html file in the Webview area on the right hand side of the
@@ -2261,7 +2261,7 @@ created your repl.
   style="border: 2px solid #000000; width:30%" />
 </p>
 
-### 1.07.More information
+<h3>1.07 More information</h3>
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit) for more
@@ -2273,12 +2273,12 @@ detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### 1.07.Additional Resources
+<h3>1.07 Additional Resources</h3>
 
 Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.
 
-### 1.07.The origins of MOSAIC
+<h3>1.07 The origins of MOSAIC</h3>
 
 [Interview with Joseph
 Hardin.](https://www.youtube.com/watch?v=-c8iWUh3Sv4&app=desktop) If you
@@ -2287,7 +2287,7 @@ here is an interview with Joseph Hardin. The material in this video is
 just meant as a supplemental resource and is not required for the
 quizzes or any other evaluation.
 
-### 1.07.Readings
+<h3>1.07.Readings</h3>
 
 The readings come from [Learn to Code HTML & CSS: Develop & Style
 Websites](https://learn.shayhowe.com/html-css/) and the [W3Schools
@@ -2306,16 +2306,18 @@ the quiz questions come directly from the readings. Also, make sure not
 to read the entire lessons for 8. They go into CSS which we are not
 covering in this course. (CSS is the next course in this series.)
 
--   [Lesson 2: Getting to Know HTML
-     ](https://learn.shayhowe.com/html-css/getting-to-know-html/)
+<ul>
+  <li><a href="https://learn.shayhowe.com/html-css/getting-to-know-html/">
+    Lesson 2: Getting to Know HTML</a></li>
+  <li><a href="https://www.w3schools.com/html/html_links.asp">
+    HTML Links</a></li>
+  <li><a href="https://www.w3schools.com/html/html_lists.asp">
+    HTML Lists</a>
+  <li><a href="https://www.w3schools.com/html/html_images.asp">
+    HTML Images</a></li>
+</ul>
 
--   [HTML Links](https://www.w3schools.com/html/html_links.asp)
-
--   [HTML Lists](https://www.w3schools.com/html/html_lists.asp)
-
--   [HTML Images](https://www.w3schools.com/html/html_images.asp) 
-
-### 1.07.Lecture Slides
+<h3>1.07 Lecture Slides</h3>
 
 To support learners, accessible lecture slides are provided as
 downloadable PDF files below, and individually within each lecture
@@ -2324,16 +2326,15 @@ from the videos since I like to update the slides when things change.
 
 [Week 2 Lecture Slides.pdf]
 
-### 1.07.Code
+<h3>1.07 Code</h3>
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
 learning style.
 
-You can find the code at [HTML5 Course
-Code](https://intro-webdesign.com/v3/html5.html#code).  It is organized
-by week, so you can check to see if any code is provided for this
-week&apos;s lessons.
+You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code">
+HTML5 Course Code</a>.  It is organized by week, so you can check to see if any 
+code is provided for this week&apos;s lessons.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 name="ch2" style="margin:15px;">WEEK 2 - Structure of a Web Design</h2>
@@ -2380,8 +2381,8 @@ can prove to be valid or invalid.
 <!--~~~~~~~~~~~~~~~~~~~ 95. tree structure; html is built on the dom (66) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image095.png"
-  title="HTTML is built on the DOM"
-  alt="HTTML is built on the DOM."
+  title="HTML is built on the DOM"
+  alt="HTML is built on the DOM."
   style="border: 2px solid #000000; width:50%" />
 </p>
 
@@ -2422,8 +2423,8 @@ thing that most people are going to get back when they do the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. doctype html (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image097.png"
-  title="Doctype html"
-  alt="Doctype html."
+  title="Doctype HTML"
+  alt="Doctype HTML."
   style="border: 2px solid #000000; width:40%" />
 </p>
 
@@ -2608,30 +2609,27 @@ everyone. So, just because your site looks good to you when you&apos;re
 looking at it on your browser, doesn&apos;t mean it&apos;s right. You have to
 use a validator to check your code.
 
-### 2.01. HTML5 Tags and Syntax
+<h3>2.01 HTML5 Tags and Syntax</h3>
 
 At first it will seem like the number of tags is overwhelming, but you
 can really start by focusing on the most common. These tags include:
 
--   head (head) 
-
--   body (body)
-
--   headings (h1 through h6)
-
--   paragraph
-
--   links
-
--   images
+<ul>
+  <li>head (head)</li>
+  <li>body (body)</li>
+  <li>headings (h1 through h6)</li>
+  <li>paragraph</li>
+  <li>links</li>
+  <li>images</li>
+</ul>
 
 Complete the following reading to make sure that you recognize these
 tags. It will also tell you more about the handy option to View HTML
 code when you visit pages.
 
-### 2.01. [HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)
+<h3>2.01 [HTML Basic Examples](https://www.w3schools.com/html/html_basic.asp)</h3>
 
-### 2.01. [HTML Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)
+<h3>2.01 [HTML Headings](https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.)</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
@@ -2958,7 +2956,6 @@ cleaner code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="ch2-02a">2.02.Cheatsheets</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 There are many online &quot;cheat sheets&quot; for HTML. These files list all of
 the HTML5 tags, and also include information about tags that are common,
 but no longer supported by HTML. There are many cheat sheets available,
@@ -2983,7 +2980,7 @@ but here are links to three that I have recommended in the past.
     Accessibility Cheat
     Sheet](https://webaim.org/resources/htmlcheatsheet/)
 
-### 2.02 Semantic Tags
+<h3>2.02 Semantic Tags</h3>
 
 One of the best ways to make sure that your page is accessible to as
 many people as possible is to use semantic tags. When writing HTML, it
@@ -3178,7 +3175,7 @@ Semantic guide tags are gonna help guide your users to the information
 in your page. And that&apos;s really what you want to do, you want to make
 your page the most accessible to as many people as possible.
 
-### 2.03.Code Placement
+<h3>2.03.Code Placement</h3>
 
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -3637,7 +3634,7 @@ section, the **main** section, and the **footer**, because as we learn
 about more accessibility tools, you&apos;re going to realize that they are
 an important step to making your page accessible for everyone.
 
-### 2.05.Starter Code for Template Page
+<h3>2.05.Starter Code for Template Page</h3>
 
 I just want to give you some sample template code. If need be, you can
 copy and paste this to get you started:
@@ -3656,7 +3653,7 @@ copy and paste this to get you started:
 </html>
 ```
 
-### 2.05 Images and Icons
+<h3>2.05 Images and Icons</h3>
 
 It is difficult to believe that the internet used to be all text. 
 Knowing how to incorporate visual media (images, icons, videos, etc) is
@@ -3966,9 +3963,9 @@ height and or width in the HTML code itself using the attribute. If you
 decide to learn more with us, you can later learn about how to use CSS
 to do even more with your images to make them pop. Good luck.
 
-### 2.06 Copyright, Fair Use, and Inclusive Images
+<h3>2.06 Copyright, Fair Use, and Inclusive Images</h3>
 
-### Where to get images?
+<h3>Where to get images?</h3>
 
 Every time a product is created, that product is automatically protected
 by copyright. Copyright protection prevents others from using the work
@@ -4202,14 +4199,14 @@ never seen that before,&apos;" or, &apos;"hey, that&apos;s something really exci
 food that I would like to try.&apos;" So do what you can to try to just make
 sure that the page reflects yourself and the best self that you can be.
 
-### Alternative Text
+<h3>Alternative Text</h3>
 
 Creating good alternative text is almost an art. The good news is that
 it is an art that even artistically-challenged people like myself can do
 well. The key is to think about the meanings behind your images, not a
 description of them. So here are some tips:
 
-### Tips
+<h3>Tips</h3>
 
 -   **Decide what information the image conveys:** Does someone need to
     see the page to understand your message? If not, you can treat the
@@ -4522,10 +4519,10 @@ I just want to remind you that you can always go to &apos;"view.&apos;"
 people are creating their pages and their links.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~ 192. targets; _self, _blank, _top & _parent (130) ~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~ 192. target; _self, _blank, _top & _parent (130) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
   <img src="./images/image192.png" 
-  title=""
+  title="Target; May be _self, _blank, _top & _parent"
   alt="Target; May be _self, _blank, _top, or _parent."
   style="border: 2px solid #000000; width:40%" />
 </p>
@@ -4575,7 +4572,7 @@ and I&apos;m not saying you should do it. I&apos;m just saying make sure that
 you do it carefully to ensure that everyone who is viewing your page can
 get the same content and the same experience as everyone else.
 
-## Hyperlink Tag
+<h3>Hyperlink Tag</h3>
 
 Hopefully you have already glanced over the readings on [HTML
 Hyperlinks](https://www.w3schools.com/html/html_links.asp).
@@ -4591,7 +4588,7 @@ made up of three parts:
 It is true that most elements have three parts, but the anchor element
 can take a little more time to master.
 
-## Opening tag 
+<h3>Opening tag</h3>
 
 The opening tag always has a hyper reference (&apos;"href&apos;") that tells the
 browser what the element should link to. The element may be **external**
@@ -4612,7 +4609,7 @@ completely optional, but you can read more about this at the  [WAI &apos;|
 W3C page](https://www.w3.org/WAI/WCAG21/Techniques/html/H83.html).)
 https://www.w3.org/WAI/WCAG21/Techniques/html/H83.html
 
-## Tag contents
+<h3>Tag contents</h3>
 
 Another characteristic of hyperlinks is the content between the opening
 and closing tags. Until now, that content had always been text. However,
@@ -4629,7 +4626,7 @@ that a screen reader can audibly provide the visual information.
 MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label))
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
 
-### Closing tag
+<h3>Closing tag</h3>
 
 Whew! The closing tag is just a nice normal closing tag. However, if you
 forget to include this tag it has the unfortunate effect of turning
