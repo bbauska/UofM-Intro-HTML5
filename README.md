@@ -3683,7 +3683,7 @@ important guidelines while you watch the upcoming lessons: 
 
 -   Use alt=&apos;"&apos;" if the image is only for decoration
 
-### Making All of Your Images Accessible Everywhere
+<h3>Making All of Your Images Accessible Everywhere</h3>
 
 Understanding how images work on other platforms is important too. For
 instance, when you make a presentation at work you can add alternative
@@ -5007,12 +5007,12 @@ sure that your pages can be reachable to the greatest number of people
 possible. And really, the only way you can do this is by keeping your
 code simple, succinct, and you&apos;re always validating. Thanks.
 
-## 2.09 Additional Resources
+<h3 id="ch2-09-add">2.09 Additional Resources</h3>
 
 Here are some resources for you to explore if you are interested in
 learning more about the topics from this week.
 
-### Images and Icons
+<h3>Images and Icons</h3>
 
 -   [Make your document or presentation more accessible - Google Docs
     Editors Help](https://support.google.com/docs/answer/6199477?hl=en)
@@ -5025,7 +5025,7 @@ https://support.google.com/docs/answer/6199477?hl=en
 
 https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669
 
-### Alt Text
+<h3>Alt Text</h3>
 
 -   [W3 alt decision
     tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
@@ -5036,7 +5036,7 @@ If you want to learn more about creating good **alt** text, I recommend
 the W3 **alt** decision tree site as a resource. This site guides you
 with simple &apos;"yes/no&apos;" questions on how to create your **alt** text.
 
-### Lecture Slides
+<h3>Lecture Slides</h3>
 
 https://d3c33hcgiwev3.cloudfront.net/M7XNZKCSTEG5Ym-c5YZ78Q_ba93a66e41204391bb7e4088ad4c87f1_Week-3-Lecture-Slides.pdf?Expires=1708214400&Signature=U96MmhjuMi&apos;~2BbK3b&apos;~cdlyL9wUnY0TrEqem0bBI2BQXbsK4gi-ngbzim&apos;~zB9cBSwEQso9gxiJxC1&apos;~YVbloIawesVUIE4BH4Lq7kDKF40LPyJ1fKNS895voim0f2OTAgOyz4foVLbyUOieko1rx3J1ENXwUWZbxn5696y5-IcnN0&apos;_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
@@ -5045,7 +5045,7 @@ downloadable PDF files below, and individually within each lecture
 lesson. Please note, sometimes the slides will look slightly different
 from the lesson since I like to update the slides when things change.
 
-### Code
+<h3>Code</h3>
 
 Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
@@ -5399,7 +5399,7 @@ Go to one of the websites you frequent often. Hit the tab button to see
 how you would navigate through the page. Is it easy to get the
 information you want?
 
-### 3.01 Does Your Browser Support Accessibility?
+<h3>3.01 Does Your Browser Support Accessibility?</h3>
 
 In the Week One material you may or may not have run the test at
 [**https://html5test.com/**](https://html5test.com/) to see how well
@@ -5547,7 +5547,7 @@ Finally important thing to know is that validated sites are more robust
 and they&apos;re more accessible. More robust means they&apos;re less likely to
 break.
 
-### 3.02 Putting Your Code Out on to the Web
+<h3>3.02 Putting Your Code Out on to the Web</h3>
 
 The lesson in this next section is intended for those students who want
 to post their websites to the Web. Until now you have been viewing your
@@ -6145,7 +6145,7 @@ can jump on the forums. People will be there to give you help. But we
 always want to give people the greatest chance possible to look at your
 code and see how it&apos;s all working together, good luck.
 
-### 3.05 Sharing Your Page from Replit
+<h3>3.05 Sharing Your Page from Replit</h3>
 
 **Replit** is what we call an **Integrated Development Environment**
 (**IDE**)-- this is a fancy term software that lets you do more than
@@ -6154,7 +6154,7 @@ host it so that other people can see what you have created.
 
 **Replit** is free, and the first step is to make an account.
 
-### 3.05 Getting started
+<h3>3.05 Getting started</h3>
 
 1.  Go to [**https://replit.com/**](https://replit.com/)
 
@@ -6177,7 +6177,7 @@ host it so that other people can see what you have created.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-### 3.05 Creating a repl
+<h3>3.05 Creating a repl</h3>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88. my repls (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -6212,7 +6212,7 @@ host it so that other people can see what you have created.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-### Congrats!
+<h3>Congrats!</h3>
 
 A tutorial will pop up and I encourage you to look through it to find
 out what the different parts of the **IDE** are. But for now the
@@ -6228,7 +6228,7 @@ Files section, the Coding Environment, and the View window.
   style="border: 2px solid #000000; width:20%" />
 </p>
 
-### 3.05 File Section
+<h3>3.05 File Section</h3>
 
 The file section is located on the top left corner of the screen. This
 is where you can:
@@ -6243,7 +6243,7 @@ is where you can:
 -   Create new folders by selecting the new folder button and naming
     your new folder
 
-### 3.05 Coding Environment
+<h3>3.05 Coding Environment</h3>
 
 The coding environment is located in the middle of the screen and is
 where you can edit your code. 
@@ -6257,7 +6257,7 @@ where you can edit your code. 
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-### 3.05 View Window
+<h3>3.05 View Window</h3>
 
 As you make changes you can click the run button and **Replit** will
 display your **index.html** file in the Webview area on the right hand
@@ -6277,7 +6277,7 @@ you created your repl.
   style="border: 2px solid #000000; width:30%" />
 </p>
 
-### 3.05 More information
+<h3>3.05 More information</h3>
 
 You can always go to the [official Replit
 site](https://docs.replit.com/getting-started/intro-replit)
@@ -6292,9 +6292,9 @@ for more detailed information on items such as:
 
 -   How can I save my file and add a new one? 
 
-### 3.05 Final Project Description
+<h3>3.05 Final Project Description</h3>
 
-### **Specification**
+<h3>Specification</h3>
 
 Your final project is to create and host your own website using
 [**Replit**](https://replit.com/).
@@ -6304,7 +6304,7 @@ specific webpage, but I invite you all to create a page of your choice,
 you just need to make sure that you have the following components in
 your project.
 
-### **Grading Checklist**
+<h3>Grading Checklist</h3>
 
 1.  doctype
 
@@ -6324,7 +6324,7 @@ In addition the page must be hosted and pass [The W3C Markup Validation
 Service Tool](https://validator.w3.org/) and the [WAVE Web Accessibility
 Evaluation Tool](https://wave.webaim.org/)
 
-### **3.05 Examples**
+<h3>3.05 Examples</h3>
 
 -   [Example 1 - Michigan
     Facts](https://replit.com/@wd4eHTML/Example-Site-1)
@@ -6543,7 +6543,7 @@ you or judge you harshly. This is just a celebration of you learning
 something new and taking that time to learn about HTML, the web
 accessibility and just tech in general. Good luck.
 
-### Congratulations!
+<h3>Congratulations!</h3>
 
 Well done on taking the leap and learning more about the way web pages
 are created and transferred across the Internet. If you enjoyed this
@@ -6552,7 +6552,7 @@ to go. This course is the first course in the Web Design for Everybody
 Specialization offered by Coursera. The other courses in this
 specialization include:
 
-### 3.06 Introduction to CSS3
+<h3>3.06 Introduction to CSS3</h3>
 
 In this course you will take simple HTML documents and use Cascading
 Style Sheets (CSS) to make them look less like they are from 1992 and
@@ -6563,14 +6563,14 @@ takes on even greater importance since many people ignore the core
 principles and tend to use color, images, and font to convey information
 instead of using semantic tags.
 
-### 3.06 Adding Interaction with JavaScript
+<h3>3.06 Adding Interaction with JavaScript</h3>
 
 Ever notice how some pages react to mouse clicks, screen swipes, or
 information you type into forms? This is often done using the JavaScript
 programming language. This course offers you an overview of the
 techniques and best practices for adding interaction to your site.
 
-### 3.06 Responsive Design
+<h3>3.06 Responsive Design</h3>
 
 Responsive design is the ability to design a site with multiple screen
 sizes (or &apos;"platforms&apos;") in mind. We have all been to a site that
