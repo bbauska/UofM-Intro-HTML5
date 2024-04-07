@@ -22,7 +22,9 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <script>
+
   const date = new Date();
+
   const formattedDate = date.toLocaleString("en-GB", {
     day: "numeric",
     month: "short",
@@ -32,6 +34,7 @@
   });
 
   <!-- get the button -->
+  
   var mybutton = document.getElementById("myBtn");
 
   <!-- when the user scrolls down 10px from the top of the document, show the button -->
@@ -55,7 +58,7 @@
 
 <header id="title-block-header">
   <h1 style="text-align:center">Introduction to HTML5</h1>
-<!--  <h6 style="text-align:center" class="author">taught by Colleen van Lent,PhD</p> -->
+  <h6 style="text-align:center" class="author">(taught by Colleen van Lent,PhD - U of Michigan)</h6>
 </header>
 
 <!-- <a href="https://www.html-easy.com/learn/how-to-add-a-target-attribute-in-html/"> -->
@@ -64,7 +67,7 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ index.html of html5.bauska.org ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <h1 style="text-align:center">Introduction to HTML5</h1> -->
-<h6 style="text-align:center">(by Colleen van Lent, PhD - University of Michigan)</h6>
+<!-- <h6 style="text-align:center">(by Colleen van Lent, PhD - University of Michigan)</h6> -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. html5 logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image001.png" 
@@ -320,8 +323,8 @@ disabilities (including but not limited to visual impairments, hearing
 impairments, cognitive disabilities, or motor disabilities) might need
 more specific accessibility-related support to achieve learning goals in
 this course.</p>
-<p>Please use the <a href="https://teamdynamix.umich.edu/TDClient/187/Portal/Requests/TicketRequests/NewForm?ID=3021&amp;RequestorType=Service">accessibility
-feedback form</a> to let us know about any accessibility challenges such
+<p>Please use the <a href="https://teamdynamix.umich.edu/TDClient/187/Portal/Requests/TicketRequests/NewForm?ID=3021&amp;RequestorType=Service">
+accessibility feedback form</a> to let us know about any accessibility challenges such
 as urgent issues that keep you from making progress in the course (e.g.,
 missing or inadequate alt-text, captioning errors). </p>
 <p><b>Third-party sites and software:</b> While the University of
@@ -344,7 +347,7 @@ this course, and aim to make improvements so the course can best serve
 everyone. We hope you enjoy learning about topics that are important to
 you. </p>
 
-<h3><b>Technology </b></h3>
+<h3><b>Technology</b></h3>
 
 <p>Below is a list of technologies that you will use to participate in
 this course. I recommend that you spend time reading the brief
@@ -369,11 +372,13 @@ related to the course content. The Gallery provides a digital place to
 submit and share your own work, receive feedback, and pose questions to
 other learners about their work. It will appear as an item titled,
 “Ungraded App Item.” For more information about this tool and its use in
-our courses, please see the Center for Academic Innovation’s <a href="https://ai.umich.edu/software-tos/">Software Terms of Service</a>.</p>
+our courses, please see the Center for Academic Innovation’s 
+<a href="https://ai.umich.edu/software-tos/">Software Terms of Service</a>.</p>
 
 <h3 id="replit">Replit</h3>
 
-<p>In this course we will assume that students will use <a href="https://replit.com/~">Replit</a> to host their code. Replit is an
+<p>In this course we will assume that students will use <a href="https://replit.com/~">
+Replit</a> to host their code. Replit is an
 online Integrated Development Environment (IDE) for writing and sharing
 code. Once you get the hang of using Replit you will be able to easily
 share your code and your deployed website sites with your family and
@@ -5755,7 +5760,7 @@ your journey into HTML 5.</p>
 <p>the end…2/22/2024 prior updated &amp;/or reviewed.</p>
 <br><br>
 
-console.log(formattedDate); // '6 Apr 2024, 13:46'
+<p id="formattedDate"></p>
 
 <h6>Last updated 4/6/2024 Sat 1+ pm.</h6>
 
