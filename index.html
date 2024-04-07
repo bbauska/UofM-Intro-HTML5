@@ -22,59 +22,60 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <script>
-const displayTime = document.querySelector(".display-time");
+// const displayTime = document.querySelector(".display-time");
 // Time
-function showTime() {
-  let time = new Date();
-  displayTime.innerText = time.toLocaleTimeString("en-US", { hour12: false });
-  setTimeout(showTime, 1000);
-}
+  var dt = new Date();
+  document.getElementById('date-time').innerHTML=dt;
+  
+//  displayTime.innerText = time.toLocaleTimeString("en-US", { hour12: false });
+//  setTimeout(showTime, 1000);
+//}
 
-showTime();
+//showTime();
 
 // Date
-function updateDate() {
-  let today = new Date();
+//function updateDate() {
+//  let today = new Date();
 
   // return number
-  let dayName = today.getDay(),
-    dayNum = today.getDate(),
-    month = today.getMonth(),
-    year = today.getFullYear();
+//  let dayName = today.getDay(),
+//    dayNum = today.getDate(),
+//    month = today.getMonth(),
+//    year = today.getFullYear();
 
-  const months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
-  ];
-  const dayWeek = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-  ];
-  // value -> ID of the html element
-  const IDCollection = ["day", "daynum", "month", "year"];
-  // return value array with number as a index
-  const val = [dayWeek[dayName], dayNum, months[month], year];
-  for (let i = 0; i < IDCollection.length; i++) {
-    document.getElementById(IDCollection[i]).firstChild.nodeValue = val[i];
-  }
-}
+//  const months = [
+//    "January",
+//    "February",
+//    "March",
+//    "April",
+//    "May",
+//    "June",
+//    "July",
+//    "August",
+//    "September",
+//    "October",
+//    "November",
+//    "December",
+//  ];
+//  const dayWeek = [
+//    "Sunday",
+//    "Monday",
+//    "Tuesday",
+//    "Wednesday",
+//    "Thursday",
+//    "Friday",
+//    "Saturday",
+//  ];
+//  // value -> ID of the html element
+//  const IDCollection = ["day", "daynum", "month", "year"];
+//  // return value array with number as a index
+//  const val = [dayWeek[dayName], dayNum, months[month], year];
+//  for (let i = 0; i < IDCollection.length; i++) {
+//    document.getElementById(IDCollection[i]).firstChild.nodeValue = val[i];
+//  }
+//}
 
-updateDate();
+//updateDate();
 
  
   <!-- get the button -->
@@ -127,6 +128,7 @@ updateDate();
   style="width:30%" />
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
+
 <h2><a href="#ch1"><strong>Week 1: Learning about the Web</strong></a></h2>
 
 <blockquote>
@@ -167,7 +169,8 @@ updateDate();
 
 <h1 id="ch1">WEEK 1 - Learning About the Web</h1>
 
-<a href="https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction">Course Intro lecture</a>
+<a href="https://www.coursera.org/learn/intermediate-web-and-front-end-development/lecture/k0fxN/course-introduction" 
+target="_blank" rel="noopener noreferrer">Course Intro lecture</a>
 
 <p>This week we will uncover the &quot;mystery&quot; behind the Internet. What
 happens when you type a URL into your browser so that a webpage
@@ -225,7 +228,8 @@ subset. Therefore, we focus on the following:</p>
 <p>Throughout the entire course there will be an emphasis on the
 importance of good habits and examples of potential pitfalls. This
 course is about learning the proper syntax of HTML5 and <b>styling is
-not covered</b>. You can see an <a href="https://intro-webdesign.com/v3/index-html-only.html">example Web
+not covered</b>. You can see an <a href="https://intro-webdesign.com/v3/index-html-only.html" 
+target="_blank" rel="noopener noreferrer">example Web
 Design for Everyone site</a> for reference. However, upon completion of
 this course you will be ready to take the next course in this Web Design
 for Everybody Specialization, Introduction to CSS3.</p>
@@ -259,7 +263,8 @@ some productive ways to engage in this course: </p>
     Avoid using all caps, too many exclamation points, or aggressive language.</p></li>
 </ul>
 
-<p>We expect all learners to abide by our full <a href="https://docs.google.com/document/d/18Ucy-lT33FmkDDYdtxHEJ_nRytVLr_XGRVq2moAsPB4/edit">Learner
+<p>We expect all learners to abide by our full <a href="https://docs.google.com/document/d/18Ucy-lT33FmkDDYdtxHEJ_nRytVLr_XGRVq2moAsPB4/edit" 
+target="_blank" rel="noopener noreferrer">Learner
 Engagement Policy</a>. We will specifically be monitoring this course
 for language that could be considered inflammatory, incivil, racist, or
 otherwise unacceptable for this learning space, and we will remove
@@ -280,7 +285,8 @@ scam.</p>
 <p>This course will culminate in the creation of an HTML document. You
 will be provided with an example document and asked to style it. This
 will not be a creative project, rather one that shows you can write
-syntactically correct code. You can see an <a href="https://example-site-2.wd4e-html.repl.co/">example Web Design for
+syntactically correct code. You can see an <a href="https://example-site-2.wd4e-html.repl.co/" 
+target="_blank" rel="noopener noreferrer">example Web Design for
 Everyone site</a> for reference. We will be peer grading this assignment
 which means that you will grade the code created by your fellow students
 and they will grade yours. But don&#39;t worry, we all want each other to
@@ -353,10 +359,12 @@ ideas.</p>
 the course itself. Please do not contact instructors or teaching
 assistants off the platform, as responding to individual questions is
 virtually impossible. We encourage you to direct your questions to the
-<a href="https://www.coursera.org/learn/html/discussions/forums/aWM4OyvhEe6u3BIzJLH0cQ">Course
+<a href="https://www.coursera.org/learn/html/discussions/forums/aWM4OyvhEe6u3BIzJLH0cQ" 
+target="_blank" rel="noopener noreferrer">Course
 Support Discussion Forum</a>, where your question might be answered by a
 fellow learner or one of our course team members. For technical help
-please contact the <a href="https://learner.coursera.help/hc/en-us">Coursera Learner Help
+please contact the <a href="https://learner.coursera.help/hc/en-us" 
+target="_blank" rel="noopener noreferrer">Coursera Learner Help
 Center</a> support forums.</p>
 
 <h3><b>Accessibility</b></h3>
@@ -367,10 +375,10 @@ disabilities (including but not limited to visual impairments, hearing
 impairments, cognitive disabilities, or motor disabilities) might need
 more specific accessibility-related support to achieve learning goals in
 this course.</p>
-<p>Please use the <a href="https://teamdynamix.umich.edu/TDClient/187/Portal/Requests/TicketRequests/NewForm?ID=3021&amp;RequestorType=Service">
+<p>Please use the <a href="https://teamdynamix.umich.edu/TDClient/187/Portal/Requests/TicketRequests/NewForm?ID=3021&amp;RequestorType=Service" target="_blank" rel="noopener noreferrer">
 accessibility feedback form</a> to let us know about any accessibility challenges such
 as urgent issues that keep you from making progress in the course (e.g.,
-missing or inadequate alt-text, captioning errors). </p>
+missing or inadequate alt-text, captioning errors).</p>
 <p><b>Third-party sites and software:</b> While the University of
 Michigan is not responsible for the accessibility of third-party sites
 or applications that may be linked from this course, we still encourage
@@ -402,11 +410,11 @@ plan for how you will approach taking this course. </p>
 <h3>Coursera platform</h3>
 
 <p>If you are new to Coursera and you want to familiarize yourself with
-the platform, read the <a href="https://learner.coursera.help/hc/en-us/categories/201216173">Help
-Articles in Coursera Help Center</a>. This is a good resource where you
-can find answers to many basic questions such as how to adjust video
-settings, how to submit assignments, and how to gain a course
-certificate. </p>
+the platform, read the <a href="https://learner.coursera.help/hc/en-us/categories/201216173" 
+target="_blank" rel="noopener noreferrer">Help Articles in Coursera Help Center</a>. 
+This is a good resource where you can find answers to many basic questions such 
+as how to adjust video settings, how to submit assignments, and how to gain a 
+course certificate.</p>
 
 <h3>Gamut Tools</h3>
 
@@ -417,12 +425,13 @@ submit and share your own work, receive feedback, and pose questions to
 other learners about their work. It will appear as an item titled,
 “Ungraded App Item.” For more information about this tool and its use in
 our courses, please see the Center for Academic Innovation’s 
-<a href="https://ai.umich.edu/software-tos/">Software Terms of Service</a>.</p>
+<a href="https://ai.umich.edu/software-tos/" 
+target="_blank" rel="noopener noreferrer">Software Terms of Service</a>.</p>
 
 <h3 id="replit">Replit</h3>
 
-<p>In this course we will assume that students will use <a href="https://replit.com/~">
-Replit</a> to host their code. Replit is an
+<p>In this course we will assume that students will use <a href="https://replit.com/~" 
+target="_blank" rel="noopener noreferrer">Replit</a> to host their code. Replit is an
 online Integrated Development Environment (IDE) for writing and sharing
 code. Once you get the hang of using Replit you will be able to easily
 share your code and your deployed website sites with your family and
@@ -433,16 +442,20 @@ prefer.</p>
 
 <p>If students choose not to use Replit, they will want to have an
 editor to create their code.  Two common editors that you will see used
-in this course and by others are <a href="https://www.sublimetext.com/3">Sublime</a> and <a href="https://code.visualstudio.com/">Visual Studio Code</a> (also
-called VSCode).  Both of these programs are free to download and use and
-there are also many online tutorials available to help learn the
+in this course and by others are <a href="https://www.sublimetext.com/3" 
+target="_blank" rel="noopener noreferrer">Sublime</a> and 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+Visual Studio Code</a> (also called VSCode).  Both of these programs are free to 
+download and use and there are also many online tutorials available to help learn the
 software.</p>
 
 <h3>Hosting</h3>
 
-<p>Replit has free <a href="https://docs.replit.com/category/hosting">hosting</a> built-in –
+<p>Replit has free <a href="https://docs.replit.com/category/hosting" 
+target="_blank" rel="noopener noreferrer">hosting</a> built-in –
 they will often refer to it as &quot;sharing your repl.&quot;  There are other
-free hosting services as well, including using <a href="https://pages.github.com/">Github Pages</a>. Learning to use
+free hosting services as well, including using <a href="https://pages.github.com/" 
+target="_blank" rel="noopener noreferrer">Github Pages</a>. Learning to use
 Github Pages can take some time, but is a useful skill for advanced
 learners.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -671,13 +684,14 @@ of fun as you learn more about HTML5.</p>
 basics. In the past I used a textbook that covered too many &quot;extras&quot;.
 The new version of this course (and the entire specialization) will be
 using two online resources.</p>
-<p>The first resource is a big-picture tutorial from Shay Howe called <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML &amp;
-CSS</a>. You can also purchase a paper copy of the book if you prefer,
-but everything you need is free and online. This book isn&#39;t perfect - it
-covers more than I would like to cover but it is a really good start. I
+<p>The first resource is a big-picture tutorial from Shay Howe called <a href="https://learn.shayhowe.com/html-css/" target="_blank" rel="noopener noreferrer">
+Learn to Code HTML &amp; CSS</a>. You can also purchase a paper copy of the book 
+if you prefer, but everything you need is free and online. This book isn&#39;t 
+perfect - it covers more than I would like to cover but it is a really good start. I
 do my best to direct you to sections that most closely follow what I
 will be covering in each video lecture.</p>
-<p>The second resource is the <a href="https://www.w3schools.com/html/">W3 Schools tutorial</a>. This
+<p>The second resource is the <a href="https://www.w3schools.com/html/" 
+target="_blank" rel="noopener noreferrer">W3 Schools tutorial</a>. This
 tutorial is more of a dictionary of terms where you can quickly find
 specific topics.</p>
 <p>While you are reading, make sure to look closely for code. The Shay
@@ -693,9 +707,10 @@ code.</p>
 <h3>Software</h3>
 
 <p>The <b>preferred</b> way to code in this class is editor software
-(Notepad, TextWrangler, Sublime, etc). Recently I have been using <a href="https://code.visualstudio.com/download">Visual Studio Code</a> and
-I really like it. The software is free and works on most types of
-computers. If you are a paid learner you will want to use <a href="https://replit.com/">Replit</a>.</p>
+(Notepad, TextWrangler, Sublime, etc). Recently I have been using <a href="https://code.visualstudio.com/download" target="_blank" rel="noopener noreferrer">
+Visual Studio Code</a> and I really like it. The software is free and works on 
+most types of computers. If you are a paid learner you will want to use 
+<a href="https://replit.com/" target="_blank" rel="noopener noreferrer">Replit</a>.</p>
 
 <h3>Optional Course Resources</h3>
 
@@ -708,7 +723,8 @@ reinforce what you learn over the next few weeks.</p>
 <h3>Codecademy - <em>Optional and more of a long-term prospect</em></h3>
 
 <p>If you are looking for even more hands-on practice many people use
-the <a href="https://www.codecademy.com/">Codecademy</a> website. This
+the <a href="https://www.codecademy.com/" 
+target="_blank" rel="noopener noreferrer">Codecademy</a> website. This
 site awards badges as you complete skills. This site is free, but
 <b><i>registration is required</i></b>. My advice is to make sure you
 are doing more than just trying to &quot;get through,&quot; and focusing on the
@@ -720,7 +736,8 @@ concepts that you are practicing.</p>
 lecture videos.</p>
 
 <ul>
-  <li><a href="https://intro-webdesign.com/resources.html">HTML code examples </a></li>
+  <li><a href="https://intro-webdesign.com/resources.html" 
+    target="_blank" rel="noopener noreferrer">HTML code examples </a></li>
 </ul>
 
 <p>Files with all the code and other text discussed in the videos are
@@ -755,9 +772,9 @@ change.</p>
 <p>Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
 learning style.</p>
-<p>You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code">HTML5 Course
-Code</a>.  It is organized by week, so you can check to see if any code
-is provided for this week&#39;s lessons.</p>
+<p>You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code" 
+target="_blank" rel="noopener noreferrer">HTML5 Course Code</a>. It is organized by 
+week, so you can check to see if any code is provided for this week&#39;s lessons.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-02">1.02 The Evolution of HTML (9:36)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1175,14 +1192,20 @@ different values. So, you can see we have a lot of options, over 300
 trillion, in fact.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 37. the domain name server (dns)  (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image037.png" title="The Domain Name Server (DNS)" alt="The Domain Name Server (DNS)." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image037.png" 
+  title="The Domain Name Server (DNS)" 
+  alt="The Domain Name Server (DNS)." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>As I said, luckily for you, the domain name server lets you type in
 something really simple like Umich or Google, and it&#39;s the one that
 turns it into that really long number.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 38. document - last part of your url (31) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image038.png" title="Document - Last part of your URL" alt="Document - Last part of your URL." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image038.png" 
+  title="Document - Last part of your URL" 
+  alt="Document - Last part of your URL." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The last part of your URL is the document. Sometimes you want to specify
 a very specific document that you want to get. For instance, the contact
@@ -1194,7 +1217,10 @@ document that it&#39;s going to return. Usually, it&#39;s called
 <b>index.html</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. the request (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image039.png" title="The Request" alt="The Request." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image039.png" 
+  title="The Request" 
+  alt="The Request." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>We know what it means when we&#39;re typing something in. We understand the
 request. What happens though once we type that in, is we are actually
@@ -1202,7 +1228,10 @@ going to get back a lot of information. Headers, cookies, form data, all
 the stuff that you don&#39;t see.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. the response (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image040.png" title="The Response" alt="The Response." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image040.png" 
+  title="The Response" 
+  alt="The Response." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The important thing to know is that the server returns files, not web
 pages. For a lot of us, we are very visual. So, when we type in a URL,
@@ -1218,7 +1247,10 @@ may as well go have a snack, do something fun, come back later and type
 it in again.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 41. what happens in the address bar (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image041.png" title="What happens in the address bar" alt="What happens in the address bar." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image041.png" 
+  title="What happens in the address bar" 
+  alt="What happens in the address bar." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>I want to kind of do a live demo with you of what happens when we type
 something in. I&#39;ve written it down for you. It looks up the domain, the
@@ -1226,7 +1258,10 @@ something in. I&#39;ve written it down for you. It looks up the domain, the
 to be returned. Let&#39;s take a look.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 42. example, school of information at u of michigan (33) ~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image042.png" title="Example, School of Info at University of Michigan" alt="Example, School of Info at University of Michigan." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image042.png" 
+  title="Example, School of Info at University of Michigan" 
+  alt="Example, School of Info at University of Michigan." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>What I&#39;ve done here is I&#39;ve gone to the School of Information site at
 the University of Michigan. I simply typed in <b>si.umich.edu</b>. I
@@ -1235,8 +1270,14 @@ see here visually is a page. Student looking out, looking very inspired,
 et cetera.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 43/44. right click inspect school of info (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image043.png" title="Example, School of Info at University of Michigan" alt="Example, School of Info at University of Michigan." style="border: 2px solid #000000; width:45%" />
-<img src="./images/image044.png" title="Inspect, School of Info at University of Michigan" alt="Inspect, School of Info at University of Michigan." style="border: 2px solid #000000; width:45%" />
+<img src="./images/image043.png" 
+  title="Example, School of Info at University of Michigan" 
+  alt="Example, School of Info at University of Michigan." 
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image044.png" 
+  title="Inspect, School of Info at University of Michigan" 
+  alt="Inspect, School of Info at University of Michigan." 
+  style="border: 2px solid #000000; width:45%" />
 
 <p>But now, I&#39;m going to do a little trick here, where I right-click on the
 screen, and I&#39;m going to choose the option that says, &quot;Inspect.&quot; A
@@ -1245,7 +1286,10 @@ what? I would like to see all the information that&#39;s being returned when
 I actually request this page.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 45. example, school of information at u of michigan (34) ~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image045.png" title="Inspect, School of Info at University of Michigan" alt="Inspect, School of Info at University of Michigan." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image045.png" 
+  title="Inspect, School of Info at University of Michigan" 
+  alt="Inspect, School of Info at University of Michigan." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>I&#39;m requesting one page, I&#39;m going to hit &quot;Refresh.&quot; If you look off to
 the side, don&#39;t worry that you can&#39;t see the details. But you should see
@@ -1268,7 +1312,7 @@ server. So, we&#39;re going to start off small. We&#39;re going to do one file
 at a time, but you can always look ahead to building bigger and bigger
 web applications.</p>
 
-<h3>1.03.Browsers</h3>
+<h3>1.03 Browsers</h3>
 
 <p>Browsers are constantly changing. Changing so much that it is
 difficult to keep up with all of the changes once you pick a favorite.
@@ -1280,9 +1324,10 @@ another.</b>  I highly recommend that you check your page on two
 different browsers if you ever get stuck on a site.</p>
 <p>In the lecture video I will do my best to touch on some of the most
 popular browsers. But I am including here a link to an optional reading
-on <a href="https://www.techradar.com/news/the-best-web-browser">the
-&quot;best&quot; browsers</a>. This is an optional reading because I don&#39;t like
-the popups that accompany it.</p>
+on <a href="https://www.techradar.com/news/the-best-web-browser" 
+ target="_blank" rel="noopener noreferrer">the &quot;best&quot; browsers</a>. 
+ This is an optional reading because I don&#39;t like the popups that accompany 
+ it.</p>
 <p>Some people are very loyal to their browsers, any of my comments here
 are just my views! I hope that we have taken some of the mystery away
 from how browsers work and why there are so many.</p>
@@ -1440,7 +1485,10 @@ supported.</p>
 <h2 id="ch1-05">1.05 How to Use an Editor to Create an HTML File (10:11)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 57. how to use an editor to create an html file (1.05) (41) ~~~~~~~~~~~~~~~~-->
-<img src="./images/image057.png" title="1.05 How to Use an Editor to Create an HTML File" alt="1.05 How to Use an Editor to Create an HTML File." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image057.png" 
+  title="1.05 How to Use an Editor to Create an HTML File" 
+  alt="1.05 How to Use an Editor to Create an HTML File." 
+  style="border: 2px solid #000000; width:40%" />
 
 One of the things that you&#39;re going to learn about making your web pages
 is that once in a while, you have to bite the bullet and stop listening
@@ -1451,7 +1499,10 @@ an editor. Before we begin typing in your code though, it is always
 worth your time to organize yourself and organize your files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 58. creating and editing your files (42) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image058.png" title="Creating and Editing Your Files" alt="Creating and Editing Your Files." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image058.png" 
+  title="Creating and Editing Your Files" 
+  alt="Creating and Editing Your Files." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p><b>Step</b> 1, you need to decide where on your computer you&#39;re going
 to save your HTML files. I highly recommend that you make your own
@@ -1489,7 +1540,10 @@ learners, don&#39;t worry, you can still do everything we do. You just have
 to download it first.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59. getting started (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image059.png" title="Getting Started" alt="Getting Started." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image059.png" 
+  title="Getting Started" 
+  alt="Getting Started." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Once you&#39;ve decided on your editor, you&#39;re going to open it up and
 then I&#39;m going to want you to save your file and when you go to save it,
@@ -1506,8 +1560,14 @@ done, you have your code in your editor but you want to open up your
 page in your browser so you can see all the cool stuff that you&#39;ve made.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 60/61. new folder; wd4e using visual studio code (43) ~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image060.png" title="Create a new folder; WD4E using Visual Studio Code" alt="Create a new folder; WD4E using Visual Studio Code." style="border: 2px solid #000000; width:45%" />
-<img src="./images/image061.png" title="Create wd4e.html within folder; WD4E" alt="Create wd4e.html within folder; WD4E." style="border: 2px solid #000000; width:45%" />
+<img src="./images/image060.png" 
+  title="Create a new folder; WD4E using Visual Studio Code" 
+  alt="Create a new folder; WD4E using Visual Studio Code." 
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image061.png" 
+  title="Create wd4e.html within folder; WD4E" 
+  alt="Create wd4e.html within folder; WD4E." 
+  style="border: 2px solid #000000; width:45%" />
 
 <p>Let&#39;s try this together using Visual Studio Code. The first thing that
 I&#39;m going to do is make a folder called &quot;<b>WD4E</b>.&quot; I&#39;m going to
@@ -1638,12 +1698,18 @@ to want to focus on and really become a pro.</p>
 <h2 id="ch1-06">1.06 How to Use VS Code (6:24)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. how to use vs code (1.06) (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image068.png" title="1.06 How to Use VS Code" alt="1.06 How to Use VS Code." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image068.png" 
+  title="1.06 How to Use VS Code" 
+  alt="1.06 How to Use VS Code." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Let&#39;s talk about how to use Visual Studio code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69. vs code welcome screen (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image069.png" title="VS Code Welcome screen" alt="VS Code Welcome screen." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image069.png" 
+  title="VS Code Welcome screen" 
+  alt="VS Code Welcome screen."
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Once you open up Visual Studio Code, it&#39;s not unusual to be overwhelmed
 at first as to what you should be doing. Particularly since when we
@@ -1651,14 +1717,20 @@ think of webpages, we like to think of a web page is being one-page. But
 actually a web page is numerous files that are all put together.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70. vs code, open folder (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image070.png" title="VS Code, open folder" alt="VS Code, open folder." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image070.png"
+  title="VS Code, open folder" 
+  alt="VS Code, open folder." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>My recommendation for you is once you start Visual Studio Code to always
 click on &quot;File,&quot; &quot;Open Folder,&quot; and navigate to the folder that you
 created for your site. In this case, it&#39;s &quot;wd4e-html.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 71. vs code, explorer screen (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image071.png" title="VS Code, Explorer screen" alt="VS Code, Explorer screen." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image071.png" 
+  title="VS Code, Explorer screen"
+  alt="VS Code, Explorer screen."
+  style="border: 2px solid #000000; width:50%" />
 
 <p>The reason that you want to open an entire folder, and I&#39;m going to say,
 yes, I trust the authors because it&#39;s me, is because off here to the
@@ -1692,7 +1764,10 @@ to go to your folder, find your first page and when we click on it, it
 opens up in Google Chrome.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. firstpage with title (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image072.png" title="firstPage.html with title" alt="firstPage.html with title." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image072.png" 
+  title="firstPage.html with title" 
+  alt="firstPage.html with title." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>I&#39;m going to zoom in so you can see it a little bit better. You can see
 I have a title up here of, &quot;My Amazing First Page.&quot; Let&#39;s say I want to
@@ -1700,8 +1775,14 @@ go back and say, maybe my first page looks maybe not great, it just
 looks okay.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73/74. firstpage.html (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image073.png" title="firstPage with HTML initial code" alt="firstPage with HTML initial code." style="border: 2px solid #000000; width:45%" />
-<img src="./images/image074.png" title="My first page looks okay" alt="My first page looks okay." style="border: 2px solid #000000; width:45%" />
+<img src="./images/image073.png" 
+  title="firstPage with HTML initial code"
+  alt="firstPage with HTML initial code."
+  style="border: 2px solid #000000; width:45%" />
+<img src="./images/image074.png" 
+  title="My first page looks okay" 
+  alt="My first page looks okay." 
+  style="border: 2px solid #000000; width:45%" />
 
 <p>Because we&#39;re new, we have ways to improve. I&#39;m going to save it. But
 when I go back over here, it still looks the same as it did last time.
@@ -1710,7 +1791,10 @@ tell your browser to reload it. I&#39;m going to click here on the &quot;Reload,
 and it now it says, &quot;My first page looks okay.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 75. firstpage with title, head, body (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image075.png" title="firstPage.html in wd4e-html, with title, head, and body" alt="firstPage.html in wd4e-html, with title, head, and body." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image075.png" 
+  title="firstPage.html in wd4e-html, with title, head, and body" 
+  alt="firstPage.html in wd4e-html, with title, head, and body." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Personally, when I code, I like to have half my screen as the browser,
 and half my screen as text editor, so I can go back and forth and see
@@ -1721,7 +1805,10 @@ always how it&#39;s going to look on the webpage, will learn how to fix
 that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 76. vs code, add live server for testing (52) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image076.png" title="VS Code, add Live Server for testing purposes" alt="VS Code, add Live Server for testing purposes." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image076.png" 
+  title="VS Code, add Live Server for testing purposes" 
+  alt="VS Code, add Live Server for testing purposes." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>But I want to show you one more tip just in case you feel like Visual
 Studio Code is the editor you want to use. I&#39;m going to click back on
@@ -1737,7 +1824,10 @@ you type. I&#39;m going to close this up here. I&#39;m going to make sure that I
 can see both things on the same page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 77. html code & browser test screen (52) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image077.png" title="firstPage.html in wd4e.html and browser test screen" alt="firstPage.html in wd4e.html and browser test screen." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image077.png" 
+  title="firstPage.html in wd4e.html and browser test screen" 
+  alt="firstPage.html in wd4e.html and browser test screen." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Now that I have Live server, I&#39;m going to go down here to the bottom
 of the screen where it says &quot;go live&quot; at the very bottom. Now, every
@@ -1753,9 +1843,10 @@ install &quot;Live Server&quot; and then from there we will go and learn how to
 add multiple files, multiple images, and lots of things that is going to
 make your webpage look amazing.</p>
 
-<h3>1.06.Editors: How to use VS Code</h3>
+<h3>1.06 Editors: How to use VS Code</h3>
 
-<p>We highly recommend using <a href="https://replit.com/">Replit</a>
+<p>We highly recommend using <a href="https://replit.com/" 
+target="_blank" rel="noopener noreferrer">Replit</a>
 but Visual Studio Code (VSCode) is a popular editor that you may want to
 use as well – especially if you need to code without access to the
 Internet.</p>
@@ -1773,9 +1864,11 @@ Internet.</p>
 </ol>
 
 <p>If you want to use VSCode you will probably need to download it to
-your computer. Here is a trusted link: <a href="https://code.visualstudio.com/download">Download Visual Studio
+your computer. Here is a trusted link: <a href="https://code.visualstudio.com/download" 
+ target="_blank" rel="noopener noreferrer">Download Visual Studio
 Code - Mac, Linux, Windows</a></p>
-<p>Once you have the software installed you can watch the <a href="https://code.visualstudio.com/docs/introvideos/basics">Getting
+<p>Once you have the software installed you can watch the <a href="https://code.visualstudio.com/docs/introvideos/basics" 
+target="_blank" rel="noopener noreferrer">Getting
 started with Visual Studio Code</a>.  Don’t worry that they start with
 Python and JavaScript, they get to an HTML example about 5 minutes into
 the video!   Make sure to focus on the parts of the video where you can
@@ -1784,13 +1877,17 @@ Preview.</p>
 <p>One of the most powerful tools in VSCode is IntelliSense – a feature
 that fills in code for you.  For introductory students it can get
 confusing if VSCode fills in the code that you were expecting.  So I
-encourage you to validate all of your code with the <a href="https://validator.w3.org/">The W3C Markup Validation Service</a>
+encourage you to validate all of your code with the <a href="https://validator.w3.org/" 
+ target="_blank" rel="noopener noreferrer">The W3C Markup Validation Service</a>
 to ensure that you are writing syntactically correct code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch1-07">1.07 How to use Replit (5:55)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. how to use replit (1.07) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image078.png" title="1.07 How to Use Replit" alt="1.07 How to Use Replit." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image078.png"
+  title="1.07 How to Use Replit" 
+  alt="1.07 How to Use Replit." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Earlier I mentioned that one of the editors I would highly recommend you
 use in this course is called &quot;Replit,&quot; because I want to show you that
@@ -1798,7 +1895,10 @@ writing code is great. Writing code that you can share online to show
 others your progress is also really exciting.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79. online editors; replit (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image079.png" title="Online editors; Replit" alt="Online editors; Replit." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image079.png" 
+  title="Online editors; Replit" 
+  alt="Online editors; Replit." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>You&#39;ve probably used online editors before. Google Docs and Microsoft
 365 are common ways to share your documents. You can type something in,
@@ -1884,7 +1984,10 @@ through it. If you look, you will see that Repl has provided a lot of
 scaffolding for us, right?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 85. myfirstpage without style or scripts (58) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image085.png" title="myFirstPage.html without style or scripts" alt="myFirstPage.html without style or scripts." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image085.png"
+  title="myFirstPage.html without style or scripts"
+  alt="myFirstPage.html without style or scripts."
+  style="border: 2px solid #000000; width:50%" />
 
 <p>It&#39;s gone in and it&#39;s given us a lot of code. It&#39;s provided that DOCTYPE
 HTML. It has a title for us, it&#39;s called &quot;Replit&quot; so I might change that
@@ -1897,7 +2000,10 @@ need but I am going to say instead of &quot;Hello world,&quot; I&#39;m going to 
 in &quot;Hello Colleen&quot; and I&#39;m going to do a command-S (ctrl-S) for save.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 86. replit's myfirstpage with ide display screen (58) ~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image086.png" title="Replit myFirstPage with IDE display screen" alt="Replit myFirstPage with IDE display screen." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image086.png" 
+  title="Replit myFirstPage with IDE display screen"
+  alt="Replit myFirstPage with IDE display screen."
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Did you notice something off here to the right? It will automatically
 show us what our page is going to look like as we type and save things.
@@ -1909,7 +2015,8 @@ and see my code.</p>
 
 <p>I want you to look and take the time to really check out Repl and see
 that you can see like, oh, I even have a real web page here. My web page
-is https://myfirstpage.wd4ehtml.repl.co. Notice that it deleted my
+is <a href="https://myfirstpage.wd4ehtml.repl.co" 
+target="_blank" rel="noopener noreferrer">here</a>. Notice that it deleted my
 CamelCase. It made it all lower case. The reason for that is because
 when you&#39;re typing in a URL, what&#39;s the chance that someone&#39;s actually
 going to remember to make some of them upper case and some of them lower
@@ -1917,7 +2024,7 @@ case? You&#39;ll create files, you&#39;ll edit your files. While you edit them,
 you&#39;ll be able to see what they look like. This is why I&#39;m recommending
 you use Replit.</p>
 
-<h3>1.07.Editors: How to use Replit</h3>
+<h3>1.07 Editors: How to use Replit</h3>
 
 <p>Replit is what we call an Integrated Development Environment – this
 is a fancy term software that lets you do more than just edit your
@@ -1925,10 +2032,11 @@ files. In this case Replit lets you create a page AND host it so that
 other people can see what you have created.</p>
 <p>Replit is free, and the first step is to make an account.</p>
 
-<h3>1.07.Getting started</h3>
+<h3>1.07 Getting started</h3>
 
 <ol type="1">
-  <li><p>Go to <a href="https://replit.com/" class="uri">https://replit.com/</a></p></li>
+  <li><p>Go to <a href="https://replit.com/" target="_blank" rel="noopener noreferrer" 
+    class="uri">https://replit.com/</a></p></li>
   <li><p>Select sign up</p></li>
   <li><p>Create a username, provide an email, and create a password</p></li>
   <li><p>At any time if you are asked to answer the optional questions (programming 
@@ -1937,12 +2045,18 @@ other people can see what you have created.</p>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 87. create a replit account screen (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image087.png" title="Create a Replit Account screen" alt="Create a Replit Account screen." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image087.png" 
+  title="Create a Replit Account screen" 
+  alt="Create a Replit Account screen." 
+  style="border: 2px solid #000000; width:40%" />
 
-<h3>1.07.Creating a repl</h3>
+<h3>1.07 Creating a repl</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 88. + create repl button under the heading my repls (60) ~~~~~~~~~~~~~~~~~-->
-<img src="./images/image088.png" title="The + Create button under the heading My Repls" alt="The + Create button under the heading My Repls." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image088.png" 
+  title="The + Create button under the heading My Repls" 
+  alt="The + Create button under the heading My Repls." 
+  style="border: 2px solid #000000; width:40%" />
 
 <ol type="1">
   <li><p>If you search the page you should find a heading titled: My Repls. Under that is a 
@@ -1975,7 +2089,7 @@ section, the Coding Environment, and the View window.</p>
   alt="The Files Section." 
   style="border: 2px solid #000000; width:30%" />
 
-<h3>1.07.File Section</h3>
+<h3>1.07 File Section</h3>
 
 <p>The file section is located on the top left corner of the screen.
 This is where you can:</p>
@@ -1990,7 +2104,7 @@ template based on this extension.</p></li>
 your new folder</p></li>
 </ul>
 
-<h3>1.07.Coding Environment</h3>
+<h3>1.07 Coding Environment</h3>
 
 <p>The coding environment is located in the middle of the screen and is
 where you can edit your code.</p>
@@ -2001,7 +2115,7 @@ where you can edit your code.</p>
   alt="index.html in Replit code editor." 
   style="border: 2px solid #000000; width:50%" />
 
-<h3>1.07.View Window</h3>
+<h3>1.07 View Window</h3>
 
 <p>As you make changes you can click the run button and Replit will
 display your index.html file in the Webview area on the right hand side
@@ -2018,8 +2132,9 @@ created your repl.</p>
   alt="URL and Webview." 
   style="border: 2px solid #000000; width:30%" />
 
-<h3>1.07.More information</h3>
-<p>You can always go to the <a href="https://docs.replit.com/getting-started/intro-replit">official
+<h3>1.07 More information</h3>
+<p>You can always go to the <a href="https://docs.replit.com/getting-started/intro-replit" 
+target="_blank" rel="noopener noreferrer">official
 Replit site</a> for more detailed information on items such as:</p>
 
 <ul>
@@ -2028,23 +2143,26 @@ Replit site</a> for more detailed information on items such as:</p>
   <li><p>How can I save my file and add a new one? </p></li>
 </ul>
 
-<h3>1.07.Additional Resources</h3>
+<h3>1.07 Additional Resources</h3>
 
 <p>Here are some optional resources for you to explore if you are
 interested in learning more about the topics from this week.</p>
 
-<h3>1.07.The origins of MOSAIC</h3>
+<h3>1.07 The origins of MOSAIC</h3>
 
-<p><a href="https://www.youtube.com/watch?v=-c8iWUh3Sv4&amp;app=desktop">Interview
-with Joseph Hardin.</a> If you are interested in learning more about the
-people who developed Mosaic, here is an interview with Joseph Hardin.
-The material in this video is just meant as a supplemental resource and
-is not required for the quizzes or any other evaluation.</p>
+<p><a href="https://www.youtube.com/watch?v=-c8iWUh3Sv4&amp;app=desktop" 
+target="_blank" rel="noopener noreferrer">Interview with Joseph Hardin.</a> 
+If you are interested in learning more about the people who developed Mosaic, 
+here is an interview with Joseph Hardin. The material in this video is just 
+meant as a supplemental resource and is not required for the quizzes or any 
+other evaluation.</p>
 
-<h3>1.07.Readings</h3>
+<h3>1.07 Readings</h3>
 
-<p>The readings come from <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML &amp;
-CSS: Develop &amp; Style Websites</a> and the <a href="https://www.w3schools.com/html">W3Schools tutorials</a>.</p>
+<p>The readings come from <a href="https://learn.shayhowe.com/html-css/" 
+target="_blank" rel="noopener noreferrer">Learn to Code HTML &amp;
+CSS: Develop &amp; Style Websites</a> and the <a href="https://www.w3schools.com/html" 
+target="_blank" rel="noopener noreferrer">W3Schools tutorials</a>.</p>
 
 <p>Some students prefer to do the readings before the lecture videos -
 they find it easier to listen when they recognize some of the words I am
@@ -2061,11 +2179,15 @@ we are not covering in this course. (CSS is the next course in this
 series.)</p>
 
 <ul>
-  <li><p><a href="https://learn.shayhowe.com/html-css/getting-to-know-html/">
+  <li><p><a href="https://learn.shayhowe.com/html-css/getting-to-know-html/" 
+    target="_blank" rel="noopener noreferrer">
     Lesson 2: Getting to Know HTML  </a></p></li>
-  <li><p><a href="https://www.w3schools.com/html/html_links.asp">HTML Links</a></p></li>
-  <li><p><a href="https://www.w3schools.com/html/html_lists.asp">HTML Lists</a></p></li>
-  <li><p><a href="https://www.w3schools.com/html/html_images.asp">HTML Images</a></p></li>
+  <li><p><a href="https://www.w3schools.com/html/html_links.asp" 
+    target="_blank" rel="noopener noreferrer">HTML Links</a></p></li>
+  <li><p><a href="https://www.w3schools.com/html/html_lists.asp" 
+    target="_blank" rel="noopener noreferrer">HTML Lists</a></p></li>
+  <li><p><a href="https://www.w3schools.com/html/html_images.asp" 
+    target="_blank" rel="noopener noreferrer">HTML Images</a></p></li>
 </ul>
 
 <h3>1.07.Lecture Slides</h3>
@@ -2083,7 +2205,8 @@ change.</p>
 <p>Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
 learning style.</p>
-<p>You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code">HTML5 Course
+<p>You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code" 
+target="_blank" rel="noopener noreferrer">HTML5 Course
 Code</a>.  It is organized by week, so you can check to see if any code
 is provided for this week&#39;s lessons.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2092,8 +2215,11 @@ is provided for this week&#39;s lessons.</p>
 <h3>Learning Objectives</h3>
 
 <ul>
-  <li><p> .</p></li>
-  <li><p> .</p></li>
+  <li><p>Recognize the importance of accessibility and list steps to take when coding to enhance it.</p></li>
+  <li><p>Recognize and use common HTML5 tags.</p></li>
+  <li><p>Identify the parts of a syntactically correct HTML page.</p></li>
+  <li><p>Compose HTML5 code that can create images and links.</p></li>
+  <li><p>Identify the difference between syntax and semantics.</p></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2110,7 +2236,10 @@ I&#39;m talking about learning how to write code that&#39;s going to work on as
 many devices as possible.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 94. the document object model (dom) (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image094.png" title="The Document Object Model (DOM)" alt="The Document Object Model (DOM)." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image094.png" 
+  title="The Document Object Model (DOM)" 
+  alt="The Document Object Model (DOM)." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>In order to do that, you need to know a little bit about the Document
 Object Model, also called the DOM. When HTML5 was developed the main
@@ -2126,7 +2255,10 @@ we can prove to be valid or invalid.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 95. tree structure; html is built on the dom (66) ~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image095.png" title="HTTML is built on the DOM" alt="HTTML is built on the DOM." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image095.png" 
+  title="HTTML is built on the DOM" 
+  alt="HTTML is built on the DOM." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>When we talk about HTML as a tree we&#39;re talking about this idea that
 at the very root of the tree we are going to be creating HTML. Then,
@@ -2147,7 +2279,10 @@ to be giving you certain types of tags and here&#39;s how I want them to
 work.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 96. three parts of a well-formed document; doctype, head & body (67) ~~~~~~~~~~~~-->
-<img src="./images/image096.png" title="Three parts of a well-formed document; Doctype, Head and Body" alt="Three parts of a well-formed document; Doctype, Head and Body." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image096.png" 
+  title="Three parts of a well-formed document; Doctype, Head and Body" 
+  alt="Three parts of a well-formed document; Doctype, Head and Body." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>If we don&#39;t look at it as a picture, I can also kind of just tell you
 that every tree has three parts to a well-formed document. The
@@ -2158,7 +2293,10 @@ The thing that most people are going to get back when they do the
 <b>request-response cycle</b>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. doctype html (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image097.png" title="Doctype html" alt="Doctype html." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image097.png" 
+  title="Doctype html" 
+  alt="Doctype html." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>So let&#39;s talk <b>doctype</b>. You are so lucky. When I was creating web
 pages at first and we were in HTML4, we had to come up with all these
@@ -2168,7 +2306,10 @@ say, &quot;Nope, there&#39;s only one thing and it&#39;s called DOCTYPE HTML, an
 you&#39;re all set.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98. head meta-data & title (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image098.png" title="Head meta-data and title" alt="Head meta-data and title." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image098.png"
+  title="Head meta-data and title"
+  alt="Head meta-data and title."
+  style="border: 2px solid #000000; width:40%" />
 
 <p>For the <b>head</b> which is inside the <b>head</b> tag, we&#39;re going
 to have all this additional information used by the browser. For
@@ -2185,7 +2326,10 @@ change the way people view and interact with your site. Other than the
 title, the metadata is not displayed, people will not see it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. body (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image099.png" title="Body" alt="Body." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image099.png" 
+  title="Body" 
+  alt="Body" 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>What people do see is the information that&#39;s in your <b>body</b> tag.
 That <b>body</b> tag is the bulk of your page. It&#39;s very important to
@@ -2196,7 +2340,10 @@ once in a while there&#39;s a little bit of metadata in there too. But we&#39;re
 not going to hit that in this class.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. example, template.html (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image100.png" title="Example, template.html" alt="Example, template.html." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image100.png" 
+  title="Example, template.html" 
+  alt="Example, template.html." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Let&#39;s look at an example. Right here, I have a file called
 &quot;template.html,&quot; and I&#39;m displaying the code here on the screen for you.
@@ -2221,7 +2368,10 @@ three parts.</p>
 that we want to see on the screen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 101. browser display template.html (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image101.png" title="Browser display template.html" alt="Browser display template.html." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image101.png" 
+  title="Browser display template.html" 
+  alt="Browser display template.html." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>So let&#39;s look at this in a browser. What do I have? I have my
 <b>title</b> way up here, and my displayable content right down there. I
@@ -2229,7 +2379,10 @@ have written the code, the next step you should always do is validate
 the code.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 102. validate the code with validator.w3.org (70) ~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image102.png" title="Validate the Code with validator.w3.org" alt="Validate the Code with validator.w3.org." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image102.png" 
+  title="Validate the Code with validator.w3.org" 
+  alt="Validate the Code with validator.w3.org." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Say, &quot;Ok, I have written code it looks good, but I know that browsers
 are very nice and they make things display nicely even when I haven&#39;t
@@ -2243,7 +2396,10 @@ taping this, it successfully checked. Don&#39;t worry about warnings.
 Warnings are usually in to cover themselves.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. validator.w3.org options (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image103.png" title="validator.w3.org options" alt="validator.w3.org options." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image103.png" 
+  title="validator.w3.org options" 
+  alt="validator.w3.org options." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>What if you want to validate your file but your files aren&#39;t actually on
 the Internet yet? Let&#39;s walk through really quickly an example of how
@@ -2253,7 +2409,10 @@ changed the file and I put in an intentional typo. I spelled the closing
 tag for title incorrectly.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 104. validate by direct input & click 'check' (71) ~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image104.png" title="Validate by direct input, then click &#39;check&#39;" alt="Validate by direct input, then click &#39;check&#39;." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image104.png" 
+  title="Validate by direct input, then click &#39;check&#39;" 
+  alt="Validate by direct input, then click &#39;check&#39;." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Let&#39;s see what happens. And if the browser or the validator can find
 this. What I&#39;m going to do is I went to <b>validator.w3.org</b>, and I&#39;m
@@ -2270,14 +2429,20 @@ forgot to close the title tag.&quot; So sometimes one error can cause a lot
 of error messages.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 105. check again, no errors or warnings (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image105.png" title="Check again, no errors or warnings" alt="Check again, no errors or warnings." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image105.png" 
+  title="Check again, no errors or warnings" 
+  alt="Check again, no errors or warnings." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>I&#39;m going to go back over to my code, I&#39;m going to fix it and put that
 title in and save it. Copy it again, put it in and I&#39;m going to check
 again. This time, checking complete, no errors.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. review the 'dom' (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image106.png" title="Review the &#39;Document Object Model&#39; (DOM)" alt="Review the &#39;Document Object Model&#39; (DOM)." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image106.png" 
+  title="Review the &#39;Document Object Model&#39; (DOM)" 
+  alt="Review the &#39;Document Object Model&#39; (DOM)." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Just to review, you really want to follow <b>DOM</b> structure if you
 want a well-formed page. Following that structure means you always use
@@ -2295,7 +2460,7 @@ So, just because your site looks good to you when you&#39;re looking at it
 on your browser, doesn&#39;t mean it&#39;s right. You have to use a validator to
 check your code.</p>
 
-<h3>2.01.HTML5 Tags and Syntax</h3>
+<h3>2.01 HTML5 Tags and Syntax</h3>
 
 <p>At first it will seem like the number of tags is overwhelming, but
 you can really start by focusing on the most common. These tags
@@ -2314,9 +2479,10 @@ include:</p>
 tags. It will also tell you more about the handy option to View HTML
 code when you visit pages.</p>
 
-<h3>2.01. <a href="https://www.w3schools.com/html/html_basic.asp">HTML Basic Examples</a></h3>
+<h3>2.01 <a href="https://www.w3schools.com/html/html_basic.asp" 
+  target="_blank" rel="noopener noreferrer">HTML Basic Examples</a></h3>
 
-<h3>2.01. <a href="https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold.">HTML Headings</a></h3>
+<h3>2.01 <a href="https://www.w3schools.com/html/html_headings.asp#:~:text=It%20is%20important%20to%20use,make%20text%20BIG%20or%20bold" target="_blank" rel="noopener noreferrer">HTML Headings</a></h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-02">2.02 HTML5 Tags and Syntax (12:10)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2633,15 +2799,18 @@ past.</p>
 <li><p>WPKube has prepared an extensive, up-to-date, ultimate cheat
 sheet on HTML 5— it includes all the tags listed in alphabetical order.
 We also included the availability of the tag from the previous HTML 4
-version for comparison. You can find it at: <a href="https://www.wpkube.com/html5-cheat-sheet/">The Ultimate HTML5
+version for comparison. You can find it at: <a href="https://www.wpkube.com/html5-cheat-sheet/" 
+target="_blank" rel="noopener noreferrer">The Ultimate HTML5
 Cheat Sheet</a>[.]</p></li>
 <li><p>This next cheat sheet also provides information on tags, but has
 a built-in editor to try things out. It also includes information on how
-to add some of your favorite emojis!  You can find it at: <a href="https://htmlcheatsheet.com/">HTML Cheat Sheet</a></p></li>
+to add some of your favorite emojis!  You can find it at: <a href="https://htmlcheatsheet.com/" 
+target="_blank" rel="noopener noreferrer">HTML Cheat Sheet</a></p></li>
 <li><p>The third cheat sheet comes from Webaim.  It not only covers the
 tags, but helps to explain the semantics and function of each tag and
 what accessibility considerations you might want to think about when
-using it. You can find it at:  <a href="https://webaim.org/resources/htmlcheatsheet/">WebAIM: HTML
+using it. You can find it at:  <a href="https://webaim.org/resources/htmlcheatsheet/" 
+target="_blank" rel="noopener noreferrer">WebAIM: HTML
 Semantics and Accessibility Cheat Sheet</a></p></li>
 </ol>
 
@@ -2654,8 +2823,8 @@ will still work, it can make your code hard to read and hard to
 change.</p>
 <p>We need to do our best to keep our code “clean” – this means using
 the HTML5 structural elements where suitable. A quick refresher on
-semantic tags can be found on the W3Schools site <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">HTML
-Semantic Elements</a>.</p>
+semantic tags can be found on the W3Schools site <a href="https://www.w3schools.com/html/html5_semantic_elements.asp" 
+target="_blank" rel="noopener noreferrer">HTML Semantic Elements</a>.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="ch2-03">2.03 Semantic Tags (6:04)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2695,7 +2864,10 @@ section, and a few other sections embedded in between the two of them.
 Once I know that that&#39;s the kind of design I want, I can begin coding.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 123. using semantic tags - old div (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image123.png" title="Using Semantic Tags - old &#39;div&#39;" alt="Using Semantic Tags - old &#39;div&#39;." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image123.png" 
+  title="Using Semantic Tags - old &#39;div&#39;" 
+  alt="Using Semantic Tags - old &#39;div&#39;." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>You may recall that one of the most common tags used to be the
 <b>&lt;div&gt;</b> tag, because in the beginning, kind of dum, dum, dum,
@@ -2708,7 +2880,10 @@ back to your design and really break it up in a way that worked best for
 you.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. example, header tag (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image124.png" title="Example, header tag" alt="Example, header tag." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image124.png" 
+  title="Example, header tag" 
+  alt="Example, header tag." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The first tag that I&#39;ll be talking to you about today is the header
 tag. The header tag is typically used to group together introductory or
@@ -2729,7 +2904,10 @@ remember that the <b>&lt;head&gt;</b> tag is for metadata, and the
 <b>&lt;header&gt;</b> tag is more of just an aid.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 125. example, nav tag (navigation) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image125.png" title="Example, the navigation tag (nav)" alt="Example, the navigation tag (nav)." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image125.png" 
+  title="Example, the navigation tag (nav)" 
+  alt="Example, the navigation tag (nav)." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The next tag I&#39;m gonna talk to you about today is the <b>&lt;nav&gt;</b>
 tag. The nav is basically a section of your page that links to other
@@ -2745,7 +2923,10 @@ your page. Oftentimes, you&#39;ll find the <b>&lt;nav&gt;</b> tag embedded
 inside the <b>&lt;header&gt;</b> tag.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. example, footer tag (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image126.png" title="Example, footer tag" alt="Example, footer tag." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image126.png" 
+  title="Example, footer tag" 
+  alt="Example, footer tag." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Another tag is the <b>&lt;footer&gt;</b> tag, and this is a section
 that contains information that is pretty typical for the bottom of the
@@ -2760,7 +2941,10 @@ also included a link back to my main site. Some of our other semantic
 tags have a little bit more oomph to them.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. example, figure tag (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image127.png" title="Example, figure tag" alt="Example, figure tag." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image127.png" 
+  title="Example, figure tag" 
+  alt="Example, figure tag." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>For instance, one of the new tags is the <b>&lt;figure&gt;</b> tag, and
 it has a lot more semantics than the image tag we&#39;ve gone over
@@ -2805,7 +2989,7 @@ Semantic guide tags are gonna help guide your users to the information
 in your page. And that&#39;s really what you want to do, you want to make
 your page the most accessible to as many people as possible.</p>
 
-<h3>2.03.Code Placement</h3>
+<h3>2.03 Code Placement</h3>
 
 <p>When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
@@ -2857,7 +3041,10 @@ Let&#39;s go ahead and go back and actually create something real that has
 been using the tags that we&#39;ve been talking about.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 131. minimum requirements; lab assignment (93) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image131.png" title="Minimum requirements; lab assignment" alt="Minimum requirements; lab assignment." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image131.png" 
+  title="Minimum requirements; lab assignment" 
+  alt="Minimum requirements; lab assignment." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The minimum requirements that I&#39;m going to want you to have is one,
 create a real page and make sure to call it &quot;index.html&quot;. Remember,
@@ -2870,7 +3057,10 @@ page validates. Go in to the W3 validator and/or the WAVE validator to
 take a look and see what&#39;s going on.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 132. start with a shell; doctype, meta-data & displayable content (93) ~~~~~~~~~~-->
-<img src="./images/image132.png" title="Start with a Shell; Doctype, meta-data &amp; displayable content" alt="Start with a Shell; Doctype, meta-data &amp; displayable content." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image132.png" 
+  title="Start with a Shell; Doctype, meta-data &amp; displayable content" 
+  alt="Start with a Shell; Doctype, meta-data &amp; displayable content." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Make sure to start with the shell. The shell includes your doctype, any
 meta-data, that&#39;s the head section, as well as your displayable content.
@@ -2930,7 +3120,10 @@ nuggets. You can see, I had very sophisticated taste in food. I have
 done a lot of typing so far.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. control-s to save document (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image135.png" title="Control-S to save document" alt="Control-S to save document." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image135.png" 
+  title="Control-S to save document" 
+  alt="Control-S to save document." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>One of the things I want to remind everybody is never do this much
 typing without remembering to save. I can see that I haven&#39;t saved in a
@@ -2940,7 +3133,10 @@ remember. I can see my code. How can I also see my deployed page? One
 option is to go in and find &quot;index.html&quot; on your folder and open it up.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 136. bottom right click 'go live' (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image136.png" title="Bottom right, click &#39;go live&#39;" alt="Bottom right, click &#39;go live&#39;." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image136.png" 
+  title="Bottom right, click &#39;go live&#39;" 
+  alt="Bottom right, click &#39;go live&#39;." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>But instead, I&#39;m going to click on &quot;Go Live.&quot; When I did, you can see it
 popped in my page up for me. I&#39;m going to make it a little bit bigger so
@@ -2948,7 +3144,10 @@ you can see everything. I also wanted to have a footer, so let&#39;s add a
 footer in here. My footer is going to be &quot;Copyright Colleen van Lent.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. website with footer added (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image137.png" title="Add footer and copyright to website" alt="Add footer and copyright to website." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image137.png" 
+  title="Add footer and copyright to website" 
+  alt="Add footer and copyright to website." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>I&#39;m going to save my page, and you can see it popped up. Things are
 looking good so far. If all we&#39;re looking at is my page, everything
@@ -3229,19 +3428,23 @@ continue with the next lessons I encourage you to review the old reading
 on images and the new reading below about icons.</p>
 
 <ul>
-  <li><a href="https://www.w3schools.com/html/html_images.asp">HTML Images</a></li>
+  <li><a href="https://www.w3schools.com/html/html_images.asp" 
+    target="_blank" rel="noopener noreferrer">HTML Images</a></li>
 </ul>
 
 <blockquote>
-  <p><a href="https://www.w3schools.com/html/html_images.asp">HTML Images</a>.</p>
+  <p><a href="https://www.w3schools.com/html/html_images.asp" 
+    target="_blank" rel="noopener noreferrer">HTML Images</a>.</p>
 </blockquote>
 
 <ul>
-  <li><a href="https://www.w3schools.com/icons/">Icons Tutorial</a></li>
+  <li><a href="https://www.w3schools.com/icons/" 
+    target="_blank" rel="noopener noreferrer">Icons Tutorial</a></li>
 </ul>
 
 <blockquote>
-  <p><a href="https://www.w3schools.com/icons/">W3Schools Icons</a>.</p>
+  <p><a href="https://www.w3schools.com/icons/" 
+    target="_blank" rel="noopener noreferrer">W3Schools Icons</a>.</p>
 </blockquote>
 
 <p>Not only do we want to talk about how to add images and icons to our
@@ -3267,25 +3470,29 @@ to social media you can add descriptive text.</p>
 <p>Here are some resources for you to use:</p>
 
 <ul>
-  <li><a href="https://www.facebook.com/help/android-app/214124458607871">
+  <li><a href="https://www.facebook.com/help/android-app/214124458607871" 
+    target="_blank" rel="noopener noreferrer">
     How do I edit the alternative text for a photo on Facebook?</a></li>
 </ul>
 
 <p>https://www.facebook.com/help/android-app/214124458607871</p>
 
 <ul>
-  <li><a href="https://help.instagram.com/503708446705527">
+  <li><a href="https://help.instagram.com/503708446705527" 
+    target="_blank" rel="noopener noreferrer">
     Edit the alternative text for a post on Instagram &#39;| Instagram Help Center</a></li>
 </ul>
 
 <p>https://help.instagram.com/503708446705527</p>
 
 <ul>
-  <li><a href="https://help.pinterest.com/en/article/add-alternative-text-to-your-pins">
+  <li><a href="https://help.pinterest.com/en/article/add-alternative-text-to-your-pins" 
+    target="_blank" rel="noopener noreferrer">
     Add alternative text to your Pins &#39;| Pinterest help</a></li>
 </ul>
 
-<a href="https://help.pinterest.com/en">Pinterest Help Page</a>.
+<a href="https://help.pinterest.com/en" 
+  target="_blank" rel="noopener noreferrer">Pinterest Help Page</a>.
 
 <p>Since platforms change all of the time you may find that the links
 above have changed.  Or maybe there is a different platform you are
@@ -3315,7 +3522,10 @@ Not just by writing good, accessible, clean code, but also making sure
 your images look the way that you want them to look.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 156. images - its more than the tag (108) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image156.png" title="Images - its more than the tag" alt="Images - its more than the tag." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image156.png" 
+  title="Images - its more than the tag" 
+  alt="Images - its more than the tag." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The image tag really has a lot of things going on with it. Many file
 types are supported when you&#39;re making your web page. Your files can be
@@ -3337,7 +3547,10 @@ don&#39;t belong to you, if they&#39;re behind a paywall, it can all mess up
 your page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. image sizes (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image157.png" title="Images Sizes" alt="Images Sizes." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image157.png" 
+  title="Images Sizes" 
+  alt="Images Sizes." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>The first thing you need to realize is that when you link an image,
 your browser displays the image as big or as small as the file. And that
@@ -3349,7 +3562,10 @@ it. The quick solution for that is you can either change the file or we
 can use something called width and height attributes.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. using an editor (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image158.png" title="Using an Editor" alt="Using an Editor." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image158.png" 
+  title="Using an Editor" 
+  alt="Using an Editor." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>If you decide to use an editor to permanently change the style of the
 image, that&#39;s only going to really work on what we call like local
@@ -3361,7 +3577,10 @@ it up and adjust the size to how you would like it to fit not only the
 size, but you can also crop it to different dimensions.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. using attributes (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image159.png" title="Using Attributes" alt="Using Attributes." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image159.png" 
+  title="Using Attributes" 
+  alt="Using Attributes." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>However, more and more people are using these, what we call
 attributes to size the image. It used to be the case that you never
@@ -3375,7 +3594,10 @@ pictures from flashing and flickering as they adjust to different
 sizes.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 160. example, figure - default image size (110) ~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image160.png" title="Example, figure, img src, figcaption - default image size" alt="Example, figure, img src, figcaption - default image size." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image160.png" 
+  title="Example, figure, img src, figcaption - default image size" 
+  alt="Example, figure, img src, figcaption - default image size." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Let&#39;s look at what I&#39;m talking about. What I have here is a
 <strong>&lt;figure&gt;</strong> tag and inside my figure I have an image
@@ -3390,7 +3612,10 @@ doesn&#39;t fit on a slide very well. You&#39;ll have to forgive me on this
 one.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 161. example, using width in pixels (110) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image161.png" title="Example, using width in pixels" alt="Example, using width in pixels." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image161.png" 
+  title="Example, using width in pixels" 
+  alt="Example, using width in pixels." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>You can also, if you&#39;d like, set the <strong>width</strong> of that
 picture. If the picture of my house was too big, we can say, you know
@@ -3406,7 +3631,10 @@ pixels may be too big for my phone and too small for my giant
 screen.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 162. example, using width and height (111) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image162.png" title="Example, using width and height" alt="Example, using width and height." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image162.png" 
+  title="Example, using width and height" 
+  alt="Example, using width and height." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>One of the things we could do is set the height to match our screen
 size. But that&#39;s often going to skew our image size, right? It&#39;s just
@@ -3433,7 +3661,7 @@ responsive to people.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. favicons (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image164.png" 
   title="Favicons" 
-  alt="Favicons." 
+  alt="Favicons" 
   style="border: 2px solid #000000; width:40%" />
 
 <p>In addition to regular images that use the image tag, people like to
@@ -3449,7 +3677,10 @@ type of relationship I have. This is going to be an icon. It&#39;s going to
 be a PNG file, and that PNG file is located in my images folder.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. alternative text attribute (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image165.png" title="Alternative Text Attribute" alt="Alternative Text Attribute." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image165.png" 
+  title="Alternative Text Attribute" 
+  alt="Alternative Text Attribute." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>I can&#39;t stress enough that when you use images, it&#39;s very, very, very
 important to use alternative text. What alternative text will do is it
@@ -3466,7 +3697,10 @@ like to promote that business, alternative text has these kind of sneaky
 side benefits as well as just being, you know, a decent human being.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. review; extension & style (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image166.png" title="Review; file extensions and style with height/width" alt="Review; file extensions and style with height/width." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image166.png" 
+  title="Review; file extensions and style with height/width" 
+  alt="Review; file extensions and style with height/width." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>As you start to do images, they&#39;re going to be great, but you&#39;re
 going to have some problems and it&#39;s going to take some time to get them
@@ -3494,13 +3728,15 @@ you add images to your site you want to make sure that you are doing so
 legally. There are a variety of websites that host content that is free
 to use or share without copyright restrictions. Much of this use is
 facilitated by Creative Commons licenses. </p>
-<p>The University of Michigan has a resource called <a href="https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit?usp=sharing">Finding
-Usable Materials</a> <a href="https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit" class="uri">https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit</a>
+<p>The University of Michigan has a resource called <a href="https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit?usp=sharing" 
+target="_blank" rel="noopener noreferrer">Finding Usable Materials</a> <a href="https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit" class="uri" 
+target="_blank" rel="noopener noreferrer">https://docs.google.com/document/d/1vaHMKaxvcrPpcptbSxWQMz1qD0Uv-CqVZOTMX9ilWNQ/edit</a>
 that was developed in partnership with the University of Michigan
 Library Copyright Office. It has links to various sites where you can
 find photographs, images, icons, and more that you can consider reusing
 in your own work.</p>
-<p>A second resource from the University of Michigan is called <a href="https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit?usp=sharing">DEIJ
+<p>A second resource from the University of Michigan is called <a href="https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit?usp=sharing" 
+target="_blank" rel="noopener noreferrer">DEIJ
 Open Image Bank</a>.</p>
 <p>https://docs.google.com/document/d/1VXcfZu3rHAcPThdSAN7w_vHDVoLGbHV9hih5yEsB6Fw/edit#heading=h.egjf4e8llfnh</p>
 <p>It includes links to high-quality image banks that reflect diversity,
@@ -3522,7 +3758,10 @@ a way to describe what you were hoping to represent by including that
 image on your page?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. alternative text attribute (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image168.png" title="Alternative Text Attribute" alt="Alternative Text Attribute." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image168.png" 
+  title="Alternative Text Attribute" 
+  alt="Alternative Text Attribute." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>And that&#39;s what brings us to the alternative text attribute.
 Alternative text is going to provide a texture alternative to what we
@@ -3543,7 +3782,10 @@ talk to you a little bit more in depth into how to create alternative
 text attributes.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. creating good alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image169.png" title="Creating Good alt text" alt="Creating Good alt text." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image169.png" 
+  title="Creating Good alt text" 
+  alt="Creating Good alt text." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>A key to creating good <strong>alt</strong> text is to be accurate
 and succinct. You don&#39;t want to be redundant. Your <strong>alt</strong>
@@ -3558,7 +3800,10 @@ That&#39;s what you want to think about when you&#39;re creating good
 <strong>alt</strong> text.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. empty alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image170.png" title="Empty alt text" alt="Empty alt text." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image170.png" 
+  title="Empty alt text" 
+  alt="Empty alt text." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Sometimes a picture is just there because you kind of just had some
 space to fill. So it&#39;s actually okay to leave <strong>alt</strong> text
@@ -3569,7 +3814,10 @@ is important, and we want you to know that this picture just doesn&#39;t
 have any important extra meaning.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. long alt text (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image171.png" title="Long alt Text" alt="Long alt Text." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image171.png" 
+  title="Long alt Text" 
+  alt="Long alt Text." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>For some images, especially infographics, right? Like and the charts
 and the things that have a ton of information, you might think, how in
@@ -3582,7 +3830,10 @@ it. So when someone gets to the page, if it has a lot of complicated
 information, they can take that time to digest it.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. finding usable images (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image172.png" title="Finding Usable Images" alt="Finding Usable Images." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image172.png" 
+  title="Finding Usable Images" 
+  alt="Finding Usable Images." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>You&#39;ve decided that you&#39;re going to include images on your page,
 you&#39;re going to include the <strong>alt</strong> text, where can you
@@ -3600,7 +3851,10 @@ icons. Icons are those almost little cartoonish looking infographics
 that you can use on your page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. example, emojis & icons (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image173.png" title="Example, Emojis &amp; Icons" alt="Example, Emojis &amp; Icons." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image173.png" 
+  title="Example, Emojis &amp; Icons" 
+  alt="Example, Emojis &amp; Icons." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Speaking of icons, a lot of times people will talk about emojis and
 icons interchangeably and basically how popular they are. The nice thing
@@ -3619,7 +3873,10 @@ you like someone to say out loud to you if you wanted to describe what
 that icon is representing?</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. images for impact (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image174.png" title="Images for Impact" alt="Images for Impact." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image174.png"
+  title="Images for Impact" 
+  alt="Images for Impact." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>When you use images, I&#39;d like you to also think about where those
 images are coming from, who you&#39;re representing, and what you&#39;re trying
@@ -3641,7 +3898,10 @@ into some of the resources, places that I have discovered you can look
 to try to improve kind of your own outlook.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. example, tips (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image175.png" title="Example, Tips" alt="Example, Tips." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image175.png" 
+  title="Example, Tips" 
+  alt="Example, Tips." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>I want to finish with some tips. One is, there&#39;s a great website
 called <strong>alt</strong> Decision Tree, a decision tree is basically
@@ -3669,30 +3929,31 @@ not a description of them. So here are some tips:</p>
 <h3>Tips</h3>
 
 <ul>
-<li><p><strong>Decide what information the image conveys:</strong> Does
-someone need to see the page to understand your message? If not, you can
-treat the image as decorative use a null (empty) text alternative
-(alt=&#39;“&#39;”). Make sure not to include a space inside the quotes since
-some screen readers may then read it aloud.</p></li>
-<li><p><strong>If the image is information, be complete, but
-concise</strong>: In most cases you should be able to use a short phrase
-or sentence as <strong>alt</strong> text.</p></li>
-<li><p><strong>Prioritize information in text alternative:</strong> Aim
-to put the most important information at the beginning.</p></li>
-<li><p><strong>Avoid superfluous information:</strong> There is rarely a
-need to use the words “image”, “icon”, or “picture” in the
-<strong>alt</strong> text.</p></li>
-<li><p><strong>Handle complex images as a special case:</strong> Complex
-images such as graphs, charts, maps, and illustrations contain
-substantial information – more than can be conveyed in a short phrase or
-sentence. In these cases, a two-part text alternative is required. The
-first part is the short description to identify the image and, where
-appropriate, indicate the location of the long description. The second
-part is the long description – a textual representation of the essential
-information conveyed by the image.</p></li>
+  <li><p><strong>Decide what information the image conveys:</strong> Does
+    someone need to see the page to understand your message? If not, you can
+	treat the image as decorative use a null (empty) text alternative
+	(alt=&#39;“&#39;”). Make sure not to include a space inside the quotes since
+	some screen readers may then read it aloud.</p></li>
+  <li><p><strong>If the image is information, be complete, but concise</strong>: 
+    In most cases you should be able to use a short phrase or sentence as 
+	<strong>alt</strong> text.</p></li>
+  <li><p><strong>Prioritize information in text alternative:</strong> Aim to put 
+    the most important information at the beginning.</p></li>
+  <li><p><strong>Avoid superfluous information:</strong> There is rarely a need 
+    to use the words “image”, “icon”, or “picture” in the <strong>alt</strong> 
+	text.</p></li>
+  <li><p><strong>Handle complex images as a special case:</strong> Complex images 
+    such as graphs, charts, maps, and illustrations contain substantial information 
+	– more than can be conveyed in a short phrase or sentence. In these cases, a 
+	two-part text alternative is required. The first part is the short description 
+	to identify the image and, where appropriate, indicate the location of the long 
+	description. The second part is the long description – a textual representation 
+	of the essential information conveyed by the image.</p></li>
 </ul>
+
 <p>If you want to learn more about creating good <strong>alt</strong>
-text, I recommend the <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">W3 alt
+text, I recommend the <a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" 
+target="_blank" rel="noopener noreferrer">W3 alt
 decision tree</a> https://www.w3.org/WAI/tutorials/images/decision-tree/
 site as a resource. This site guides you with simple &#39;“yes/no&#39;”
 questions on how to create your <strong>alt</strong> text.</p>
@@ -3700,14 +3961,20 @@ questions on how to create your <strong>alt</strong> text.</p>
 <h2 id="ch2-08">2.08 Hyperlinks (9:23)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. hyperlinks (2.08) (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image176.png" title="2.08 Hyperlinks" alt="2.08 Hyperlinks." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image176.png" 
+  title="2.08 Hyperlinks" 
+  alt="2.08 Hyperlinks." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Hi, today we&#39;re going to be talking about hyperlinks, or links, as
 they&#39;re more commonly called. And how you can use them to link your
 document with others out there.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image177.png" title="Links" alt="Links." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image177.png" 
+  title="Links"
+  alt="Links" 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Now, links are really what make the web a web. It&#39;s this whole idea
 that different links built together create this kind of knowledge that
@@ -3716,7 +3983,10 @@ page, and with hopefully related material. So, let&#39;s get right into how
 you create a link on your page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. example, anchor links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image178.png" title="Example, Anchor links" alt="Example, Anchor links." style="border: 2px solid #000000; width:40%" />
+<img src="./images/image178.png" 
+  title="Example, Anchor links" 
+  alt="Example, Anchor links." 
+  style="border: 2px solid #000000; width:40%" />
 
 <p>Links are called anchor links and that&#39;s where we get the a for in
 the <strong>&lt;a&gt;</strong> tag. When you use an anchor tag, the
@@ -3972,19 +4242,23 @@ experience as everyone else.</p>
 
 <h2>Hyperlink Tag</h2>
 
-<p>Hopefully you have already glanced over the readings on <a href="https://www.w3schools.com/html/html_links.asp">HTML
-Hyperlinks</a>. <a href="https://www.w3schools.com/html/html_links.asp" class="uri">https://www.w3schools.com/html/html_links.asp</a> An anchor
+<p>Hopefully you have already glanced over the readings on <a href="https://www.w3schools.com/html/html_links.asp" 
+target="_blank" rel="noopener noreferrer">HTML
+Hyperlinks</a>. <a href="https://www.w3schools.com/html/html_links.asp" class="uri" 
+target="_blank" rel="noopener noreferrer">https://www.w3schools.com/html/html_links.asp</a> An anchor
 or &#39;“link&#39;” is made up of three parts:</p>
 
 <ol type="1">
-<li><p>The opening tag,</p></li>
-<li><p>The &#39;“clickable&#39;” part which might be a text or a graphic,
-and </p></li>
-<li><p>The closing tag.</p></li>
+  <li><p>The opening tag,</p></li>
+  <li><p>The &#39;“clickable&#39;” part which might be a text or a graphic, and </p></li>
+  <li><p>The closing tag.</p></li>
 </ol>
+
 <p>It is true that most elements have three parts, but the anchor
 element can take a little more time to master.</p>
+
 <h2 id="opening-tag">Opening tag</h2>
+
 <p>The opening tag always has a hyper reference (&#39;“href&#39;”) that tells
 the browser what the element should link to. The element may be
 <strong>external</strong> – it links to a separate site, it may be
@@ -4001,7 +4275,8 @@ new window, or a new tab. Note, using the target attribute can lead to
 some accessibility issues since the appearance of new windows that were
 not requested by the user can disorient users and/or be missed
 completely by them. (It is completely optional, but you can read more
-about this at the  <a href="https://www.w3.org/WAI/WCAG21/Techniques/html/H83.html">WAI &#39;| W3C
+about this at the  <a href="https://www.w3.org/WAI/WCAG21/Techniques/html/H83.html" 
+target="_blank" rel="noopener noreferrer">WAI &#39;| W3C
 page</a>.) https://www.w3.org/WAI/WCAG21/Techniques/html/H83.html</p>
 
 <h2>Tag contents</h2>
@@ -4017,7 +4292,8 @@ descriptive and include meaningful <strong>alt</strong> text. If the
 content is an icon or other graphic, it should use the &#39;“aria-label&#39;”
 attribute so that a screen reader can audibly provide the visual
 information. (Another optional reading to learn more about aria-label is
-at <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label">aria-label
+at <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label" 
+target="_blank" rel="noopener noreferrer">aria-label
 - Accessibility &#39;| MDN</a>)
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label</p>
 
@@ -4301,7 +4577,10 @@ back to my page. And it puts my whole web page inside this little block
 of the page.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 207. iframe; webpage within a webpage (142) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image207.png" title="iframe; webpage within a webpage" alt="iframe; webpage within a webpage." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image207.png" 
+  title="iframe; webpage within a webpage" 
+  alt="iframe; webpage within a webpage." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>Down here, I went ahead and said hey, let&#39;s do that iframe again, but
 this time let&#39;s go ahead and have it take up a much bigger width, all
@@ -4309,7 +4588,10 @@ right? Now, one thing to notice is I can still click in here. I can do
 all the things. It&#39;s as if I have a webpage inside of a webpage.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 208. bdo; bidirectional orientation (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<img src="./images/image208.png" title="BDO; Bidirectional Orientation" alt="BDO; Bidirectional Orientation." style="border: 2px solid #000000; width:50%" />
+<img src="./images/image208.png" 
+  title="BDO; Bidirectional Orientation" 
+  alt="BDO; Bidirectional Orientation." 
+  style="border: 2px solid #000000; width:50%" />
 
 <p>The last one. Let&#39;s go down here. I want to show you is the
 <strong>bidirectional orientation</strong>. And this one would be
@@ -4350,21 +4632,25 @@ on Safari, make sure you check it on Chrome. It&#39;s important that you
 make sure that your pages can be reachable to the greatest number of
 people possible. And really, the only way you can do this is by keeping
 your code simple, succinct, and you&#39;re always validating. Thanks.</p>
+
 <h2 id="additional-resources-1">2.09 Additional Resources</h2>
+
 <p>Here are some resources for you to explore if you are interested in
 learning more about the topics from this week.</p>
 
 <h3>Images and Icons</h3>
 
 <ul>
-  <li><a href="https://support.google.com/docs/answer/6199477?hl=en">Make your document 
+  <li><a href="https://support.google.com/docs/answer/6199477?hl=en" 
+    target="_blank" rel="noopener noreferrer">Make your document 
     or presentation more accessible - Google Docs Editors Help</a></li>
 </ul>
 
 <p>https://support.google.com/docs/answer/6199477?hl=en</p>
 
 <ul>
-  <li><a href="https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669">Add alternative text to a shape, picture, chart, SmartArt graphic, or other object - Microsoft Support</a></li>
+  <li><a href="https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669" 
+  target="_blank" rel="noopener noreferrer">Add alternative text to a shape, picture, chart, SmartArt graphic, or other object - Microsoft Support</a></li>
 </ul>
 
 <p>https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669</p>
@@ -4372,7 +4658,8 @@ learning more about the topics from this week.</p>
 <h3>Alt Text</h3>
 
 <ul>
-  <li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/">W3 alt decision tree</a></li>
+  <li><a href="https://www.w3.org/WAI/tutorials/images/decision-tree/" 
+    target="_blank" rel="noopener noreferrer">W3 alt decision tree</a></li>
 </ul>
 
 <p>https://www.w3.org/WAI/tutorials/images/decision-tree/</p>
@@ -4394,8 +4681,8 @@ change.</p>
 
 <p>Whenever possible, the code is linked through CodePen, Replit, and a
 downloadable zip file.  You can choose the format that best suits your
-learning style.  You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code">HTML5 Course
-Code</a></p>
+learning style.  You can find the code at <a href="https://intro-webdesign.com/v3/html5.html#code" 
+target="_blank" rel="noopener noreferrer">HTML5 Course Code</a></p>
 <p>It is organized by week, so you can check to see if any code is
 provided for this week&#39;s lessons.  (Note, for Week 3 there isn&#39;t any
 starter code so you will be writing the code on your own!)</p>
@@ -4405,8 +4692,13 @@ starter code so you will be writing the code on your own!)</p>
 <h2>Learning Objectives</h2>
 
 <ul>
-  <li><p> bla.</p></li>
-  <li><p> bla #2 line.</p></li>
+  <li><p>Compose HTML5 code that can create images and links.</p></li>
+  <li><p>Recognize the importance of accessibility and list steps to take when coding to enhance it.</p></li>
+  <li><p>Identify the parts of a syntactically correct HTML page.</p></li>
+  <li><p>Learn about how the web works.</p></li>
+  <li><p>Be aware of what a web hosting service is.</p></li>
+  <li><p>Recognize and use common HTML5 tags.</p></li>
+  <li><p>Use a validator to evaluate their code.</p></li>
 </ul>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4691,7 +4983,8 @@ greatest possible audience.</p>
   alt="wave.webaim.org - web accessibility." 
   style="border: 2px solid #000000; width:70%" />
 
-<p>Goto <a href="http://wave.webaim.org" class="uri">http://wave.webaim.org</a> &amp; enter the URL of a website
+<p>Goto <a href="http://wave.webaim.org" class="uri" 
+target="_blank" rel="noopener noreferrer">http://wave.webaim.org</a> &amp; enter the URL of a website
 of your choice. Then select the “No Styles” option. How much harder is
 it to perceive the contents of the page when you just have the HTML?</p>
 <p>Go to one of the websites you frequent often. Hit the tab button to
@@ -4700,14 +4993,16 @@ information you want?</p>
 
 <h3>3.01 Does Your Browser Support Accessibility?</h3>
 
-<p>In the Week One material you may or may not have run the test at <a href="https://html5test.com/"><strong>https://html5test.com/</strong></a>
+<p>In the Week One material you may or may not have run the test at <a href="https://html5test.com/" 
+target="_blank" rel="noopener noreferrer"><strong>https://html5test.com/</strong></a>
 to see how well your browser supports HTML5. But you should also find
 out if that HTML5 is easily usable by people who rely on assistive
 technology without having to use special work-arounds. </p>
 <p>In the screenshot below I compared my current Chrome browser (528) vs
 Firefox (497), Edge (496), Safari (477), and even Chrome on an older
 machine (499).</p>
-<p>The site <a href="https://html5accessibility.com/">Html5accessibility</a>
+<p>The site <a href="https://html5accessibility.com/" 
+target="_blank" rel="noopener noreferrer">Html5accessibility</a>
 https://html5accessibility.com/ also tests which HTML5 features are
 supported by major browsers. This includes if they are keyboard
 accessible and if any accessibility related features are supported.</p>
@@ -4880,7 +5175,7 @@ that looks like www, and that&#39;s where the hosting company comes in.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. hosting (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <img src="./images/image234.png" 
   title="Hosting" 
-  alt="Hosting." 
+  alt="Hosting" 
   style="border: 2px solid #000000; width:40%" />
 
 <p>What you need is a registered <strong>IP address</strong> to connect
@@ -5332,7 +5627,8 @@ account.</p>
 <h3>3.05 Getting started</h3>
 
 <ol type="1">
-  <li><p>Go to <a href="https://replit.com/"><strong>https://replit.com/</strong></a></p></li>
+  <li><p>Go to <a href="https://replit.com/" 
+    target="_blank" rel="noopener noreferrer"><strong>https://replit.com/</strong></a></p></li>
   <li><p>Select sign up</p></li>
   <li><p>Create a username, provide an email, and create a password</p></li>
   <li><p>At any time if you are asked to answer the optional questions 
@@ -5430,8 +5726,8 @@ you chose when you created your repl.
 
 <h3>3.05 More information</h3>
 
-<p>You can always go to the <a href="https://docs.replit.com/getting-started/intro-replit">official
-Replit site</a></p>
+<p>You can always go to the <a href="https://docs.replit.com/getting-started/intro-replit" 
+target="_blank" rel="noopener noreferrer">official Replit site</a></p>
 <p>https://replit.com/&#39;~</p>
 <p>for more detailed information on items such as:</p>
 
@@ -5444,7 +5740,8 @@ Replit site</a></p>
 <h3>3.05 Final Project Description</h3>
 <h3><strong>Specification</strong></h3>
 
-<p>Your final project is to create and host your own website using <a href="https://replit.com/"><strong>Replit</strong></a>.</p>
+<p>Your final project is to create and host your own website using <a href="https://replit.com/" 
+target="_blank" rel="noopener noreferrer"><strong>Replit</strong></a>.</p>
 <p>In previous versions of the course I asked students to make a very
 specific webpage, but I invite you all to create a page of your choice,
 you just need to make sure that you have the following components in
@@ -5462,26 +5759,30 @@ your project.</p>
   <li><p>At least one link to an external source.</p></li>
 </ol>
 
-<p>In addition the page must be hosted and pass <a href="https://validator.w3.org/">The W3C Markup Validation Service
-Tool</a> and the <a href="https://wave.webaim.org/">WAVE Web
+<p>In addition the page must be hosted and pass <a href="https://validator.w3.org/" 
+target="_blank" rel="noopener noreferrer">The W3C Markup Validation Service
+Tool</a> and the <a href="https://wave.webaim.org/" target="_blank" rel="noopener noreferrer">WAVE Web
 Accessibility Evaluation Tool</a></p>
 
 <h3><strong>3.05 Examples</strong></h3>
 
 <ul>
-  <li><a href="https://replit.com/@wd4eHTML/Example-Site-1">Example 1 - Michigan Facts</a></li>
+  <li><a href="https://replit.com/@wd4eHTML/Example-Site-1"
+    target="_blank" rel="noopener noreferrer">Example 1 - Michigan Facts</a></li>
 </ul>
 
 <p>https://replit.com/<span class="citation" data-cites="wd4eHTML/Example-Site-1#index.html">@wd4eHTML/Example-Site-1#index.html</span></p>
 
 <ul>
-  <li><a href="https://replit.com/@WD4E-HTML/Example-Site-2">Example 2 - Movies</a></li>
+  <li><a href="https://replit.com/@WD4E-HTML/Example-Site-2" 
+    target="_blank" rel="noopener noreferrer">Example 2 - Movies</a></li>
 </ul>
 
 <p>https://replit.com/<span class="citation" data-cites="WD4E-HTML/Example-Site-2#index.html">@WD4E-HTML/Example-Site-2#index.html</span></p>
 
 <ul>
-  <li><a href="https://replit.com/@WD4E-HTML/Example-Site-3">Example 3 - Comparing Laptops</a></li>
+  <li><a href="https://replit.com/@WD4E-HTML/Example-Site-3" 
+    target="_blank" rel="noopener noreferrer">Example 3 - Comparing Laptops</a></li>
 </ul>
 
 <p>https://replit.com/<span class="citation" data-cites="WD4E-HTML/Example-Site-3#index.html">@WD4E-HTML/Example-Site-3#index.html</span></p>
@@ -5803,14 +6104,10 @@ your journey into HTML 5.</p>
 
 <p>the end…</p>
 
-  <h6>Last updated 4/6/2024 Sat 11+ pm.</h6>
-  <br><br>
+<h6>Last updated 4/6/2024 Sat 11+ pm.</h6>
 
-  <p>Today&apos;s date from &lt;time&gt; is: <time></p>
-
-  <br><br>
-
-  <h2 id="displayDateTime">Display Date/Time using JS</h2>
+<!-- display 'live' date/time -->
+  <h2 id="displayDateTime">Display Date/Time using JavaScript</h2>
 
   <div class="container">
     <div class="display-date">
