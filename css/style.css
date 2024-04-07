@@ -125,3 +125,19 @@ img {
   cursor: pointer;
 }
 
+.container {
+  text-align: center;
+  background-color: #ffffff;
+  /* white background for the container */
+  padding: 20px;
+  border-radius: 10px;
+  /* rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  /* subtle box shadow */
+  }
+  
+#datetime {
+  font-size: 1.5rem;
+  color: #333333;
+  white-space: pre;
+  }
