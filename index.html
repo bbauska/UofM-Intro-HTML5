@@ -22,65 +22,12 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <script>
-// const displayTime = document.querySelector(".display-time");
-// Time
+
   var dt = new Date();
   document.getElementById('date-time').innerHTML=dt;
-  
-//  displayTime.innerText = time.toLocaleTimeString("en-US", { hour12: false });
-//  setTimeout(showTime, 1000);
-//}
-
-//showTime();
-
-// Date
-//function updateDate() {
-//  let today = new Date();
-
-  // return number
-//  let dayName = today.getDay(),
-//    dayNum = today.getDate(),
-//    month = today.getMonth(),
-//    year = today.getFullYear();
-
-//  const months = [
-//    "January",
-//    "February",
-//    "March",
-//    "April",
-//    "May",
-//    "June",
-//    "July",
-//    "August",
-//    "September",
-//    "October",
-//    "November",
-//    "December",
-//  ];
-//  const dayWeek = [
-//    "Sunday",
-//    "Monday",
-//    "Tuesday",
-//    "Wednesday",
-//    "Thursday",
-//    "Friday",
-//    "Saturday",
-//  ];
-//  // value -> ID of the html element
-//  const IDCollection = ["day", "daynum", "month", "year"];
-//  // return value array with number as a index
-//  const val = [dayWeek[dayName], dayNum, months[month], year];
-//  for (let i = 0; i < IDCollection.length; i++) {
-//    document.getElementById(IDCollection[i]).firstChild.nodeValue = val[i];
-//  }
-//}
-
-//updateDate();
-
- 
+   
   <!-- get the button -->
-  
-  var mybutton = document.getElementById("myBtn");
+    var mybutton = document.getElementById("myBtn");
 
   <!-- when the user scrolls down 10px from the top of the document, show the button -->
   window.onscroll = function() {scrollFunction()};
@@ -6105,31 +6052,15 @@ your journey into HTML 5.</p>
 <p>the end…</p>
 
 <h6>Last updated 4/6/2024 Sat 11+ pm.</h6>
-      <main class="cd__main">
-         <!-- Start DEMO HTML (Use the following code into your project)-->
-         <html>
+<main class="cd__main">
   <body onload="startTime()">
-  <div id="clockdate">
-  <div class="clockdate-wrapper">
-    <div id="clock"></div>
-    <div id="date"></div>
-  </div>
-</div>
-<!-- display 'live' date/time -->
-<!--
-	  <h2 id="displayDateTime">Display Date/Time using JavaScript</h2>
-
-	  <div class="container">
-		<div class="display-date">
-		  <span id="day"></span>,
-		  <span id="daynum"></span>
-		  <span id="month"></span>
-		  <span id="year"></span>
-		</div>
-		<div class="display-time"></div>
-	  </div>
--->
-      <!-- Script JS -->
-      <script src="./js/script.js"></script>
-</body>
+    <div id="clockdate">
+      <div class="clockdate-wrapper">
+        <div id="clock"></div>
+        <div id="date"></div>
+      </div>
+    </div>
+    <!-- Script JS -->
+    <script src="./js/script.js"></script>
+  </body>
 </html>
