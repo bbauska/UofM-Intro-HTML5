@@ -40,7 +40,7 @@ $(element).html(textString);
 highlightWord('.accesskey', 'accesskey', 'highlight');
 
 
-function startTime() {
+  function startTime() {
     var today = new Date();
     var hr = today.getHours();
     var min = today.getMinutes();
@@ -64,10 +64,10 @@ function startTime() {
     document.getElementById("date").innerHTML = date;
     
     var time = setTimeout(function(){ startTime() }, 500);
-}
-function checkTime(i) {
+  }
+  function checkTime(i) {
     if (i < 10) {
         i = "0" + i;
     }
     return i;
-}
+  }
