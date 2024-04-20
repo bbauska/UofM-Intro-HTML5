@@ -3175,7 +3175,7 @@ Semantic guide tags are gonna help guide your users to the information
 in your page. And that&apos;s really what you want to do, you want to make
 your page the most accessible to as many people as possible.
 
-<h3>2.03.Code Placement</h3>
+<h3 id="ch2-03-code">2.03 Code Placement</h3>
 
 When you write code, it is important to get into the good habits of
 organizing your code. While there are no specific rules about how and
