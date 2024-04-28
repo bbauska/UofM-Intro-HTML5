@@ -409,6 +409,7 @@ this accessibility idea that I just alluded to. This idea that if we&apos;re
 going to build a webpage, what do we need to do to make sure the most
 people as possible can access the information?
 
+
 We&apos;re also going to be talking about getting started in technology and
 writing code. When I mean talking about getting started, I mean really
 talking about getting started, right down to you and I are going to walk
@@ -464,6 +465,11 @@ built. If I can get you to understand just a little bit about that, then
 later on, if you decide to go off and use WordPress or some other
 software to make your own website, you&apos;re going to be able to really
 understand what&apos;s going on so much better. 
+
+
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
 
 We&apos;re going to talk about
 things called contextual tags and headings and different things we can
