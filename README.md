@@ -117,6 +117,10 @@ the following:
 
 -   What HTML is and how we got from the original version to HTML5,
 
+<div align="right">
+  <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 -   The &quot;magic&quot; behind the Internet and how your web page isn&apos;t just
     one file, but many pieces put together by your browser using
     something called the Response/Request Cycle,
