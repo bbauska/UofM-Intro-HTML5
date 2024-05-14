@@ -64,9 +64,8 @@
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!-- <body> -->
-<body onload="startTime()">
+<body>
 
-<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script> -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -92,10 +91,6 @@
       document.body.scrollTop = 0;
       document.documentElement.scrollTop = 0;
     }
-
-  <!-- get date -->
-  var dt = new Date();
-  document.getElementById('date-time').innerHTML=dt;
 
 </script>
 
@@ -6432,14 +6427,12 @@ your journey into HTML 5.</p>
 <h6>Last updated 4/6/2024 Sat 11+ pm.</h6>
 
   <main class="cd__main">
-  <!--  <body onload="startTime()"> -->
-    <div id="clockdate">
-      <div class="clockdate-wrapper">
-        <div id="clock"></div>
-        <div id="date"></div>
-      </div>
-    </div>
-  </main>	
+    <button type="button"
+    onclick="document.getElementById('date_time_button').innerHTML = Date()">
+    Click and see Date and Time.</button>
+
+    <p id="date_time_button"></p>
+  </main>
   <!-- Script JS -->
   <script src="./js/script.js"></script>
 </body>
