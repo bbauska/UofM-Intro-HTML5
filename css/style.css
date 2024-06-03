@@ -16,6 +16,8 @@ a {
   text-decoration: none; 
 }
 a[href]:hover {
+  color: #000000;
+  background-color: #ffff00;
   text-decoration: underline; 
 }
 
