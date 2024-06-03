@@ -1,7 +1,8 @@
 ---
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
-date last editted: "3/07/2024 2+am"
+date prior editted: "3/07/2024 2+am"
+date last editted: "6/02/2024 5pam"
 output: 
   markdown:
     with some style
@@ -19,7 +20,7 @@ How-To's in HTML (a beginner's guide)</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. html5 logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image001.png" 
+  <img src="./images/image001.webp" 
   alt="HTML5 logo."
   title="HTML5 logo"
   style="border: 2px solid #000000; width:20%" />
@@ -27,7 +28,7 @@ How-To's in HTML (a beginner's guide)</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image002.png" 
+  <img src="./images/image002.webp" 
   title="University of Michigan and Coursera logo"
   alt="University of Michigan and Coursera logo."
   style="border: 2px solid #000000; width:40%" />
@@ -371,7 +372,7 @@ Learning to use Github Pages can take some time, but is a useful skill for advan
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 03. intro to html5 (1.01) (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image003.png" 
+  <img src="./images/image003.webp" 
   title="1.01 Introduction to HTML5"
   alt="1.01 Introduction to HTML5." 
   style="border: 2px solid #000000; width:40%" />
@@ -391,7 +392,7 @@ blocks.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 04. what this course will cover (09) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image004.png" 
+  <img src="./images/image004.webp" 
   title="What this course will cover: The Basics"
   alt="What this course will cover: The Basics." 
   style="border: 2px solid #000000; width:40%" />
@@ -424,7 +425,7 @@ foot.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 05. week one: url, tools and what is html5? (10) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image005.png" 
+  <img src="./images/image005.webp" 
   title="Week 1: What happens when you type an address into a URL, what tools
     you need to code, and what is HTML5?" 
   alt="Week 1: What happens when you type an address into a URL, what tools
@@ -452,7 +453,7 @@ sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (11) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image006.png" 
+  <img src="./images/image006.webp" 
   title="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia" 
   alt="Week 2: The DOM, Contextual tags/headings, links, tables, multimedia." 
   style="border: 2px solid #000000; width:40%" />
@@ -480,7 +481,7 @@ site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 07. week 3: putting it together (11) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image007.png" 
+  <img src="./images/image007.webp" 
   title="Week 3: Putting it Together" 
   alt="Week 3: Putting it Together." 
   style="border: 2px solid #000000; width:40%" />
@@ -504,7 +505,7 @@ family see it, as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 08. final project (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image008.png" 
+  <img src="./images/image008.webp" 
   title="Final Project: Create multipage website, pass W3C validation 
     &amp; WAVE accessibility review" 
   alt="Final Project: Create multipage website, pass W3C validation 
@@ -526,7 +527,7 @@ about content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 09. who is this class for? (12) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image009.png" 
+  <img src="./images/image009.webp" 
   title="This class is for persistent, non-nerd beginners" 
   alt="This class is for persistent, non-nerd beginners." 
   style="border: 2px solid #000000; width:40%" />
@@ -549,7 +550,7 @@ better technology.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 10. who is the teacher? (13) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image010.png" 
+  <img src="./images/image010.webp" 
   title="The educator is Colleen van Lent, PhD - University of Michigan"
   alt="The educator is Colleen van Lent, PhD - University of Michigan."
   style="border: 2px solid #000000; width:40%" />
@@ -728,7 +729,7 @@ by week, so you can check to see if any code is provided for this week&apos;s le
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 11. the evolution of html (1.02) (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image011.png" 
+  <img src="./images/image011.webp" 
   title="1.02 The Evolution of HTML"
   alt="1.02 The Evolution of HTML." 
   style="border: 2px solid #000000; width:40%" />
@@ -739,7 +740,7 @@ is, and why we aren&apos;t learning HTML1 instead. So what is HTML?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 12. what is html? (17) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image012.png"
+  <img src="./images/image012.webp"
   title="What is HTML?"
   alt="What is HTML?"
   style="border: 2px solid #000000; width:40%" />
@@ -758,7 +759,7 @@ headings, images, lists, links, et cetera.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 13. .html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image013.png"
+  <img src="./images/image013.webp"
   title=".html files"
   alt=".html files."
   style="border: 2px solid #000000; width:40%" />
@@ -777,7 +778,7 @@ present the information in new and special ways.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 14. html files (18) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image014.png"
+  <img src="./images/image014.webp"
   title="HTML files"
   alt="HTML files."
   style="border: 2px solid #000000; width:40%" />
@@ -788,7 +789,7 @@ don&apos;t know much about it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 15. example, html file (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image015.png" 
+  <img src="./images/image015.webp" 
   title=="Example, HTML file"
   alt="Example, HTML file."
   style="border: 2px solid #000000; width:50%" />
@@ -810,7 +811,7 @@ output when any browser would look at our code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 16. 'learning' html (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image016.png"
+  <img src="./images/image016.webp"
   title="'Learning' HTML"
   alt="'Learning' HTML."
   style="border: 2px solid #000000; width:40%" />
@@ -826,7 +827,7 @@ short-lived.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 17. 'learning' html, #2 (19) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image017.png" 
+  <img src="./images/image017.webp" 
   title="'Learning' HTML, #2"
   alt="'Learning' HTML, #2."
   style="border: 2px solid #000000; width:40%" />
@@ -842,7 +843,7 @@ navigate through it?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 18. html, the early years (20) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image018.png" 
+  <img src="./images/image018.webp" 
   title="HTML, The Early Years"
   alt="HTML, The Early Years."
   style="border: 2px solid #000000; width:40%" />
@@ -863,7 +864,7 @@ that was the key.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 19. html, early years, #2 (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image019.png" 
+  <img src="./images/image019.webp" 
   title="HTML, The Early Years, #2"
   alt="HTML, The Early Years, #2."
   style="border: 2px solid #000000; width:40%" />
@@ -875,7 +876,7 @@ or anything that was more about layout than content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 20. mosaic is introduced (21) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image020.png"
+  <img src="./images/image020.webp"
   title="Mosaic is introduced"
   alt="Mosaic is introduced."
   style="border: 2px solid #000000; width:40%" />
@@ -894,7 +895,7 @@ point.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 21. mosaic (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image021.png"
+  <img src="./images/image021.webp"
   title="Mosaic"
   alt="Mosaic."
   style="border: 2px solid #000000; width:40%" />
@@ -908,7 +909,7 @@ the form of Netscape, Internet Explorer and other browsers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 22. the browser wars (22) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image022.png"
+  <img src="./images/image022.webp"
   title="The Browser Wars"
   alt="The Browser Wars."
   style="border: 2px solid #000000; width:40%" />
@@ -937,7 +938,7 @@ on your phone, unless you click on a link to the full website.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 23. web standards (23) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image023.png"
+  <img src="./images/image023.webp"
   title="Web standards"
   alt="Web standards."
   style="border: 2px solid #000000; width:40%" />
@@ -960,7 +961,7 @@ ability to view the content.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 24. evolution of browsers (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image024.png"
+  <img src="./images/image024.webp"
   title="Evolution of browsers"
   alt="Evolution of browsers."
   style="border: 2px solid #000000; width:50%" />
@@ -980,7 +981,7 @@ style it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 25. evolution of html (24) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image025.png"
+  <img src="./images/image025.webp"
   title="Evolution of HTML"
   alt="Evolution of HTML."
   style="border: 2px solid #000000; width:50%" />
@@ -994,7 +995,7 @@ job to keep up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 26. where are we at now? (25) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image026.png"
+  <img src="./images/image026.webp"
   title="Where are we at now?"
   alt="Where are we at now?"
   style="border: 2px solid #000000; width:50%" />
@@ -1022,7 +1023,7 @@ reader. You want everyone the same access to the information.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 27. review evolution of html (1-02) (26) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image027.png"
+  <img src="./images/image027.webp"
   title="Review of 1.02 The Evolution of HTML"
   alt="Review of 1.02 The Evolution of HTML."
   style="border: 2px solid #000000; width:50%" />
@@ -1045,7 +1046,7 @@ new standards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 28. how it works: the 'magic' of page requests (26) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image028.png"
+  <img src="./images/image028.webp"
   title="1.03 How it Works: The 'Magic' of Page Requests"
   alt="1.03 How it Works: The 'Magic' of Page Requests."
   style="border: 2px solid #000000; width:40%" />
@@ -1056,7 +1057,7 @@ happens when you type something into the address bar of your browser.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 29. how does this all work? (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image029.png"
+  <img src="./images/image029.webp"
   title="How Does This All Work?"
   alt="How Does This All Work?"
   style="border: 2px solid #000000; width:40%" />
@@ -1076,7 +1077,7 @@ it will help you understand what is going on as you learn HTML5.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 30. client/server relationship (27) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image030.png"
+  <img src="./images/image030.webp"
   title="Client/Server Relationship"
   alt="Client/Server Relationship."
   style="border: 2px solid #000000; width:40%" />
@@ -1090,7 +1091,7 @@ personal use; like laptops, phones, et cetera.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 31. networks; lan and wan (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image031.png"
+  <img src="./images/image031.webp"
   title="Networks; LAN and WAN"
   alt="Networks; LAN and WAN."
   style="border: 2px solid #000000; width:40%" />
@@ -1119,7 +1120,7 @@ Internet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 32. request/response cycle (28) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image032.png"
+  <img src="./images/image032.webp"
   title="Request/Response Cycle"
   alt="Request/Response Cycle."
   style="border: 2px solid #000000; width:40%" />
@@ -1131,7 +1132,7 @@ web page and the server needs to respond with the appropriate files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 33. uniform resource locator (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image033.png"
+  <img src="./images/image033.webp"
   title="Uniform Resource Locator"
   alt="Uniform Resource Locator."
   style="border: 2px solid #000000; width:40%" />
@@ -1146,7 +1147,7 @@ at once.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34. protocols (29) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image034.png"
+  <img src="./images/image034.webp"
   title="Protocols"
   alt="Protocols."
   style="border: 2px solid #000000; width:40%" />
@@ -1167,7 +1168,7 @@ expecting that you&apos;re going to give back and forth HTML5 code; with
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35. domain names (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image035.png"
+  <img src="./images/image035.webp"
   title="Domain Names"
   alt="Domain Names."
   style="border: 2px solid #000000; width:40%" />
@@ -1185,7 +1186,7 @@ if you want, you can go and see what the different types are.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. ip addresses (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image036.png"
+  <img src="./images/image036.webp"
   title="IP Addresses"
   alt="IP Addresses."
   style="border: 2px solid #000000; width:40%" />
@@ -1206,7 +1207,7 @@ see we have a lot of options, over 300 trillion, in fact.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 37. the domain name server (dns)  (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image037.png"
+  <img src="./images/image037.webp"
   title="The Domain Name Server (DNS)"
   alt="The Domain Name Server (DNS)."
   style="border: 2px solid #000000; width:40%" />
@@ -1218,7 +1219,7 @@ turns it into that really long number.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 38. document - last part of your url (31) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image038.png"
+  <img src="./images/image038.webp"
   title="Document - Last part of your URL"
   alt="Document - Last part of your URL."
   style="border: 2px solid #000000; width:40%" />
@@ -1235,7 +1236,7 @@ document that it&apos;s going to return. Usually, it&apos;s called
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 39. the request (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image039.png"
+  <img src="./images/image039.webp"
   title="The Request"
   alt="The Request."
   style="border: 2px solid #000000; width:40%" />
@@ -1248,7 +1249,7 @@ the stuff that you don&apos;t see.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 40. the response (32) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image040.png"
+  <img src="./images/image040.webp"
   title="The Response"
   alt="The Response."
   style="border: 2px solid #000000; width:40%" />
@@ -1269,7 +1270,7 @@ it in again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 41. what happens in the address bar (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image041.png"
+  <img src="./images/image041.webp"
   title="What happens in the address bar"
   alt="What happens in the address bar."
   style="border: 2px solid #000000; width:50%" />
@@ -1282,7 +1283,7 @@ be returned. Let&apos;s take a look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 42. example, school of information at u of michigan (33) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image042.png"
+  <img src="./images/image042.webp"
   title="Example, School of Info at University of Michigan"
   alt="Example, School of Info at University of Michigan."
   style="border: 2px solid #000000; width:50%" />
@@ -1296,11 +1297,11 @@ et cetera.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 43/44. right click inspect school of info (34) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image043.png"
+  <img src="./images/image043.webp"
   title="Example, School of Info at University of Michigan"
   alt="Example, School of Info at University of Michigan."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image044.png"
+<img src="./images/image044.webp"
   title="Inspect, School of Info at University of Michigan"
   alt="Inspect, School of Info at University of Michigan."
   style="border: 2px solid #000000; width:45%" />
@@ -1314,7 +1315,7 @@ returned when I actually request this page.&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 45. example, school of information at u of michigan (34) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image045.png"
+  <img src="./images/image045.webp"
   title="Inspect, School of Info at University of Michigan"
   alt="Inspect, School of Info at University of Michigan."
   style="border: 2px solid #000000; width:50%" />
@@ -1327,7 +1328,7 @@ files, and each one of these files was a separate request.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 46. review, url and request/response cycle (35) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image046.png"
+  <img src="./images/image046.webp"
   title="Review, URL and Request/Response Cycle"
   alt="Review, URL and Request/Response Cycle."
   style="border: 2px solid #000000; width:40%" />
@@ -1368,7 +1369,7 @@ from how browsers work and why there are so many.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 47. looking at your browser options (1.04) (36) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image047.png"
+  <img src="./images/image047.webp"
   title="1.04 Looking at Your Browser Options"
   alt="1.04 Looking at Your Browser Options."
   style="border: 2px solid #000000; width:40%" />
@@ -1380,7 +1381,7 @@ options are called your different browsers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 48. differing browsers (36) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image048.png"
+  <img src="./images/image048.webp"
   title="Differing Browsers"
   alt="Differing Browsers."
   style="border: 2px solid #000000; width:40%" />
@@ -1397,7 +1398,7 @@ but you really want to test your site on multiple browsers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 49. internet explorer (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image049.png"
+  <img src="./images/image049.webp"
   title="Internet Explorer"
   alt="Internet Explorer."
   style="border: 2px solid #000000; width:40%" />
@@ -1414,7 +1415,7 @@ automatically work if you have a Mac.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 50. microsoft edge (37) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image050.png"
+  <img src="./images/image050.webp"
   title="Microsoft Edge"
   alt="Microsoft Edge."
   style="border: 2px solid #000000; width:40%" />
@@ -1430,7 +1431,7 @@ you basically want to make sure that you&apos;re considering both browsers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 51. google chrome (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image051.png"
+  <img src="./images/image051.webp"
   title="Google Chrome"
   alt="Google Chrome."
   style="border: 2px solid #000000; width:40%" />
@@ -1448,7 +1449,7 @@ Chrome is a good way to go.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 52. firefox (38) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image052.png"
+  <img src="./images/image052.webp"
   title="Firefox"
   alt="Firefox."
   style="border: 2px solid #000000; width:40%" />
@@ -1463,7 +1464,7 @@ Windows, macOS, Linux, and different BSD operating systems.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 53. browser usage; 2014 and 2017 (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image053.png"
+  <img src="./images/image053.webp"
   title="Browser usage; 2014 and 2017"
   alt="Browser usage; 2014 and 2017."
   style="border: 2px solid #000000; width:50%" />
@@ -1485,7 +1486,7 @@ what they&apos;re used to.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 54. issues of accessibility (39) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image054.png"
+  <img src="./images/image054.webp"
   title="Issues of Accessibility"
   alt="Issues of Accessibility."
   style="border: 2px solid #000000; width:40%" />
@@ -1498,7 +1499,7 @@ all these new HTML5 tags, and all types of assistive technology.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 55. as of mar, 2018 how well browsers support the text (40) ~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image055.png"
+  <img src="./images/image055.webp"
   title="As of Mar, 2018 how well browsers support the text"
   alt="As of Mar, 2018 how well browsers support the text."
   style="border: 2px solid #000000; width:50%" />
@@ -1518,7 +1519,7 @@ Microsoft behind.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 56. review 1.04 looking at your browser options (40) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image056.png"
+  <img src="./images/image056.webp"
   title="Review 1.04 Looking at Your Browser Options"
   alt="Review 1.04 Looking at Your Browser Options."
   style="border: 2px solid #000000; width:40%" />
@@ -1539,7 +1540,7 @@ supported.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 57. how to use an editor to create an html file (1.05) (41) ~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image057.png"
+  <img src="./images/image057.webp"
   title="1.05 How to Use an Editor to Create an HTML File"
   alt="1.05 How to Use an Editor to Create an HTML File."
   style="border: 2px solid #000000; width:40%" />
@@ -1555,7 +1556,7 @@ always worth your time to organize yourself and organize your files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 58. creating and editing your files (42) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image058.png"
+  <img src="./images/image058.webp"
   title="Creating and Editing Your Files"
   alt="Creating and Editing Your Files."
   style="border: 2px solid #000000; width:50%" />
@@ -1599,7 +1600,7 @@ just have to download it first.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59. getting started (43) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image059.png"
+  <img src="./images/image059.webp"
   title="Getting Started"
   alt="Getting Started."
   style="border: 2px solid #000000; width:40%" />
@@ -1621,11 +1622,11 @@ browser so you can see all the cool stuff that you&apos;ve made.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 60/61. new folder; wd4e using visual studio code (43) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image060.png"
+  <img src="./images/image060.webp"
   title="Create a new folder; WD4E using Visual Studio Code"
   alt="Create a new folder; WD4E using Visual Studio Code."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image061.png"
+<img src="./images/image061.webp"
   title="Create wd4e.html within folder; WD4E"
   alt="Create wd4e.html within folder; WD4E."
   style="border: 2px solid #000000; width:45%" />
@@ -1643,7 +1644,7 @@ old text file.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 62. create myfirstpage.html (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image062.png"
+  <img src="./images/image062.webp"
   title="Create myFirstPage.html for testing"
   alt="Create myFirstPage.html for testing."
   style="border: 2px solid #000000; width:50%" />
@@ -1658,7 +1659,7 @@ very important. We want to make sure it&apos;s in there. I&apos;m going to hit
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 63. add title to myfirstpage.html (44) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image063.png"
+  <img src="./images/image063.webp"
   title="Add a title to myFirstPage.html"
   alt="Add a title to myFirstPage.html."
   style="border: 2px solid #000000; width:50%" />
@@ -1678,7 +1679,7 @@ Command-S to save it. Now I&apos;ve made my first page. Yay!
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 64. exclamation & tab to load html (45) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image064.png"
+  <img src="./images/image064.webp"
   title="Enter exclamation point, then tab to load initial HTML code"
   alt="Enter exclamation point, then tab to load initial HTML code."
   style="border: 2px solid #000000; width:50%" />
@@ -1697,7 +1698,7 @@ are some things that you&apos;re going to do and everyone does it, so it&apos;s 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 65. troubleshooting; right-click open (46) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image065.png"
+  <img src="./images/image065.webp"
   title="Troubleshooting; right-click, open as .html"
   alt="Troubleshooting; right-click, open as .html."
   style="border: 2px solid #000000; width:50%" />
@@ -1717,7 +1718,7 @@ that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 66. troubleshooting; refresh with f5, verify name (46) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image066.png"
+  <img src="./images/image066.webp"
   title="Troubleshooting; refresh with f5 and verify name/extension"
   alt="Troubleshooting; refresh with f5 and verify name/extension."
   style="border: 2px solid #000000; width:50%" />
@@ -1744,7 +1745,7 @@ and pasted, try to go back in and type it in by hand.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 67. examples; textedit, sublime, vs code & replit (47) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image067.png"
+  <img src="./images/image067.webp"
   title="Examples; TextEdit, Sublime, VS Code and Replit"
   alt="Examples; TextEdit, Sublime, VS Code and Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -1766,7 +1767,7 @@ what you&apos;re going to want to focus on and really become a pro.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 68. how to use vs code (1.06) (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image068.png"
+  <img src="./images/image068.webp"
   title="1.06 How to Use VS Code"
   alt="1.06 How to Use VS Code."
   style="border: 2px solid #000000; width:40%" />
@@ -1776,7 +1777,7 @@ Let&apos;s talk about how to use Visual Studio code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 69. vs code welcome screen (48) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image069.png"
+  <img src="./images/image069.webp"
   title="VS Code Welcome screen"
   alt="VS Code Welcome screen."
   style="border: 2px solid #000000; width:50%" />
@@ -1789,7 +1790,7 @@ actually a web page is numerous files that are all put together.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 70. vs code, open folder (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image070.png"
+  <img src="./images/image070.webp"
   title="VS Code, open folder"
   alt="VS Code, open folder."
   style="border: 2px solid #000000; width:50%" />
@@ -1801,7 +1802,7 @@ created for your site. In this case, it&apos;s &quot;wd4e-html.&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 71. vs code, explorer screen (49) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image071.png"
+  <img src="./images/image071.webp"
   title="VS Code, Explorer screen"
   alt="VS Code, Explorer screen."
   style="border: 2px solid #000000; width:50%" />
@@ -1837,7 +1838,7 @@ first page and when we click on it, it opens up in Google Chrome.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 72. firstpage with title (50) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image072.png"
+  <img src="./images/image072.webp"
   title="firstPage.html with title"
   alt="firstPage.html with title."
   style="border: 2px solid #000000; width:50%" />
@@ -1850,11 +1851,11 @@ looks okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 73/74. firstpage.html (51) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image073.png"
+  <img src="./images/image073.webp"
   title="firstPage with HTML initial code"
   alt="firstPage with HTML initial code."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image074.png"
+<img src="./images/image074.webp"
   title="My first page looks okay"
   alt="My first page looks okay."
   style="border: 2px solid #000000; width:45%" />
@@ -1868,7 +1869,7 @@ tell your browser to reload it. I&apos;m going to click here on the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 75. firstpage with title, head, body (51) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image075.png"
+  <img src="./images/image075.webp"
   title="firstPage.html in wd4e-html, with title, head, and body"
   alt="firstPage.html in wd4e-html, with title, head, and body."
   style="border: 2px solid #000000; width:50%" />
@@ -1884,7 +1885,7 @@ how to fix that.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 76. vs code, add live server for testing (52) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image076.png"
+  <img src="./images/image076.webp"
   title="VS Code, add Live Server for testing purposes"
   alt="VS Code, add Live Server for testing purposes."
   style="border: 2px solid #000000; width:50%" />
@@ -1905,7 +1906,7 @@ make sure that I can see both things on the same page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 77. html code & browser test screen (52) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image077.png"
+  <img src="./images/image077.webp"
   title="firstPage.html in wd4e.html and browser test screen"
   alt="firstPage.html in wd4e.html and browser test screen."
   style="border: 2px solid #000000; width:50%" />
@@ -1974,7 +1975,7 @@ writing syntactically correct code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 78. how to use replit (1.07) (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image078.png"
+  <img src="./images/image078.webp"
   title="1.07 How to Use Replit"
   alt="1.07 How to Use Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -1987,7 +1988,7 @@ others your progress is also really exciting.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 79. online editors; replit (54) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image079.png"
+  <img src="./images/image079.webp"
   title="Online editors; Replit"
   alt="Online editors; Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -2009,7 +2010,7 @@ Today, we are going to use something called &quot;Replit.&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 80. integrated development environments (ides) (55) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image080.png"
+  <img src="./images/image080.webp"
   title="Integrated Development Environments (IDEs); Replit"
   alt="Integrated Development Environments (IDEs); Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -2032,7 +2033,7 @@ web page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 81. create a replit account (55) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image081.png"
+  <img src="./images/image081.webp"
   title="Create a Replit account"
   alt="Create a Replit account."
   style="border: 2px solid #000000; width:50%" />
@@ -2051,7 +2052,7 @@ company or personality.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 82. create repl in replit (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image082.png"
+  <img src="./images/image082.webp"
   title="How to create a Repl in Replit"
   alt="How to create a Repl in Replit."
   style="border: 2px solid #000000; width:50%" />
@@ -2064,7 +2065,7 @@ a number of different templates that you can use.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 83. templates in replit (56) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image083.png"
+  <img src="./images/image083.webp"
   title="How to use templates in Replit"
   alt="How to use templates in Replit."
   style="border: 2px solid #000000; width:50%" />
@@ -2085,7 +2086,7 @@ click on &quot;Create Repl&quot;.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 84. create/test myfirstpage.html in replit (57) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image084.png"
+  <img src="./images/image084.webp"
   title="Create/Test myFirstPage.html in Replit"
   alt="Create/Test myFirstPage.html in Replit."
   style="border: 2px solid #000000; width:50%" />
@@ -2100,7 +2101,7 @@ scaffolding for us, right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 85. myfirstpage without style or scripts (58) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image085.png"
+  <img src="./images/image085.webp"
   title="myFirstPage.html without style or scripts"
   alt="myFirstPage.html without style or scripts."
   style="border: 2px solid #000000; width:50%" />
@@ -2118,7 +2119,7 @@ but I am going to say instead of &quot;Hello world,&quot; I&apos;m going to type
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 86. replit's myfirstpage with ide display screen (58) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image086.png"
+  <img src="./images/image086.webp"
   title="Replit myFirstPage with IDE display screen"
   alt="Replit myFirstPage with IDE display screen."
   style="border: 2px solid #000000; width:50%" />
@@ -2168,7 +2169,7 @@ Replit is free, and the first step is to make an account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 87. create a replit account screen (59) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image087.png"
+  <img src="./images/image087.webp"
   title="Create a Replit Account screen"
   alt="Create a Replit Account screen."
   style="border: 2px solid #000000; width:40%" />
@@ -2179,7 +2180,7 @@ Replit is free, and the first step is to make an account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 88. + create repl button under the heading my repls (60) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image088.png"
+  <img src="./images/image088.webp"
   title="The + Create button under the heading My Repls"
   alt="The + Create button under the heading My Repls."
   style="border: 2px solid #000000; width:40%" />
@@ -2203,7 +2204,7 @@ Replit is free, and the first step is to make an account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 89. info to fill in on the create a repl screen (60) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image089.png"
+  <img src="./images/image089.webp"
   title="Information to fill in on the create a repl screen: template, title, and public"
   alt="Information to fill in on the create a repl screen: template, title, and public."
   style="border: 2px solid #000000; width:40%" />
@@ -2218,7 +2219,7 @@ section, the Coding Environment, and the View window.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 90. the files section (61) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image090.png"
+  <img src="./images/image090.webp"
   alt="The Files Section."
   style="border: 2px solid #000000; width:30%" />
 </p>
@@ -2245,7 +2246,7 @@ where you can edit your code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 91. index.html in replit code editor (62) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image091.png"
+  <img src="./images/image091.webp"
   title="index.html in Replit code editor"
   alt="index.html in Replit code editor."
   style="border: 2px solid #000000; width:50%" />
@@ -2265,7 +2266,7 @@ created your repl.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 92. url and webview (63) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image092.png"
+  <img src="./images/image092.webp"
   title="URL and Webview"
   alt="URL and Webview."
   style="border: 2px solid #000000; width:30%" />
@@ -2353,7 +2354,7 @@ code is provided for this week&apos;s lessons.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 93. the document object model (dom) 2.01 (65) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image093.png"
+  <img src="./images/image093.webp"
   title="2.01 The Document Object Model (DOM)"
   alt="2.01 The Document Object Model (DOM)."
   style="border: 2px solid #000000; width:40%" />
@@ -2365,7 +2366,7 @@ as many devices as possible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 94. the document object model (dom) (65) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image094.png"
+  <img src="./images/image094.webp"
   title="The Document Object Model (DOM)" 
   alt="The Document Object Model (DOM)." 
   style="border: 2px solid #000000; width:40%" />
@@ -2390,7 +2391,7 @@ can prove to be valid or invalid.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 95. tree structure; html is built on the dom (66) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image095.png"
+  <img src="./images/image095.webp"
   title="HTML is built on the DOM"
   alt="HTML is built on the DOM."
   style="border: 2px solid #000000; width:50%" />
@@ -2416,7 +2417,7 @@ to work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 96. three parts of a well-formed document; doctype, head & body (67) ~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image096.png"
+  <img src="./images/image096.webp"
   title="Three parts of a well-formed document; Doctype, Head and Body"
   alt="Three parts of a well-formed document; Doctype, Head and Body."
   style="border: 2px solid #000000; width:40%" />
@@ -2432,7 +2433,7 @@ thing that most people are going to get back when they do the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 97. doctype html (67) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image097.png"
+  <img src="./images/image097.webp"
   title="Doctype HTML"
   alt="Doctype HTML."
   style="border: 2px solid #000000; width:40%" />
@@ -2447,7 +2448,7 @@ you&apos;re all set.&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 98. head meta-data & title (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image098.png"
+  <img src="./images/image098.webp"
   title="Head meta-data and title"
   alt="Head meta-data and title."
   style="border: 2px solid #000000; width:40%" />
@@ -2468,7 +2469,7 @@ it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 99. body (68) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image099.png"
+  <img src="./images/image099.webp"
   title="Body"
   alt="Body."
   style="border: 2px solid #000000; width:40%" />
@@ -2484,7 +2485,7 @@ not going to hit that in this class.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 100. example, template.html (69) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image100.png"
+  <img src="./images/image100.webp"
   title="Example, template.html"
   alt="Example, template.html."
   style="border: 2px solid #000000; width:50%" />
@@ -2515,7 +2516,7 @@ we want to see on the screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 101. browser display template.html (70) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image101.png"
+  <img src="./images/image101.webp"
   title="Browser display template.html"
   alt="Browser display template.html."
   style="border: 2px solid #000000; width:50%" />
@@ -2527,7 +2528,7 @@ the code, the next step you should always do is validate the code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 102. validate the code with validator.w3.org (70) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image102.png"
+  <img src="./images/image102.webp"
   title="Validate the Code with validator.w3.org"
   alt="Validate the Code with validator.w3.org."
   style="border: 2px solid #000000; width:50%" />
@@ -2546,7 +2547,7 @@ in to cover themselves.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 103. validator.w3.org options (71) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image103.png"
+  <img src="./images/image103.webp"
   title="validator.w3.org options"
   alt="validator.w3.org options."
   style="border: 2px solid #000000; width:50%" />
@@ -2561,7 +2562,7 @@ tag for title incorrectly.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 104. validate by direct input & click 'check' (71) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image104.png"
+  <img src="./images/image104.webp"
   title="Validate by direct input, then click 'check'"
   alt="Validate by direct input, then click 'check'."
   style="border: 2px solid #000000; width:50%" />
@@ -2584,7 +2585,7 @@ cause a lot of error messages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 105. check again, no errors or warnings (72) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image105.png"
+  <img src="./images/image105.webp"
   title="Check again, no errors or warnings"
   alt="Check again, no errors or warnings."
   style="border: 2px solid #000000; width:50%" />
@@ -2596,7 +2597,7 @@ again. This time, checking complete, no errors.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 106. review the 'dom' (72) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image106.png"
+  <img src="./images/image106.webp"
   title="Review the 'Document Object Model' (DOM)"
   alt="Review the 'Document Object Model' (DOM)."
   style="border: 2px solid #000000; width:40%" />
@@ -2646,7 +2647,7 @@ code when you visit pages.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 107. html5 tags and syntax (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image107.png" 
+  <img src="./images/image107.webp" 
   title="2.02 HTML5 Tags and Syntax"
   alt="2.02 HTML5 Tags and Syntax."
   style="border: 2px solid #000000; width:40%" />
@@ -2659,7 +2660,7 @@ hopefully, my first really big disappointment to you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 108. html tags (74) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image108.png" 
+  <img src="./images/image108.webp" 
   title="HTML tags"
   alt="HTML tags."
   style="border: 2px solid #000000; width:40%" />
@@ -2679,7 +2680,7 @@ ever really bother learning about it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 109. example, img tag attributes (75) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image109.png" 
+  <img src="./images/image109.webp" 
   title="Example, img tag attributes"
   alt="Example, img tag attributes."
   style="border: 2px solid #000000; width:50%" />
@@ -2709,7 +2710,7 @@ also be talking about the attributes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 110. display types: block & inline (76) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image110.png" 
+  <img src="./images/image110.webp" 
   title="Display types: block and inline"
   alt="Display types: block and inline."
   style="border: 2px solid #000000; width:50%" />
@@ -2730,7 +2731,7 @@ pages look a certain way.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 111. common tags: heading, paragraph & divs (all block) (76) ~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image111.png" 
+  <img src="./images/image111.webp" 
   title="Common Tags: Heading, paragraph & divs (all block)"
   alt="Common Tags: Heading, paragraph & divs (all block)."
   style="border: 2px solid #000000; width:50%" />
@@ -2772,7 +2773,7 @@ something along those lines.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 112. more tags: ol, ul, and br (78) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image112.png" 
+  <img src="./images/image112.webp" 
   title="More tags: Ordered List, Unordered List, and Line Break"
   alt="More tags: Ordered List, Unordered List, and Line Break." 
   style="border: 2px solid #000000; width:50%" />
@@ -2804,7 +2805,7 @@ something on a new line, unless it runs out of space or it specifically sees the
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 113. attributes of elements (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image113.png" 
+  <img src="./images/image113.webp" 
   title="More tags: Ordered List, Unordered List, and Line Break"
   alt="More tags: Ordered List, Unordered List, and Line Break." 
   style="border: 2px solid #000000; width:50%" />
@@ -2818,7 +2819,7 @@ attributes come in a name value pair.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 114. images (inline) src and alt (79) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image114.png" 
+  <img src="./images/image114.webp" 
   title="More tags: Ordered List, Unordered List, and Line Break"
   alt="More tags: Ordered List, Unordered List, and Line Break." 
   style="border: 2px solid #000000; width:50%" />
@@ -2855,7 +2856,7 @@ named &quot;image_02586.&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 115. more images, src, alt, title, class (80) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image115.png" 
+  <img src="./images/image115.webp" 
   title="More images; src, alt, title, and class"
   alt="More images; src, alt, title, and class."
   style="border: 2px solid #000000; width:50%" />
@@ -2871,7 +2872,7 @@ formatting, such as the height, the width, the position, etc.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 116. more attributes; class, id, style, accesskey & tabindex (81) ~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image116.png" 
+  <img src="./images/image116.webp" 
   title="More attributes; class, id, style, accesskey & tabindex"
   alt="More attributes; class, id, style, accesskey & tabindex."
   style="border: 2px solid #000000; width:50%" />
@@ -2911,7 +2912,7 @@ and they get there quicker.</p></div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 117. special entities (82) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image117.png" 
+  <img src="./images/image117.webp" 
   title="Special Entities"
   alt="Special Entities."
   style="border: 2px solid #000000; width:50%" />
@@ -2925,7 +2926,7 @@ a start tag?&quot;</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 118. character display for special entities (82) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image118.png" 
+  <img src="./images/image118.webp" 
   title="Charater display for special entities"
   alt="Charater display for special entities."
   style="border: 2px solid #000000; width:50%" />
@@ -2949,7 +2950,7 @@ tags you wanna use.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 119. review hmlt5 tags and syntax (83) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image119.png" 
+  <img src="./images/image119.webp" 
   title="Review; difference between tag & attribute, how to end a self-closing tag"
   alt="Review; difference between tag & attribute, how to end a self-closing tag."
   style="border: 2px solid #000000; width:50%" />
@@ -3007,7 +3008,7 @@ Elements](https://www.w3schools.com/html/html5_semantic_elements.asp).
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 120. semantic tags (2.03) (85) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image120.png" 
+  <img src="./images/image120.webp" 
   title="2.03 Semantic Tags"
   alt="2.03 Semantic Tags."
   style="border: 2px solid #000000; width:40%" />
@@ -3020,7 +3021,7 @@ webpages the most accessible as possible to as many people.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 121. how to design (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image121.png" 
+  <img src="./images/image121.webp" 
   title="How to Design"
   alt="How to Design."
   style="border: 2px solid #000000; width:40%" />
@@ -3039,7 +3040,7 @@ create before you can begin coding in earnest.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 122. how to design semantically (86) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image122.png" 
+  <img src="./images/image122.webp" 
   title="How to Design Semantically"
   alt="How to Design Semantically."
   style="border: 2px solid #000000; width:40%" />
@@ -3052,7 +3053,7 @@ the kind of design I want, I can begin coding.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 123. using semantic tags - old div (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image123.png" 
+  <img src="./images/image123.webp" 
   title="Using Semantic Tags - old 'div'"
   alt="Using Semantic Tags - old 'div'."
   style="border: 2px solid #000000; width:40%" />
@@ -3069,7 +3070,7 @@ in a way that worked best for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 124. example, header tag (87) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image124.png"
+  <img src="./images/image124.webp"
   title="Example, header tag"
   alt="Example, header tag."
   style="border: 2px solid #000000; width:40%" />
@@ -3096,7 +3097,7 @@ more of just an aid.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 125. example, nav tag (navigation) (88) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image125.png" 
+  <img src="./images/image125.webp" 
   title="Example, the navigation tag (nav)"
   alt="Example, the navigation tag (nav)."
   style="border: 2px solid #000000; width:40%" />
@@ -3116,7 +3117,7 @@ Oftentimes, you&apos;ll find the <b>&lt;nav&gt;</b> tag embedded inside the <b>&
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 126. example, footer tag (89) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image126.png" 
+  <img src="./images/image126.webp" 
   title="Example, footer tag"
   alt="Example, footer tag."
   style="border: 2px solid #000000; width:40%" />
@@ -3137,7 +3138,7 @@ semantic tags have a little bit more oomph to them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 127. example, figure tag (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image127.png" 
+  <img src="./images/image127.webp" 
   title="Example, figure tag"
   alt="Example, figure tag."
   style="border: 2px solid #000000; width:40%" />
@@ -3155,7 +3156,7 @@ the picture, but you have to remember, most of us will never see that.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 128. other new tags (90) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image128.png" 
+  <img src="./images/image128.webp" 
   title="Other New Tags; article, aside, main, menuitem, summary, section, datalist,
     keygen, output, color, date, eail, list, canvas, svg, audio, embed, source, 
 	track &amp; video"
@@ -3199,7 +3200,7 @@ for your image files. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 129. folder/subfolder code placement (91) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image129.png"
+  <img src="./images/image129.webp"
   title="Folder with list of documents nested within"
   alt="Folder with list of documents nested within."
   style="border: 2px solid #000000; width:20%" />
@@ -3234,7 +3235,7 @@ again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 130. template page in visual studio code (2.04) (92) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image130.png" 
+  <img src="./images/image130.webp" 
   title="2.04 Template Page in Visual Studio Code"
   alt="2.04 Template Page in Visual Studio Code."
   style="border: 2px solid #000000; width:40%" />
@@ -3246,7 +3247,7 @@ been using the tags that we&apos;ve been talking about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 131. minimum requirements; lab assignment (93) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image131.png" 
+  <img src="./images/image131.webp" 
   title="Minimum requirements; lab assignment"
   alt="Minimum requirements; lab assignment."
   style="border: 2px solid #000000; width:40%" />
@@ -3263,7 +3264,7 @@ on.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~ 132. start with a shell; doctype, meta-data & displayable content (93) ~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image132.png" 
+  <img src="./images/image132.webp" 
   title="Start with a Shell; Doctype, meta-data &amp; displayable content"
   alt="Start with a Shell; Doctype, meta-data &amp; displayable content."
   style="border: 2px solid #000000; width:40%" />
@@ -3278,7 +3279,7 @@ do and make it your own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 133. create new file; index.html (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image133.png"
+  <img src="./images/image133.webp"
   title="Create new file; index.html"
   alt="Create new file; index.html."
   style="border: 2px solid #000000; width:40%" />
@@ -3291,7 +3292,7 @@ a little bit and amazing things are happening.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 134. exclamation + tab to load shell (94) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image134.png" 
+  <img src="./images/image134.webp" 
   title="Enter Exclamation &amp; tab to automatically load shell program"
   alt="Enter Exclamation &amp; tab to automatically load shell program."
   style="border: 2px solid #000000; width:50%" />
@@ -3330,7 +3331,7 @@ so far.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 135. control-s to save document (95) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image135.png" 
+  <img src="./images/image135.webp" 
   title="Control-S to save document"
   alt="Control-S to save document."
   style="border: 2px solid #000000; width:50%" />
@@ -3345,7 +3346,7 @@ folder and open it up.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 136. bottom right click 'go live' (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image136.png" 
+  <img src="./images/image136.webp" 
   title="Bottom right, click 'go live'"
   alt="Bottom right, click 'go live'."
   style="border: 2px solid #000000; width:50%" />
@@ -3358,7 +3359,7 @@ have a footer, so let&apos;s add a footer in here. My footer is going to be
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 137. website with footer added (96) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image137.png" 
+  <img src="./images/image137.webp" 
   title="Add footer and copyright to website"
   alt="Add footer and copyright to website."
   style="border: 2px solid #000000; width:50%" />
@@ -3384,7 +3385,7 @@ again, and it looks better.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 138. run wave accessibility checker (97) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image138.png" 
+  <img src="./images/image138.webp" 
   title="Run WAVE accessiblity checker on website"
   alt="Run WAVE accessiblity checker on website."
   style="border: 2px solid #000000; width:50%" />
@@ -3397,11 +3398,11 @@ using Visual Studio Code. So you do have a few options. One is that you can clic
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~ 139/140. add wave to chrome extension then 'wave this page' (98) ~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image139.png" 
+  <img src="./images/image139.webp" 
   title="Add WAVE as a Chrome extension"
   alt="Add WAVE as a Chrome extension."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image140.png" 
+<img src="./images/image140.webp" 
   title="WAVE your website page"
   alt="WAVE your website page."
   style="border: 2px solid #000000; width:45%" />
@@ -3412,7 +3413,7 @@ going to right-click, and you can see it says &quot;WAVE this page.&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 141. test, wave this page (98) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image141.png" 
+  <img src="./images/image141.webp" 
   title="Test, WAVE this page"
   alt="Test, WAVE this page."
   style="border: 2px solid #000000; width:50%" />
@@ -3430,7 +3431,7 @@ that&apos;s accessible.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 142. template page in replit (2.05) (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image142.png" 
+  <img src="./images/image142.webp" 
   title="2.05 Template Page in Replit"
   alt="2.05 Template Page in Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -3442,7 +3443,7 @@ you&apos;ve been learning about.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 143. minimum requirements; lab (99) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image143.png" 
+  <img src="./images/image143.webp" 
   title="Minimum requirements, lab-header, main &amp; footer"
   alt="Minimum requirements, lab-header, main &amp; footer."
   style="border: 2px solid #000000; width:40%" />
@@ -3460,7 +3461,7 @@ you&apos;re developing and keep validating the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 144. start with a shell (100) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image144.png" 
+  <img src="./images/image144.webp" 
   title="Start with a shell"
   alt="Start with a shell."
   style="border: 2px solid #000000; width:40%" />
@@ -3477,11 +3478,11 @@ paragraphs or lists, eventually we&apos;ll be adding images.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 145/146. open replit; create, test, share & validate (100) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-<img src="./images/image145.png"
+<img src="./images/image145.webp"
   title="Open Replit; Create, Test, Share & Validate"
   alt="Open Replit, Create, Test, Share & Validate."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image146.png" 
+<img src="./images/image146.webp" 
   title="Create a Repl in Replit"
   alt="Create a Repl in Replit."
   style="border: 2px solid #000000; width:45%" />
@@ -3498,7 +3499,7 @@ named it &apos;"**index.html**&apos;" and now I&apos;m going to click on &apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 147. validate replit template (101) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image147.png" 
+  <img src="./images/image147.webp" 
   title="Validate Replit Template"
   alt="Validate Replit Template."
   style="border: 2px solid #000000; width:50%" />
@@ -3537,11 +3538,11 @@ work for you, is to copy and paste this link right here, all right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 148/149. test, wave accessiblity (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image148.png" 
+  <img src="./images/image148.webp" 
   title="Test, WAVE Accessibility"
   alt="Test, WAVE Accessibility."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image149.png" 
+<img src="./images/image149.webp" 
   title="Review WAVE output"
   alt="Review WAVE output."
   style="border: 2px solid #000000; width:45%" />
@@ -3557,7 +3558,7 @@ to put &apos;"language=es.&apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 150. initialized replit (102) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image150.png" 
+  <img src="./images/image150.webp" 
   title="Initialized Replit"
   alt="Initialized Replit."
   style="border: 2px solid #000000; width:50%" />
@@ -3571,7 +3572,7 @@ haven&apos;t even made anything ourselves yet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 151. add body with h1 to index.html (103) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image151.png"
+  <img src="./images/image151.webp"
   title="Add body and h1 to index.html"
   alt="Add body and h1 to index.html."
   style="border: 2px solid #000000; width:50%" />
@@ -3597,7 +3598,7 @@ to the Future,&apos;" and we&apos;ll just do those two for right now.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 152. add unordered list with 2 list items (104) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image152.png"
+  <img src="./images/image152.webp"
   title="Add ul - unordered list with two li's (list items)"
   alt="Add ul - unordered list with two li's (list items)."
   style="border: 2px solid #000000; width:50%" />
@@ -3611,7 +3612,7 @@ footer to your page, and I&apos;ll put in &apos;"Copyright Colleen.&apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 153. add copyright to footer (104) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image153.png" 
+  <img src="./images/image153.webp" 
   title="Add copyright to footer"
   alt="Add copyright to footer." 
   style="border: 2px solid #000000; width:50%" />
@@ -3623,7 +3624,7 @@ right here off to the side, everything looks great.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 154. validate using validator.w3.org (105) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image154.png"
+  <img src="./images/image154.webp"
   title="Validate website using validator.w3.org"
   alt="Validate website using validator.w3.org."
   style="border: 2px solid #000000; width:50%" />
@@ -3732,7 +3733,7 @@ that does and then using the app to link to it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 155. images (2.06) (107) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image155.png" 
+  <img src="./images/image155.webp" 
   title="2.06 Images"
   alt="2.06 Images."
   style="border: 2px solid #000000; width:40%" />
@@ -3748,7 +3749,7 @@ sure your images look the way that you want them to look.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 156. images - its more than the tag (108) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image156.png"
+  <img src="./images/image156.webp"
   title="Images - its more than the tag"
   alt="Images - its more than the tag."
   style="border: 2px solid #000000; width:40%" />
@@ -3776,7 +3777,7 @@ behind a paywall, it can all mess up your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 157. image sizes (108) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image157.png" 
+  <img src="./images/image157.webp" 
   title="Images Sizes"
   alt="Images Sizes."
   style="border: 2px solid #000000; width:40%" />
@@ -3794,7 +3795,7 @@ file or we can use something called width and height attributes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 158. using an editor (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image158.png" 
+  <img src="./images/image158.webp" 
   title="Using an Editor"
   alt="Using an Editor."
   style="border: 2px solid #000000; width:40%" />
@@ -3812,7 +3813,7 @@ size, but you can also crop it to different dimensions.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 159. using attributes (109) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image159.png" 
+  <img src="./images/image159.webp" 
   title="Using Attributes"
   alt="Using Attributes."
   style="border: 2px solid #000000; width:40%" />
@@ -3831,7 +3832,7 @@ flickering as they adjust to different sizes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 160. example, figure - default image size (110) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image160.png" 
+  <img src="./images/image160.webp" 
   title="Example, figure, img src, figcaption - default image size"
   alt="Example, figure, img src, figcaption - default image size."
   style="border: 2px solid #000000; width:40%" />
@@ -3851,7 +3852,7 @@ well. You&apos;ll have to forgive me on this one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 161. example, using width in pixels (110) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image161.png" 
+  <img src="./images/image161.webp" 
   title="Example, using width in pixels"
   alt="Example, using width in pixels."
   style="border: 2px solid #000000; width:40%" />
@@ -3873,7 +3874,7 @@ may be too big for my phone and too small for my giant screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 162. example, using width and height (111) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image162.png"
+  <img src="./images/image162.webp"
   title="Example, using width and height"
   alt="Example, using width and height."
   style="border: 2px solid #000000; width:40%" />
@@ -3886,7 +3887,7 @@ not going to look good.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 163. example, using percentages (111) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image163.png"
+  <img src="./images/image163.webp"
   title="Example, using percentages"
   alt="Example, using percentages."
   style="border: 2px solid #000000; width:40%" />
@@ -3906,7 +3907,7 @@ fluid measurements and to be reactive and responsive to people.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 164. favicons (112) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image164.png" 
+  <img src="./images/image164.webp" 
   title="Favicons"
   alt="Favicons."
   style="border: 2px solid #000000; width:40%" />
@@ -3926,7 +3927,7 @@ that PNG file is located in my images folder.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 165. alternative text attribute (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image165.png"
+  <img src="./images/image165.webp"
   title="Alternative Text Attribute"
   alt="Alternative Text Attribute."
   style="border: 2px solid #000000; width:40%" />
@@ -3951,7 +3952,7 @@ benefits as well as just being, you know, a decent human being.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 166. review; extension & style (113) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image166.png" 
+  <img src="./images/image166.webp" 
   title="Review; file extensions and style with height/width"
   alt="Review; file extensions and style with height/width." 
   style="border: 2px solid #000000; width:40%" />
@@ -4007,7 +4008,7 @@ equity, and inclusion.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 167. accessible images (2.07) (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image167.png" 
+  <img src="./images/image167.webp" 
   title="2.07 Accessible Images"
   alt="2.07 Accessible Images."
   style="border: 2px solid #000000; width:40%" />
@@ -4023,7 +4024,7 @@ image on your page?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 168. alternative text attribute (115) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image168.png"
+  <img src="./images/image168.webp"
   title="Alternative Text Attribute"
   alt="Alternative Text Attribute."
   style="border: 2px solid #000000; width:40%" />
@@ -4051,7 +4052,7 @@ text attributes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 169. creating good alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image169.png" 
+  <img src="./images/image169.webp" 
   title="Creating Good alt text"
   alt="Creating Good alt text."
   style="border: 2px solid #000000; width:40%" />
@@ -4071,7 +4072,7 @@ you&apos;re creating good **alt** text.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 170. empty alt text (116) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image170.png" 
+  <img src="./images/image170.webp" 
   title="Empty alt text"
   alt="Empty alt text."
   style="border: 2px solid #000000; width:40%" />
@@ -4088,7 +4089,7 @@ extra meaning.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 171. long alt text (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image171.png" 
+  <img src="./images/image171.webp" 
   title="Long alt Text"
   alt="Long alt Text."
   style="border: 2px solid #000000; width:40%" />
@@ -4107,7 +4108,7 @@ that time to digest it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172. finding usable images (117) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image172.png" 
+  <img src="./images/image172.webp" 
   title="Finding Usable Images"
   alt="Finding Usable Images."
   style="border: 2px solid #000000; width:40%" />
@@ -4131,7 +4132,7 @@ that you can use on your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 173. example, emojis & icons (118) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image173.png" 
+  <img src="./images/image173.webp" 
   title="Example, Emojis & Icons"
   alt="Example, Emojis & Icons."
   style="border: 2px solid #000000; width:40%" />
@@ -4156,7 +4157,7 @@ that icon is representing?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 174. images for impact (119) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image174.png" 
+  <img src="./images/image174.webp" 
   title="Images for Impact"
   alt="Images for Impact."
   style="border: 2px solid #000000; width:40%" />
@@ -4187,7 +4188,7 @@ to try to improve kind of your own outlook.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 175. example, tips (120) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image175.png" 
+  <img src="./images/image175.webp" 
   title="Example, Tips"
   alt="Example, Tips."
   style="border: 2px solid #000000; width:40%" />
@@ -4255,7 +4256,7 @@ to create your **alt** text.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 176. hyperlinks (2.08) (121) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image176.png" 
+  <img src="./images/image176.webp" 
   title="2.08 Hyperlinks"
   alt="2.08 Hyperlinks."
   style="border: 2px solid #000000; width:40%" />
@@ -4268,7 +4269,7 @@ document with others out there.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 177. links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image177.png" 
+  <img src="./images/image177.webp" 
   title="Links"
   alt="Links."
   style="border: 2px solid #000000; width:40%" />
@@ -4283,7 +4284,7 @@ you create a link on your page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 178. example, anchor links (122) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image178.png" 
+  <img src="./images/image178.webp" 
   title="Example, Anchor links"
   alt="Example, Anchor links." 
   style="border: 2px solid #000000; width:40%" />
@@ -4304,7 +4305,7 @@ But in some cases, it might be an image instead.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 179. types of links (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image179.png" 
+  <img src="./images/image179.webp" 
   title="Types of links; Absolute, Relative, Internal and Graphical"
   alt="Types of links; Absolute, Relative, Internal and Graphical."
   style="border: 2px solid #000000; width:40%" />
@@ -4317,7 +4318,7 @@ graphical links and I&apos;m gonna show you examples of each one of those.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 180. example, absolute reference (123) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image180.png" 
+  <img src="./images/image180.webp" 
   title="Example, Absolute Reference"
   alt="Example, Absolute Reference." 
   style="border: 2px solid #000000; width:40%" />
@@ -4333,7 +4334,7 @@ reference, right? Everything else is still pretty much the same.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 181. example, relative references (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image181.png" 
+  <img src="./images/image181.webp" 
   title="Example, Relative References"
   alt="Example, Relative References."
   style="border: 2px solid #000000; width:40%" />
@@ -4356,7 +4357,7 @@ saying there&apos;s another location inside the same file and it&apos;s called
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 182. absolute vs relative (124) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image182.png" 
+  <img src="./images/image182.webp" 
   title="Absolute vs Relative"
   alt="Absolute vs Relative."
   style="border: 2px solid #000000; width:40%" />
@@ -4387,7 +4388,7 @@ right?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 183. example, using images as the link (125) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image183.png" 
+  <img src="./images/image183.webp" 
   title="Example, Using images as the link"
   alt="Example, Using images as the link."
   style="border: 2px solid #000000; width:40%" />
@@ -4410,7 +4411,7 @@ used an absolute reference. I&apos;ve put in the entire **URL**.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 184. usability issues (126) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image184.png" 
+  <img src="./images/image184.webp" 
   title="Usability Issues"
   alt="Usability Issues."
   style="border: 2px solid #000000; width:40%" />
@@ -4433,7 +4434,7 @@ image.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ 185. examples; absolute, relative & embedded links (126) ~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image185.png" 
+  <img src="./images/image185.webp" 
   title="Example; absolute, relative and embedded links"
   alt="Example; absolute, relative and embedded links."
   style="border: 2px solid #000000; width:50%" />
@@ -4446,7 +4447,7 @@ references, images as links, and then some embedded links, as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 186. bottom screen shows url as you hover (127) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image186.png" 
+  <img src="./images/image186.webp" 
   title="URL displayed on bottom when you hover over a link"
   alt="URL displayed on bottom when you hover over a link."
   style="border: 2px solid #000000; width:50%" />
@@ -4466,11 +4467,11 @@ it. So absolute references take you away from your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 187/188. relative references within your folder (127) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image187.png" 
+  <img src="./images/image187.webp" 
   title="Relative reference within your folder"
   alt="Relative reference within your folder."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image188.png" 
+<img src="./images/image188.webp" 
   title="Click image for larger viewing"
   alt="Click image for larger viewing."
   style="border: 2px solid #000000; width:45%" />
@@ -4486,7 +4487,7 @@ view.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 189. embedded links (128) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image189.png" 
+  <img src="./images/image189.webp" 
   title="Embedded links"
   alt="Embedded links."
   style="border: 2px solid #000000; width:50%" />
@@ -4503,7 +4504,7 @@ I&apos;m gonna jump to different places within the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 190. embedded references (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image190.png" 
+  <img src="./images/image190.webp" 
   title="Embedded References"
   alt="Embedded References."
   style="border: 2px solid #000000; width:50%" />
@@ -4518,7 +4519,7 @@ confused about how code is working.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 191. view developer source (129) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image191.png" 
+  <img src="./images/image191.webp" 
   title="View Developer Source"
   alt="View Developer Source."
   style="border: 2px solid #000000; width:50%" />
@@ -4531,7 +4532,7 @@ people are creating their pages and their links.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 192. target; _self, _blank, _top & _parent (130) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image192.png" 
+  <img src="./images/image192.webp" 
   title="Target; May be _self, _blank, _top & _parent"
   alt="Target; May be _self, _blank, _top, or _parent."
   style="border: 2px solid #000000; width:40%" />
@@ -4561,7 +4562,7 @@ of having multiple windows, frames, etc. open.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 193. review; links can be absolute, relative and internal (131) ~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image193.png" 
+  <img src="./images/image193.webp" 
   title="Review; Links can be absolute, relative and internal"
   alt="Review; Links can be absolute, relative and internal."
   style="border: 2px solid #000000; width:40%" />
@@ -4647,7 +4648,7 @@ everything on your page (until the next tag) into a big underlined link.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 194. useful tags (2.09) (133) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image194.png" 
+  <img src="./images/image194.webp" 
   title="2.09 Useful Tags"
   alt="2.09 Useful Tags."
   style="border: 2px solid #000000; width:40%" />
@@ -4666,7 +4667,7 @@ can start playing with your own code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 195. choosing your tag; generic & semantic (133) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image195.png" 
+  <img src="./images/image195.webp" 
   title="Choosing your tag; generic &amp; semantic"
   alt="Choosing your tag; generic &amp; semantic."
   style="border: 2px solid #000000; width:40%" />
@@ -4687,7 +4688,7 @@ we talked about those in an earlier lesson.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 196. list of block tags (134) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image196.png" 
+  <img src="./images/image196.webp" 
   title="List of block tags"
   alt="List of block tags."
   style="border: 2px solid #000000; width:40%" />
@@ -4731,7 +4732,7 @@ look at a quick example.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 197. some common block tags (135) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image197.png" 
+  <img src="./images/image197.webp" 
   title="Common block tags; hr, address, blockquote and details/summary"
   alt="Common block tags; hr, address, blockquote and details/summary."
   style="border: 2px solid #000000; width:50%" />
@@ -4761,7 +4762,7 @@ it closed and then open up when someone clicks on the little arrow icon.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 198. list of inline tags (136) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image198.png" 
+  <img src="./images/image198.webp" 
   title="List of inline tags"
   alt="List of inline tags."
   style="border: 2px solid #000000; width:40%" />
@@ -4782,7 +4783,7 @@ put in the greater than sign. Let&apos;s look at examples of this code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 199. inline elements; cite and abbr (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image199.png" 
+  <img src="./images/image199.webp" 
   title="Inline elements; cite and abbr"
   alt="Inline elements; cite and abbr."
   style="border: 2px solid #000000; width:50%" />
@@ -4800,7 +4801,7 @@ If you notice, right along here, I&apos;ve included abbreviation inside the box.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 200. example, title tag (137) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image200.png" 
+  <img src="./images/image200.webp" 
   title="Example, title tag"
   alt="Example, title tag."
   style="border: 2px solid #000000; width:50%" />
@@ -4827,7 +4828,7 @@ phone, it&apos;ll pop up as knowing that it&apos;s a date.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 201. tags; code, sub and sup (138) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image201.png" 
+  <img src="./images/image201.webp" 
   title="Tags; code, sub and sup"
   alt="Tags; code, sub and sup."
   style="border: 2px solid #000000; width:50%" />
@@ -4854,7 +4855,7 @@ know a lot with yet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 202. tags that need 'more' (139) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image202.png" 
+  <img src="./images/image202.webp" 
   title="List of tags that need 'more'"
   alt="List of tags that need 'more'."
   style="border: 2px solid #000000; width:40%" />
@@ -4872,7 +4873,7 @@ we&apos;re just learning these tags.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 203. button, meter, progress & iframe (139) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image203.png" 
+  <img src="./images/image203.webp" 
   title="Special tags; button, meter, progress &amp; iframe"
   alt="Special tags; button, meter, progress &amp; iframe."
   style="border: 2px solid #000000; width:50%" />
@@ -4889,7 +4890,7 @@ confuse people that there not actually operational.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 203. meter tag (140) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image203.png" 
+  <img src="./images/image203.webp" 
   title="meter tag"
   alt="meter tag."
   style="border: 2px solid #000000; width:50%" />
@@ -4909,7 +4910,7 @@ Here I just want to show you that it doesn&apos;t always have to be 0 to
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 204. special tags; button, meter, progress (140) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image204.png" 
+  <img src="./images/image204.webp" 
   title="Special tags; button, meter and progress"
   alt="Special tags; button, meter and progress."
   style="border: 2px solid #000000; width:50%" />
@@ -4925,7 +4926,7 @@ bar fills in. Again both **&lt;meter&gt;** and
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 205. iframe - content nesting (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image205.png" 
+  <img src="./images/image205.webp" 
   title="iframe for content nesting"
   alt="iframe for content nesting."
   style="border: 2px solid #000000; width:50%" />
@@ -4940,7 +4941,7 @@ look into options, such as height and width.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 206. iframe is used to nest content (141) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image206.png" 
+  <img src="./images/image206.webp" 
   title="The iframe is used to nest content"
   alt="The iframe is used to nest content."
   style="border: 2px solid #000000; width:50%" />
@@ -4952,7 +4953,7 @@ page. And it puts my whole web page inside this little block of the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 207. iframe; webpage within a webpage (142) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image207.png" 
+  <img src="./images/image207.webp" 
   title="iframe; webpage within a webpage"
   alt="iframe; webpage within a webpage."
   style="border: 2px solid #000000; width:50%" />
@@ -4966,7 +4967,7 @@ all the things. It&apos;s as if I have a webpage inside of a webpage.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 208. bdo; bidirectional orientation (142) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image208.png" 
+  <img src="./images/image208.webp" 
   title="BDO; Bidirectional Orientation"
   alt="BDO; Bidirectional Orientation."
   style="border: 2px solid #000000; width:50%" />
@@ -4986,7 +4987,7 @@ really embrace what it&apos;s doing.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 209. review; useful tags (143) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image209.png" 
+  <img src="./images/image209.webp" 
   title="Review; Useful Tags"
   alt="Review; Useful Tags."
   style="border: 2px solid #000000; width:40%" />
@@ -5074,7 +5075,7 @@ code so you will be writing the code on your own!)
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 210. accessibility (3.01) (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image210.png" 
+  <img src="./images/image210.webp" 
   title="3.01 Accessibility"
   alt="3.01 Accessibility."
   style="border: 2px solid #000000; width:40%" />
@@ -5089,7 +5090,7 @@ possible for others.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 211. accessibility goals (145) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image211.png" 
+  <img src="./images/image211.webp" 
   title="Accessibility Goals"
   alt="Accessibility Goals."
   style="border: 2px solid #000000; width:40%" />
@@ -5115,7 +5116,7 @@ will do.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~ 212. what does a 'web accessibility coordinator' do? (146) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image212.png" 
+  <img src="./images/image212.webp" 
   title="What does a 'Web Accessibility Coordinator' do?"
   alt="What does a 'Web Accessibility Coordinator' do?"
   style="border: 2px solid #000000; width:40%" />
@@ -5138,7 +5139,7 @@ specifics.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 213. 1 in 5 people have a disability (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image213.png" 
+  <img src="./images/image213.webp" 
   title="1 in 5 people have a disability"
   alt="1 in 5 people have disability."
   style="border: 2px solid #000000; width:40%" />
@@ -5154,7 +5155,7 @@ the Internet. Visual issues, hearing, motor and cognitive.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 214. visual disabilities (147) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image214.png" 
+  <img src="./images/image214.webp" 
   title="Visual Disabilities"
   alt="Visual Disabilities."
   style="border: 2px solid #000000; width:40%" />
@@ -5173,7 +5174,7 @@ easily as possible?
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 215. hearing disabilities (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image215.png" 
+  <img src="./images/image215.webp" 
   title="Hearing Disabilities"
   alt="Hearing Disabilities."
   style="border: 2px solid #000000; width:40%" />
@@ -5201,7 +5202,7 @@ technology&apos;s in command of them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 216. motor disabilities (148) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image216.png" 
+  <img src="./images/image216.webp" 
   title="Motor Disabilities"
   alt="Motor Disabilities."
   style="border: 2px solid #000000; width:40%" />
@@ -5226,7 +5227,7 @@ click a button while the button keeps moving around the screen.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 217. cognitive disabilities (149) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image217.png" 
+  <img src="./images/image217.webp" 
   title="Cognitive Disabilities"
   alt="Cognitive Disabilities."
   style="border: 2px solid #000000; width:40%" />
@@ -5256,7 +5257,7 @@ people design theirs.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 218. more stats on accessibility (150) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image218.png" 
+  <img src="./images/image218.webp" 
   title="More Stats on Accessibility"
   alt="More Stats on Accessibility."
   style="border: 2px solid #000000; width:40%" />
@@ -5277,7 +5278,7 @@ for.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~ 219. the web offers unprecendented opportunities for disabled (150) ~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image219.png" 
+  <img src="./images/image219.webp" 
   title="The web offers unprecedented opportunities for disabled"
   alt="The web offers unprecedented opportunities for disabled."
   style="border: 2px solid #000000; width:40%" />
@@ -5303,7 +5304,7 @@ so.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 220. legal - web accessibility (151) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image220.png" 
+  <img src="./images/image220.webp" 
   title="Legal - Web Accessibility"
   alt="Legal - Web Accessibility."
   style="border: 2px solid #000000; width:40%" />
@@ -5325,7 +5326,7 @@ be.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 221. what is web accessibility? (152) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image221.png" 
+  <img src="./images/image221.webp" 
   title="What is Web Accessibility?"
   alt="What is Web Accessibility?"
   style="border: 2px solid #000000; width:40%" />
@@ -5346,7 +5347,7 @@ accomplish accessibility? It&apos;s adherence to standards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 222. w3c wcag 2.0-content accessibility guidelines (152) ~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image222.png" 
+  <img src="./images/image222.webp" 
   title="W3Cx WCAG 2.0 - Content Accessibility Guidelines"
   alt="W3Cx WCAG 2.0 - Content Accessibility Guidelines."
   style="border: 2px solid #000000; width:40%" />
@@ -5367,7 +5368,7 @@ entire course.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 223. review; accessible with semantics (153) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image223.png" 
+  <img src="./images/image223.webp" 
   title="Review; Accessible with Semantics"
   alt="Review; Accessible with Semantics."
   style="border: 2px solid #000000; width:40%" />
@@ -5395,7 +5396,7 @@ designing for the greatest possible audience.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 224. wave.webaim.org - web accessibility (154) ~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image224.png" 
+  <img src="./images/image224.webp" 
   title="wave.webaim.org - web accessibility"
   alt="wave.webaim.org - web accessibility."
   style="border: 2px solid #000000; width:70%" />
@@ -5429,7 +5430,7 @@ accessible and if any accessibility related features are supported.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 225. compare up to 5 browsers (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image225.png" 
+  <img src="./images/image225.webp" 
   title="Compare up to five browsers"
   alt="Compare up to five browsers."
   style="border: 2px solid #000000; width:70%" />
@@ -5440,7 +5441,7 @@ accessible and if any accessibility related features are supported.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 226. validating your site (3.02) (155) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image226.png" 
+  <img src="./images/image226.webp" 
   title="3.02 Validating Your Site"
   alt="3.02 Validating Your Site."
   style="border: 2px solid #000000; width:40%" />
@@ -5452,7 +5453,7 @@ but let&apos;s talk about why it&apos;s so important.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 227. why validate? (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image227.png" 
+  <img src="./images/image227.webp" 
   title="Why Validate?"
   alt="Why Validate?"
   style="border: 2px solid #000000; width:40%" />
@@ -5472,7 +5473,7 @@ code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 228. three approaches to validation (156) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image228.png" 
+  <img src="./images/image228.webp" 
   title="Three Approaches to Validation"
   alt="Three Approaches to Validation."
   style="border: 2px solid #000000; width:40%" />
@@ -5498,7 +5499,7 @@ you to see just if you&apos;ve made some little mistakes.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 229. don't freak out! (157) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image229.png" 
+  <img src="./images/image229.webp" 
   title=""
   alt="."
   style="border: 2px solid #000000; width:40%" />
@@ -5520,7 +5521,7 @@ into the search bar, okay? You can do it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~ 230. wave.webaim.org accessibility validation (158) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image230.png" 
+  <img src="./images/image230.webp" 
   title=""
   title="wave.webaim.org - Accessibility Validation"
   alt="wave.webaim.org - Accessibility Validation."
@@ -5547,7 +5548,7 @@ are using.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 231. review; validating sites (158) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image231.png" 
+  <img src="./images/image231.webp" 
   title="Review; Validating Sites"
   alt="Review; Validating Sites."
   style="border: 2px solid #000000; width:40%" />
@@ -5574,7 +5575,7 @@ your mind and host them later.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 232. hosting your site (3.03) (159) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image232.png" 
+  <img src="./images/image232.webp" 
   title="3.03 Hosting Your Site"
   alt="3.03 Hosting Your Site."
   style="border: 2px solid #000000; width:40%" />
@@ -5592,7 +5593,7 @@ server for your files to let other people see them.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 233. domain names (160) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image233.png" 
+  <img src="./images/image233.webp" 
   title=""
   alt="."
   style="border: 2px solid #000000; width:40%" />
@@ -5625,7 +5626,7 @@ looks like www, and that&apos;s where the hosting company comes in.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 234. hosting (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image234.png" 
+  <img src="./images/image234.webp" 
   title="Hosting"
   alt="Hosting."
   style="border: 2px solid #000000; width:40%" />
@@ -5641,7 +5642,7 @@ way up. But let&apos;s talk about the pros and cons of each one.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 235. free services (161) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image235.png" 
+  <img src="./images/image235.webp" 
   title="Free services"
   alt="Free services."
   style="border: 2px solid #000000; width:40%" />
@@ -5673,7 +5674,7 @@ service as well.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 236. paid services (162) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image236.png" 
+  <img src="./images/image236.webp" 
   title="Paid services"
   alt="Paid services."
   style="border: 2px solid #000000; width:40%" />
@@ -5705,7 +5706,7 @@ out on the web. Good luck.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~ 237. creating a github pages account (3.04a) (163) ~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image237.png" 
+  <img src="./images/image237.webp" 
   title="3.04a Creating a GitHub Pages Account"
   alt="3.04a Creating a GitHub Pages Account."
   style="border: 2px solid #000000; width:40%" />
@@ -5717,7 +5718,7 @@ on GitHub.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 238. make a github pages account (163) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image238.png" 
+  <img src="./images/image238.webp" 
   title="Make a GitHub pages account"
   alt="Make a GitHub pages account."
   style="border: 2px solid #000000; width:50%" />
@@ -5735,7 +5736,7 @@ password.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 239. click 'create an account' (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image239.png" 
+  <img src="./images/image239.webp" 
   title=""
   title="Click 'Create an account'"
   alt="Click 'Create an account'."
@@ -5750,7 +5751,7 @@ want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 240. github, select free plan (164) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image240.png" 
+  <img src="./images/image240.webp" 
   title="GitHub, select free plan"
   alt="GitHub, select free plan."
   style="border: 2px solid #000000; width:50%" />
@@ -5773,7 +5774,7 @@ web. It is important that you follow the rules precisely.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 241. github, + new repository (165) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image241.png" 
+  <img src="./images/image241.webp" 
   title="GitHub, + New repository"
   alt="GitHub, + New repository."
   style="border: 2px solid #000000; width:50%" />
@@ -5793,7 +5794,7 @@ something like &apos;"the website for web design for everyone.&apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 242. initialize website with readme (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image242.png" 
+  <img src="./images/image242.webp" 
   title=""
   alt="GitHub, initialize website with README."
   style="border: 2px solid #000000; width:50%" />
@@ -5814,7 +5815,7 @@ going to see what happens if we go here.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 243. github, new live lame website (166) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image243.png" 
+  <img src="./images/image243.webp" 
   title="GitHub, new live lame website"
   alt="GitHub, new live lame website."
   style="border: 2px solid #000000; width:40%" />
@@ -5841,7 +5842,7 @@ creating your GitHub Pages account.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 244. uploading to github pages (3.04b) (167) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image244.png" 
+  <img src="./images/image244.webp" 
   title="3.04b Uploading to GitHub Pages"
   alt="3.04b Uploading to GitHub Pages."
   style="border: 2px solid #000000; width:40%" />
@@ -5855,7 +5856,7 @@ be familiar with yet, but that&apos;s okay.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 245. github, new website but not live (168) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image245.png" 
+  <img src="./images/image245.webp" 
   title="GitHub, new website but not live"
   alt="GitHub, new website but not live."
   style="border: 2px solid #000000; width:50%" />
@@ -5873,7 +5874,7 @@ that&apos;s kind of a pain.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~ 246. github, create 1st live website (168) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image246.png" 
+  <img src="./images/image246.webp" 
   title=""
   alt="GitHub, create 1st live website."
   style="border: 2px solid #000000; width:50%" />
@@ -5889,7 +5890,7 @@ new repository. Basically, consider a new folder full of code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 247. github, name & initialize repository (169) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image247.png" 
+  <img src="./images/image247.webp" 
   title="GitHub, name then initialize new repository"
   alt="GitHub, name then initialize new repository."
   style="border: 2px solid #000000; width:50%" />
@@ -5906,7 +5907,7 @@ and I click on that, then &apos;"Create repository.&apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 248. github website built (169) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image248.png" 
+  <img src="./images/image248.webp" 
   title="GitHub website built"
   alt="GitHub website built."
   style="border: 2px solid #000000; width:50%" />
@@ -5921,7 +5922,7 @@ our code.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 249. github, choose & upload files (170) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image249.png" 
+  <img src="./images/image249.webp" 
   title="GitHub, choose &amp; upload files for website"
   alt="GitHub, choose &amp; upload files for website."
   style="border: 2px solid #000000; width:50%" />
@@ -5937,7 +5938,7 @@ this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 250. drag & drop whole website (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image250.png" 
+  <img src="./images/image250.webp" 
   title="Drag &amp; drop whole website data sources"
   alt="Drag &amp; drop whole website data sources."
   style="border: 2px solid #000000; width:50%" />
@@ -5950,7 +5951,7 @@ let me upload as many files as I want.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 251. github pages, upload & commit (171) ~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image251.png" 
+  <img src="./images/image251.webp" 
   title="GitHub pages, upload web code, then commit at bottom of screen"
   alt="GitHub pages, upload web code, then commit at bottom of screen."
   style="border: 2px solid #000000; width:50%" />
@@ -5965,7 +5966,7 @@ complete.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 252. github, choose master branch (171) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image252.png" 
+  <img src="./images/image252.webp" 
   title=""
   title="GitHub, choose master branch as GitHub pages source"
   alt="GitHub, choose master branch as GitHub pages source."
@@ -5983,7 +5984,7 @@ worked or not.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 253. github, your site is published (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image253.png" 
+  <img src="./images/image253.webp" 
   title=""
   title="GitHub, your site is ready to be published"
   alt="GitHub, your site is ready to be published."
@@ -6001,7 +6002,7 @@ was sampler, and what was the name of my file?&apos;" Hopefully, it was
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 254. sample, github web site (172) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image254.png" 
+  <img src="./images/image254.webp" 
   title="Sample, GitHub website"
   alt="Sample, GitHub website."
   style="border: 2px solid #000000; width:50%" />
@@ -6018,7 +6019,7 @@ to go to github.com.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 255. add repository without readme (173) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image255.png" 
+  <img src="./images/image255.webp" 
   title=""
   title="Create new repository without a README"
   alt="Create new repository without a README."
@@ -6036,7 +6037,7 @@ do in our desktop. Now, I can upload files.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 256. github pages, select master branch & commit (173) ~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image256.png" 
+  <img src="./images/image256.webp" 
   title="GitHub pages, settings, add GitHub Pages master branch, commit/save"
   alt="GitHub pages, settings, add GitHub Pages master branch, commit/save."
   style="border: 2px solid #000000; width:50%" />
@@ -6068,7 +6069,7 @@ incredible work.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 257. sharing your page from replit (3.05) (174) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image257.png" 
+  <img src="./images/image257.webp" 
   title="3.05 Sharing Your Page from Replit"
   alt="3.05 Sharing Your Page from Replit."
   style="border: 2px solid #000000; width:40%" />
@@ -6081,7 +6082,7 @@ your fellow peers.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 258. replit example, movies of the 80's (175) ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image258.png" 
+  <img src="./images/image258.webp" 
   title="Replit Example, Movies of the 80's"
   alt="Replit Example, Movies of the 80's."
   style="border: 2px solid #000000; width:50%" />
@@ -6096,7 +6097,7 @@ that you can share with somebody if you want them to see the page.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 259. url of replit example (175) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image259.png" 
+  <img src="./images/image259.webp" 
   title="URL of Replit Example"
   alt="URL of Replit Example."
   style="border: 2px solid #000000; width:40%" />
@@ -6111,7 +6112,7 @@ who I am. It could be me, could be my grandma, could be my third cousin.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~ 260. right-click, view page source (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image260.png" 
+  <img src="./images/image260.webp" 
   title="Right-click, view page source"
   alt="Right-click, view page source."
   style="border: 2px solid #000000; width:50%" />
@@ -6125,7 +6126,7 @@ better.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 261. replit example (176) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image261.png" 
+  <img src="./images/image261.webp" 
   title="Replit Example"
   alt="Replit Example."
   style="border: 2px solid #000000; width:50%" />
@@ -6181,7 +6182,7 @@ host it so that other people can see what you have created.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 262. create a replit account (177) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image262.png" 
+  <img src="./images/image262.webp" 
   title="Create a Replit account screen"
   alt="Create a Replit account screen."
   style="border: 2px solid #000000; width:40%" />
@@ -6192,7 +6193,7 @@ host it so that other people can see what you have created.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 88. my repls (178) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image088.png" 
+  <img src="./images/image088.webp" 
   title="The + button under the heading 'My Repls'"
   alt="The + button under the heading 'My Repls'."
   style="border: 2px solid #000000; width:40%" />
@@ -6216,7 +6217,7 @@ host it so that other people can see what you have created.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~ 89. info to fill in on the create repl screen; template, title & public (178) ~~~~~~-->
 <p align="center">
-  <img src="./images/image089.png" 
+  <img src="./images/image089.webp" 
   title="Information to fill in on the create a repl screen; template, title and public"
   alt="Information to fill in on the create a repl screen; template, title and public."
   style="border: 2px solid #000000; width:40%" />
@@ -6232,7 +6233,7 @@ Files section, the Coding Environment, and the View window.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 263. the files section (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image263.png" 
+  <img src="./images/image263.webp" 
   title="The files section"
   alt="The files section."
   style="border: 2px solid #000000; width:20%" />
@@ -6261,7 +6262,7 @@ where you can edit your code. 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 264. coding environment (179) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image264.png" 
+  <img src="./images/image264.webp" 
   title="Coding Environment"
   alt="Coding Environment."
   style="border: 2px solid #000000; width:40%" />
@@ -6281,7 +6282,7 @@ you created your repl.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 265. the view windows (180) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image265.png" 
+  <img src="./images/image265.webp" 
   title="The view window"
   alt="The view window."
   style="border: 2px solid #000000; width:30%" />
@@ -6364,7 +6365,7 @@ there. And don&apos;t forget to reach out for help if you need it.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 266. final project demo (3.06) (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image266.png" 
+  <img src="./images/image266.webp" 
   title="3.06 Final Project Demo"
   alt="3.06 Final Project Demo."
   style="border: 2px solid #000000; width:40%" />
@@ -6377,7 +6378,7 @@ that time and create something on their own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 267. final project (182) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image267.png" 
+  <img src="./images/image267.webp" 
   title="Final Project"
   alt="Final Project."
   style="border: 2px solid #000000; width:40%" />
@@ -6395,7 +6396,7 @@ grading.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 268. requirements, final project (183) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image268.png" 
+  <img src="./images/image268.webp" 
   title="Requirements, Final Project"
   alt="Requirements, Final Project."
   style="border: 2px solid #000000; width:40%" />
@@ -6429,7 +6430,7 @@ mine is not going to look like that at all.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 269. final project, demo one (184) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image269.png" 
+  <img src="./images/image269.webp" 
   title="Final Project, Demo One"
   alt="Final Project, Demo One."
   style="border: 2px solid #000000; width:50%" />
@@ -6445,11 +6446,11 @@ universities rankings.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~ 270/271. final project, demo one sample screens (184) ~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image270.png" 
+  <img src="./images/image270.webp" 
   title="Final Project, Demo Sample One, Quick Facts/Gallery"
   alt="Final Project, Demo Sample One, Quick Facts/Gallery."
   style="border: 2px solid #000000; width:45%" />
-<img src="./images/image271.png" 
+<img src="./images/image271.webp" 
   title=""
   title="Final Project, Demo Sample One, Quick Facts/Gallery - Back to Top"
   alt="Final Project, Demo Sample One, Quick Facts/Gallery - Back to Top."
@@ -6464,7 +6465,7 @@ that says &apos;"back to top.&apos;"
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 272. final project, demo two (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image272.png" 
+  <img src="./images/image272.webp" 
   title="Final Project, Demo Sample Two"
   alt="Final Project, Demo Sample Two."
   style="border: 2px solid #000000; width:50%" />
@@ -6480,7 +6481,7 @@ very different, but it still fulfills all of the requirements.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 273. final project, demo three (185) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image273.png" 
+  <img src="./images/image273.webp" 
   title="Final Project, Demo Sample Three"
   alt="Final Project, Demo Sample Three."
   style="border: 2px solid #000000; width:50%" />
@@ -6504,7 +6505,7 @@ things we&apos;ve done so far, and make something your own.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 274. validate your site (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image274.png" 
+  <img src="./images/image274.webp" 
   title="Validate Your Site"
   alt="Validate Your Site."
   style="border: 2px solid #000000; width:40%" />
@@ -6517,7 +6518,7 @@ and the WAVE validator from WebAIM to check for accessibility.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 275. share your site (186) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image275.png" 
+  <img src="./images/image275.webp" 
   title="Share Your Site"
   alt="Share Your Site."
   style="border: 2px solid #000000; width:40%" />
@@ -6533,7 +6534,7 @@ your site.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 276. peer reviews (187) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image276.png" 
+  <img src="./images/image276.webp" 
   title="Peer Reviews"
   alt="Peer Reviews."
   style="border: 2px solid #000000; width:40%" />
@@ -6596,7 +6597,7 @@ handle the responsive aspects for you.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 277. closing (3.07) (188) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image277.png" 
+  <img src="./images/image277.webp" 
   title="3.07 Closing"
   alt="3.07 Closing."
   style="border: 2px solid #000000; width:40%" />
@@ -6610,7 +6611,7 @@ a web developer yet.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 278. wait what? that's it? (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image278.png" 
+  <img src="./images/image278.webp" 
   title="Wait what? That's it?"
   alt="Wait what? That's it?"
   style="border: 2px solid #000000; width:40%" />
@@ -6628,7 +6629,7 @@ this basic understanding before you go onto these other ideas.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 279. edit/view files and code (189) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image279.png" 
+  <img src="./images/image279.webp" 
   title="Edit/View Files and Code"
   alt="Edit/View Files and Code."
   style="border: 2px solid #000000; width:40%" />
@@ -6644,7 +6645,7 @@ editors that you&apos;ve now mastered.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ 280. evaluate accessibility (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image280.png" 
+  <img src="./images/image280.webp" 
   title="Evaluate Accessibility"
   alt="Evaluate Accessibility."
   style="border: 2px solid #000000; width:40%" />
@@ -6668,7 +6669,7 @@ more and more people to know.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 281. publish site (190) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image281.png" 
+  <img src="./images/image281.webp" 
   title="Publish Site"
   alt="Publish Site."
   style="border: 2px solid #000000; width:40%" />
@@ -6688,7 +6689,7 @@ information you can use to expand your knowledge in other areas.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 282. what next? (191) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image282.png" 
+  <img src="./images/image282.webp" 
   title="What next?"
   alt="What next?"
   style="border: 2px solid #000000; width:40%" />
