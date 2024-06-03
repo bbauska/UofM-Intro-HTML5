@@ -23,7 +23,7 @@ How-To's in HTML (a beginner's guide)</a>
   <img src="./images/image001.webp" 
   alt="HTML5 logo."
   title="HTML5 logo"
-  style="border: 2px solid #000000; width:200px;" />
+  style="border: 2px solid #000000; width:300px;" />
 </p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~ 02. university of michigan and coursera logo (01) ~~~~~~~~~~~~~~~~~~~~~-->
