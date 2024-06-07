@@ -20,7 +20,7 @@ How-To's in HTML (a beginner's guide)</a>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. html5 logo (01) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
-  <img src="./images/image001.webp" 
+  <img src="./images/HTML5_UofM.png" 
   alt="HTML5 logo."
   title="HTML5 logo"
   style="border: 2px solid #000000; height:150px;" />
