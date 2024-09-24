@@ -2,7 +2,8 @@
 title: "1. University of Michigan's Intro to HTML5"
 author: "bbauska"
 date prior editted: "3/07/2024 2+am"
-date last editted: "6/02/2024 5pam"
+date last editted: "6/02/2024 5+am"
+date last editted: "9/23/2024 5+pm"
 output: 
   markdown:
     with some style
@@ -36,35 +37,35 @@ How-To's in HTML (a beginner's guide)</a>
 
 <h2><a href="#table-of-contents">Table of Contents</a></h2>
 
-## [**Week 1: Learning about the Web**](#ch1)
->### 1.01 [**Introduction to HTML5**](#ch1-01)
->### 1.02 [**The Evolution of HTML**](#ch1-02)
->### 1.03 [**How it Works: The "Magic" of Page Requests**](#ch1-03)
->### 1.04 [**Looking at Your Browser Options**](#ch1-04)
->### 1.05 [**Editors: How to Use an Editor to Create an HTML File**](#ch1-05)
->### 1.06 [**Editors: How to Use VS Code**](#ch1-06)
->### 1.07 [**Editors: How to Use Replit**](#ch1-07)
+### [**Week 1: Learning about the Web**](#ch1)
+>#### 1.01 [**Introduction to HTML5**](#ch1-01)
+>#### 1.02 [**The Evolution of HTML**](#ch1-02)
+>#### 1.03 [**How it Works: The "Magic" of Page Requests**](#ch1-03)
+>#### 1.04 [**Looking at Your Browser Options**](#ch1-04)
+>#### 1.05 [**Editors: How to Use an Editor to Create an HTML File**](#ch1-05)
+>#### 1.06 [**Editors: How to Use VS Code**](#ch1-06)
+>#### 1.07 [**Editors: How to Use Replit**](#ch1-07)
 
-## [**Week 2: Structure of a Web Page**](#ch2)
->### 2.01 [**The Document Object Model (DOM)**](#ch2-01)
->### 2.02 [**HTML5 Tags and Syntax**](#ch2-02)
->### 2.03 [**Semantic Tags**](#ch2-03)
->### 2.04 [**Template Page in Visual Studio Code**](#ch2-04)
->### 2.05 [**Template Page in Replit**](#ch2-05)
->### 2.06 [**Images**](#ch2-06)
->### 2.07 [**Accessible Images**](#ch2-07)
->### 2.08 [**Hyperlinks**](#ch2-08)
->### 2.09 [**Useful Tags**](#ch2-09)
+### [**Week 2: Structure of a Web Page**](#ch2)
+>#### 2.01 [**The Document Object Model (DOM)**](#ch2-01)
+>#### 2.02 [**HTML5 Tags and Syntax**](#ch2-02)
+>#### 2.03 [**Semantic Tags**](#ch2-03)
+>#### 2.04 [**Template Page in Visual Studio Code**](#ch2-04)
+>#### 2.05 [**Template Page in Replit**](#ch2-05)
+>#### 2.06 [**Images**](#ch2-06)
+>#### 2.07 [**Accessible Images**](#ch2-07)
+>#### 2.08 [**Hyperlinks**](#ch2-08)
+>#### 2.09 [**Useful Tags**](#ch2-09)
 
-## [**Week 3: Hosting and Accessibility**](#ch3)
->### 3.01 [**Accessibility**](#ch3-01)
->### 3.02 [**Validating Your Site**](#ch3-02)
->### 3.03 [**Hosting Your Site**](#ch3-03)
->### 3.04a [**Creating a GitHub Pages Account**](#ch3-04a)
->### 3.04b [**Uploading to GitHub Pages Account**](#ch3-04b)
->### 3.05 [**Sharing Your Page from Replit**](#ch3-05)
->### 3.06 [**Final Project**](#ch3-06)
->### 3.07 [**Closing**](#ch3-07)
+### [**Week 3: Hosting and Accessibility**](#ch3)
+>#### 3.01 [**Accessibility**](#ch3-01)
+>#### 3.02 [**Validating Your Site**](#ch3-02)
+>#### 3.03 [**Hosting Your Site**](#ch3-03)
+>#### 3.04a [**Creating a GitHub Pages Account**](#ch3-04a)
+>#### 3.04b [**Uploading to GitHub Pages Account**](#ch3-04b)
+>#### 3.05 [**Sharing Your Page from Replit**](#ch3-05)
+>#### 3.06 [**Final Project**](#ch3-06)
+>#### 3.07 [**Closing**](#ch3-07)
 
 <div align="right">
   <b><a href="#table-of-contents">↥ Back To Top</a></b>
@@ -149,22 +150,19 @@ this Web Design for Everybody Specialization, Introduction to CSS3.
 
 <h3>Participation Strategies</h3>
 
-Engaged learning looks different for everybody. In this course, we hope
-you will define your own measures of success and engage with the
-material in a way that best suits your needs. We recognize and celebrate
-the diverse ways learners engage in courses. As you go through this
-course, we hope you will reflect on your unique skills, needs, and
-aspirations, and engage in the course material in a way that aligns with
-your own goals. While the course provides time estimates for completion,
-you should feel empowered to engage in the material in whatever ways
-make sense to you.
+Engaged learning looks different for everybody. In this course, we hope you will define 
+your own measures of success and engage with the material in a way that best suits your 
+needs. We recognize and celebrate the diverse ways learners engage in courses. As you go 
+through this course, we hope you will reflect on your unique skills, needs, and aspirations, 
+and engage in the course material in a way that aligns with your own goals. While the course 
+provides time estimates for completion, you should feel empowered to engage in the material 
+in whatever ways make sense to you.
 
 <h3>Community Engagement</h3>
 
-We expect everyone to be mindful of what they say and its potential
-impact on others. The goal is to have respectful discussions that do not
-violate the community space created for these conversations. Here are
-some productive ways to engage in this course: 
+We expect everyone to be mindful of what they say and its potential impact on others. The 
+goal is to have respectful discussions that do not violate the community space created for 
+these conversations. Here are some productive ways to engage in this course: 
 
 -   <b>Participate:</b> This is a community. Read what others have written
     and share your thoughts.
@@ -433,23 +431,21 @@ foot.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Let&apos;s talk about what we&apos;ll cover in this course. In Week One the
+Let&apos;s talk about what we&apos;ll cover in this course. In <b>Week One</b> the
 focus is on questions. It&apos;s not on coding, it&apos;s on questions. I want
 you to understand what happens when you type something into the URL. If
 you type in <b>www.introwebdesign.com</b>, how is this page magically
 appearing in front of your browser? I also want to talk to you about
 what types of tools you are going to need in order to code. 
 
-We&apos;re going
-to talk about editors and browsers and other different software tools
-because I want you to know right from the start what you&apos;re going to
-need in order to succeed in this class. Finally, we&apos;re really going to
-talk about HTML5. What happened to HTML1? What happened to HTML2? What
-is this evolution of what&apos;s going on with web design and the languages
-we use? In Week One, again, almost no coding. Really, just giving you an
-idea of how the web works and why it&apos;s important for you to be able to
-interact with people and with code that&apos;s being used to create your
-sites.
+We&apos;re going to talk about editors and browsers and other different software tools
+because I want you to know right from the start what you&apos;re going to need in order 
+to succeed in this class. Finally, we&apos;re really going to talk about HTML5. What 
+happened to HTML1? What happened to HTML2? What is this evolution of what&apos;s going 
+on with web design and the languages we use? In Week One, again, almost no coding. 
+Really, just giving you an idea of how the web works and why it&apos;s important for 
+you to be able to interact with people and with code that&apos;s being used to create 
+your sites.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 06. week 2: DOM, tags, links, tables, more (11) ~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -459,7 +455,7 @@ sites.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Week Two, we&apos;re going to talk a little bit of theory, and then,
+<b>Week Two</b>, we&apos;re going to talk a little bit of theory, and then,
 unfortunately for some people, a lot of code. There&apos;s this idea of
 something called the Document Object Model, upon which all webpages are
 built. If I can get you to understand just a little bit about that, then
@@ -487,14 +483,16 @@ site.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Week Three, we&apos;re really going to put it all together. At this point,
+<b>Week Three</b>, we&apos;re really going to put it all together. At this point,
 you should know just enough about HTML5 where you&apos;ll be dangerous.
 Where you can create something that works but doesn&apos;t work all the
 time. In Week Three, we&apos;re going to put it together, and I&apos;m going to
 talk to you about some of the things that are often overlooked, such as
 validating your code. How can we make sure that the code that you wrote
 doesn&apos;t just look good, it&apos;s syntactically correct? It&apos;s going to
-work everywhere. Again, when we validate your code, we&apos;ll talk about
+work everywhere. 
+
+Again, when we validate your code, we&apos;ll talk about
 the syntax but we&apos;ll also talk about accessibility, which is hey, we
 validated your code to make sure the rules are there. Let&apos;s also
 validate and make sure that the meaning is there, as well. Finally,
@@ -799,7 +797,7 @@ Let&apos;s look at this example HTML file over here. Most of it is just a
 typical English language. This is an important heading or hi there. I am
 going to include a link to the course page. But if you look closely, you
 can see we&apos;ve added these little tiny tags that the browser use this to
-know how to represent the material. So, h1 is just the heading tag. It
+know how to represent the material. h1 is just the heading tag. It
 says to the browser, hey this is something really important. I want you
 to put it in bigger font, and also if someone is using an assisted
 device, I want them to know if this is something important. H2 also
@@ -1001,7 +999,7 @@ job to keep up.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-So, where are we now? HTML5 is a cooperation between W3C and the Web
+Where are we now? HTML5 is a cooperation between W3C and the Web
 Hypertext Application Technology Working Group, and what they&apos;ve done
 is they&apos;ve established these four guidelines for how HTML5 should be
 approached as browsers go to support it.
@@ -1038,7 +1036,7 @@ content types. Images, pictures, links, lists.
 What we&apos;ve found
 throughout the history of the Internet, is that when designers want to
 do something they tend to write nonstandard code to force browsers to do
-it. So, this is why we&apos;re developing new standards in HTML5 to handle
+it. This is why we&apos;re developing new standards in HTML5 to handle
 these new requirements that people desire and push browsers to adopt the
 new standards.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1141,7 +1139,7 @@ web page and the server needs to respond with the appropriate files.
 When you type something in, this is called the URL. Every URL has three
 parts. The <b>protocol</b>, how you want to connect, the <b>domain</b>, which
 is the server, and then optionally, you can include the <b>document</b>.
-So, even though you&apos;re typing in one URL, one of the things to realize
+Even though you&apos;re typing in one URL, one of the things to realize
 is that usually, you&apos;re actually requesting lots and lots of files all
 at once.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1155,7 +1153,7 @@ at once.
 
 The protocols that most people have seen; the first one is <b>HTTP</b>, the
 Hypertext Transfer Protocol. The second one, <b>HTTPS</b>, is the same
-idea, only now we&apos;re having a more secure protocol. So, if you&apos;re ever
+idea, only now we&apos;re having a more secure protocol. If you&apos;re ever
 connecting to a bank or any place where you&apos;re putting in passwords,
 make sure that the first thing you see in that URL is HTTPS. If you
 don&apos;t, don&apos;t connect. 
@@ -1174,15 +1172,14 @@ expecting that you&apos;re going to give back and forth HTML5 code; with
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-We have the protocol, now let&apos;s talk about what the domain names
-represent. Usually, the domain names are something recognizable, such as
-<b>umich.edu</b>, would be for University of Michigan. <b>Google.com,
-wikipedia.org.</b> So, each of these sites has a different top-level
-domain. How did you get them? How do some people get to be .<b>edu</b> and
-some .<b>com</b>, some .<b>biz</b>, et cetera? Well, they&apos;re actually
-determined by <b>ICAAN</b>. Their job is to go in and decide which types of
-organizations qualify for different domains. I&apos;ve included a link here
-if you want, you can go and see what the different types are.
+We have the protocol, now let&apos;s talk about what the domain names represent. Usually, 
+the domain names are something recognizable, such as <b>umich.edu</b>, would be for 
+University of Michigan. <b>Google.com, wikipedia.org.</b> Each of these sites has a 
+different top-level domain. How did you get them? How do some people get to be .<b>edu</b> and
+some .<b>com</b>, some .<b>biz</b>, et cetera? Well, they&apos;re actually determined by 
+<b>ICAAN</b>. Their job is to go in and decide which types of organizations qualify for 
+different domains. I&apos;ve included a link here if you want, you can go and see what 
+the different types are.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 36. ip addresses (30) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1200,10 +1197,9 @@ version of IP addresses, because every single client needs their own
 address. If you think of how many people have laptops and smartphones,
 we need a lot of different options. 
 
-With these IP addresses, you
-basically have sets of numbers, you have these different sets right
-here, where each X can represent one of 16 different values. So, you can
-see we have a lot of options, over 300 trillion, in fact.
+With these IP addresses, you basically have sets of numbers, you have these different 
+sets right here, where each X can represent one of 16 different values. You can see 
+we have a lot of options, over 300 trillion, in fact.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 37. the domain name server (dns)  (31) ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1256,7 +1252,7 @@ the stuff that you don&apos;t see.
 </p>
 
 The important thing to know is that the server returns files, not web
-pages. For a lot of us, we are very visual. So, when we type in a URL,
+pages. For a lot of us, we are very visual. When we type in a URL, 
 we&apos;re looking and we&apos;re like, &quot;Oh, here&apos;s my page.&quot; But sometimes
 the browser might be returning something for different types of screen
 readers, assistive technology, so it&apos;s not returning a web page, it&apos;s
@@ -1264,9 +1260,8 @@ returning lots and lots of files. Hopefully. I will admit that sometimes
 the server can&apos;t fulfill the request. If it can&apos;t, it&apos;ll send back an
 error code. I think a lot of you are familiar with 404, where it says,
 &quot;File not found.&quot; That usually means you typed something in wrong. If
-you get a 500 error, that actually means that the servers down. So, you
-may as well go have a snack, do something fun, come back later and type
-it in again.
+you get a 500 error, that actually means that the servers down. You 
+may as well go have a snack, do something fun, come back later and type it in again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~ 41. what happens in the address bar (33) ~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -1334,15 +1329,13 @@ files, and each one of these files was a separate request.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-Okay. So, let&apos;s review. This was a kind of long video, where really all
-I want you to come away from it with is the knowledge that every URL has
-those three parts; the <b>protocol</b>, the <b>domain</b>, and the
-<b>document</b>. And, realize that what you&apos;re creating is bigger than
-just one file at a time. Every <b>request-response cycle</b> is usually
-lots and lots of rounds of communication between the client and the
-server. So, we&apos;re going to start off small. We&apos;re going to do one file
-at a time, but you can always look ahead to building bigger and bigger
-web applications.
+Let&apos;s review. This was a long lesson, where all I want you to come away from it with 
+is the knowledge that every URL has those three parts; the <b>protocol</b>, the 
+<b>domain</b>, and the <b>document</b>. And, realize that what you&apos;re creating is 
+bigger than just one file at a time. Every <b>request-response cycle</b> is usually
+lots and lots of rounds of communication between the client and the server. We&apos;re 
+going to start off small. We&apos;re going to do one file at a time, but you can always 
+look ahead to building bigger and bigger web applications.
 
 <h3>1.03 Browsers</h3>
 
@@ -1404,7 +1397,7 @@ but you really want to test your site on multiple browsers.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-So, let&apos;s talk about some of the differences. First, we have Internet
+Let&apos;s talk about some of the differences. First, we have Internet
 Explorer and for a long time, it was the most popular browser and that
 was just because it was the one that came with Microsoft Windows. It
 was, and always has been the worst of all browsers. A true piece of
@@ -1921,7 +1914,7 @@ I&apos;m going to just to give you a sense, because Visual Studio Code is
 pretty cool. I&apos;m going to type in just a little bit of Latin and when I
 do, it fills it all in for me.
 
-So, when you use Visual Studio Code, the most important thing is to open
+When you use Visual Studio Code, the most important thing is to open
 it up and use proper naming conventions. If you would like, you can
 install &quot;Live Server&quot; and then from there we will go and learn how to
 add multiple files, multiple images, and lots of things that is going to
@@ -2616,7 +2609,7 @@ with browsers is that they&apos;ll actually fix bad code for you. I always
 call them the helicopter parents of coding. It&apos;s like, &quot;Oh, I know
 what you wanted it to look like so, that&apos;s the way I&apos;m going to make
 it look on the screen.&quot; The problem is that doesn&apos;t always work for
-everyone. So, just because your site looks good to you when you&apos;re
+everyone. Just because your site looks good to you when you&apos;re
 looking at it on your browser, doesn&apos;t mean it&apos;s right. You have to
 use a validator to check your code.
 
@@ -2686,7 +2679,7 @@ ever really bother learning about it.
   style="border: 2px solid #000000; width:50%" />
 </p>
 
-Every tag has a beginning and an end. So, right here I&apos;m using what&apos;s
+Every tag has a beginning and an end. Right here I&apos;m using what&apos;s
 called an h1 tag or a heading tag to encase the words &quot;Hello World.&quot;
 The first h1 is my start tag. It just shows the simple tag that I want
 inside brackets. The second tag, the closing tag, always starts with a
@@ -2700,7 +2693,7 @@ In this case, as soon as the browser sees the image tag, it knows that
 you&apos;re gonna give it information that it can use to create a picture.
 And since there&apos;s no real text associated with the image, at least at
 this point, or any that you want to show on this screen, it&apos;s going to
-close itself. So, while every tag has a beginning and an end, some do
+close itself. While every tag has a beginning and an end, some do 
 close differently.
 
 Also, some tags have what we call attributes. So the source which is
@@ -2942,7 +2935,7 @@ space, space, the browser ignores it. You&apos;d have to actually put
 
 Again, if you want the cent, all right, well what if you
 actually want an ampersand? Well, in that case we even have a special
-entity for that, which is <b>&quot;&amp;&quot;.</b> So, we&apos;ve gone through a
+entity for that, which is <b>&quot;&amp;&quot;.</b> We&apos;ve gone through a
 number of tags today, and you&apos;re gonna learn more and more tags and
 probably use cheat sheets and go online to find a bunch of different
 tags you wanna use. 
@@ -3076,15 +3069,13 @@ in a way that worked best for you.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-The first tag that I&apos;ll be talking
-to you about today is the header tag. The header tag is typically used
-to group together introductory or navigational aids. So you&apos;d put in
-your title, perhaps your navigation bar, anything that really lets the
-user know right off the bat what this page is about. The thing I want
-you to understand about the header tag is that it is a <b>block</b> tag,
-and nothing more than that. There&apos;s no special formatting or anything
-along that line. However, it does let the user know that this is the
-header section. Now, most people will never see the tags. 
+The first tag that I&apos;ll be talking to you about today is the header tag. The header 
+tag is typically used to group together introductory or navigational aids. You&apos;d 
+put in your title, perhaps your navigation bar, anything that really lets the user know 
+right off the bat what this page is about. The thing I want you to understand about the 
+header tag is that it is a <b>block</b> tag, and nothing more than that. There&apos;s no 
+special formatting or anything along that line. However, it does let the user know that 
+this is the header section. Now, most people will never see the tags.
 
 Remember, the browser looks at the tag and doesn&apos;t display it, instead formats its
 content. But for people who are using screen readers or other assistive
@@ -3103,12 +3094,12 @@ more of just an aid.
   style="border: 2px solid #000000; width:40%" />
 </p>
 
-The next tag I&apos;m gonna talk to you about today is
-the <b>&lt;nav&gt;</b> tag. The nav is basically a section of your page
-that links to other pages or parts within your page. So, inside your nav
-you&apos;re not going to have links to Facebook, or Google, or your LinkedIn
-account or anything like that. Instead, it&apos;s really just links that go
-to other parts of your site. 
+The next tag I&apos;m gonna talk to you about today is the <b>&lt;nav&gt;</b> tag. The nav 
+is basically a section of your page that links to other pages or parts within your page. 
+Inside your nav you&apos;re not going to have links to Facebook, or Google, or your LinkedIn
+account or anything like that. Instead, it&apos;s really just links that go to other parts 
+of your site. 
+
 For instance, here I&apos;ve made an unordered list with three links. Each of them go to 
 a different part of your page. There&apos;s a lot of debate, for better, for worse, as to
 whether or not your <b>&lt;nav&gt;</b> tags should be using lists, but the important thing 
@@ -3493,7 +3484,7 @@ going to begin by creating a **Repl**, I want it to be an HTML file, and
 I had mentioned that we like to call our files &apos;"**index.html**.&apos;" It&apos;s
 going to be a little bit harder to do that with **Replit** since we put
 so many files in the same place, but let&apos;s go ahead and go with it
-right here. So, I&apos;ve got it&apos;s an HTML, CSS, JavaScript file, I&apos;ve
+right here. I&apos;ve got it&apos;s an HTML, CSS, JavaScript file, I&apos;ve
 named it &apos;"**index.html**&apos;" and now I&apos;m going to click on &apos;"Create.&apos;"
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3945,7 +3936,7 @@ and for debugging and figuring out which of your pictures aren&apos;t
 working.
 
 Also, by including alternative text, you&apos;re providing semantic meaning
-for search engines. So, if you have a business and you would like to
+for search engines. If you have a business and you would like to
 promote that business, alternative text has these kind of sneaky side
 benefits as well as just being, you know, a decent human being.
 
@@ -3960,7 +3951,7 @@ benefits as well as just being, you know, a decent human being.
 
 As you start to do images, they&apos;re going to be great, but you&apos;re going
 to have some problems and it&apos;s going to take some time to get them to
-work. So, if things aren&apos;t working right, make sure you&apos;re using the
+work. If things aren&apos;t working right, make sure you&apos;re using the
 right file extensions. If it&apos;s .jpg, jpg, make sure you&apos;re not writing
 .jpeg, or vice versa. Don&apos;t name all your files &apos;"image_26859,&apos;" blah
 blah blah, right? Rename them. Give them a good name. Because often the
@@ -4278,7 +4269,7 @@ document with others out there.
 Now, links are really what make the web a web. It&apos;s this whole idea
 that different links built together create this kind of knowledge that
 search engines or you yourself can gain by going from page to page to
-page, and with hopefully related material. So, let&apos;s get right into how
+page, and with hopefully related material. Let&apos;s get right into how
 you create a link on your page.
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -5005,7 +4996,7 @@ what&apos;s going on?
 
 The second thing you need to understand is that sometimes your tags just
 don&apos;t work. Now, there are two reasons that your tags may or may not
-work. The first one might just be that you have a syntax error. So, make
+work. The first one might just be that you have a syntax error. Make
 sure you run your code through a validator, and that will help you find
 places where you haven&apos;t closed tags. This is especially important if
 you nest tags, meaning you put one inside the other.
@@ -5784,7 +5775,7 @@ The first thing I&apos;m going to do is I&apos;m going to go up to the very top
 right corner, and you&apos;ll see a plus. When you click on the plus,
 there&apos;s something that says, &apos;"New Repository,&apos;" and this is a point
 where it&apos;s going to stop and ask you to verify your email address. Once
-you verify your email, it should bring you back to this page. So, I&apos;m
+you verify your email, it should bring you back to this page. I&apos;m
 going to try clicking on the plus again and saying New Repository. All
 right. This is where it&apos;s very important. This repository name has to
 be the same as your account name. In my case, it&apos;s
@@ -5933,8 +5924,7 @@ were to click on &apos;"Choose your files,&apos;" I could do that and I could go
 through and pick, well, you know I need this file and that one, but it
 won&apos;t let me upload entire folders. See if I click on CSS and I click
 on open, it&apos;s like, &apos;"Oh, is this the file you want?&apos;", I don&apos;t want
-this, I want everything, not just files. So, I clicked on &apos;"Add&apos;".
-
+this, I want everything, not just files. I clicked on &apos;"Add"&apos;.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~ 250. drag & drop whole website (170) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
@@ -6059,7 +6049,7 @@ you spelled something wrong which isn&apos;t the case here because we
 clicked on it, we didn&apos;t type anything in. Or you need to give GitHub a
 few more minutes to upload everything, or the third one is sometimes,
 I&apos;m not exactly sure why, but sometimes, GitHub seems to almost forget
-to look for &apos;"**index.html**&apos;" file. So, I&apos;ll hit &apos;"Enter,&apos;" and there
+to look for &apos;"**index.html**&apos;" file. I&apos;ll hit &apos;"Enter,&apos;" and there
 we go. GitHub Pages is a great free way for you to host your code and
 share it with everyone who you think will be impressed with your
 incredible work.
@@ -6721,4 +6711,5 @@ simple steps. And I hope it&apos;s something you&apos;ll enjoy and help you to
 continue your journey into HTML 5.
 
 the end...2/22/2024 last updated &/or reviewed.
+the end...9/23/2024 last updated &/or reviewed.
 
