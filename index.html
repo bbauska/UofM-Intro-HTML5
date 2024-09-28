@@ -82,11 +82,9 @@
       }
     }
 
-    <!-- when the user clicks on the button, scroll to the top of the document. 0,0 or to top of -->
-    <!-- menu button (2120 on other example) -->
+    // when the user clicks on the button, scroll to the table of contents near top of document.
     function topFunction() {
-      document.body.scrollTop = 0;
-      document.documentElement.scrollTop = 0;
+      document.getElementById('table-of-contents').scrollIntoView();
     }
 
 </script>
@@ -118,8 +116,7 @@
   alt="University of Michigan and Coursera logo." 
   style="width:30%" />
 
-<h2><a href="#table-of-contents">Table of Contents</a></h2>
-
+<h2 id="table-of-contents"><a href="#table-of-contents">Table of Contents</a></h2>
 <h2><a href="#ch1"><strong>Week 1: Learning about the Web</strong></a></h2>
 
 <blockquote>
