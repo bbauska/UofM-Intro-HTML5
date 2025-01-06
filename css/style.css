@@ -68,7 +68,7 @@ body {
   background-color: #eee;  /* very light gray */
   color: #000000;  /* black */
   text-align: left;
-  padding: 10px;
+  margin-left: 10px;
 }
 
 #myBtn {
