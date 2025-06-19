@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://github.com/bbauska/UofM-Intro-HTML5
