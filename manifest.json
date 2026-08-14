@@ -1,6 +1,9 @@
 {
- "name": "App",
- "icons": [
+ "name": "UofM Intro to HTML5",
+  "short_name": "Intro to HTML5", 
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
    "sizes": "36x36",
